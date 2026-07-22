@@ -1,0 +1,224 @@
+{
+ "pares_dependientes_totales": 4345,
+ "distribucion_longitud_camino_en_arbol_de_puentes": {
+  "1": 2148,
+  "2": 1542,
+  "3": 432,
+  "4": 199,
+  "5": 21,
+  "6": 3
+ },
+ "pares_con_UN_solo_puente_como_separador": 2148,
+ "pares_que_requieren_2_o_mas_puentes_en_su_camino": 2197,
+ "concentracion_top3_puentes_pct_de_pares_de_unico_separador": 19.8,
+ "nota": "path_len=1 significa que existe un UNICO puente cuya remocion desconecta ese par (dependencia simple); path_len>=2 significa que el par depende de una CADENA de puentes en el arbol de bloques.",
+ "perfil_completo_por_puente": [
+  {
+   "puente": [
+    "1938",
+    "1943"
+   ],
+   "w": 0.4519,
+   "dano_docs_separados_individual": 11,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1108",
+    "1943"
+   ],
+   "w": 0.4826,
+   "dano_docs_separados_individual": 5,
+   "pares_donde_es_UNICO_separador": 4
+  },
+  {
+   "puente": [
+    "1943",
+    "1945"
+   ],
+   "w": 0.4555,
+   "dano_docs_separados_individual": 5,
+   "pares_donde_es_UNICO_separador": 3
+  },
+  {
+   "puente": [
+    "1232",
+    "1233"
+   ],
+   "w": 0.6355,
+   "dano_docs_separados_individual": 2,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1275",
+    "271"
+   ],
+   "w": 0.4584,
+   "dano_docs_separados_individual": 2,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1936",
+    "1945"
+   ],
+   "w": 0.5013,
+   "dano_docs_separados_individual": 2,
+   "pares_donde_es_UNICO_separador": 3
+  },
+  {
+   "puente": [
+    "1946",
+    "6384"
+   ],
+   "w": 0.4894,
+   "dano_docs_separados_individual": 2,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1005",
+    "1936"
+   ],
+   "w": 0.4966,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 1
+  },
+  {
+   "puente": [
+    "105",
+    "73"
+   ],
+   "w": 0.4721,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1149",
+    "1232"
+   ],
+   "w": 0.9841,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 1
+  },
+  {
+   "puente": [
+    "1152",
+    "1161"
+   ],
+   "w": 0.6409,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1205",
+    "1932"
+   ],
+   "w": 0.4979,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1211",
+    "8095"
+   ],
+   "w": 0.728,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1275",
+    "1281"
+   ],
+   "w": 0.738,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1275",
+    "2120"
+   ],
+   "w": 0.4628,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1481",
+    "1726"
+   ],
+   "w": 0.4827,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1536",
+    "1906"
+   ],
+   "w": 0.4889,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1571",
+    "1941"
+   ],
+   "w": 0.6932,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1773",
+    "188"
+   ],
+   "w": 0.4503,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1862",
+    "1899"
+   ],
+   "w": 0.4694,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 142
+  },
+  {
+   "puente": [
+    "1919",
+    "1920"
+   ],
+   "w": 0.4504,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 4
+  },
+  {
+   "puente": [
+    "1937",
+    "6384"
+   ],
+   "w": 0.4806,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 1
+  },
+  {
+   "puente": [
+    "2041",
+    "271"
+   ],
+   "w": 0.7249,
+   "dano_docs_separados_individual": 1,
+   "pares_donde_es_UNICO_separador": 1
+  }
+ ]
+}

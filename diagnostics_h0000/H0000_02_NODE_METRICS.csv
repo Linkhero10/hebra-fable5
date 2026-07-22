@@ -1,0 +1,171 @@
+doc_id,fecha,objeto,territorio,actores,grado,weighted_degree,comunidad_louvain,comunidad_leiden_cpm,comunidad_leiden_mod,comunidad_infomap,bicomponentes,articulacion,grado1_dependiente,kcore
+1005,2024-01-10,explotacion de litio en el salar de atacama (acuerdo codelco-sqm),salar de atacama,acuerdo codelco-sqm para explotacion de litio;consejo de pueblos atacamenos (18 comunidades),1,0.497,0,0,0,0,1,False,True,1
+105,2025-06-30,acuerdo de asociacion para explotacion de litio en el salar de atacama,salar de atacama,"acuerdo codelco-sqm, corfo, gobierno de chile;comision investigadora de la camara de diputados",1,0.472,1,1,1,1,1,False,True,1
+1064,2025-09-16,estrategia nacional del litio,salar de agua amarga,"comunidades colla (geoxcultuxial, chiyagua, runa urka, martires jeronimo, comunidad indigena colla comuna diego de almagro);ministerio de mineria",28,14.963,1,2,1,1,1,False,False,15
+1065,2025-11-20,estrategia nacional del litio,region de antofagasta,"comunidades atacamenas (comunidad de coyo, asociaciones de regantes y agricultores de san pedro de atacama);corfo",21,10.755,1,2,1,1,1,False,False,15
+1078,2025-09-24,salar futuro,salar de atacama,"comunidades indigenas, codelco;sqm litio",12,7.328,2,3,2,2,1,False,False,11
+1088,2023-05-20,estrategia nacional del litio,salar de atacama,"comunidades locales;estrategia nacional del litio, albemarle, sqm",16,8.447,3,4,3,3,1,False,False,13
+1108,2024-02-08,extraccion de litio en el salar de atacama,salar de atacama,"comunidades atacamenas (consejo de pueblos atacamenos);sqm, codelco, gobierno de chile",4,2.542,0,5,0,4,2,True,False,3
+1130,2024-09-25,explotacion de litio en el salar de atacama,salar de atacama,explotacion de litio en el salar de atacama codelco;sqm,8,4.828,4,6,4,5,1,False,False,6
+1149,2025-12-17,ceol en laguna verde,laguna verde,"comunidades colla runa urka, pai ote y sol naciente de pastos grandes;estrategia nacional del litio (ceol)",1,0.984,5,7,5,6,1,False,True,1
+1152,2025-11-26,estrategia nacional del litio,hilaricos,comunidades aymara y quechua;ministerio de mineria,25,12.98,1,2,1,1,2,True,False,15
+1153,2026-01-30,estrategia nacional del litio,region de antofagasta,consejo de pueblos atacamenos;gobierno de jose antonio kast,15,7.591,1,2,1,1,1,False,False,15
+1157,2025-10-02,estrategia nacional del litio,salar de maricunga,"codelco, estado de chile, sea;colla pai ote",26,13.049,1,2,1,1,1,False,False,15
+1159,2025-08-20,estrategia nacional del litio,salar de atacama,"corfo, sqm salar s.a., codelco;pueblo atacameno lickanantay, comunidad de coyo, asociacion de regantes y agricultores de san pedro de atacama (araspa), consejo de asociaciones atacamenas de atacama la grande",25,13.271,1,2,1,1,1,False,False,15
+1161,2025-11-25,ceol en sector hilaricos,hilaricos,comunidades aymara y quechua;ministerio de mineria,1,0.641,1,8,1,1,1,False,True,1
+1162,2025-09-29,explotacion de litio en el salar de atacama,salar de atacama,"codelco-sqm, corfo;comunidades del pueblo atacameno",6,3.938,4,6,4,5,1,False,False,6
+1169,2025-09-14,eramet (ceol en salar de agua amarga),salar de agua amarga,"comunidades colla (geoxcultuxial, comuna diego de almagro, chiyagua, runa urka y martires jeronimo);ministerio de mineria",4,2.345,1,9,1,1,1,False,False,4
+1173,2025-03-25,estrategia nacional del litio,salar de atacama,"ceols, codelco, sqm, albemarle;comunidad coyo, comunidad colla pai ote",25,12.905,1,2,1,1,1,False,False,15
+1176,2025-05-29,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"comunidades atacamenas (ej. comunidad atacamena de coyo, comunidad de toconao);sqm, codelco, acuerdo codelco-sqm",9,5.887,6,10,6,7,1,False,False,8
+1177,2025-09-15,ceol salar de agua amarga,salar de agua amarga,comunidades colla;ministerio de mineria / ceol salar de agua amarga,4,1.94,1,9,1,1,1,False,False,4
+1205,2023-04-20,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;gobierno de chile,24,14.596,3,4,3,3,2,True,False,13
+1211,2025-01-14,produccion de sales maricunga,salar de maricunga,comunidad colla pai ote;simco (grupo errazuriz),4,2.235,7,11,7,8,2,True,False,3
+1218,2024-12-30,estrategia nacional del litio,region de antofagasta,comunidades lickanantay;gobierno de chile / ministerio de mineria,19,10.0,1,2,1,1,1,False,False,15
+1225,2024-01-16,litio en maricunga y otros salares de atacama,salar de maricunga,codelco/estado de chile;comunidad colla pai ote,8,4.065,7,12,7,9,1,False,False,6
+1229,2026-02-03,estrategia nacional del litio,salar de piedra parada,comunidades colla;ministerio de mineria,22,11.253,1,2,1,1,1,False,False,15
+1232,2025-12-16,ceol en laguna verde,laguna verde,"comunidades colla runa urka, pai ote y sol naciente de pastos grandes;ministerio de mineria",2,1.62,5,7,5,6,2,True,False,1
+1233,2025-12-17,estrategia nacional del litio,laguna verde,"comunidades colla runa urka, pai ote y sol naciente de pastos grandes;ministerio de mineria",25,12.987,1,2,1,1,2,True,False,15
+1237,2025-09-13,estrategia nacional del litio,salar de agua amarga,"comunidades colla (geoxcultuxial, comuna diego de almagro, chiyagua, runa urka y martires jeronimo);ministerio de mineria",29,15.465,1,2,1,1,1,False,False,15
+1242,2023-06-12,estrategia nacional del litio,salar de atacama,"codelco, enami, sqm, gobierno de chile;comunidades colla de pai ote, consejo de pueblos atacamenos (cpa)",16,8.912,3,4,3,3,1,False,False,13
+1244,2023-06-30,estrategia nacional del litio,san pedro de atacama,"gobierno de chile (presidente boric, ministerio de mineria);pueblos originarios (atacamenos, collas, quechuas, aymaras) y consejo de pueblos atacamenos",14,7.173,3,4,3,3,1,False,False,13
+1250,2024-05-31,extraccion de litio en el salar de atacama,salar de atacama,"comunidades del salar de atacama (toconao, coyo, peine);sqm, codelco-sqm",3,2.034,0,5,0,4,1,False,False,3
+1259,2025-07-31,proyecto blanco,salar de maricunga,comunidad indigena colla de copiapo;proyecto blanco (minera salar blanco),5,3.48,7,13,7,10,1,False,False,5
+1260,2025-08-01,proyecto blanco,salar de maricunga,comunidad indigena colla de la comuna de copiapo y ocho vecinos;proyecto blanco de minera salar blanco,6,4.244,7,13,7,10,1,False,False,5
+1275,2023-11-10,proyecto salar blanco,salar de maricunga,codelco;comunidad colla pai ote,9,4.682,7,12,7,9,4,True,False,6
+1277,2023-10-26,proyecto blanco,salar de maricunga,codelco / proyecto blanco (lithium power);comunidad colla pai ote,12,7.261,7,13,7,10,2,True,False,6
+1279,2025-01-28,proyecto blanco,salar de maricunga,codelco maximo pacheco matte;recuperemos el cobre chile julian alcayaga olivares mauricio daza,6,4.107,7,13,7,10,1,False,False,5
+1281,2024-05-09,proyecto salar blanco,salar de maricunga,"codelco, proyecto salar blanco;comunidades colla de copiapo y pai’ ote",1,0.738,7,12,7,9,1,False,True,1
+1284,2024-05-30,proyecto blanco,salar de maricunga,codelco y maximo pacheco;julian alcayaga olivares,6,4.145,7,13,7,10,1,False,False,5
+1339,2024-07-25,proyecto blanco,salar de maricunga,comunidad indigena colla copiapo;servicio de evaluacion ambiental (seia),6,4.181,7,13,7,10,1,False,False,5
+1386,2025-08-21,acuerdo sqm-codelco,salar de atacama,"comunidad de coyo, albemarle;sqm, codelco, seia de antofagasta, gobierno",2,1.335,8,14,8,11,1,False,False,2
+1461,2025-10-16,proyectos de albemarle y sqm en el salar de atacama,salar de atacama,albemarle;proyectos de albemarle y sqm en el salar de atacama,3,1.363,4,15,4,12,1,False,False,3
+1462,2025-10-22,extraccion de litio en el salar de atacama,salar de atacama,"comunidades atacamenas y organizaciones territoriales;proyectos de extraccion de litio en el salar de atacama, plantas desaladoras, delegacion presidencial provincial de el loa",3,2.035,0,5,0,4,1,False,False,3
+1463,2025-06-19,,salar de atacama,albemarle;servicio de evaluacion ambiental,4,1.848,4,15,4,12,1,False,False,3
+1470,2025-12-19,salar futuro,salar de atacama,"codelco, sqm salar spa, corfo;contraloria general de la republica",15,8.925,2,3,2,2,1,False,False,11
+1471,2025-08-08,,salar de atacama,albemarle;comision de evaluacion ambiental de antofagasta,4,1.844,4,15,4,12,1,False,False,3
+1481,2025-01-02,,salar de atacama,albemarle;sqm salar,5,2.313,4,15,4,12,2,True,False,3
+150,2024-06-03,proyecto salar futuro,salar de atacama,codelco y sqm;consejo de pueblos atacamenos,7,4.48,9,16,9,13,1,False,False,4
+1503,2024-06-27,,salar de atacama,albemarle;sqm y sus permisos ambientales,3,1.384,4,15,4,12,1,False,False,3
+1509,2024-01-22,salar futuro,salar de atacama,"comunidad de peine, consejo de pueblos atacamenos (cpa);sqm, codelco, albemarle, minera escondida, minera zaldivar",12,7.517,2,3,2,2,1,False,False,11
+1515,2024-05-31,explotacion de litio en el salar de atacama,salar de atacama,codelco y sqm (asociacion para explotacion de litio);comunidades atacamenas,8,4.89,4,6,4,5,1,False,False,6
+1535,2025-07-17,acuerdo codelco-sqm,salar de atacama,"comunidad atacamena de coyo;corfo, codelco, sqm",18,10.441,8,17,8,14,1,False,False,11
+1536,2025-06-12,acuerdo sqm-codelco para extraccion de litio,salar de atacama,"comunidades atacameno lickanantay (socaire, toconao, peine, camar, talabre, coyo);corfo, sqm, codelco",1,0.489,8,14,8,11,1,False,True,1
+1550,2024-06-25,acuerdo codelco-sqm,salar de atacama,acuerdo codelco-sqm;comunidad coyo,15,9.512,8,17,8,14,1,False,False,11
+1551,2023-06-15,,salar de maricunga,"comunidad colla pai ote;sqm, enami, estrategia nacional del litio",6,3.023,7,12,7,9,1,False,False,6
+1568,2024-05-28,acuerdo codelco-sqm,salar de atacama,"codelco, sqm, corfo;comunidades del salar de atacama (consejo de pueblos atacamenos, toconao, socaire, camar)",11,6.71,8,17,8,14,1,False,False,11
+1569,2024-02-16,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"comunidades lickanantay (toconao, socaire, talabre, camar, peine);sqm y codelco",12,7.096,6,10,6,7,1,False,False,8
+1571,2024-03-12,acuerdo codelco-sqm para explotacion del salar de atacama,salar de atacama,"comunidades de toconao, camar, socaire y talabre;sqm y codelco",4,2.168,9,18,9,15,2,True,False,3
+1573,2024-02-17,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"codelco y sqm, gobierno de chile;consejo de pueblos atacamenos",9,6.048,6,10,6,7,1,False,False,8
+1576,2025-01-09,acuerdo codelco-sqm,salar de maricunga,comision para el mercado financiero (cmf) / acuerdo codelco-sqm;comunidad colla pai ote,18,9.704,8,17,8,14,1,False,False,11
+1580,2024-12-04,acuerdo codelco-sqm para la explotacion del litio,salar de atacama,acuerdo codelco-sqm para la explotacion del litio;comunidad atacamena de coyo,3,1.428,8,14,8,11,1,False,False,3
+1618,2023-12-15,,salar de atacama,consejo de pueblos atacamenos;sqm y codelco,3,1.452,9,18,9,15,1,False,False,3
+1653,2025-12-19,estrategia nacional del litio,salar de atacama,"contraloria general de la republica, pueblo atacameno;sqm salar spa, codelco, minera tarar spa, estrategia nacional del litio",23,11.815,1,2,1,1,1,False,False,15
+1656,2025-09-29,salar futuro,salar de atacama,albemarle;sistema de evaluacion ambiental (sea) de antofagasta,12,7.352,2,3,2,2,1,False,False,11
+1661,2025-09-23,salar futuro,salar de atacama,"corfo;sqm, codelco, contraloria general de la republica",12,7.663,2,3,2,2,1,False,False,11
+1669,2025-09-22,salar futuro,salar de atacama,"corfo, codelco, sqm;pueblo lickanantay o atacameno",12,7.41,2,3,2,2,1,False,False,11
+1671,2025-09-01,explotacion de litio en salar de atacama,salar de atacama,"comunidades indigenas, corfo, samr (china);sqm, codelco, proyecto de litio en salar de atacama",2,1.308,0,0,0,0,1,False,False,2
+1678,2025-08-01,acuerdo sqm-codelco,salar de atacama,acuerdo sqm-codelco;fundacion terram,2,1.294,8,14,8,11,1,False,False,2
+1690,2025-10-26,alianza sqm-codelco en salar de atacama,salar de atacama,comision para el mercado financiero;tianqi,4,1.942,8,19,8,16,1,False,False,4
+1691,2025-07-16,acuerdo codelco-sqm,salar de atacama,comunidad atacamena de coyo;corfo,19,10.651,8,17,8,14,1,False,False,11
+16980,2023-11-09,explotacion de litio en el salar de atacama,salar de atacama,codelco;consejo de pueblos atacamenos,7,4.406,4,6,4,5,1,False,False,6
+1704,2025-12-19,acuerdo codelco-sqm,salar de atacama,codelco-sqm;contraloria general de la republica,16,8.789,8,17,8,14,1,False,False,11
+1725,2023-12-27,proyecto salar futuro,salar de atacama,"asociacion consejo de pueblos atacamenos;codelco, sqm, proyecto salar futuro",4,2.927,9,16,9,13,1,False,False,3
+1726,2024-06-13,programa de cumplimiento refundido,salar de atacama,consejo de pueblos atacamenos;sqm salar,1,0.483,4,20,4,12,1,False,True,1
+1732,2024-01-22,salar futuro,salar de atacama,"comunidad de peine, consejo de pueblos atacamenos (cpa);sqm, codelco, albemarle, minera escondida, minera zaldivar",12,7.545,2,3,2,2,1,False,False,11
+1761,2022-09-15,salar futuro,salar de atacama,sqm / salar futuro,6,3.667,2,3,2,2,1,False,False,6
+1773,2025-10-17,,salar de atacama,albemarle;rca de albemarle,7,3.211,4,15,4,12,2,True,False,3
+1774,2025-10-09,salar de atacama,salar de atacama,albemarle;servicio de evaluacion ambiental (sea) de antofagasta,9,4.902,4,21,4,12,1,False,False,4
+1789,2024-11-26,,salar de atacama,albemarle;sqm,8,3.687,4,15,4,12,1,False,False,3
+18021,2025-01-03,estrategia nacional del litio,socaire,comunidad atacamena de socaire;gobierno de chile,16,8.383,1,2,1,1,1,False,False,14
+18028,2023-07-11,salar de atacama,salar de atacama,codelco;consejo de pueblos atacamenos,5,3.187,4,21,4,12,1,False,False,4
+1840,2026-01-13,salar futuro,salar de atacama,codelco sqm novaandino litio;quiroz y asociados grupo errazuriz,12,7.44,2,3,2,2,1,False,False,11
+1843,2025-12-19,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"codelco, sqm, corfo;contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo (lady sandon)",8,5.096,6,10,6,7,1,False,False,8
+1846,2025-12-19,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"codelco, sqm, corfo;contraloria general de la republica",11,6.541,6,10,6,7,1,False,False,8
+1852,2026-01-28,estrategia nacional del litio,salar de atacama,acuerdo codelco-sqm;tianqi,24,12.123,1,2,1,1,1,False,False,15
+1859,2025-11-14,acuerdo codelco-sqm,salar de atacama,acuerdo codelco-sqm;tianqi,22,13.025,8,17,8,14,1,False,False,11
+1860,2025-09-22,salar futuro,salar de atacama,"corfo;sqm salar spa, codelco, minera tarar spa, salar futuro",13,7.943,2,3,2,2,1,False,False,11
+1861,2026-01-27,novandino litio,salar de atacama,acuerdo codelco-sqm / codelco y sqm;tianqi,4,1.955,8,19,8,16,1,False,False,4
+1862,2025-11-10,asociacion codelco-sqm,salar de atacama,"codelco, sqm;state administration for market regulation (china)",1,0.469,6,22,6,7,1,False,True,1
+1868,2025-12-23,estrategia nacional del litio,salar de atacama,codelco-sqm;gobierno de chile,27,14.223,1,2,1,1,1,False,False,15
+1870,2025-12-25,estrategia nacional del litio,salar de atacama,gobierno de chile;sqm y codelco (acuerdo),23,12.399,1,2,1,1,1,False,False,15
+1871,2025-12-03,alianza codelco-sqm,salar de atacama,codelco-sqm;contraloria general de la republica,12,5.989,8,17,8,17,1,False,False,8
+1872,2025-11-22,acuerdo codelco-sqm,salar de atacama,acuerdo codelco-sqm / comision para el mercado financiero (cmf);china tianqi,15,8.805,8,17,8,14,1,False,False,11
+1874,2025-12-20,explotacion de litio en el salar de atacama,salar de atacama,acuerdo codelco-sqm;contraloria general de la republica,17,9.038,4,6,4,5,1,False,False,8
+188,2025-09-30,planta cloruro de litio,salar de atacama,albemarle;sma,1,0.45,4,15,4,12,1,False,True,1
+1881,2025-12-19,acuerdo codelco-sqm,salar de atacama,"carlos bianchi, camila musante, raul soto, cristian tapia, hector ulloa, camilo lagos (comunidad atacamena de checar), lady sandon (comunidad atacamena de coyo);codelco-sqm",14,7.807,8,17,8,14,1,False,False,11
+1885,2025-11-11,alianza codelco-sqm para extraccion de litio,salar de atacama,comision para el mercado financiero;tianqi,4,1.972,8,19,8,16,1,False,False,4
+1887,2025-12-19,acuerdo codelco-sqm,salar de atacama,acuerdo codelco-sqm;contraloria general de la republica,17,9.822,8,17,8,14,1,False,False,11
+1888,2025-11-10,explotacion de litio en el salar de atacama,salar de atacama,codelco-sqm;state administration for market regulation (samr) de china,10,5.828,4,6,4,5,1,False,False,6
+1889,2025-12-19,acuerdo codelco-sqm,salar de atacama,acuerdo codelco-sqm;contraloria general de la republica,17,10.014,8,17,8,14,1,False,False,11
+1890,2025-12-16,acuerdo codelco-sqm,santiago,acuerdo codelco-sqm;tianqi lithium,14,8.255,8,17,8,14,1,False,False,11
+1892,2025-09-01,acuerdo codelco-sqm,antofagasta,acuerdo codelco-sqm;china (state administration for market regulation - samr),14,7.998,8,17,8,14,1,False,False,11
+1893,2025-07-17,acuerdo codelco-sqm para explotacion de litio,salar de atacama,96 diputados;acuerdo codelco-sqm,15,8.636,6,10,6,7,1,False,False,8
+1895,2025-06-30,acuerdo codelco-sqm,region de antofagasta,acuerdo codelco-sqm;jeannette jara,14,8.368,8,17,8,14,1,False,False,11
+1899,2025-07-01,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"camara de diputados, evelyn matthei, jeannette jara;codelco, sqm",10,6.294,6,10,6,7,2,True,False,8
+1900,2025-12-19,acuerdo codelco-sqm para explotacion de litio en el salar de atacama,salar de atacama,"codelco, sqm, corfo, minera tarar spa;contraloria general de la republica",3,1.406,8,6,8,17,1,False,False,3
+1902,2025-12-23,acuerdo codelco-sqm,region del bio-bio,acuerdo codelco-sqm;parlamentarios y comunidades indagenas,14,8.332,8,17,8,14,1,False,False,11
+1903,2025-12-10,acuerdo codelco-sqm para explotar el salar de atacama,salar de atacama,contraloria general de la republica;corfo,10,4.683,8,17,8,17,1,False,False,8
+1904,2025-10-27,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"acuerdo codelco-sqm, sqm, codelco;jeannette jara, jose antonio kast, evelyn matthei, johannes kaiser, camara de diputados",9,5.782,6,10,6,7,1,False,False,8
+1905,2025-12-19,acuerdo codelco-sqm,salar de atacama,codelco / acuerdo codelco-sqm;contraloria general de la republica / comision especial investigadora del congreso,11,6.281,8,17,8,14,1,False,False,11
+1906,2025-07-15,acuerdo sqm-codelco,salar de atacama,"comunidad atacamena de coyo;corfo, sqm, codelco",6,3.226,8,14,8,11,3,True,False,3
+1909,2026-01-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;estrategia nacional del litio,23,13.414,1,2,1,1,1,False,False,15
+1910,2026-01-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;gobierno de chile,23,13.363,1,2,1,1,1,False,False,15
+1911,2026-01-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;gobierno de chile,23,13.369,1,2,1,1,1,False,False,15
+1912,2026-01-30,estrategia nacional del litio,region de antofagasta,consejo de pueblos atacamenos;gobierno de chile (presidente boric),15,7.492,1,2,1,1,1,False,False,15
+1913,2026-01-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;gobierno de gabriel boric,23,13.111,1,2,1,1,1,False,False,15
+1915,2026-01-30,estrategia nacional del litio,region de antofagasta,consejo de pueblos atacamenos;estrategia nacional del litio,16,8.257,1,2,1,1,1,False,False,15
+1917,2023-12-29,salar futuro,salar de atacama,codelco y sqm (salar futuro);consejo de pueblos atacamenos,12,7.464,2,3,2,2,1,False,False,11
+1919,2023-12-28,extraccion de litio en el salar de atacama,salar de atacama,codelco y sqm (acuerdo de extension de extraccion de litio);consejo de pueblos atacamenos,4,2.489,0,5,0,4,2,True,False,3
+1920,2023-12-29,proyecto salar futuro (mencionado en el contexto del acuerdo),salar de atacama,codelco y sqm (acuerdo para extraccion de litio);consejo de pueblos atacamenos,1,0.45,0,5,0,4,1,False,True,1
+1921,2024-01-06,acuerdo codelco y sqm para extraccion de litio en el salar de atacama,salar de atacama,codelco y sqm;consejo de pueblos atacamenos,4,1.933,9,16,9,13,1,False,False,4
+1923,2023-12-29,salar futuro,salar de atacama,"codelco, sqm, estado de chile;consejo de pueblos atacamenos",13,8.05,2,3,2,2,1,False,False,11
+1925,2024-05-31,acuerdo societario para la produccion conjunta de litio,salar de atacama,codelco y sqm;consejo de pueblos atacamenos,4,1.934,9,16,9,13,1,False,False,4
+1926,2023-12-28,salar futuro,salar de atacama,"codelco, sqm, salar futuro;consejo de pueblos atacamenos",12,7.648,2,3,2,2,1,False,False,11
+1928,2023-05-05,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;gobierno de chile / codelco,19,11.525,3,4,3,3,1,False,False,13
+1930,2023-05-05,estrategia nacional del litio,salar de atacama,"consejo de pueblos atacamenos;estrategia nacional del litio, codelco",19,11.548,3,4,3,3,1,False,False,13
+1932,2023-04-21,,salar de atacama,consejo de pueblos atacamenos;gobierno de chile,1,0.498,3,23,3,3,1,False,True,1
+1933,2023-06-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;presidente boric / estrategia nacional del litio,18,11.04,3,4,3,3,1,False,False,13
+1934,2023-12-28,proyecto salar futuro,salar de atacama,consejo de pueblos atacamenos;sqm y codelco,6,3.402,9,16,9,13,1,False,False,3
+1936,2024-01-11,explotacion de litio (acuerdo codelco-sqm),salar de atacama,acuerdo codelco-sqm para explotacion de litio;consejo de pueblos atacamenos,2,0.998,0,0,0,0,2,True,False,1
+1937,2024-01-13,,salar de atacama,consejo de pueblos atacamenos;sqm,1,0.481,4,24,4,18,1,False,True,1
+1938,2024-01-09,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"codelco, sqm, gobierno de chile;consejo de pueblos atacamenos",10,6.458,6,10,6,7,2,True,False,8
+1941,2024-01-12,acuerdo codelco-sqm para explotacion del salar de atacama,salar de atacama,"consejo de pueblos atacamenos;sqm, codelco, acuerdo codelco-sqm",1,0.693,9,18,9,15,1,False,True,1
+1943,2024-01-11,extension de explotacion de carbonato de litio,salar de atacama,"consejo de pueblos atacamenos;sqm, codelco, gobierno de chile",3,1.39,0,5,0,0,3,True,False,2
+1945,2024-01-10,explotacion de litio en salar de atacama,salar de atacama,acuerdo codelco-sqm para explotacion de litio;consejo de pueblos atacamenos,4,2.258,0,0,0,0,3,True,False,2
+1946,2024-01-13,salar de atacama,salar de atacama,consejo de pueblos atacamenos;sqm,6,3.664,4,21,4,12,2,True,False,4
+1949,2023-12-28,proyecto salar futuro,salar de atacama,"asociacion consejo de pueblos atacamenos;codelco, sqm, proyecto salar futuro",2,1.55,9,16,9,13,1,False,False,2
+1951,2024-01-13,acuerdo codelco-sqm para explotacion de litio,salar de atacama,"codelco y sqm, gobierno de chile;consejo de pueblos atacamenos",9,6.036,6,10,6,7,1,False,False,8
+1954,2023-06-30,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;presidente gabriel boric / gobierno de chile,18,10.834,3,4,3,3,1,False,False,13
+1970,2023-12-28,proyecto salar futuro,salar de atacama,codelco y sqm;consejo de pueblos atacamenos,5,2.966,9,16,9,13,1,False,False,4
+1972,2023-06-30,estrategia nacional del litio,san pedro de atacama,consejo de pueblos atacamenos;gobierno de chile / estrategia nacional del litio,13,7.424,3,4,3,3,1,False,False,12
+1986,2023-08-26,,salar de atacama,"comunidades atacamenas;corfo, sqm",2,0.95,9,25,9,13,1,False,False,2
+1988,2026-01-30,estrategia nacional del litio,toconao,"consejo de pueblos atacamenos;estado de chile, nova andino litio",5,2.283,1,2,1,1,1,False,False,5
+2018,2024-04-19,explotacion de litio en el salar de atacama,salar de atacama,"alianza codelco-sqm, gobierno de boric;comunidades lickan antay (peine, camar, toconao, socaire)",6,3.87,4,6,4,5,1,False,False,6
+2041,2026-02-12,proyecto salar de maricunga,salar de maricunga,"codelco, salar de maricunga spa, ministerio de mineria;comunidades indigenas del territorio",1,0.725,7,26,7,19,1,False,True,1
+2094,2025-09-14,estrategia nacional del litio / ceol salar de agua amarga,salar de agua amarga,"comunidades colla (geoxcultuxial, comuna diego de almagro, chiyagua, runa urka y martires jeronimo);ministerio de mineria",4,2.341,1,9,1,1,1,False,False,4
+2120,2024-03-26,,salar de maricunga,codelco,1,0.463,7,12,7,9,1,False,True,1
+2163,2025-08-03,estrategia nacional del litio,salares de chile,estrategia nacional del litio;ministerio del medio ambiente,24,11.772,1,2,1,1,1,False,False,15
+2199,2025-09-15,eramet ceol salar de agua amarga,salar de agua amarga,"comunidades colla (geoxcultuxial, comuna diego de almagro, chiyagua, runa urka y martires jeronimo);ministerio de mineria",4,2.507,1,9,1,1,1,False,False,4
+2206,2023-05-11,estrategia nacional del litio,salar de maricunga,"comunidad colla pai ote;empresa nacional del litio, estrategia nacional del litio",22,11.427,3,4,3,3,1,False,False,13
+2209,2024-04-11,estrategia nacional del litio,salar de maricunga,comunidad colla pai ote;estrategia nacional del litio / codelco,28,14.423,3,4,3,3,1,False,False,13
+2210,2023-05-04,estrategia nacional del litio,salar de atacama,"comunidades indigenas del salar de atacama, expertos, conservacionistas, consejo de pueblos atacamenos;estrategia nacional del litio, gobierno de chile, codelco, sqm, albemarle, sorcia minerals",14,7.715,3,4,3,3,1,False,False,13
+2211,2023-05-10,estrategia nacional del litio,salar de atacama,comunidad de toconao opsal fundacion meri zoologico nacional de chile;estrategia nacional del litio mineria del litio,15,7.792,3,4,3,3,1,False,False,13
+271,2023-07-06,proyecto salar de maricunga,salar de maricunga,codelco;salar blanco,2,1.183,7,26,7,19,2,True,False,1
+2848,2024-03-14,salar de atacama,salar de atacama,"comunidades indigenas, cientificos, onu;sqm, albemarle, gobierno chileno",4,2.619,4,21,4,12,1,False,False,4
+301,2023-07-03,explotacion de litio en salar de maricunga,salar de maricunga,comunidad colla pai ote;palacio de la moneda,8,4.291,7,12,7,9,2,True,False,6
+305,2025-07-31,proyecto blanco,salar de maricunga,comunidad indigena colla de pai ote y vecinos de copiapo;minera salar blanco y servicio de evaluacion ambiental (sea),5,3.51,7,13,7,10,1,False,False,5
+306,2025-09-21,explotacion de litio en salar de maricunga,salar de maricunga,codelco;cristina dorador,2,1.421,7,12,7,9,1,False,False,2
+39,2024-10-31,estrategia nacional del litio,socaire,comunidad atacamena de socaire;corfo,11,5.929,1,2,1,1,1,False,False,11
+41,2023-05-04,estrategia nacional del litio,san pedro de atacama,consejo de pueblos atacamenos;presidente gabriel boric,15,8.713,3,4,3,3,1,False,False,13
+5763,2024-06-14,explotacion de litio en salar de maricunga,salar de maricunga,codelco;comunidad colla en el salar de maricunga,2,1.323,7,12,7,9,1,False,False,2
+6380,2023-12-28,salar futuro,salar de atacama,codelco y sqm;consejo de pueblos atacamenos,12,6.818,2,3,2,2,1,False,False,11
+6384,2024-01-10,acuerdo para la produccion del litio entre el gobierno y sqm,salar de atacama,consejo de pueblos atacamenos;sqm,2,0.97,4,24,4,18,2,True,False,1
+6416,2023-06-29,estrategia nacional del litio,san pedro de atacama,consejo de pueblos atacamenos;presidente gabriel boric,11,6.009,3,4,3,3,1,False,False,11
+73,2025-07-25,estrategia nacional del litio,salar de atacama,acuerdo codelco-sqm;comision investigadora de la camara de diputados,29,14.73,1,2,1,1,2,True,False,15
+8095,2025-08-18,produccion de sales maricunga,salar de maricunga,sominor (grupo errazuriz) y enel green power chile s.a;subsecretaria de mineria / consejo para la transparencia,1,0.728,7,11,7,8,1,False,True,1
+84,2025-09-20,explotacion de litio en salar de atacama,salar de atacama,comunidades indigenas;sqm lithium y estado chileno,2,1.287,0,0,0,0,1,False,False,2
+8538,2025-10-12,salar de atacama,salar de atacama,albemarle corp;comision chilena de energia nuclear (cchen),4,2.337,4,21,4,12,1,False,False,4
+9084,2024-03-03,alianza codelco-sqm,salar de atacama,codelco y sqm;comunidades atacamenas,7,3.456,9,16,9,13,1,False,False,4
+970,2023-05-04,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;estrategia nacional del litio,21,12.843,3,4,3,3,1,False,False,13
+978,2023-05-05,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;estrategia nacional del litio / gobierno de chile,19,11.514,3,4,3,3,1,False,False,13
+983,2023-05-08,estrategia nacional del litio,salar de atacama,consejo de pueblos atacamenos;estrategia nacional del litio / codelco,21,12.93,3,4,3,3,1,False,False,13

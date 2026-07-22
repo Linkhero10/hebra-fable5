@@ -1,0 +1,56 @@
+{
+ "advertencia": "DSU produce una sola clase en el grafo original (todos coasignados trivialmente); comparar su ARI bajo perturbacion contra Louvain/Leiden/Infomap (que ya parten de multiples comunidades) no es una comparacion simetrica. Aqui se reportan metricas comparables: retencion de pares originalmente coasignados, VI, tamano de la clase/comunidad principal y numero de comunidades, bajo drop 5% y 10%, para las 4 configuraciones.",
+ "drop5": {
+  "dsu": {
+   "retencion_pares_media": 0.974,
+   "VI_media": 0.0699,
+   "componente_o_comunidad_principal_media": 167.8,
+   "n_comunidades_media": 2.2
+  },
+  "louvain": {
+   "retencion_pares_media": 0.9234,
+   "VI_media": 0.2087,
+   "componente_o_comunidad_principal_media": 31.8,
+   "n_comunidades_media": 11.1
+  },
+  "leiden_mod": {
+   "retencion_pares_media": 0.9664,
+   "VI_media": 0.1001,
+   "componente_o_comunidad_principal_media": 31.8,
+   "n_comunidades_media": 11.1
+  },
+  "infomap": {
+   "retencion_pares_media": 0.9723,
+   "VI_media": 0.0918,
+   "componente_o_comunidad_principal_media": 31.7,
+   "n_comunidades_media": 20.2
+  }
+ },
+ "drop10": {
+  "dsu": {
+   "retencion_pares_media": 0.9505,
+   "VI_media": 0.132,
+   "componente_o_comunidad_principal_media": 165.7,
+   "n_comunidades_media": 3.2
+  },
+  "louvain": {
+   "retencion_pares_media": 0.886,
+   "VI_media": 0.3362,
+   "componente_o_comunidad_principal_media": 31.8,
+   "n_comunidades_media": 11.9
+  },
+  "leiden_mod": {
+   "retencion_pares_media": 0.9276,
+   "VI_media": 0.2014,
+   "componente_o_comunidad_principal_media": 31.7,
+   "n_comunidades_media": 12.1
+  },
+  "infomap": {
+   "retencion_pares_media": 0.9484,
+   "VI_media": 0.1463,
+   "componente_o_comunidad_principal_media": 31.2,
+   "n_comunidades_media": 21.1
+  }
+ },
+ "formulacion_corregida": "La conectividad de H0000 bajo DSU es sensible al edge-drop (retencion de pares y tamano de componente principal caen mas que en las particiones comunitarias bajo la misma perturbacion). Esto NO se interpreta como 'los algoritmos comunitarios son metodologicamente mejores'; es una propiedad de sensibilidad estructural, pendiente de adjudicacion para decidir su relevancia procesual."
+}

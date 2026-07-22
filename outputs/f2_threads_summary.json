@@ -1,10 +1,15 @@
 {
  "schema_version": 1,
- "generated_utc": "2026-07-22T13:46:34.120259+00:00",
+ "variant": "f2_base_jaccard",
+ "generated_utc": "2026-07-22T16:13:56.624483+00:00",
  "inputs": {
+  "corpus": "06_base_actual_fusionada_3742_incluidas.csv",
   "corpus_sha256": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
   "embeddings": "active_corpus_embeddings_3742.npz",
-  "referents": "f1_referents.csv"
+  "embeddings_sha256": "04ea88ee67b6aaa3c76ebf1f913d41e097c52c160491e025e721fca018d0a2a5",
+  "referents": "f1_referents.csv",
+  "referents_sha256": "b6c49e8269a4c09163f374db923fe8d885f8c72816ccf98f05f2d628cf347b00",
+  "script_sha256": "4b8d0248467be6b5d8e07b3493783536de0d428934e4737ca5a37b010f0cbc78"
  },
  "params": {
   "ALPHA": 0.7,
@@ -23,7 +28,10 @@
    0.55
   ],
   "GIANT_MAX_SHARE": 0.3,
-  "MAX_REFERENT_DF": 400
+  "MAX_REFERENT_DF": 400,
+  "LONG_TIER": "L1",
+  "L3_SREF": 0.6,
+  "USE_IDF": false
  },
  "dated_docs": 3725,
  "candidate_pairs": 168241,
@@ -33,6 +41,7 @@
   {
    "tau": 0.35,
    "edges": 48696,
+   "long_edges": 6827,
    "threads_total": 822,
    "threads_ge3": 105,
    "docs_in_threads_ge3": 2914,
@@ -49,6 +58,7 @@
   {
    "tau": 0.45,
    "edges": 30188,
+   "long_edges": 6827,
    "threads_total": 1161,
    "threads_ge3": 126,
    "docs_in_threads_ge3": 2587,
@@ -65,6 +75,7 @@
   {
    "tau": 0.55,
    "edges": 16600,
+   "long_edges": 6827,
    "threads_total": 2162,
    "threads_ge3": 157,
    "docs_in_threads_ge3": 1567,
@@ -534,7 +545,7 @@
    "top_actores": [
     "empresa nacional de mineria",
     "fundicion paipote",
-    "carlos fernandez reinoso"
+    "enami (empresa nacional de mineria)"
    ],
    "familias": [
     "11",
@@ -698,8 +709,8 @@
     "calama"
    ],
    "top_actores": [
-    "ar alto loa spa",
     "comunidad indigena atacamena de conchi viejo",
+    "ar alto loa spa",
     "estado de chile"
    ],
    "familias": [
@@ -723,8 +734,8 @@
     "quintero y puchuncavi"
    ],
    "top_actores": [
-    "estado de chile, empresas (no especificadas)",
     "mujeres en zonas de sacrificio, habitantes de quintero y puchuncavi",
+    "estado de chile, empresas (no especificadas)",
     "habitantes de quintero y puchuncavi, mujeres en zonas de sacrificio"
    ],
    "familias": [
@@ -770,9 +781,9 @@
     "huape"
    ],
    "top_actores": [
-    "comunidades mapuche de arauco",
     "servicio de evaluacion ambiental",
-    "parque eolico viento sur / servicio de evaluacion ambiental"
+    "comunidades mapuche de arauco",
+    "comunidad mapuche ignacio ancan"
    ],
    "familias": [
     "0",
@@ -849,7 +860,7 @@
    "top_actores": [
     "wte araucania",
     "comite de ministros",
-    "convencion constitucional/debate sobre politica hidrica"
+    "ciudadania/electores de la convencion constitucional"
    ],
    "familias": [
     "10",
@@ -1006,8 +1017,8 @@
    ],
    "top_actores": [
     "adobera spa",
-    "comunidades mapuche pancho kuramil, liempi colipi y pidenco lafkenche",
-    "transmark renewables, geg, north tech energy, proyecto geotermico adobera"
+    "transmark renewables, geg, north tech energy, proyecto geotermico adobera",
+    "comunidades mapuche pancho kuramil, liempi colipi y pidenco lafkenche"
    ],
    "familias": [
     "0",
@@ -1104,8 +1115,8 @@
     "tocopilla"
    ],
    "top_actores": [
-    "alcalde de tocopilla (fernando san roman)",
     "aes gener (termoelectrica norgener), sqm",
+    "alcalde de tocopilla (fernando san roman)",
     "habitantes de tocopilla"
    ],
    "familias": [
@@ -1131,7 +1142,7 @@
    "top_actores": [
     "ministerio de bienes nacionales",
     "comunidades kawesqar por la defensa del mar",
-    "proyectos de salmonicultura clarence 6 y clarence 14"
+    "comunidades kawesqar"
    ],
    "familias": [
     "2",

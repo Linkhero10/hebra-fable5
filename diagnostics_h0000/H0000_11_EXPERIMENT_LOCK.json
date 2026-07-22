@@ -1,0 +1,20 @@
+{
+ "generated_utc": "2026-07-22T17:08:05.972889+00:00",
+ "git_head": "cf5ab5e1e6bf22622641970f476367fbd55ba0a3",
+ "codigo_v1_no_modificado": true,
+ "umbral_no_modificado": true,
+ "candidatos_no_modificados": true,
+ "grafo_congelado": {
+  "threads_sha256": "09162a0a6e3d49a393d78145d9a966a139e282b5eec2e21275257b9dfc689f78",
+  "edges_sha256": "7cbcbc23864705dbb91fa7ec0bbe010999f535431ca2ec870ece230d1ecc2e51"
+ },
+ "algoritmos_solo_diagnosticos": true,
+ "adjudicacion_no_ejecutada": true,
+ "arquitectura_v2_no_seleccionada": true,
+ "ganador_empirico_no_declarado": true,
+ "discrepancias_registradas": {
+  "summaries_legacy_working_vs_commit": "outputs/f2_threads_summary.json y F4_MANIFEST.json difieren del commit cf5ab5e1 por campos de trazabilidad regenerados post-commit; los CSV congelados coinciden con el manifest (verify_preservation)."
+ },
+ "leiden_infomap_via": "python-igraph (leidenalg/infomap standalone no instalados)",
+ "leiden_cpm_resolution": 0.06188652975983293
+}

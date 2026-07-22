@@ -1,0 +1,164 @@
+{
+ "schema_version": 1,
+ "generated_utc": "2026-07-22T15:45:42.411256+00:00",
+ "evidence_layer": "independent_expert_ai_adjudication",
+ "reviewer": "GPT-5.6 Thinking",
+ "status_original": "expert_ai_not_human_validation",
+ "hashes": {
+  "adjudicacion_original_sha256": "fd5a7a222e65c631c46cabf0d9f6eb3162a3e68ecd13f6e616e8f262fb91f5bb",
+  "hoja_sellada": "bc73256e44f0175fdae8f14aef4355309511215ed3752df7b7fe010c1b39e4e7",
+  "clave_sha256": "5b7b24303b317f403b21f05ef05173771e57822d5a55c2889eda0da26538ded9",
+  "script_sha256": "74bc26490d565c4c5a4cea67992b2bea50ff746fdc145db7914349da629c7cde"
+ },
+ "confianza_reviewer": {
+  "baja": 18,
+  "alta": 160,
+  "media": 62
+ },
+ "resultados": {
+  "positivos": {
+   "P50": {
+    "n": 50,
+    "indeterminado": 0,
+    "mismo_proceso": 37,
+    "relacionado": 13,
+    "no_relacionado": 0,
+    "prec_estricta_det": 0.74,
+    "ic95_det": [
+     0.604,
+     0.841
+    ],
+    "sens_indet_como_error": 0.74,
+    "ic95_sens": [
+     0.604,
+     0.841
+    ]
+   },
+   "L30": {
+    "n": 30,
+    "indeterminado": 0,
+    "mismo_proceso": 24,
+    "relacionado": 6,
+    "no_relacionado": 0,
+    "prec_estricta_det": 0.8,
+    "ic95_det": [
+     0.627,
+     0.905
+    ],
+    "sens_indet_como_error": 0.8,
+    "ic95_sens": [
+     0.627,
+     0.905
+    ]
+   },
+   "U30": {
+    "n": 30,
+    "indeterminado": 1,
+    "mismo_proceso": 27,
+    "relacionado": 2,
+    "no_relacionado": 0,
+    "prec_estricta_det": 0.931,
+    "ic95_det": [
+     0.78,
+     0.981
+    ],
+    "sens_indet_como_error": 0.9,
+    "ic95_sens": [
+     0.744,
+     0.965
+    ]
+   },
+   "POOLED_P50_L30_U30": {
+    "n": 110,
+    "indeterminado": 1,
+    "mismo_proceso": 88,
+    "relacionado": 21,
+    "no_relacionado": 0,
+    "prec_estricta_det": 0.807,
+    "ic95_det": [
+     0.723,
+     0.87
+    ],
+    "sens_indet_como_error": 0.8,
+    "ic95_sens": [
+     0.716,
+     0.864
+    ]
+   }
+  },
+  "negativos": {
+   "R30": {
+    "n": 30,
+    "indeterminado": 3,
+    "mismo_proceso_FN": 18,
+    "relacionado": 8,
+    "no_relacionado_ok": 1,
+    "tasa_FN_det": 0.667,
+    "ic95": [
+     0.478,
+     0.814
+    ]
+   },
+   "HN50": {
+    "n": 50,
+    "indeterminado": 7,
+    "mismo_proceso_FN": 9,
+    "relacionado": 23,
+    "no_relacionado_ok": 11,
+    "tasa_FN_det": 0.209,
+    "ic95": [
+     0.114,
+     0.352
+    ]
+   },
+   "FN30": {
+    "n": 30,
+    "indeterminado": 0,
+    "mismo_proceso_FN": 2,
+    "relacionado": 4,
+    "no_relacionado_ok": 24,
+    "tasa_FN_det": 0.067,
+    "ic95": [
+     0.018,
+     0.213
+    ]
+   },
+   "HN50_subtipos": {
+    "referente_compartido_bajo_w": {
+     "relacionado": 10,
+     "indeterminado": 4,
+     "no_relacionado": 5,
+     "mismo_proceso": 6
+    },
+    "alta_semantica_sin_referente": {
+     "no_relacionado": 6,
+     "indeterminado": 3,
+     "relacionado": 13,
+     "mismo_proceso": 3
+    }
+   }
+  },
+  "aislados": {
+   "ISO20": {
+    "n": 20,
+    "aislado_correcto": 2,
+    "pertenece_a_un_proceso": 11,
+    "indeterminado": 7,
+    "sobreabstencion_det": 0.846
+   }
+  }
+ },
+ "sintesis_errores": {
+  "falsos_positivos_confirmados": 0,
+  "mezcla_potencial_relacionado": 21,
+  "falsos_negativos_confirmados": 29,
+  "sobreabstencion_docs": 11,
+  "nota_fragmentacion": "FN en R30/HN50/FN30 + sobreabstencion ISO son la evidencia de fragmentacion/sobreabstencion; los FP y 'relacionado' en positivos son la evidencia de mezcla."
+ },
+ "reglas": [
+  "estricto: solo mismo_proceso es positivo",
+  "relacionado reportado aparte",
+  "indeterminado fuera del denominador principal; sensibilidad aparte",
+  "sin cambios de parametros/codigo/umbrales/referentes/clustering"
+ ]
+}

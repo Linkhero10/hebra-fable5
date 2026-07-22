@@ -1,0 +1,241 @@
+﻿item_id,expert_ai_verdict,expert_ai_confidence,expert_ai_notes,reviewer,evidence_layer,blind_at_decision
+X000,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X001,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X002,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X003,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X004,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X005,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X006,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X007,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X008,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X009,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X010,indeterminado,baja,"El título identifica un conflicto potencial, pero sin comparación ni búsqueda exhaustiva no permite decidir aislamiento correcto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X011,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X012,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X013,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X014,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X015,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X016,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X017,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X018,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X019,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X020,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X021,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X022,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X023,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X024,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X025,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X026,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X027,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X028,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X029,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X030,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X031,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X032,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X033,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X034,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X035,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X036,pertenece_a_un_proceso,alta,Un derrame de petróleo en Quintero forma parte de una secuencia territorial documentada.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X037,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X038,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X039,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X040,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X041,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X042,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X043,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X044,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X045,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X046,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X047,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X048,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X049,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X050,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X051,indeterminado,baja,"Una etapa de participación de subestación puede tener continuidad, pero el ítem aislado no basta.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X052,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X053,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X054,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X055,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X056,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X057,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X058,pertenece_a_un_proceso,alta,La intoxicación de La Greda pertenece a una controversia histórica con múltiples noticias.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X059,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X060,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X061,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X062,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X063,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X064,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X065,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X066,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X067,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X068,indeterminado,baja,El título es demasiado genérico para identificar una secuencia concreta.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X069,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X070,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X071,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X072,indeterminado,baja,El vertido puede ser un evento único o parte de una controversia local; falta contexto.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X073,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X074,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X075,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X076,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X077,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X078,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X079,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X080,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X081,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X082,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X083,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X084,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X085,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X086,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X087,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X088,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X089,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X090,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X091,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X092,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X093,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X094,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X095,pertenece_a_un_proceso,alta,Hidroñuble es un proyecto con controversia y continuidad documental explícita.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X096,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X097,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X098,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X099,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X100,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X101,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X102,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X103,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X104,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X105,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X106,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X107,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X108,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X109,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X110,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X111,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X112,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X113,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X114,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X115,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X116,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X117,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X118,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X119,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X120,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X121,pertenece_a_un_proceso,media,La demanda de protección de formaciones xerofíticas parece una campaña institucional sostenida.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X122,aislado_correcto,alta,Caso fuera del dominio chileno del corpus; no debe integrarse a procesos nacionales.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X123,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X124,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X125,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X126,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X127,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X128,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X129,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X130,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X131,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X132,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X133,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X134,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X135,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X136,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X137,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X138,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X139,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X140,pertenece_a_un_proceso,media,La oficina territorial se inscribe en la gestión prolongada de la crisis Quintero-Puchuncaví.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X141,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X142,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X143,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X144,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X145,indeterminado,baja,No se identifica proyecto o tranque específico en el título.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X146,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X147,pertenece_a_un_proceso,media,La transición energética de Tocopilla es una controversia con continuidad.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X148,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X149,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X150,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X151,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X152,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X153,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X154,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X155,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X156,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X157,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X158,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X159,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X160,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X161,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X162,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X163,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X164,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X165,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X166,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X167,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X168,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X169,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X170,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X171,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X172,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X173,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X174,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X175,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X176,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X177,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X178,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X179,pertenece_a_un_proceso,alta,Derrame e intoxicaciones de Quintero pertenecen al proceso territorial de contaminación.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X180,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X181,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X182,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X183,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X184,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X185,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X186,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X187,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X188,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X189,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X190,pertenece_a_un_proceso,media,La aprobación de Maratué probablemente integra una controversia inmobiliario-ambiental.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X191,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X192,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X193,pertenece_a_un_proceso,alta,La sanción a Copec por intoxicación masiva es parte de un procedimiento regulatorio continuado.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X194,indeterminado,baja,No se identifica en el título la demanda o proyecto que motiva la marcha diaguita.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X195,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X196,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X197,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X198,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X199,indeterminado,baja,El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X200,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X201,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X202,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X203,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X204,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X205,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X206,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X207,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X208,pertenece_a_un_proceso,media,La campaña Chao Carbón forma parte de la descarbonización y cierre de centrales AES.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X209,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X210,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X211,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X212,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X213,aislado_correcto,media,Noticia comunitaria/turística sin conflicto procesual explícito.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X214,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X215,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X216,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X217,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X218,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X219,pertenece_a_un_proceso,alta,El recurso de Millaray Huichalaf corresponde al conflicto hidroeléctrico Pilmaiquén/Río Bueno.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X220,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X221,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X222,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X223,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X224,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X225,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X226,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X227,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X228,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X229,no_relacionado,alta,"Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X230,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X231,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X232,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X233,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X234,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X235,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X236,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X237,mismo_proceso,alta,Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X238,relacionado,media,"Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",GPT-5.6 Thinking,independent_expert_ai_adjudication,True
+X239,indeterminado,baja,Denuncia general sobre glaciares sin proyecto o procedimiento identificable.,GPT-5.6 Thinking,independent_expert_ai_adjudication,True

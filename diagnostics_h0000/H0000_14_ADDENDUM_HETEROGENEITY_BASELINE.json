@@ -1,0 +1,35 @@
+{
+ "aristas_directas_heterogeneas_pct": 0.0,
+ "todas_las_parejas_dentro_H0000_heterogeneas_pct": 39.24,
+ "solo_transitivas_heterogeneas_pct": 41.83,
+ "solo_transitivas_heterogeneas_n": 5637,
+ "baseline_hilos_conocidos_grandes": [
+  {
+   "thread": "H0001",
+   "n_docs": 162,
+   "n_pares": 13041,
+   "pct_heterogeneo": 0.0
+  },
+  {
+   "thread": "H0002",
+   "n_docs": 148,
+   "n_pares": 10878,
+   "pct_heterogeneo": 0.0
+  },
+  {
+   "thread": "H0004",
+   "n_docs": 87,
+   "n_pares": 3741,
+   "pct_heterogeneo": 0.0
+  }
+ ],
+ "nulo_permutacion_referentes_preservando_grafo": {
+  "B": 300,
+  "seed": 20260790,
+  "media_nula": 5286.9,
+  "p95_nulo": 5330.0,
+  "observado": 5637,
+  "p_empirico_mayor_igual": 0.0033
+ },
+ "interpretacion": "El conteo bruto de 5.637 no es evidencia cuantitativa de mezcla por si solo. Se compara contra: (a) tasa en aristas directas (deberian ser mayormente NO heterogeneas si el enlace exige referente compartido); (b) tasa en TODOS los pares del propio H0000 y de hilos grandes conocidos como referencia descriptiva; (c) un nulo de permutacion que baraja que documento tiene que conjunto de referentes, preservando el grafo, para estimar la tasa esperada por azar dada la topologia."
+}

@@ -1,0 +1,2168 @@
+{
+  "generated_utc": "2026-07-22T15:38:35.143961+00:00",
+  "reviewer": "GPT-5.6 Thinking",
+  "status": "expert_ai_not_human_validation",
+  "n_items": 240,
+  "items": [
+    {
+      "item_id": "X000",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X001",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X002",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X003",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X004",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X005",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X006",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X007",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X008",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X009",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X010",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título identifica un conflicto potencial, pero sin comparación ni búsqueda exhaustiva no permite decidir aislamiento correcto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X011",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X012",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X013",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X014",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X015",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X016",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X017",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X018",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X019",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X020",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X021",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X022",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X023",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X024",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X025",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X026",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X027",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X028",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X029",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X030",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X031",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X032",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X033",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X034",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X035",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X036",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Un derrame de petróleo en Quintero forma parte de una secuencia territorial documentada.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X037",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X038",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X039",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X040",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X041",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X042",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X043",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X044",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X045",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X046",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X047",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X048",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X049",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X050",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X051",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "Una etapa de participación de subestación puede tener continuidad, pero el ítem aislado no basta.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X052",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X053",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X054",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X055",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X056",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X057",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X058",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "La intoxicación de La Greda pertenece a una controversia histórica con múltiples noticias.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X059",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X060",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X061",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X062",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X063",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X064",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X065",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X066",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X067",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X068",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título es demasiado genérico para identificar una secuencia concreta.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X069",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X070",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X071",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X072",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El vertido puede ser un evento único o parte de una controversia local; falta contexto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X073",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X074",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X075",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X076",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X077",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X078",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X079",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X080",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X081",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X082",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X083",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X084",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X085",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X086",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X087",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X088",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X089",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X090",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X091",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X092",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X093",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X094",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X095",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Hidroñuble es un proyecto con controversia y continuidad documental explícita.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X096",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X097",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X098",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X099",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X100",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X101",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X102",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X103",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X104",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X105",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X106",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X107",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X108",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X109",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X110",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X111",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X112",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X113",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X114",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X115",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X116",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X117",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X118",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X119",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X120",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X121",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "La demanda de protección de formaciones xerofíticas parece una campaña institucional sostenida.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X122",
+      "expert_ai_verdict": "aislado_correcto",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Caso fuera del dominio chileno del corpus; no debe integrarse a procesos nacionales.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X123",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X124",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X125",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X126",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X127",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X128",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X129",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X130",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X131",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X132",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X133",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X134",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X135",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X136",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X137",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X138",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X139",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X140",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "La oficina territorial se inscribe en la gestión prolongada de la crisis Quintero-Puchuncaví.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X141",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X142",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X143",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X144",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X145",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "No se identifica proyecto o tranque específico en el título.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X146",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X147",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "La transición energética de Tocopilla es una controversia con continuidad.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X148",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X149",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X150",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X151",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X152",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X153",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X154",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X155",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X156",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X157",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X158",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X159",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X160",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X161",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X162",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X163",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X164",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X165",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X166",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X167",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X168",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X169",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X170",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X171",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X172",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X173",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X174",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X175",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X176",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X177",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X178",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X179",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Derrame e intoxicaciones de Quintero pertenecen al proceso territorial de contaminación.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X180",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X181",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X182",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X183",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X184",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X185",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X186",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X187",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X188",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X189",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X190",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "La aprobación de Maratué probablemente integra una controversia inmobiliario-ambiental.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X191",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X192",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X193",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "La sanción a Copec por intoxicación masiva es parte de un procedimiento regulatorio continuado.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X194",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "No se identifica en el título la demanda o proyecto que motiva la marcha diaguita.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X195",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X196",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X197",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X198",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X199",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "El título o snippet no permite identificar con seguridad el proyecto/procedimiento en uno o ambos documentos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X200",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X201",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X202",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X203",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X204",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X205",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X206",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X207",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X208",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "La campaña Chao Carbón forma parte de la descarbonización y cierre de centrales AES.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X209",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X210",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X211",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X212",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X213",
+      "expert_ai_verdict": "aislado_correcto",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Noticia comunitaria/turística sin conflicto procesual explícito.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X214",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X215",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X216",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X217",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X218",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X219",
+      "expert_ai_verdict": "pertenece_a_un_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "El recurso de Millaray Huichalaf corresponde al conflicto hidroeléctrico Pilmaiquén/Río Bueno.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X220",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X221",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X222",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X223",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X224",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X225",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X226",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X227",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X228",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X229",
+      "expert_ai_verdict": "no_relacionado",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Los documentos refieren a proyectos, instalaciones, territorios o controversias diferentes.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X230",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X231",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X232",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X233",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X234",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X235",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X236",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X237",
+      "expert_ai_verdict": "mismo_proceso",
+      "expert_ai_confidence": "alta",
+      "expert_ai_notes": "Coinciden proyecto/instalación o procedimiento identificable y existe continuidad entre los hitos.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X238",
+      "expert_ai_verdict": "relacionado",
+      "expert_ai_confidence": "media",
+      "expert_ai_notes": "Comparten territorio, política o campo de conflicto, pero no hay identidad suficiente del proceso concreto.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    },
+    {
+      "item_id": "X239",
+      "expert_ai_verdict": "indeterminado",
+      "expert_ai_confidence": "baja",
+      "expert_ai_notes": "Denuncia general sobre glaciares sin proyecto o procedimiento identificable.",
+      "reviewer": "GPT-5.6 Thinking",
+      "evidence_layer": "independent_expert_ai_adjudication",
+      "blind_at_decision": true
+    }
+  ]
+}

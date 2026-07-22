@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-07-22T15:01:26.192224+00:00",
+ "generated_utc": "2026-07-22T15:47:05.087452+00:00",
  "files": {
   "F2_5_CHECKPOINT_2026_07_22.md": "cc8626fc461d37368032eb46e06af939d88f9f65cdea05f5544d8bdf4f4cae01",
   "F2_6_LONG_TIER_DECISION_2026_07_22.md": "1e0dadf9cf68443c00d323acee23882743372c5a4a068c2fb77a1806ea1e457d",
@@ -47,11 +47,13 @@
   "outputs\\f3_null_calibration.json": "8dad5a31a6659c386a9b15cfb4a88d12ce1d833895b106708fb85d92a5529f16",
   "outputs\\f3_null_distributions.npz": "d47b839431bea4b835c1cf3f3e63cf7dc4313ced47505d5c4334bd6e4c001f0a",
   "outputs\\f3_report.md": "2ae6eb2699a868a258c3cc47d38af446900c8ca5b3d9850e4c2ab39fdbe41531",
+  "outputs\\F4_MANIFEST.json": "35af3bdf9c6df9b0050984f1404ff40c192751013cde78c1101b1f299129d9bf",
   "outputs\\f4a_conditioned_null.json": "82a7aa8c7efc58b8c314506e2c03932473fc85229cf0ffc0115e4b838d52a255",
   "outputs\\f4a_null_distributions.npz": "80484fb8bc4d12ea01fb0c86552440fb0cdc4fc35f7e3f3fc35e182e60d335e3",
   "outputs\\f4b_blind_key_DO_NOT_OPEN.json": "5b7b24303b317f403b21f05ef05173771e57822d5a55c2889eda0da26538ded9",
   "outputs\\f4b_blind_sheet_SEAL.txt": "7a1d13a0304ca835fad355eb3aa356b679c25395d4e47d1b8485af3a9a925366",
   "outputs\\f4b_blind_sheet_SEALED.json": "87aec3caa02f4cd1841dc33caa3f6847066d6602171967ce5205da3a4b02cef6",
+  "outputs\\f4b_v1_performance.json": "512fbbb83caae4dc604b35cb39e631ac0099f804dbce906b5288b61ea8c33a57",
   "outputs\\f4c_external_gold_SEAL.txt": "473e43ff097ed660f5b6d68a1e5393bffe3a725499655349a64a35aff63d2077",
   "outputs\\f4c_external_gold_SEALED.json": "fe4e2b6bdb34e0e83737fc84ab7a43cd9a3e71827a82a16758437c1f8ba8e3d8",
   "outputs\\f4c_recovery_results.json": "ff99c911fc10f9c90c64b883a9df22fa16ac864be7b4f348d26ed2fc4a726de0",
@@ -68,9 +70,16 @@
   "src\\f3_null_calibration.py": "7d580c1a62fc848d5408ee925d52f258c418712a559d0b7bf1a9af50c3622ef9",
   "src\\f4a_conditioned_null.py": "fd63fe9bba668207665f2505853881779fa1c9b760248545409146ef3b6f1bd5",
   "src\\f4b_build_blind_sample.py": "e9fd97e4bff07a48ba6d797713af2f734692de0b281cd24f6ee48882b54ea87a",
+  "src\\f4b_integrate_adjudication.py": "74bc26490d565c4c5a4cea67992b2bea50ff746fdc145db7914349da629c7cde",
   "src\\f4c_build_external_gold.py": "8605f728bc23af32d24af546d6a7327065b44f5773501c2627dd809a3529a4cb",
   "src\\f4c_measure_recovery.py": "9e534c1e653613eaa48fbb959403773b7b2c8e98e69faad196862a6f39bdf0dc",
   "src\\f4d_only_emb.py": "72b61a91d5b2749d27a7a6ad4ea1238a603f16c46433c6c9c5cb31bcdce48e8e",
-  "src\\f4d_stability.py": "890698e8996f2023021219f2120242f7625a1d7965e44280a8cdd81d9279e1d5"
+  "src\\f4d_stability.py": "890698e8996f2023021219f2120242f7625a1d7965e44280a8cdd81d9279e1d5",
+  "V1_PERFORMANCE_FINAL_2026_07_22.md": "1b87cc42642bfcef603d865a068d345da7deeac2d0cdc184d400204283345897",
+  "validacion\\EXPERT_AI_ADJUDICATION_MANIFEST.json": "bd8795073cde1cea5dc6d77efe29cb14b4e63e01c29d284491e40d28289f3eb1",
+  "validacion\\EXPERT_AI_ADJUDICATION_METHOD_REPORT.md": "bddb9a1a05d9c35432dceaee8490d8768818924aaad041eaa0b5874f8572da2c",
+  "validacion\\HEBRA_F4B_EXPERT_AI_ADJUDICATION_BLIND.csv": "f80f8ca89403dbeaf460c791f6dc528ab3ab72999ae98cccf12af91e4a5d3fa8",
+  "validacion\\HEBRA_F4B_EXPERT_AI_ADJUDICATION_BLIND.json": "fd5a7a222e65c631c46cabf0d9f6eb3162a3e68ecd13f6e616e8f262fb91f5bb",
+  "validacion\\HEBRA_F4B_EXPERT_AI_HIGH_CONFIDENCE.csv": "f9ba18ed5e4ed4aa99d518b8079764d1a12a603ec49e67a4ec3c3f350d8e85bf"
  }
 }

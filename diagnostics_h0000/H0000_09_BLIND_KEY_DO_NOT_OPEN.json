@@ -1,0 +1,631 @@
+{
+ "protocolo": {
+  "integracion": "1) adjudicadores externos (>=2 IA + humano si disponible) completan la hoja sin la clave; 2) se congelan veredictos con hash; 3) solo entonces se cruza con la clave; 4) intra vs inter por algoritmo decide H_split/H_keep; 5) desacuerdos van a cola focalizada."
+ },
+ "clave": {
+  "H000": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1943",
+   "b": "1108"
+  },
+  "H001": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1937",
+   "b": "6384"
+  },
+  "H002": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1275",
+   "b": "1281"
+  },
+  "H003": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1887",
+   "b": "1904"
+  },
+  "H004": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1691",
+   "b": "1872"
+  },
+  "H005": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1470",
+   "b": "1515"
+  },
+  "H006": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1887",
+   "b": "1911"
+  },
+  "H007": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1934",
+   "b": "6380"
+  },
+  "H008": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1260",
+   "b": "2206"
+  },
+  "H009": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1910",
+   "b": "2210"
+  },
+  "H010": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1551",
+   "b": "1576"
+  },
+  "H011": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1569",
+   "b": "1904"
+  },
+  "H012": {
+   "estrato": "largo",
+   "detalle": "largo_bajo_embed",
+   "a": "271",
+   "b": "2041"
+  },
+  "H013": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1005",
+   "b": "1936"
+  },
+  "H014": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1846",
+   "b": "1900"
+  },
+  "H015": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1954",
+   "b": "2209"
+  },
+  "H016": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1871",
+   "b": "9084"
+  },
+  "H017": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1852",
+   "b": "2209"
+  },
+  "H018": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1225",
+   "b": "1972"
+  },
+  "H019": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1157",
+   "b": "1887"
+  },
+  "H020": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1176",
+   "b": "1573"
+  },
+  "H021": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "2163",
+   "b": "2206"
+  },
+  "H022": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1162",
+   "b": "1852"
+  },
+  "H023": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1244",
+   "b": "2210"
+  },
+  "H024": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1275",
+   "b": "271"
+  },
+  "H025": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1152",
+   "b": "1909"
+  },
+  "H026": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1860",
+   "b": "1923"
+  },
+  "H027": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1732",
+   "b": "1860"
+  },
+  "H028": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1872",
+   "b": "1888"
+  },
+  "H029": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "105",
+   "b": "18021"
+  },
+  "H030": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1535",
+   "b": "1902"
+  },
+  "H031": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1889",
+   "b": "1899"
+  },
+  "H032": {
+   "estrato": "largo",
+   "detalle": "largo_bajo_embed",
+   "a": "1157",
+   "b": "2206"
+  },
+  "H033": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "2041",
+   "b": "271"
+  },
+  "H034": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "73",
+   "b": "105"
+  },
+  "H035": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1065",
+   "b": "1954"
+  },
+  "H036": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1889",
+   "b": "2018"
+  },
+  "H037": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1732",
+   "b": "1917"
+  },
+  "H038": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1933",
+   "b": "41"
+  },
+  "H039": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1218",
+   "b": "983"
+  },
+  "H040": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1576",
+   "b": "301"
+  },
+  "H041": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1906",
+   "b": "1536"
+  },
+  "H042": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1233",
+   "b": "1232"
+  },
+  "H043": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1919",
+   "b": "1920"
+  },
+  "H044": {
+   "estrato": "largo",
+   "detalle": "largo_bajo_embed",
+   "a": "970",
+   "b": "1915"
+  },
+  "H045": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1229",
+   "b": "1888"
+  },
+  "H046": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1005",
+   "b": "1936"
+  },
+  "H047": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1661",
+   "b": "1840"
+  },
+  "H048": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1149",
+   "b": "1232"
+  },
+  "H049": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1550",
+   "b": "73"
+  },
+  "H050": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1941",
+   "b": "1571"
+  },
+  "H051": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1930",
+   "b": "301"
+  },
+  "H052": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1173",
+   "b": "1859"
+  },
+  "H053": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1773",
+   "b": "8538"
+  },
+  "H054": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "2209",
+   "b": "39"
+  },
+  "H055": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1481",
+   "b": "1726"
+  },
+  "H056": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1244",
+   "b": "2209"
+  },
+  "H057": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1930",
+   "b": "6416"
+  },
+  "H058": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1242",
+   "b": "983"
+  },
+  "H059": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1919",
+   "b": "1920"
+  },
+  "H060": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1704",
+   "b": "1912"
+  },
+  "H061": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1233",
+   "b": "73"
+  },
+  "H062": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1064",
+   "b": "1169"
+  },
+  "H063": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1153",
+   "b": "2163"
+  },
+  "H064": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1946",
+   "b": "8538"
+  },
+  "H065": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1064",
+   "b": "978"
+  },
+  "H066": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1177",
+   "b": "1237"
+  },
+  "H067": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1152",
+   "b": "1910"
+  },
+  "H068": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1943",
+   "b": "1945"
+  },
+  "H069": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1260",
+   "b": "1279"
+  },
+  "H070": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1945",
+   "b": "1936"
+  },
+  "H071": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1157",
+   "b": "18021"
+  },
+  "H072": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1917",
+   "b": "6380"
+  },
+  "H073": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1176",
+   "b": "1951"
+  },
+  "H074": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1205",
+   "b": "1932"
+  },
+  "H075": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1205",
+   "b": "1932"
+  },
+  "H076": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1656",
+   "b": "1860"
+  },
+  "H077": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1885",
+   "b": "1913"
+  },
+  "H078": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1773",
+   "b": "188"
+  },
+  "H079": {
+   "estrato": "intra",
+   "detalle": "leiden_mod",
+   "a": "1972",
+   "b": "983"
+  },
+  "H080": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1130",
+   "b": "1874"
+  },
+  "H081": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1088",
+   "b": "41"
+  },
+  "H082": {
+   "estrato": "largo",
+   "detalle": "largo_bajo_embed",
+   "a": "9084",
+   "b": "1871"
+  },
+  "H083": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1852",
+   "b": "1913"
+  },
+  "H084": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1915",
+   "b": "2163"
+  },
+  "H085": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1232",
+   "b": "1868"
+  },
+  "H086": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1275",
+   "b": "2120"
+  },
+  "H087": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1152",
+   "b": "1205"
+  },
+  "H088": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1065",
+   "b": "1173"
+  },
+  "H089": {
+   "estrato": "intra",
+   "detalle": "infomap",
+   "a": "1930",
+   "b": "2209"
+  },
+  "H090": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1470",
+   "b": "1661"
+  },
+  "H091": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1859",
+   "b": "2018"
+  },
+  "H092": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "6416",
+   "b": "970"
+  },
+  "H093": {
+   "estrato": "inter",
+   "detalle": "louvain",
+   "a": "1913",
+   "b": "1954"
+  },
+  "H094": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1205",
+   "b": "1225"
+  },
+  "H095": {
+   "estrato": "intra",
+   "detalle": "louvain",
+   "a": "1872",
+   "b": "1890"
+  },
+  "H096": {
+   "estrato": "inter",
+   "detalle": "leiden_cpm",
+   "a": "1986",
+   "b": "9084"
+  },
+  "H097": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1910",
+   "b": "1954"
+  },
+  "H098": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "1943",
+   "b": "1938"
+  },
+  "H099": {
+   "estrato": "intra",
+   "detalle": "leiden_cpm",
+   "a": "1065",
+   "b": "1909"
+  },
+  "H100": {
+   "estrato": "inter",
+   "detalle": "infomap",
+   "a": "1868",
+   "b": "1893"
+  },
+  "H101": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1088",
+   "b": "1225"
+  },
+  "H102": {
+   "estrato": "inter",
+   "detalle": "leiden_mod",
+   "a": "1229",
+   "b": "1930"
+  },
+  "H103": {
+   "estrato": "puente",
+   "detalle": "puente",
+   "a": "6384",
+   "b": "1946"
+  }
+ }
+}
