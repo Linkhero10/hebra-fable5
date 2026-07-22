@@ -1,0 +1,1222 @@
+{
+ "generated_utc": "2026-07-22T14:13:32.137567+00:00",
+ "seed": 42,
+ "edges": [
+  {
+   "pair_id": "E000",
+   "doc_a": {
+    "id": "1770",
+    "fecha": "2018-01-19",
+    "titulo": "Comunicado Público Comunidades Valle del Huasco tras cierre definitivo de Pascua Lama"
+   },
+   "doc_b": {
+    "id": "1778",
+    "fecha": "2020-08-09",
+    "titulo": "Sacerdote realiza caminata de 100km para evitar la aprobación del proyecto Pascua Lama"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E001",
+   "doc_a": {
+    "id": "616",
+    "fecha": "2022-06-22",
+    "titulo": "Cierre de una fundición en Chile: rechazo y paro masivo de trabajadores. ¿Qué pasa con Boric?"
+   },
+   "doc_b": {
+    "id": "3253",
+    "fecha": "2023-05-31",
+    "titulo": "Entre el progreso y la crisis medioambiental: Fundición Ventanas inició cierre de operaciones tras 58 años de actividad"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E002",
+   "doc_a": {
+    "id": "22359",
+    "fecha": "2022-06-26",
+    "titulo": "Las lecciones que deja el mal manejo del cierre de Ventanas"
+   },
+   "doc_b": {
+    "id": "3260",
+    "fecha": "2023-05-18",
+    "titulo": "Sernageomin autoriza a Codelco el cierre de la fundición Ventanas"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E003",
+   "doc_a": {
+    "id": "22309",
+    "fecha": "2022-06-20",
+    "titulo": "Pacheco defiende cierre de fundición Ventanas en carta a trabajadores de Codelco: “Esta no ha sido una decisión fácil”"
+   },
+   "doc_b": {
+    "id": "6746",
+    "fecha": "2023-05-31",
+    "titulo": "El pesar de los trabajadores de la fundición Ventanas de Codelco tras su cierre: “Es un día triste”"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E004",
+   "doc_a": {
+    "id": "18296",
+    "fecha": "2025-06-11",
+    "titulo": "Corte de Apelaciones acoge recursos en caso de extracción irregular de aguas en el río Laja"
+   },
+   "doc_b": {
+    "id": "8036",
+    "fecha": "2025-05-19",
+    "titulo": "Río Laja: cuestionan rol de la DGA en conflicto por derechos de agua"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E005",
+   "doc_a": {
+    "id": "4083",
+    "fecha": "2022-10-11",
+    "titulo": "Padre de Boric defendió \"como magallánico\" sus críticas a Seremi por exigencias a proyecto eólico"
+   },
+   "doc_b": {
+    "id": "5713",
+    "fecha": "2023-12-14",
+    "titulo": "HIF y Enel Green Power reingresan a trámite ambiental megaproyecto eólico en Magallanes por US$500 millones"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E006",
+   "doc_a": {
+    "id": "1688",
+    "fecha": "2024-12-17",
+    "titulo": "Chilenos rechazan frente a La Moneda proyecto minero Dominga"
+   },
+   "doc_b": {
+    "id": "16792",
+    "fecha": "2024-12-30",
+    "titulo": "“Espero que rechacen de nuevo el proyecto Dominga, así nos dejamos de joder con esto”"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E007",
+   "doc_a": {
+    "id": "5393",
+    "fecha": "2025-11-07",
+    "titulo": "Más de 670 observaciones ciudadanas recibe megaproyecto de hidrógeno verde en Magallanes"
+   },
+   "doc_b": {
+    "id": "5881",
+    "fecha": "2025-08-23",
+    "titulo": "Ochocientas observaciones cuestionan megaproyecto de hidrógeno verde en San Gregorio"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E008",
+   "doc_a": {
+    "id": "1663",
+    "fecha": "2023-12-20",
+    "titulo": "Dominga: duro cruce entre Andes Iron y Oceana marcó el alegato ante el Tribunal Ambiental de Antofagasta"
+   },
+   "doc_b": {
+    "id": "15148",
+    "fecha": "2023-01-18",
+    "titulo": "Tras rechazo a Dominga, Gobierno promete ayuda de $600 mil millones a La Higuera mientras empresa anuncia recurrir a Tribunal Ambiental"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E009",
+   "doc_a": {
+    "id": "6723",
+    "fecha": "2022-07-16",
+    "titulo": "El «cierre» de la fundición Ventanas en Chile"
+   },
+   "doc_b": {
+    "id": "7234",
+    "fecha": "2022-08-09",
+    "titulo": "Gobierno envía al Congreso proyecto que viabiliza el cierre de la Fundición Ventanas de Codelco"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E010",
+   "doc_a": {
+    "id": "3230",
+    "fecha": "2022-07-03",
+    "titulo": "Chile: Fundición Ventanas reabre a la espera de su clausura"
+   },
+   "doc_b": {
+    "id": "6740",
+    "fecha": "2022-06-17",
+    "titulo": "Codelco anuncia cierre de fundición Ventanas tras contaminación ambiental en Puchuncaví-Quintero"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E011",
+   "doc_a": {
+    "id": "943",
+    "fecha": "2018-04-10",
+    "titulo": "ISP confirma que 14 niños y 7 adultos de escuela de Coronel están contaminados con metales pesados"
+   },
+   "doc_b": {
+    "id": "972",
+    "fecha": "2017-06-20",
+    "titulo": "Formalizarán a funcionarios de Enel por contaminación de termoeléctrica Bocamina"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E012",
+   "doc_a": {
+    "id": "903",
+    "fecha": "2019-01-04",
+    "titulo": "Cierre de centrales Bocamina: Historia de la lucha de vecinos de Coronel que duró 50 años"
+   },
+   "doc_b": {
+    "id": "2623",
+    "fecha": "2019-04-26",
+    "titulo": "Vertedero de cenizas de termoeléctrica Bocamina es cerrado por el municipio de Coronel"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E013",
+   "doc_a": {
+    "id": "1676",
+    "fecha": "2025-05-20",
+    "titulo": "Andes Iron comienza a tramitar más de 700 permisos para construir proyecto Dominga"
+   },
+   "doc_b": {
+    "id": "19052",
+    "fecha": "2025-12-03",
+    "titulo": "MMA: decisión sobre proyecto Dominga compete a Comité de Ministros que ya lo rechazó en enero"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E014",
+   "doc_a": {
+    "id": "17227",
+    "fecha": "2025-04-03",
+    "titulo": "Se acaba el plazo para presentar observaciones al proyecto INNA: Iniciativa pone en riesgo al observatorio Paranal"
+   },
+   "doc_b": {
+    "id": "5019",
+    "fecha": "2026-01-23",
+    "titulo": "AES Andes desiste de megaproyecto de hidrógeno verde en Chile al que se opusieron observatorios astronómicos y José Antonio Kast"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E015",
+   "doc_a": {
+    "id": "22182",
+    "fecha": "2018-04-03",
+    "titulo": "Comunidades de San Fabián de Alico luchan por preservar el Río Ñuble"
+   },
+   "doc_b": {
+    "id": "22190",
+    "fecha": "2016-04-13",
+    "titulo": "El valle del Ñuble bajo amenaza"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E016",
+   "doc_a": {
+    "id": "4505",
+    "fecha": "2024-08-07",
+    "titulo": "SMA formula cargos contra titular del proyecto Parques Eólicos Statkraft Litueche"
+   },
+   "doc_b": {
+    "id": "4507",
+    "fecha": "2023-09-21",
+    "titulo": "Tribunal paraliza obras de tres parques eólicos de Statkraft por no “descartar los efectos del ruido en la población”"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E017",
+   "doc_a": {
+    "id": "7145",
+    "fecha": "2023-04-28",
+    "titulo": "Los Bronces Integrado: ambientalistas prevén daño irreversible a los ecosistemas"
+   },
+   "doc_b": {
+    "id": "7171",
+    "fecha": "2024-01-17",
+    "titulo": "Modatima y Greenpeace presentan recurso de invalidación contra proyecto Los Bronces Integrado de Angloamerican"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E018",
+   "doc_a": {
+    "id": "616",
+    "fecha": "2022-06-22",
+    "titulo": "Cierre de una fundición en Chile: rechazo y paro masivo de trabajadores. ¿Qué pasa con Boric?"
+   },
+   "doc_b": {
+    "id": "6737",
+    "fecha": "2022-06-17",
+    "titulo": "Protestas en Quintero tras anuncio de cierre progresivo de Fundición Ventanas"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E019",
+   "doc_a": {
+    "id": "5564",
+    "fecha": "2024-07-31",
+    "titulo": "Megaproyecto de amoníaco verde en Magallanes por US$11.000 supera su primera valla y es admitido a trámite ambiental"
+   },
+   "doc_b": {
+    "id": "5572",
+    "fecha": "2024-09-23",
+    "titulo": "Las cifras tras el millonario proyecto de amoniaco verde que promete revolucionar Magallanes"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E020",
+   "doc_a": {
+    "id": "11969",
+    "fecha": "2023-01-16",
+    "titulo": "Vecinas/os de Hualpén exigen al Serviu y ENAP relocalización y mejoras en subsidios tras años expuestos a contaminación"
+   },
+   "doc_b": {
+    "id": "12014",
+    "fecha": "2022-11-28",
+    "titulo": "Hualpén: SMA deberá informar a justicia sobre chimenea de ENAP denunciada como factor contaminante"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E021",
+   "doc_a": {
+    "id": "5393",
+    "fecha": "2025-11-07",
+    "titulo": "Más de 670 observaciones ciudadanas recibe megaproyecto de hidrógeno verde en Magallanes"
+   },
+   "doc_b": {
+    "id": "5555",
+    "fecha": "2025-05-08",
+    "titulo": "La producción de amoniaco verde que impulsa TE H2 en Chile entra en evaluación ambiental"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E022",
+   "doc_a": {
+    "id": "3230",
+    "fecha": "2022-07-03",
+    "titulo": "Chile: Fundición Ventanas reabre a la espera de su clausura"
+   },
+   "doc_b": {
+    "id": "3232",
+    "fecha": "2022-06-18",
+    "titulo": "Ventanas llega a su fin: esta es la historia de la cuestionada y polémica fundición"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E023",
+   "doc_a": {
+    "id": "17275",
+    "fecha": "2025-03-25",
+    "titulo": "Los cinco \"juicios\" que lleva el caso Dominga: Andes Iron acusa \"maniobra dilatoria\""
+   },
+   "doc_b": {
+    "id": "19050",
+    "fecha": "2025-05-17",
+    "titulo": "Dominga pasa a la ofensiva y empieza a tramitar más de 700 permisos para construir su esperado proyecto"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E024",
+   "doc_a": {
+    "id": "3246",
+    "fecha": "2023-06-03",
+    "titulo": "Cierre oficial de Fundición Ventanas en Chile, fin de zona industrial contaminante"
+   },
+   "doc_b": {
+    "id": "7235",
+    "fecha": "2023-05-31",
+    "titulo": "[VIDEO] El histórico cierre de la Fundición Ventanas en Puchuncaví"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E025",
+   "doc_a": {
+    "id": "6722",
+    "fecha": "2022-06-22",
+    "titulo": "Cómo el cierre de la fundición de Ventanas enrareció el ambiente entre los habitantes de Quintero y Puchuncaví"
+   },
+   "doc_b": {
+    "id": "6737",
+    "fecha": "2022-06-17",
+    "titulo": "Protestas en Quintero tras anuncio de cierre progresivo de Fundición Ventanas"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E026",
+   "doc_a": {
+    "id": "22360",
+    "fecha": "2022-06-19",
+    "titulo": "TRABAJADORES Y SUS FAMILIARES INICIAN PROTESTAS Y MARCHAS CONTRA EL CIERRE DE LA FUNDICIÓN VENTANAS"
+   },
+   "doc_b": {
+    "id": "3244",
+    "fecha": "2023-05-30",
+    "titulo": "Cierre de Fundición Ventanas: 58% de trabajadores opta por plan de egreso"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E027",
+   "doc_a": {
+    "id": "563",
+    "fecha": "2022-04-12",
+    "titulo": "Chile: 55 varamientos de carbón se han registrado en playa Ventanas en los últimos nueve meses"
+   },
+   "doc_b": {
+    "id": "2305",
+    "fecha": "2024-12-13",
+    "titulo": "Gobierno revisará informe que atribuye más de 500 muertes por contaminación a termoeléctrica Ventanas"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E028",
+   "doc_a": {
+    "id": "7166",
+    "fecha": "2024-12-10",
+    "titulo": "Tribunal Ambiental de Antofagasta falló a favor de Dominga: anuló resolución de Comité de Ministros"
+   },
+   "doc_b": {
+    "id": "15148",
+    "fecha": "2023-01-18",
+    "titulo": "Tras rechazo a Dominga, Gobierno promete ayuda de $600 mil millones a La Higuera mientras empresa anuncia recurrir a Tribunal Ambiental"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E029",
+   "doc_a": {
+    "id": "3231",
+    "fecha": "2024-07-25",
+    "titulo": "Proceso puede tomar 10 años y se estima un costo de US$250 millones: El plan de cierre de la fundición Ventanas"
+   },
+   "doc_b": {
+    "id": "6749",
+    "fecha": "2024-05-14",
+    "titulo": "Codelco Ventanas expuso sobre el cierre de su Fundición en Congreso Internacional"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E030",
+   "doc_a": {
+    "id": "2037",
+    "fecha": "2026-02-13",
+    "titulo": "Codelco obtiene CEOL definitivo para desarrollo del litio en el Salar de Maricunga"
+   },
+   "doc_b": {
+    "id": "2069",
+    "fecha": "2025-07-18",
+    "titulo": "Salar de Maricunga de Codelco y Rio Tinto avanza: Ministerio confirma que contrato de operación de litio ingresó a Contraloría"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E031",
+   "doc_a": {
+    "id": "22360",
+    "fecha": "2022-06-19",
+    "titulo": "TRABAJADORES Y SUS FAMILIARES INICIAN PROTESTAS Y MARCHAS CONTRA EL CIERRE DE LA FUNDICIÓN VENTANAS"
+   },
+   "doc_b": {
+    "id": "3234",
+    "fecha": "2023-03-06",
+    "titulo": "Se aprueba proyecto de ley que habilita el cese de operaciones de la fundición Ventanas de Codelco"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E032",
+   "doc_a": {
+    "id": "6771",
+    "fecha": "2024-06-14",
+    "titulo": "Comité de Ministros: Mataquito presenta reclamación por rechazo de proyecto de transmisión de más de US$300 millones por parte del SEA"
+   },
+   "doc_b": {
+    "id": "7565",
+    "fecha": "2025-03-03",
+    "titulo": "Segundo mayor proyecto de transmisión eléctrica del país enfrenta críticas por impacto a anfibios y bosque nativo"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E033",
+   "doc_a": {
+    "id": "16188",
+    "fecha": "2023-08-08",
+    "titulo": "Hidrógeno Verde: Los avances y cuestionamientos de la nueva industria promesa de Chile | Fundación TERRAM"
+   },
+   "doc_b": {
+    "id": "5743",
+    "fecha": "2025-08-27",
+    "titulo": "GERENTE DE TOTALENERGIES H2 ANTOINE LIANE SOBRE LEY DE FOMENTO AL H2V “ESTA SEGUNDA PARTE DEL PROYECTO DE LEY PERJUDICA A MAGALLANES, PERJUDICA A LOS PROYECTOS "
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E034",
+   "doc_a": {
+    "id": "1911",
+    "fecha": "2026-01-30",
+    "titulo": "S.E. el Presidente de la República, Gabriel Boric Font, se reúne con representantes de las comunidades del Consejo de Pueblos Atacameños"
+   },
+   "doc_b": {
+    "id": "1930",
+    "fecha": "2023-05-05",
+    "titulo": "Consejo de Pueblos Atacameños cuestiona Estrategia Nacional del Litio y emplaza al gobierno"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E035",
+   "doc_a": {
+    "id": "1686",
+    "fecha": "2024-12-27",
+    "titulo": "Piden rechazo definitivo de Dominga: Comunidades y organizaciones presentan recursos ante la Suprema"
+   },
+   "doc_b": {
+    "id": "19052",
+    "fecha": "2025-12-03",
+    "titulo": "MMA: decisión sobre proyecto Dominga compete a Comité de Ministros que ya lo rechazó en enero"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E036",
+   "doc_a": {
+    "id": "1676",
+    "fecha": "2025-05-20",
+    "titulo": "Andes Iron comienza a tramitar más de 700 permisos para construir proyecto Dominga"
+   },
+   "doc_b": {
+    "id": "7172",
+    "fecha": "2025-06-13",
+    "titulo": "TC valida atribuciones del Tribunal Ambiental y destraba tramitación de Dominga"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E037",
+   "doc_a": {
+    "id": "3197",
+    "fecha": "2022-06-20",
+    "titulo": "Proteger la salud de las personas: el principal objetivo del cierre de la fundición Ventanas de Codelco"
+   },
+   "doc_b": {
+    "id": "7234",
+    "fecha": "2022-08-09",
+    "titulo": "Gobierno envía al Congreso proyecto que viabiliza el cierre de la Fundición Ventanas de Codelco"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E038",
+   "doc_a": {
+    "id": "1682",
+    "fecha": "2023-12-21",
+    "titulo": "Dominga: duro cruce entre Andes Iron y Oceana marcó el alegato ante el Tribunal Ambiental de Antofagasta"
+   },
+   "doc_b": {
+    "id": "1735",
+    "fecha": "2023-01-20",
+    "titulo": "Chile: rechazan el polémico proyecto minero Dominga de la empresa Andes Iron, ¿a qué se debe?"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E039",
+   "doc_a": {
+    "id": "2801",
+    "fecha": "2019-08-01",
+    "titulo": "Autoridades regionales participan del Monitoreo Marino Ambiental en la península Guacolda en Huasco."
+   },
+   "doc_b": {
+    "id": "2810",
+    "fecha": "2017-11-19",
+    "titulo": "Ya era hora: Termoeléctrica de Guacolda puso fin a elemento contaminante en Huasco"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E040",
+   "doc_a": {
+    "id": "2304",
+    "fecha": "2019-01-03",
+    "titulo": "El historial de conflictos ambientales de la termoeléctrica Bocamina en Lota y Coronel"
+   },
+   "doc_b": {
+    "id": "2719",
+    "fecha": "2020-05-27",
+    "titulo": "Enel adelanta el cierre de termoeléctricas Bocamina en Coronel"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E041",
+   "doc_a": {
+    "id": "7233",
+    "fecha": "2022-11-30",
+    "titulo": "Avanza proyecto que habilita cierre de la Fundición Ventanas tras aprobación en comisión del Senado"
+   },
+   "doc_b": {
+    "id": "7234",
+    "fecha": "2022-08-09",
+    "titulo": "Gobierno envía al Congreso proyecto que viabiliza el cierre de la Fundición Ventanas de Codelco"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E042",
+   "doc_a": {
+    "id": "22344",
+    "fecha": "2022-06-20",
+    "titulo": "Cierre de Ventanas: Boric sostiene reunión en La Moneda con presidente de Codelco y ministras del Medio Ambiente y Minería"
+   },
+   "doc_b": {
+    "id": "3211",
+    "fecha": "2024-05-09",
+    "titulo": "Cierre de Fundición Ventanas: Codelco afirma que terminó plan para reubicar a más de 350 trabajadores"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E043",
+   "doc_a": {
+    "id": "1154",
+    "fecha": "2011-05-14",
+    "titulo": "Más de 30.000 personas protestan en Chile contra un proyecto hidroeléctrico"
+   },
+   "doc_b": {
+    "id": "19019",
+    "fecha": "2011-06-10",
+    "titulo": "Marcha contra HidroAysén para este viernes 10 de junio"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E044",
+   "doc_a": {
+    "id": "3255",
+    "fecha": "2022-06-18",
+    "titulo": "Trabajadores de Codelco convocan a paralización de actividades para evitar cierre progresivo de fundición Ventanas"
+   },
+   "doc_b": {
+    "id": "3284",
+    "fecha": "2023-06-01",
+    "titulo": "El fin de una era: Cierran Fundición Ventanas"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E045",
+   "doc_a": {
+    "id": "5289",
+    "fecha": "2025-05-05",
+    "titulo": "TotalEnergies H2 ingresa proyecto de hidrógeno y amoníaco por US$ 16.000 millones a tramitación ambiental"
+   },
+   "doc_b": {
+    "id": "5421",
+    "fecha": "2025-05-06",
+    "titulo": "Megainversión en hidrógeno verde: El proyecto de TotalEnergies que generaría 10 mil empleos en Chile"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E046",
+   "doc_a": {
+    "id": "2188",
+    "fecha": "2024-07-05",
+    "titulo": "El fantasma de los Andes está en peligro"
+   },
+   "doc_b": {
+    "id": "6004",
+    "fecha": "2024-04-18",
+    "titulo": "Intervención de Greenpeace contra el impacto de la minería en los glaciares en Santiago"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E047",
+   "doc_a": {
+    "id": "3197",
+    "fecha": "2022-06-20",
+    "titulo": "Proteger la salud de las personas: el principal objetivo del cierre de la fundición Ventanas de Codelco"
+   },
+   "doc_b": {
+    "id": "3275",
+    "fecha": "2022-06-17",
+    "titulo": "Codelco aprueba el cierre de la fundición Ventanas: Boric estima que tardará cinco años y promete mantener puestos de trabajo"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E048",
+   "doc_a": {
+    "id": "1638",
+    "fecha": "2021-04-21",
+    "titulo": "Pescadores de La Higuera se oponen a minera Dominga"
+   },
+   "doc_b": {
+    "id": "15142",
+    "fecha": "2021-08-11",
+    "titulo": "Dos manifestaciones se registran en La Serena y Coquimbo en rechazo a aprobación de proyecto Dominga"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E049",
+   "doc_a": {
+    "id": "5466",
+    "fecha": "2026-01-24",
+    "titulo": "Taltal: AES Andes cancela proyecto INNA y reordena apuesta energética"
+   },
+   "doc_b": {
+    "id": "5591",
+    "fecha": "2024-12-20",
+    "titulo": "AES Chile ingresa al SEA Evaluación de Impacto Ambiental del proyecto INNA"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E050",
+   "doc_a": {
+    "id": "1065",
+    "fecha": "2025-11-20",
+    "titulo": "Comunidades atacameñas en alerta por la Estrategia Nacional del Litio: “Si no tenemos agua, estamos muertos como pueblo”"
+   },
+   "doc_b": {
+    "id": "1911",
+    "fecha": "2026-01-30",
+    "titulo": "S.E. el Presidente de la República, Gabriel Boric Font, se reúne con representantes de las comunidades del Consejo de Pueblos Atacameños"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E051",
+   "doc_a": {
+    "id": "2932",
+    "fecha": "2023-06-01",
+    "titulo": "El cierre de la emblemática chimenea de Ventanas, símbolo de las \"zonas de sacrificio\" ambientales en Chile"
+   },
+   "doc_b": {
+    "id": "3223",
+    "fecha": "2022-07-05",
+    "titulo": "Las diferentes posturas frente al cierre de la Fundición Ventanas de Codelco en Quintero"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E052",
+   "doc_a": {
+    "id": "6386",
+    "fecha": "2020-03-23",
+    "titulo": "Marcela Mella, ecologista chilena: “La clase política no tiene voluntad para parar Alto Maipo”"
+   },
+   "doc_b": {
+    "id": "6439",
+    "fecha": "2019-04-15",
+    "titulo": "#MaipoChallenge: la campaña en redes sociales que se opone a Alto Maipo"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E053",
+   "doc_a": {
+    "id": "11687",
+    "fecha": "2022-10-01",
+    "titulo": "Proyectan 5 años para decidir nuevo uso de Bocamina II: Energía busca mesa de trabajo"
+   },
+   "doc_b": {
+    "id": "2709",
+    "fecha": "2022-09-30",
+    "titulo": "Una década de multas, paros y daños ambientales: el cierre de Bocamina II, \"la gigante carbonífera\""
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E054",
+   "doc_a": {
+    "id": "1591",
+    "fecha": "2024-12-27",
+    "titulo": "Organizaciones locales y civiles de La Higuera recurren a la Corte Suprema para frenar Dominga"
+   },
+   "doc_b": {
+    "id": "7215",
+    "fecha": "2025-02-18",
+    "titulo": "La historia sin fin de Dominga: “inédita e ilegal” actuación del tribunal acusan organizaciones"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E055",
+   "doc_a": {
+    "id": "1196",
+    "fecha": "2015-01-27",
+    "titulo": "Socavón en puente del Cajón enfrenta a vecinos con Alto Maipo"
+   },
+   "doc_b": {
+    "id": "6438",
+    "fecha": "2015-01-13",
+    "titulo": "El polémico proyecto Alto Maipo, bajo fuego cruzado"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E056",
+   "doc_a": {
+    "id": "19502",
+    "fecha": "2022-06-18",
+    "titulo": "Cierre de Codelco Ventanas: ¿Qué son las zonas de sacrificio y cuántas hay en Chile?"
+   },
+   "doc_b": {
+    "id": "22344",
+    "fecha": "2022-06-20",
+    "titulo": "Cierre de Ventanas: Boric sostiene reunión en La Moneda con presidente de Codelco y ministras del Medio Ambiente y Minería"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E057",
+   "doc_a": {
+    "id": "978",
+    "fecha": "2023-05-05",
+    "titulo": "Consejo de Pueblos Atacameños rechazó Estrategia Nacional del Litio"
+   },
+   "doc_b": {
+    "id": "1972",
+    "fecha": "2023-06-30",
+    "titulo": "Consejo de Atacameños se resta de reunión entre pueblos originarios y el presidente Boric por la Estrategia Nacional del Litio"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E058",
+   "doc_a": {
+    "id": "1640",
+    "fecha": "2023-01-18",
+    "titulo": "La Minuta PM: Comité de Ministros rechaza Proyecto Dominga: Las reacciones de vecinos de La Higuera tras resolución del Ejecutivo"
+   },
+   "doc_b": {
+    "id": "1689",
+    "fecha": "2024-12-22",
+    "titulo": "No a Dominga. Declaración pública de profesionales del área social y ciencias sociales"
+   },
+   "veredicto": ""
+  },
+  {
+   "pair_id": "E059",
+   "doc_a": {
+    "id": "22183",
+    "fecha": "2024-03-03",
+    "titulo": "Traspié del proyecto Embalse La Punilla abre interrogantes sobre proceso de licitación"
+   },
+   "doc_b": {
+    "id": "22216",
+    "fecha": "2025-06-16",
+    "titulo": "Contraloría exige a la SMA fallo urgente por desalojos en Punilla"
+   },
+   "veredicto": ""
+  }
+ ],
+ "threads": [
+  {
+   "thread_id": "H0025",
+   "docs": [
+    {
+     "id": "5939",
+     "fecha": "2015-08-05",
+     "titulo": "Otro edil en contra: Alcalde de Los Lagos ratifica rechazo a hidroeléctrica de Colbún en el río San Pedro"
+    },
+    {
+     "id": "6286",
+     "fecha": "2018-08-03",
+     "titulo": "La comunidad mapuche busca defender su río sagrado de la construcción de una represa"
+    },
+    {
+     "id": "15112",
+     "fecha": "2019-12-11",
+     "titulo": "Represa en el río San Pedro (Calle-Calle): un proyecto peligroso"
+    },
+    {
+     "id": "17104",
+     "fecha": "2019-12-13",
+     "titulo": "Represa de los Matte en río San Pedro continúa quinta evaluación ambiental con el rechazo de comunidades y cuestionamiento científico – Fundación Terram"
+    },
+    {
+     "id": "6038",
+     "fecha": "2020-10-01",
+     "titulo": "Extienden plazo para que Colbún entregue respuestas a observaciones de hidroeléctrica en río San Pedro"
+    },
+    {
+     "id": "6023",
+     "fecha": "2021-02-17",
+     "titulo": "La gran amenaza a la cuenca del río Valdivia: Central Hidroeléctrica San Pedro"
+    },
+    {
+     "id": "5929",
+     "fecha": "2021-07-02",
+     "titulo": "Los Ríos: tres alcaldes firman acuerdo en rechazo a proyecto de hidroeléctrica en río San Pedro"
+    },
+    {
+     "id": "1511",
+     "fecha": "2021-12-02",
+     "titulo": "Animación de la Mesa Ciudadana por un río San Pedro sin Represas refuerza la protección del río San Pedro, en Chile"
+    },
+    {
+     "id": "6022",
+     "fecha": "2022-09-21",
+     "titulo": "No habrá hidroeléctrica en río San Pedro: Colbún desiste de proyecto tras 12 años de tramitación"
+    },
+    {
+     "id": "6019",
+     "fecha": "2023-01-03",
+     "titulo": "Río San Pedro y el cierre de una hidroeléctrica inconclusa: ¿qué camino propone Colbún S.A. para la retirada?"
+    }
+   ],
+   "docs_total": 10,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0097",
+   "docs": [
+    {
+     "id": "15961",
+     "fecha": "2016-02-17",
+     "titulo": "Comunidades costeras rechazan parque eólico en “la selva valdiviana”"
+    },
+    {
+     "id": "4634",
+     "fecha": "2016-02-17",
+     "titulo": "Proyecto de Parque Eólico Pililín es rechazado por dirigentes sociales del sector costero de Valdivia"
+    },
+    {
+     "id": "15966",
+     "fecha": "2016-02-25",
+     "titulo": "Proyecto Parque Eólico Pililín: Comunidades mapuche y concejales exigen rápido pronunciamiento de alcalde"
+    },
+    {
+     "id": "15965",
+     "fecha": "2016-11-27",
+     "titulo": "Machi Paola espera que el Gobierno se pronuncie por el proyecto Parque Eólico Pililín"
+    }
+   ],
+   "docs_total": 4,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0071",
+   "docs": [
+    {
+     "id": "9093",
+     "fecha": "2025-02-09",
+     "titulo": "Bosque talado y pisoteando acuerdo internacional: avanza construcción de Central Rucalhue con venia del gobierno"
+    },
+    {
+     "id": "5993",
+     "fecha": "2025-04-21",
+     "titulo": "Será la quinta hidroeléctrica en el Biobío y taló árboles amenazados: La historia ambiental de Rucalhue"
+    },
+    {
+     "id": "5988",
+     "fecha": "2025-05-08",
+     "titulo": "Acciones judiciales buscan frenar la construcción de una quinta central hidroeléctrica en el Río Biobío"
+    },
+    {
+     "id": "9095",
+     "fecha": "2025-06-27",
+     "titulo": "Militarización y extractivismo. Movilización mapuche contra Centrales Hidroeléctricas Rucalhue y Pilmaiquén"
+    },
+    {
+     "id": "5911",
+     "fecha": "2025-11-11",
+     "titulo": "Rucalhue Energía ordena auditoría tras paro en obras de central hidroeléctrica"
+    }
+   ],
+   "docs_total": 5,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0116",
+   "docs": [
+    {
+     "id": "708",
+     "fecha": "2025-10-07",
+     "titulo": "“Transición Injusta”: documental de Chao Carbón denuncia falsas soluciones en la descarbonización y deudas pendientes con territorios sacrificados"
+    },
+    {
+     "id": "5050",
+     "fecha": "2025-10-07",
+     "titulo": "“Transición Injusta”: el nuevo documental de Chao Carbón que denuncia falsas soluciones en la descarbonización chilena"
+    },
+    {
+     "id": "2901",
+     "fecha": "2025-10-08",
+     "titulo": "Transición Injusta: nuevo documental de Chao Carbón revela que la descarbonización en Chile avanza con falsas soluciones y deudas pendientes"
+    }
+   ],
+   "docs_total": 3,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0162",
+   "docs": [
+    {
+     "id": "2767",
+     "fecha": "2016-11-22",
+     "titulo": "Seremi de Salud multa nuevamente a Endesa y contratista por asbesto en Bocamina de Coronel"
+    },
+    {
+     "id": "2369",
+     "fecha": "2017-02-14",
+     "titulo": "Alejandro Navarro encabezó protesta de trabajadores en termoeléctrica Bocamina 1"
+    },
+    {
+     "id": "2746",
+     "fecha": "2017-04-04",
+     "titulo": "Aplican millonaria multa a Bocamina 1 de Coronel por violar norma de emisiones"
+    }
+   ],
+   "docs_total": 3,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0093",
+   "docs": [
+    {
+     "id": "17259",
+     "fecha": "2025-07-04",
+     "titulo": "Se admiten a trámite dos reclamaciones en contra de la declaratoria del Humedal Urbano del río Loa"
+    },
+    {
+     "id": "7203",
+     "fecha": "2025-07-08",
+     "titulo": "Tribunal Ambiental admite a trámite dos reclamaciones contra la declaratoria de Humedal Urbano del río Loa"
+    },
+    {
+     "id": "8044",
+     "fecha": "2025-07-17",
+     "titulo": "Río más largo de Chile en disputa: Declararon al Loa como humedal pero minería busca revertir la decisión"
+    },
+    {
+     "id": "17265",
+     "fecha": "2025-11-19",
+     "titulo": "Primer Tribunal Ambiental revisa en audiencia reclamaciones contra declaratoria del Humedal Urbano Río Loa"
+    }
+   ],
+   "docs_total": 4,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0041",
+   "docs": [
+    {
+     "id": "869",
+     "fecha": "2019-07-15",
+     "titulo": "Es urgente el cierre de las termoeléctricas de Quintero-Puchuncaví y el fin de las zonas de sacrificio"
+    },
+    {
+     "id": "8644",
+     "fecha": "2019-07-30",
+     "titulo": "Greenpeace sorprende con enormes proyecciones digitales y pide cierre inmediato de termoeléctricas en Quintero-Puchuncaví"
+    },
+    {
+     "id": "3096",
+     "fecha": "2019-08-21",
+     "titulo": "Greenpeace enciende la alarma en pleno Paseo Ahumada: “A un año de las intoxicaciones en Quintero-Puchuncaví el gobierno sigue perpetuando los episodios crítico"
+    },
+    {
+     "id": "867",
+     "fecha": "2019-10-09",
+     "titulo": "Declaración Greenpeace por amenazas a Katta Alonso, Mujeres en Zona de Sacrificio"
+    },
+    {
+     "id": "2995",
+     "fecha": "2020-03-05",
+     "titulo": "Greenpeace denuncia intento de silenciamiento por parte de AES Gener a los afectados por el carbón de sus termoeléctricas"
+    },
+    {
+     "id": "5196",
+     "fecha": "2020-12-29",
+     "titulo": "Cierre de Ventanas 1: Una victoria de AES Gener disfrazada de triunfo ambiental"
+    },
+    {
+     "id": "5156",
+     "fecha": "2020-12-30",
+     "titulo": "Cierre de termoeléctricas de Quintero-Puchuncaví es una medida tardía que deja en la impunidad a quienes contaminaron por 50 años"
+    }
+   ],
+   "docs_total": 7,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0094",
+   "docs": [
+    {
+     "id": "19018",
+     "fecha": "2020-04-22",
+     "titulo": "Empresa Edelaysén ficha a equipo jurídico que defendió a HidroAysén y Energía Austral para enfrentar demanda vecinal"
+    },
+    {
+     "id": "6355",
+     "fecha": "2020-08-26",
+     "titulo": "Edelaysén construye hidroeléctrica Los Maquis sin contar con derechos de agua definitivos para su operación"
+    },
+    {
+     "id": "6356",
+     "fecha": "2020-09-09",
+     "titulo": "Paciencia que vale oro: el ingeniero que esperó dos décadas para hacer caja con el agua de la Patagonia"
+    },
+    {
+     "id": "7388",
+     "fecha": "2023-02-06",
+     "titulo": "Requirentes destacan sentencia del Tribunal Ambiental de Valdivia por central Los Maquis: Instruyó a la Superintendencia del Medio Ambiente iniciar proceso sanc"
+    }
+   ],
+   "docs_total": 4,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0090",
+   "docs": [
+    {
+     "id": "7614",
+     "fecha": "2024-02-01",
+     "titulo": "Kimal – Lo Aguirre: la carretera eléctrica clave para la transición energética en Chile, bajo la lupa"
+    },
+    {
+     "id": "7613",
+     "fecha": "2024-11-09",
+     "titulo": "Megalínea Kimal-Lo Aguirre: El cambio en el trazado que le daría luz verde al proyecto"
+    },
+    {
+     "id": "7610",
+     "fecha": "2024-11-22",
+     "titulo": "Megalínea de transmisión Kimal-Lo Aguirre respondió a las 2.600 observaciones y cambió trazado"
+    },
+    {
+     "id": "5620",
+     "fecha": "2024-11-25",
+     "titulo": "Megalínea Kimal-Lo Aguirre respondió 2.600 observaciones e incluyó cambios de trazados"
+    }
+   ],
+   "docs_total": 4,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0053",
+   "docs": [
+    {
+     "id": "4356",
+     "fecha": "2024-03-08",
+     "titulo": "Chiloé: Comunidad mapuche Koiwin de Compu se manifestó contra proyecto eólico Tablaruca de la empresa Atlas"
+    },
+    {
+     "id": "3959",
+     "fecha": "2024-07-16",
+     "titulo": "Comunidad Indígena rechaza proyecto de Parque Eólico Altos de Tablaruca"
+    },
+    {
+     "id": "16003",
+     "fecha": "2024-08-08",
+     "titulo": "Comunidades indígenas logran frenar proyecto eólico en Chiloé"
+    },
+    {
+     "id": "4244",
+     "fecha": "2024-08-08",
+     "titulo": "Empresa desiste de evaluación de parque eólico en Chiloé ante presión de organismos públicos"
+    },
+    {
+     "id": "4386",
+     "fecha": "2024-08-08",
+     "titulo": "ATLAS retira del SEA proyecto de Parque Eólico Altos de Tablaruca"
+    },
+    {
+     "id": "4602",
+     "fecha": "2024-08-09",
+     "titulo": "Firma estadounidense da pie atrás a inversión en energía verde en Chiloé por presión de entes públicos"
+    }
+   ],
+   "docs_total": 6,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0171",
+   "docs": [
+    {
+     "id": "4413",
+     "fecha": "2025-11-17",
+     "titulo": "Cóndores andinos chocan con la “energía limpia”: SMA sanciona a parque eólico La Estrella por graves incumplimientos"
+    },
+    {
+     "id": "4406",
+     "fecha": "2025-11-18",
+     "titulo": "SMA formula cargos contra Parque Eólico La Estrella y reabre debate sobre cómo alinear ERNC con protección de fauna en Chile"
+    },
+    {
+     "id": "4409",
+     "fecha": "2025-11-18",
+     "titulo": "Parque Eólico La Estrella en O’Higgins enfrenta 2 cargos por muerte de 4 cóndores: Aves colisionaron con aerogeneradores"
+    }
+   ],
+   "docs_total": 3,
+   "veredicto": ""
+  },
+  {
+   "thread_id": "H0068",
+   "docs": [
+    {
+     "id": "3901",
+     "fecha": "2022-07-06",
+     "titulo": "Vecinos del Parque Eólico Camán en Valdivia exigen que empresa cumpla con las medidas de mitigación"
+    },
+    {
+     "id": "4615",
+     "fecha": "2023-06-01",
+     "titulo": "Parque Eólico Caman de Paillaco: solicitan su retiro temporal del mercado por “causas inimputables a la compañía”"
+    },
+    {
+     "id": "4594",
+     "fecha": "2023-06-17",
+     "titulo": "Encapuchados destruyen 13 camiones durante ataque incendiario al interior de parque eólico en Los Ríos"
+    },
+    {
+     "id": "4624",
+     "fecha": "2023-06-17",
+     "titulo": "Ataque de grupo armado deja al menos diez camiones destruidos en dependencias de parque eólico en Paillaco"
+    },
+    {
+     "id": "4574",
+     "fecha": "2025-04-30",
+     "titulo": "Parque Eólico Camán: ministro Pardow descartó garantizar que se retomen obras durante este gobierno"
+    }
+   ],
+   "docs_total": 5,
+   "veredicto": ""
+  }
+ ]
+}

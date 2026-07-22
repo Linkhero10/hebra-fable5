@@ -1,0 +1,2824 @@
+{
+ "schema_version": 1,
+ "generated_utc": "2026-07-22T14:04:39.970384+00:00",
+ "corpus_sha256": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
+ "documents": 3742,
+ "referent_rows": 14089,
+ "cardinality_after": {
+  "territorio": 812,
+  "actor": 4614,
+  "objeto": 1416
+ },
+ "paren_forms_total": 417,
+ "merges_accepted": 101,
+ "merges_rejected_kept_distinct": 336,
+ "accepted": [
+  {
+   "tipo": "actor",
+   "form": "advanced mining technology center (amtc)",
+   "canonical": "advanced mining technology center",
+   "acr": "amtc",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "antofagasta terminal internacional (ati)",
+   "canonical": "antofagasta terminal internacional",
+   "acr": "ati",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio (apiidtt)",
+   "canonical": "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio",
+   "acr": "apiidtt",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion chilena de energias renovables y almacenamiento (acera)",
+   "canonical": "asociacion chilena de energias renovables y almacenamiento",
+   "acr": "acera",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion de canalistas del laja (acl)",
+   "canonical": "asociacion de canalistas del laja",
+   "acr": "acl",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion de industriales de mejillones (aim)",
+   "canonical": "asociacion de industriales de mejillones",
+   "acr": "aim",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion de municipalidades de la region de antofagasta (amra)",
+   "canonical": "asociacion de municipalidades de la region de antofagasta",
+   "acr": "amra",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "banco interamericano de desarrollo (bid)",
+   "canonical": "banco interamericano de desarrollo",
+   "acr": "bid",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "clean tech lithium (ctl)",
+   "canonical": "clean tech lithium",
+   "acr": "ctl",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision nacional de energia (cne)",
+   "canonical": "comision nacional de energia",
+   "acr": "cne",
+   "rule": "R3v2-iniciales",
+   "docs": 13
+  },
+  {
+   "tipo": "actor",
+   "form": "comision para el mercado financiero (cmf)",
+   "canonical": "comision para el mercado financiero",
+   "acr": "cmf",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "comite ambiental comunal (cac)",
+   "canonical": "comite ambiental comunal",
+   "acr": "cac",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "compania general de electricidad (cge)",
+   "canonical": "compania general de electricidad",
+   "acr": "cge",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera del pacifico (cmp)",
+   "canonical": "compania minera del pacifico",
+   "acr": "cmp",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad atacamena de socaire (cas)",
+   "canonical": "comunidad atacamena de socaire",
+   "acr": "cas",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad indigena quechua de ollague (ciqo)",
+   "canonical": "comunidad indigena quechua de ollague",
+   "acr": "ciqo",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de defensa de la patagonia (cdp)",
+   "canonical": "consejo de defensa de la patagonia",
+   "acr": "cdp",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de defensa del estado (cde)",
+   "canonical": "consejo de defensa del estado",
+   "acr": "cde",
+   "rule": "R3v2-iniciales",
+   "docs": 20
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de monumentos nacionales (cmn)",
+   "canonical": "consejo de monumentos nacionales",
+   "acr": "cmn",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de pueblos atacamenos (cpa)",
+   "canonical": "consejo de pueblos atacamenos",
+   "acr": "cpa",
+   "rule": "R3v2-iniciales",
+   "docs": 28
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo indigena de centro america (cica)",
+   "canonical": "consejo indigena de centro america",
+   "acr": "cica",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo para la recuperacion ambiental y social (cras)",
+   "canonical": "consejo para la recuperacion ambiental y social",
+   "acr": "cras",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "contraloria general de la republica (cgr)",
+   "canonical": "contraloria general de la republica",
+   "acr": "cgr",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "coordinador electrico nacional (cen)",
+   "canonical": "coordinador electrico nacional",
+   "acr": "cen",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "coordinadora ciudadana rios del maipo (ccrm)",
+   "canonical": "coordinadora ciudadana rios del maipo",
+   "acr": "ccrm",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "direccion general de aguas (d.g.a.)",
+   "canonical": "direccion general de aguas",
+   "acr": "dga",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "direccion general de aguas (dga)",
+   "canonical": "direccion general de aguas",
+   "acr": "dga",
+   "rule": "R3v2-iniciales",
+   "docs": 5
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa de los ferrocarriles del estado (efe)",
+   "canonical": "empresa de los ferrocarriles del estado",
+   "acr": "efe",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa portuaria de san antonio (epsa)",
+   "canonical": "empresa portuaria de san antonio",
+   "acr": "epsa",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa portuaria de valparaiso (epv)",
+   "canonical": "empresa portuaria de valparaiso",
+   "acr": "epv",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa portuaria san antonio (epsa)",
+   "canonical": "empresa portuaria san antonio",
+   "acr": "epsa",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa puerto de san antonio (epsa)",
+   "canonical": "empresa puerto de san antonio",
+   "acr": "epsa",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "energaa verde austral (eva)",
+   "canonical": "energaa verde austral",
+   "acr": "eva",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "energia verde austral (eva)",
+   "canonical": "energia verde austral",
+   "acr": "eva",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "estudio de impacto ambiental (eia)",
+   "canonical": "estudio de impacto ambiental",
+   "acr": "eia",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "estudios de franjas (edf)",
+   "canonical": "estudios de franjas",
+   "acr": "edf",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "federacion de trabajadores del cobre (ftc)",
+   "canonical": "federacion de trabajadores del cobre",
+   "acr": "ftc",
+   "rule": "R3v2-iniciales",
+   "docs": 12
+  },
+  {
+   "tipo": "actor",
+   "form": "fiscalia nacional economica (fne)",
+   "canonical": "fiscalia nacional economica",
+   "acr": "fne",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "forest stewardship council (fsc)",
+   "canonical": "forest stewardship council",
+   "acr": "fsc",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fotowatio renewable ventures (frv)",
+   "canonical": "fotowatio renewable ventures",
+   "acr": "frv",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "geotermica del norte (gdn)",
+   "canonical": "geotermica del norte",
+   "acr": "gdn",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "highly innovative fuels (hif)",
+   "canonical": "highly innovative fuels",
+   "acr": "hif",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "instituto de politicas publicas de la universidad catolica del norte (ipp-ucn)",
+   "canonical": "instituto de politicas publicas de la universidad catolica del norte",
+   "acr": "ipp-ucn",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "instituto nacional de derechos humanos (indh)",
+   "canonical": "instituto nacional de derechos humanos",
+   "acr": "indh",
+   "rule": "R3v2-iniciales",
+   "docs": 8
+  },
+  {
+   "tipo": "actor",
+   "form": "mejillones ammonia energy (mae)",
+   "canonical": "mejillones ammonia energy",
+   "acr": "mae",
+   "rule": "R3v2-iniciales",
+   "docs": 7
+  },
+  {
+   "tipo": "actor",
+   "form": "minera escondida ltda. (mel)",
+   "canonical": "minera escondida ltda",
+   "acr": "mel",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "minera los pelambres (mlp)",
+   "canonical": "minera los pelambres",
+   "acr": "mlp",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "ministerio de medio ambiente (mma)",
+   "canonical": "ministerio de medio ambiente",
+   "acr": "mma",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "ministerio de obras publicas (mop)",
+   "canonical": "ministerio de obras publicas",
+   "acr": "mop",
+   "rule": "R3v2-iniciales",
+   "docs": 10
+  },
+  {
+   "tipo": "actor",
+   "form": "ministerio del medio ambiente (mma)",
+   "canonical": "ministerio del medio ambiente",
+   "acr": "mma",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "observatorio latinoamericano de conflictos ambientales (olca)",
+   "canonical": "observatorio latinoamericano de conflictos ambientales",
+   "acr": "olca",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "patagonia sin represas (psr)",
+   "canonical": "patagonia sin represas",
+   "acr": "psr",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "pequenos medios de generacion distribuida (pmgd)",
+   "canonical": "pequenos medios de generacion distribuida",
+   "acr": "pmgd",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto hidroelectrico alto maipo (pham)",
+   "canonical": "proyecto hidroelectrico alto maipo",
+   "acr": "pham",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "red de accion por los derechos ambientales (rada)",
+   "canonical": "red de accion por los derechos ambientales",
+   "acr": "rada",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "resistencia socioambiental quilicura (rsq)",
+   "canonical": "resistencia socioambiental quilicura",
+   "acr": "rsq",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio de evaluacion ambiental (sea)",
+   "canonical": "servicio de evaluacion ambiental",
+   "acr": "sea",
+   "rule": "R3v2-iniciales",
+   "docs": 94
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio de evaluacion de impacto ambiental (seia)",
+   "canonical": "servicio de evaluacion de impacto ambiental",
+   "acr": "seia",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "sistema de evaluacion ambiental (sea)",
+   "canonical": "sistema de evaluacion ambiental",
+   "acr": "sea",
+   "rule": "R3v2-iniciales",
+   "docs": 6
+  },
+  {
+   "tipo": "actor",
+   "form": "sistema de evaluacion de impacto ambiental (seia)",
+   "canonical": "sistema de evaluacion de impacto ambiental",
+   "acr": "seia",
+   "rule": "R3v2-iniciales",
+   "docs": 24
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad punta de lobos (spl)",
+   "canonical": "sociedad punta de lobos",
+   "acr": "spl",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "superintendencia de electricidad y combustibles (sec)",
+   "canonical": "superintendencia de electricidad y combustibles",
+   "acr": "sec",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "superintendencia de medio ambiente (sma)",
+   "canonical": "superintendencia de medio ambiente",
+   "acr": "sma",
+   "rule": "R3v2-iniciales",
+   "docs": 26
+  },
+  {
+   "tipo": "actor",
+   "form": "superintendencia del medio ambiente (sma)",
+   "canonical": "superintendencia del medio ambiente",
+   "acr": "sma",
+   "rule": "R3v2-iniciales",
+   "docs": 129
+  },
+  {
+   "tipo": "actor",
+   "form": "terminal pacifico sur (tps)",
+   "canonical": "terminal pacifico sur",
+   "acr": "tps",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "universidad catolica de temuco (uct)",
+   "canonical": "universidad catolica de temuco",
+   "acr": "uct",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "universidad catolica del norte (ucn)",
+   "canonical": "universidad catolica del norte",
+   "acr": "ucn",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "antofagasta terminal internacional (ati)",
+   "canonical": "antofagasta terminal internacional",
+   "acr": "ati",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "autopista orbital sur (aos)",
+   "canonical": "autopista orbital sur",
+   "acr": "aos",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central hidroelectrica neltume (chn)",
+   "canonical": "central hidroelectrica neltume",
+   "acr": "chn",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central termoelectrica energia minera (ctem)",
+   "canonical": "central termoelectrica energia minera",
+   "acr": "ctem",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "centro integral de gestion de residuos industriales (cigri)",
+   "canonical": "centro integral de gestion de residuos industriales",
+   "acr": "cigri",
+   "rule": "R3v2-iniciales",
+   "docs": 4
+  },
+  {
+   "tipo": "objeto",
+   "form": "complejo termico de mejillones (ctm)",
+   "canonical": "complejo termico de mejillones",
+   "acr": "ctm",
+   "rule": "R3v2-iniciales",
+   "docs": 4
+  },
+  {
+   "tipo": "objeto",
+   "form": "deposito de relaves filtrados (drf)",
+   "canonical": "deposito de relaves filtrados",
+   "acr": "drf",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "energaa verde austral (eva)",
+   "canonical": "energaa verde austral",
+   "acr": "eva",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "energia verde austral (eva)",
+   "canonical": "energia verde austral",
+   "acr": "eva",
+   "rule": "R3v2-iniciales",
+   "docs": 4
+  },
+  {
+   "tipo": "objeto",
+   "form": "estrategia nacional del litio (enl)",
+   "canonical": "estrategia nacional del litio",
+   "acr": "enl",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "geotermica del norte (gdn)",
+   "canonical": "geotermica del norte",
+   "acr": "gdn",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "infraestructura energetica mejillones (iem)",
+   "canonical": "infraestructura energetica mejillones",
+   "acr": "iem",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "pequenos medios de generacion distribuida (pmgd)",
+   "canonical": "pequenos medios de generacion distribuida",
+   "acr": "pmgd",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "plan de prevencion y descontaminacion atmosferica (ppda)",
+   "canonical": "plan de prevencion y descontaminacion atmosferica",
+   "acr": "ppda",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "objeto",
+   "form": "programa de cumplimiento refundido (pdcr)",
+   "canonical": "programa de cumplimiento refundido",
+   "acr": "pdcr",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "programa para la recuperacion ambiental y social (pras)",
+   "canonical": "programa para la recuperacion ambiental y social",
+   "acr": "pras",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto de adaptacion operacional (pao)",
+   "canonical": "proyecto de adaptacion operacional",
+   "acr": "pao",
+   "rule": "R3v2-iniciales",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto hidroelectrico alto maipo (pham)",
+   "canonical": "proyecto hidroelectrico alto maipo",
+   "acr": "pham",
+   "rule": "R3v2-iniciales",
+   "docs": 3
+  },
+  {
+   "tipo": "objeto",
+   "form": "red de salares protegidos (rsp)",
+   "canonical": "red de salares protegidos",
+   "acr": "rsp",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "waste to energy (wte)",
+   "canonical": "waste to energy",
+   "acr": "wte",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "zona de extension de apoyo logistico (zeal)",
+   "canonical": "zona de extension de apoyo logistico",
+   "acr": "zeal",
+   "rule": "R3v2-iniciales",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "amra",
+   "canonical": "asociacion de municipalidades de la region de antofagasta",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "cge",
+   "canonical": "compania general de electricidad",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "cmp",
+   "canonical": "compania minera del pacifico",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "dga",
+   "canonical": "direccion general de aguas",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "edf",
+   "canonical": "estudios de franjas",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "fne",
+   "canonical": "fiscalia nacional economica",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "frv",
+   "canonical": "fotowatio renewable ventures",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "hif",
+   "canonical": "highly innovative fuels",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 4
+  },
+  {
+   "tipo": "actor",
+   "form": "indh",
+   "canonical": "instituto nacional de derechos humanos",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mae",
+   "canonical": "mejillones ammonia energy",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 7
+  },
+  {
+   "tipo": "actor",
+   "form": "mop",
+   "canonical": "ministerio de obras publicas",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "olca",
+   "canonical": "observatorio latinoamericano de conflictos ambientales",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 3
+  },
+  {
+   "tipo": "objeto",
+   "form": "wte",
+   "canonical": "waste to energy",
+   "rule": "R4v2-sigla-suelta",
+   "docs": 1
+  }
+ ],
+ "rejected": [
+  {
+   "tipo": "actor",
+   "form": "aclara resources (ree uno spa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "acuerdo codelco-sqm / comision para el mercado financiero (cmf)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "adobera spa, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes (ex aes gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes (inna)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes / ventanas 2 / estado de reserva estrategica (ere)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes, coordinador electrico nacional (cne)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes andes, superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes gener y antofagasta minerals (amsa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes gener, puerto ventanas, ministerio de medio ambiente (mma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aes gener, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "agrupacion de sindicatos del sector electrico chile (assech)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "agrupacion por la defensa y conservacion maule mataquito (adema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aguas andinas, aes gener (aes andes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aguas andinas, proyecto hidroelectrico alto maipo (pham)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aguas andinas, superintendencia de servicios sanitarios (siss)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aguas antofagasta, superintendencia de servicios sanitarios (siss)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "aguas del valle s.a., junta de vigilancia del rio grande y limari y sus afluentes, comunidad de aguas embalse la paloma, direccion general de aguas (dga)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "albemarle, sqm, direccion general de aguas (dga)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alcalde de mejillones (sergio vega)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alcaldesa de la higuera (uberlinda aquea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo (a.e.s. gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo (aes andes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo (aes gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo s.a., superintendencia de medioambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo spa (aes gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "alto maipo, superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "amphos 21 / fundacion terram (publica informe)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion atacamena de regantes y agricultores de san pedro de atacama (araspa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion chilena de energia solar (acesol)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion chilena de hidrogeno (h2 chile)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "asociacion de ganaderos de magallanes (asogama)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "astaldi, ministerio de obras publicas (mop), superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "autoridad ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "barrick gold corporation, servicio de evaluacia3n ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "barrick y antofagasta minerals (luksic)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "bhp (pampa norte)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural (pdi)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "caitan / bhp (spence)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "celulosa arauco (grupo angelini)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "centinela spence sierra gorda (faenas mineras)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central bocamina comision nacional de energia (cne)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central de pasada de empresa frontera (energia llaima)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central hidroelectrica los aromos, comision de evaluacion ambiental de la araucania (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central las arcillas (engie)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central ralco (endesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central ralco, endesa (hoy enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termica tocopilla comision nacional de energia (cne)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones (ctm)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica angamos (aes gener), servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica angamos de aes gener, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica bocamina (endesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica bocamina i (enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "central termoelectrica guacolda, planta de pellets de cmp, endesa (proyecto futuro)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "centre for research on energy and clean air (crea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "centro de ciencia del clima y la resiliencia (cr2)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "centro de estudios del cobre y la mineria (cesco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "centro de investigacion sobre energia y aire limpio (crea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "china international water and electric corporation (cwe), rucalhue energia spa, estado de chile, ministro nicolas grau, corporacion nacional forestal (conaf)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "ciclo (proyecto cigri), dipolcar (carabineros)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "cleantech lithium (ctl)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "codelco (fundicion ventanas), empresas industriales, empresas mineras, superintendencia de medioambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "codelco (planta ventanas)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "codelco / proyecto blanco (lithium power)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "codelco division ventanas, gener, enap, superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "codelco y sqm (salar futuro)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "colectivo en defensa del medio ambiente de atacama (codemaa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "colectivo intervencion ciudadana ancud (compas), comite nacional pro defensa de la fauna y flora (codeff), centro de estudios y conservacion del patrimonio natural (cecpan)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "colegio de arqueologas y arqueologos de chile (caarch)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision chilena de energia nuclear (cchen)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de evaluacion (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de evaluacion ambiental (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de evaluacion ambiental de antofagasta (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de evaluacion ambiental de la region de antofagasta (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de evaluacion ambiental de magallanes (coeva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision de mineria y energia del senado, asociacion de generacion renovable (agr)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comision regional del medio ambiente (corema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comite de defensa de los pueblos de elqui (codepue)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comite de ministros (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur (duna viva)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera del pacifico (cap)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera del pacifico s.a (cap mineria)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera nevada spa (barrick gold)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera ojos del salado (lundin)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "compania minera zaldivar / servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "complejo industrial ventanas, codelco (ex enami)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "complejo termoelectrico bocamina 1 y 2 (enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "complejo termoelectrico ventanas (aes andes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad chilota centro de estudio y conservacion del patrimonio natural (cecpan)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad de aguas el manzano (car)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache (daniel morales)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad de peine, consejo de pueblos atacamenos (cpa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad indigena atacamena de peine y consejo de defensa del estado (cde)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad juanita vergara (pueblo chango)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidad pai ote (colla)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades afectadas (implicito)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades colla de pai ote, consejo de pueblos atacamenos (cpa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades de peine, camar y consejo de pueblos atacamenos (cpa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades de puchuncavi-quintero, estado de chile (corte suprema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades indigenas, corfo, samr (china)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades locales y organizaciones socioambientales (implicito)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche (lnm)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades mapuche de curacautin (lof radalco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken (map)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de defensa del estado (cde), comunidad de peine, consejo de pueblos atacamenos (cpa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "consejo de pueblos atacamenos (18 comunidades)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "contaminacion, autoridad sanitaria (implicito)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo (lady sandon)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "cooperativa campesina intercomunal peumo (coopeumo)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "coordinadora ciudadana no alto maipo, red metropolitana no alto maipo, maite birke (concejala)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "coordinadora no alto maipo, red no alto maipo, maite birke (concejala)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile (fenapo)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "copec (grupo angelini)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "corporacion de fomento de la produccion (corfo)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "corporacion nacional forestal (conaf)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "cristian tapia (diputado)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "diputada nathalie castillo (pc)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "director ejecutivo del servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "ecopower s.a.c. y superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa electrica de francia (edf)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa europea (no especificada)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa minera (no especificada)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa nacional de energia (enex s.a.)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa nacional de mineria (enami)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa nacional del petroleo (enap)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "empresa responsable del derrame (no especificada)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "empresas (implicito)",
+   "reason": "G1-canonico-generico",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa (actual enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa (bocamina ii)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa (enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa (hoy enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa chile (bocamina ii)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "endesa, colbun (hidroaysen), xstrata (energia austral)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "enel (bocamina i y ii)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "enel (bocamina)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "enel (endesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "enel (ex endesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "enel chile (ex endesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "enel, superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "engie (gdf suez)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "engie chile, central termoelectrica mejillones unidad 2 (ctm2)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "engie energia chile (eecl)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "engie, termoelectrica infraestructura energetica mejillones (eim)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "eolica los lagos spa (elecnor)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "eolica monte redondo s.a. (engie energia)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "estrategia nacional del litio (ceol)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "explotacion de salmuera (litio)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "extraccion directa de litio (dle)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "federacia3n nacional de pescadores artesanales (fenaspar)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "federacion de estudiantes de la universidad de chile (fech)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "ferrocarril de antofagasta (fcab)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 5
+  },
+  {
+   "tipo": "actor",
+   "form": "ferrocarril de antofagasta a bolivia (fcab)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fundacion parque eolico chiloe (reclamante)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fundacion senda darwin y el instituto de ecologia y biodiversidad (ieb)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "fundacion senda darwin, instituto de ecologia y biodiversidad (ieb)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fundicia3n ventanas (codelco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fundicion chagres (anglo american)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "fundicion ventanas (codelco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 10
+  },
+  {
+   "tipo": "actor",
+   "form": "fundo esperanza (propiedad indigena) y sociedad quimica y minera de chile s.a. (sqm)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "gato hydro chile spa, proyecto central hidroelectrica de pasada el gato, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "gobierno chileno, aes gener (aes andes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "gobierno de chile, centrales termoelectricas (implicito)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "gobierno regional, empresas coopersol y terracon ltda., cge, superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "gobierno, empresa estatal (codelco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "google, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "greenpeace manuel monardes rojas (concejal)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "guacolda energia, compania minera del pacifico (cmp)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "gustavo lagos (profesor uc)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "hidroaysen (endesa y colbun)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "hidroelectrica laja 1 de eolica monte redondo (engie chile)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "hif chile y enel green power chile (egp)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "hnh energy / copenhagen infrastructure partners (cip)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "hnh energy, gobierno de gabriel boric, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "iem (infraestructura energetica mejillones) sistema de evaluacion de impacto ambiental (seia)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "industrias del carbon y otras contaminantes (aes andes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "industrias en quintero-puchuncavi, servicio de evaluacion ambiental (sea), superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "inmobiliaria las salinas (copec)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "instituto milenio en socio-ecologia costera (secos)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "interconexion electrica (isa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "inversiones san carlos spa (energia llaima)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "inversiones tlc spa (tianqui)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "jocelyn varela (pro humedales), diputado felix gonzalez (pev)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "linea de transmision electrica cardones-polpaico servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "linea de transmision kimal-lo aguirre, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mae (compania)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mae (proyecto volta)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "mataquito transmisora de energia (mate)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "mesa social de totoral, observatorio latinoamericano de conflictos ambientales (olca)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera candelaria, rafael prohens (ex intendente)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera dominga (andes iron)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera escondida (bhp billiton)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera escondida (bhp)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 10
+  },
+  {
+   "tipo": "actor",
+   "form": "minera los pelambres (antofagasta plc)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera los pelambres (grupo luksic)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera los pelambres y servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera salar blanco y servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "minera san cayetano, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mineras estado de chile (sernageomin)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "ministro jean pierre matus (corte suprema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "movimiento en defensa del medio ambiente de la higuera (modema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "movimiento en defensa del medioambiente de la higuera (modema)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente (aida)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mujeres de zona de sacrificio quintero puchuncavi, instituto nacional de derechos humanos (indh)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "mujeres de zona de sacrificio quintero-puchuncavi en resistencia (muzosare)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "municipalidad de coronel, organizaciones de coronel, comunidad cercana, trabajadores unidos contra el asbesto (tucas)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "municipalidad de coronel, trabajadores unidos contra el asbesto (tuca)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "natalia sanchez (concejala ptr)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "nelson venegas (ps)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "novaandino litio (codelco y sqm)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "observaciones ciudadanas (generico)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "observatorio espacial europeo (eso)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "observatorio europeo austral (eso)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "ong fiscalia del medio ambiente (fima)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "oxiquim, superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 4
+  },
+  {
+   "tipo": "actor",
+   "form": "panel ciudadano h2 magallanes, ong nobeles australes (implicito)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico coloane, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico loncalhue, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico los coihues, hy2wind spa, comision de evaluacion ambiental de nuble, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico malleco, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico san andres, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico viento sur / servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "parque eolico vientos del lago (opde chile spa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "pascua lama (barrick)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe (nuble libre)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a. (relaves)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "plan regulador intercomunal del borde costero de la region de antofagasta (pribca)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "planta de hidrogeno verde de hnh (asoex chile 10)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "presidente gabriel boric, ministerio de energia, hif, total eren, hnh, andes mining & energy (ame), enel green power, enap, siemens, porsche, copenhagen infrastructure partners (cip)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "primer tribunal ambiental de antofagasta (1ta)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto alba servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto de litio en salar de maricunga (codelco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto hidroelectrico alto maipo (aes gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto hidroelectrico alto maipo, servicio de evaluacion ambiental (sea), superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto hidroelectrico alto maipo, superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto inna (aes andes), servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto minero arqueros, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto nueva linea 2x220 nueva alto melipilla – nueva casablanca – la polvora – agua santa y servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto rucalhue, rucalhue energia, china international water and electric corporation (cwe)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyecto volta (mae)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "proyectos de hidrogeno verde, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "puerto cruz grande / andes iron (dominga)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "puerto de antofagasta (ati)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "red de observadores de aves y vida silvestre (roc)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "red de observadores de aves y vida silvestre de chile (roc)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 5
+  },
+  {
+   "tipo": "actor",
+   "form": "red no alto maipo, coordinadora ciudadana no alto maipo, red metropolitana no alto maipo, maite birke (concejala)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable (david r. boyd)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "rodrigo mundaca (modatima)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia (sochias)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo (sernatur)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio de evaluacion ambiental (seia)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio de evaluacion ambiental de chile (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "servicio de evaluacion medio ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "simco (grupo errazuriz)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "simco, minera salar blanco, codelco, servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sistema de evaluacion de impacto ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 3
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad alto maipo y servicio de evaluacion ambiental (sea)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad austral de transmision troncal s.a. (saesa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad concesionaria aguas de punilla s.a (scap) y ministerio de obras publicas (mop)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad concesionaria ruta de la fruta (sacyr), empresa portuaria san antonio (epsa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad nacional de mineria (sonami)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "sociedad quimica y minera de chile (sqm)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "south american iron & steel corp limited (sais)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sqm (soquimich)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sqm salar y superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sqm y codelco (acuerdo)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "sqm, superintendencia de medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "state administration for market regulation (china)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "state administration for market regulation (samr)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "subsecretaria del medio ambiente, superintendencia del medio ambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "superintendencia del medioambiente (sma)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "termoelectrica bocamina (enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "termoelectrica bocamina i (enel)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "termoelectrica norgener (aes gener)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "termoelectrica santa maria (colbun)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "totalenergies (tec h2 mag spa)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "totalenergies h2 (h2 magallanes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "trabajadores unidos contra el asbesto (tucas)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "transmisora del pacifico s.a. (transelec)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "union portuaria de chile (upch)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "vecino de san gregorio (campos)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "vecinos de el molle, alcalde de vicuna (rafael vera)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "vecinos de los andes, agrupacion ecologista de aconcagua (aes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "victor ancalaf (ex cam)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "actor",
+   "form": "zona franca de iquique (zofri)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "ajustes operacionales area mina (faena zaldivar)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central nuble de pasada (hidronuble)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central termoelectrica bocamina (en cierre)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central termoelectrica infraestructura energetica mejillones (iem)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "central termoelectrica mejillones unidad 2 (ctm2)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "centro integral de residuos industriales (cigri)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "contrato especial de operacion para la exploracion, explotacion y beneficio de litio (ceol)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "disposicion transitoria de residuos (puntra el roble)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "estrategia nacional del litio y salares (enl)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo (futuro)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "fundicion hernan videla lira (paipote)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 7
+  },
+  {
+   "tipo": "objeto",
+   "form": "gente grande (teg)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "guacolda (termoelectricas)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "h2 magallanes (total eren)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "haru oni (experimental)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "infraestructura energetica mejillones (eim)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "interconeccion internacional de interes privado los condores (chile) – rio diamantes (argentina)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "interconexion internacional de interes privado los condores (chile) – rio diamantes (argentina)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "ley de humedales urbanos (ley 21.202)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "muelle granelero, puerto de coronel (muelle 3)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "parque eolico ckhuri (ex ckani)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "parque fotovoltaico el charco (i y iv)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "parques eolicos cardonal, los cerrillos y manantiales (optimizacion)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "plan de prevencion y descontaminacion atmosferica de quintero, concon y puchuncavi (ppda)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "plan para la transicion socioecologica justa (tsj)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "plan transicion socioecologica justa (tsj)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "planta de extraccion directa de litio (dle)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "planta de tratamiento de gases de cola (fhvl)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "planta desaladora (no especificada)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "planta desaladora de minera los pelambres (proyecto inco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "planta desalinizadora (rechazada)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto de expansion de minera los pelambres (inco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto de infraestructura complementaria (inco)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto de transicion hacia la extraccion directa de litio (ted)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto dominga, proyecto inna (energetico)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto integrado de los bronces (lbip)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "proyecto monturaqui (mtq)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "puerto de antofagasta (ati)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "puerto exterior (ppe)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "termas de tolhuaca (ex tolhuaca)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "totalenergies h2 (h2 magallanes)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "form": "tranque de relaves el torito (ampliacion)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 1
+  },
+  {
+   "tipo": "territorio",
+   "form": "aguas calientes iii (piedras rojas)",
+   "reason": "R3v2-parentesis-relacional-se-conserva-distinto",
+   "docs": 2
+  },
+  {
+   "tipo": "actor",
+   "form": "epsa",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "actor",
+   "form": "eva",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "actor",
+   "form": "mma",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "actor",
+   "form": "sea",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "actor",
+   "form": "seia",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "actor",
+   "form": "sma",
+   "reason": "R4v2-sigla-ambigua"
+  },
+  {
+   "tipo": "objeto",
+   "form": "eva",
+   "reason": "R4v2-sigla-ambigua"
+  }
+ ],
+ "note": "Las formas rechazadas no se colapsan al nombre: se conservan como referentes distintos y quedan disponibles para revision humana. v1 (f1_referents.csv) se conserva como experimento historico."
+}

@@ -1,0 +1,192 @@
+{
+ "generated_utc": "2026-07-22T14:59:29.347737+00:00",
+ "config": {
+  "R": 20,
+  "seed_drop": 20260760,
+  "seed_jitter": 20260761,
+  "tau": 0.45,
+  "tier": "L2",
+  "fragile_def": "recall de pares <0.5 en >=25% de replicas"
+ },
+ "nota_orden": "algoritmo determinista sobre conjuntos; sin dependencia de orden de entrada",
+ "limite_jitter": "pares dt en (1095,1109] no observados en el volcado; subestimacion marginal",
+ "drop10": {
+  "edge_jaccard_media": 0.8148,
+  "pair_jaccard_media": 0.9413,
+  "replicas": [
+   {
+    "edge_jaccard": 0.8122,
+    "pair_jaccard": 0.941
+   },
+   {
+    "edge_jaccard": 0.7968,
+    "pair_jaccard": 0.9361
+   },
+   {
+    "edge_jaccard": 0.7921,
+    "pair_jaccard": 0.9602
+   },
+   {
+    "edge_jaccard": 0.8175,
+    "pair_jaccard": 0.9776
+   },
+   {
+    "edge_jaccard": 0.7873,
+    "pair_jaccard": 0.8811
+   },
+   {
+    "edge_jaccard": 0.8318,
+    "pair_jaccard": 0.8733
+   },
+   {
+    "edge_jaccard": 0.8093,
+    "pair_jaccard": 0.9072
+   },
+   {
+    "edge_jaccard": 0.8228,
+    "pair_jaccard": 0.9549
+   },
+   {
+    "edge_jaccard": 0.8297,
+    "pair_jaccard": 0.9637
+   },
+   {
+    "edge_jaccard": 0.7805,
+    "pair_jaccard": 0.9493
+   },
+   {
+    "edge_jaccard": 0.7899,
+    "pair_jaccard": 0.9238
+   },
+   {
+    "edge_jaccard": 0.8256,
+    "pair_jaccard": 0.9714
+   },
+   {
+    "edge_jaccard": 0.8328,
+    "pair_jaccard": 0.9316
+   },
+   {
+    "edge_jaccard": 0.8213,
+    "pair_jaccard": 0.9379
+   },
+   {
+    "edge_jaccard": 0.821,
+    "pair_jaccard": 0.9607
+   },
+   {
+    "edge_jaccard": 0.8542,
+    "pair_jaccard": 0.9541
+   },
+   {
+    "edge_jaccard": 0.8149,
+    "pair_jaccard": 0.9431
+   },
+   {
+    "edge_jaccard": 0.8286,
+    "pair_jaccard": 0.9471
+   },
+   {
+    "edge_jaccard": 0.8004,
+    "pair_jaccard": 0.9488
+   },
+   {
+    "edge_jaccard": 0.8263,
+    "pair_jaccard": 0.964
+   }
+  ]
+ },
+ "jitter7": {
+  "edge_jaccard_media": 0.9868,
+  "pair_jaccard_media": 0.9898,
+  "replicas": [
+   {
+    "edge_jaccard": 0.9861,
+    "pair_jaccard": 0.9845
+   },
+   {
+    "edge_jaccard": 0.9878,
+    "pair_jaccard": 0.9937
+   },
+   {
+    "edge_jaccard": 0.9858,
+    "pair_jaccard": 0.992
+   },
+   {
+    "edge_jaccard": 0.986,
+    "pair_jaccard": 0.9994
+   },
+   {
+    "edge_jaccard": 0.9861,
+    "pair_jaccard": 0.9923
+   },
+   {
+    "edge_jaccard": 0.9889,
+    "pair_jaccard": 0.9962
+   },
+   {
+    "edge_jaccard": 0.9874,
+    "pair_jaccard": 0.9958
+   },
+   {
+    "edge_jaccard": 0.988,
+    "pair_jaccard": 0.9935
+   },
+   {
+    "edge_jaccard": 0.9851,
+    "pair_jaccard": 0.9988
+   },
+   {
+    "edge_jaccard": 0.9841,
+    "pair_jaccard": 0.9914
+   },
+   {
+    "edge_jaccard": 0.9863,
+    "pair_jaccard": 0.9635
+   },
+   {
+    "edge_jaccard": 0.9856,
+    "pair_jaccard": 0.9973
+   },
+   {
+    "edge_jaccard": 0.988,
+    "pair_jaccard": 0.9938
+   },
+   {
+    "edge_jaccard": 0.9871,
+    "pair_jaccard": 0.9923
+   },
+   {
+    "edge_jaccard": 0.9861,
+    "pair_jaccard": 0.9996
+   },
+   {
+    "edge_jaccard": 0.9871,
+    "pair_jaccard": 0.9604
+   },
+   {
+    "edge_jaccard": 0.9875,
+    "pair_jaccard": 0.9677
+   },
+   {
+    "edge_jaccard": 0.9858,
+    "pair_jaccard": 0.9939
+   },
+   {
+    "edge_jaccard": 0.9876,
+    "pair_jaccard": 0.9968
+   },
+   {
+    "edge_jaccard": 0.9889,
+    "pair_jaccard": 0.9938
+   }
+  ]
+ },
+ "hilos_fragiles": [
+  "H0148",
+  "H0116",
+  "H0136",
+  "H0171"
+ ],
+ "n_hilos_fragiles": 4
+}

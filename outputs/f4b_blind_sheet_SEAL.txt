@@ -1,0 +1,2 @@
+bc73256e44f0175fdae8f14aef4355309511215ed3752df7b7fe010c1b39e4e7  f4b_blind_sheet_SEALED.json
+sellado_utc: 2026-07-22T14:57:17.490799+00:00

@@ -1,0 +1,4608 @@
+{
+ "generated_utc": "2026-07-22T15:00:00.443913+00:00",
+ "gold_seal": "fad1e7fc172b1695942fd9f580b96c3363d31f6b3fde06d3db39666a9f291ed8",
+ "casos_gold": 91,
+ "documentados": 86,
+ "confirmatorios": 64,
+ "advertencia": "adjudicacion mecanica por titulo; INDH 2015 no cubre litio/H2 post-2015; no es verdad perfecta",
+ "promedios_confirmatorios": {
+  "HEBRA_L2": {
+   "cobertura": 0.475,
+   "mejor_recall": 0.153,
+   "pureza": 0.278,
+   "fragmentos": 0.714,
+   "perdidos": 50.032
+  },
+  "A1_solo_ref": {
+   "cobertura": 0.411,
+   "mejor_recall": 0.121,
+   "pureza": 0.291,
+   "fragmentos": 0.46,
+   "perdidos": 57.381
+  },
+  "A4_sin_largos": {
+   "cobertura": 0.43,
+   "mejor_recall": 0.13,
+   "pureza": 0.302,
+   "fragmentos": 0.683,
+   "perdidos": 54.238
+  },
+  "A2_solo_emb": {
+   "cobertura": 0.914,
+   "mejor_recall": 0.9,
+   "pureza": 0.026,
+   "fragmentos": 1.0,
+   "perdidos": 8.047
+  },
+  "BERTopic_familias": {
+   "cobertura": 0.93,
+   "mejor_recall": 0.212,
+   "pureza": 0.104,
+   "fragmentos": 2.203,
+   "perdidos": 5.969
+  },
+  "OmegaEvolve_S": {
+   "cobertura": 0.484,
+   "mejor_recall": 0.166,
+   "pureza": 0.099,
+   "fragmentos": 0.828,
+   "perdidos": 48.359
+  }
+ },
+ "per_case": [
+  {
+   "case_idx": 0,
+   "tokens": [
+    "lauca",
+    "putreregion",
+    "arica",
+    "parinacota"
+   ],
+   "docs_adjudicados": 11,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.273,
+     "mejor_recall": 0.273,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.273,
+     "mejor_recall": 0.273,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.273,
+     "mejor_recall": 0.273,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "A2_solo_emb": {
+     "cobertura": 1.0,
+     "mejor_recall": 1.0,
+     "pureza": 0.003,
+     "fragmentos": 1,
+     "perdidos": 0
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.273,
+     "pureza": 0.028,
+     "fragmentos": 2,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.455,
+     "mejor_recall": 0.182,
+     "pureza": 0.042,
+     "fragmentos": 1,
+     "perdidos": 6
+    }
+   }
+  },
+  {
+   "case_idx": 1,
+   "tokens": [
+    "lauca",
+    "declara",
+    "unesco",
+    "biosfera",
+    "protegid",
+    "putreregion"
+   ],
+   "docs_adjudicados": 74,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.486,
+     "mejor_recall": 0.081,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 38
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.419,
+     "mejor_recall": 0.081,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 43
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.473,
+     "mejor_recall": 0.081,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 39
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.959,
+     "mejor_recall": 0.932,
+     "pureza": 0.021,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.135,
+     "pureza": 0.137,
+     "fragmentos": 3,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.446,
+     "mejor_recall": 0.095,
+     "pureza": 0.146,
+     "fragmentos": 0,
+     "perdidos": 41
+    }
+   }
+  },
+  {
+   "case_idx": 2,
+   "tokens": [
+    "southern",
+    "copper",
+    "corporationcorporacion",
+    "desarrollo",
+    "digena",
+    "conadi"
+   ],
+   "docs_adjudicados": 145,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.407,
+     "mejor_recall": 0.207,
+     "pureza": 0.176,
+     "fragmentos": 1,
+     "perdidos": 86
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.331,
+     "mejor_recall": 0.069,
+     "pureza": 0.909,
+     "fragmentos": 0,
+     "perdidos": 97
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.386,
+     "mejor_recall": 0.159,
+     "pureza": 0.202,
+     "fragmentos": 1,
+     "perdidos": 89
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.959,
+     "mejor_recall": 0.952,
+     "pureza": 0.041,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.952,
+     "mejor_recall": 0.366,
+     "pureza": 0.298,
+     "fragmentos": 2,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.6,
+     "mejor_recall": 0.297,
+     "pureza": 0.326,
+     "fragmentos": 2,
+     "perdidos": 58
+    }
+   }
+  },
+  {
+   "case_idx": 3,
+   "tokens": [
+    "perteneciente",
+    "empre",
+    "copeccomision",
+    "regional",
+    "medio",
+    "ambiente"
+   ],
+   "docs_adjudicados": 274,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.453,
+     "mejor_recall": 0.047,
+     "pureza": 0.088,
+     "fragmentos": 0,
+     "perdidos": 150
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.409,
+     "mejor_recall": 0.04,
+     "pureza": 0.068,
+     "fragmentos": 0,
+     "perdidos": 162
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.405,
+     "mejor_recall": 0.04,
+     "pureza": 0.08,
+     "fragmentos": 0,
+     "perdidos": 163
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.887,
+     "mejor_recall": 0.861,
+     "pureza": 0.07,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.953,
+     "mejor_recall": 0.088,
+     "pureza": 0.057,
+     "fragmentos": 0,
+     "perdidos": 13
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.464,
+     "mejor_recall": 0.062,
+     "pureza": 0.049,
+     "fragmentos": 0,
+     "perdidos": 147
+    }
+   }
+  },
+  {
+   "case_idx": 4,
+   "tokens": [
+    "mineriacorporacion",
+    "forestal",
+    "conaf",
+    "comision",
+    "regional",
+    "medio"
+   ],
+   "docs_adjudicados": 159,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.478,
+     "mejor_recall": 0.082,
+     "pureza": 0.08,
+     "fragmentos": 0,
+     "perdidos": 83
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.421,
+     "mejor_recall": 0.075,
+     "pureza": 0.074,
+     "fragmentos": 0,
+     "perdidos": 92
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.421,
+     "mejor_recall": 0.063,
+     "pureza": 0.076,
+     "fragmentos": 0,
+     "perdidos": 92
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.893,
+     "mejor_recall": 0.881,
+     "pureza": 0.042,
+     "fragmentos": 1,
+     "perdidos": 17
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.943,
+     "mejor_recall": 0.119,
+     "pureza": 0.045,
+     "fragmentos": 1,
+     "perdidos": 9
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.415,
+     "mejor_recall": 0.069,
+     "pureza": 0.032,
+     "fragmentos": 0,
+     "perdidos": 93
+    }
+   }
+  },
+  {
+   "case_idx": 5,
+   "tokens": [
+    "nandu",
+    "rizada",
+    "extraer",
+    "borax",
+    "salar",
+    "limite"
+   ],
+   "docs_adjudicados": 247,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.551,
+     "mejor_recall": 0.239,
+     "pureza": 0.347,
+     "fragmentos": 1,
+     "perdidos": 111
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.368,
+     "mejor_recall": 0.036,
+     "pureza": 0.129,
+     "fragmentos": 0,
+     "perdidos": 156
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.514,
+     "mejor_recall": 0.142,
+     "pureza": 0.7,
+     "fragmentos": 1,
+     "perdidos": 120
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.955,
+     "mejor_recall": 0.951,
+     "pureza": 0.07,
+     "fragmentos": 1,
+     "perdidos": 11
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.935,
+     "mejor_recall": 0.211,
+     "pureza": 0.553,
+     "fragmentos": 5,
+     "perdidos": 16
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.49,
+     "mejor_recall": 0.142,
+     "pureza": 0.265,
+     "fragmentos": 1,
+     "perdidos": 126
+    }
+   }
+  },
+  {
+   "case_idx": 6,
+   "tokens": [
+    "cerro",
+    "chuno",
+    "aricaregion",
+    "arica",
+    "parinacota"
+   ],
+   "docs_adjudicados": 23,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.13,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 18
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.13,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 18
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.174,
+     "mejor_recall": 0.13,
+     "pureza": 0.375,
+     "fragmentos": 1,
+     "perdidos": 19
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.87,
+     "mejor_recall": 0.87,
+     "pureza": 0.006,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.217,
+     "pureza": 0.014,
+     "fragmentos": 3,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.478,
+     "mejor_recall": 0.13,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 12
+    }
+   }
+  },
+  {
+   "case_idx": 7,
+   "tokens": [
+    "hemisferio",
+    "comision",
+    "regional",
+    "medio",
+    "ambiente",
+    "corema"
+   ],
+   "docs_adjudicados": 157,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.478,
+     "mejor_recall": 0.076,
+     "pureza": 0.081,
+     "fragmentos": 0,
+     "perdidos": 82
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.42,
+     "mejor_recall": 0.07,
+     "pureza": 0.068,
+     "fragmentos": 0,
+     "perdidos": 91
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.433,
+     "mejor_recall": 0.064,
+     "pureza": 0.072,
+     "fragmentos": 0,
+     "perdidos": 89
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.911,
+     "mejor_recall": 0.885,
+     "pureza": 0.042,
+     "fragmentos": 1,
+     "perdidos": 14
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.949,
+     "mejor_recall": 0.108,
+     "pureza": 0.046,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.42,
+     "mejor_recall": 0.07,
+     "pureza": 0.078,
+     "fragmentos": 0,
+     "perdidos": 91
+    }
+   }
+  },
+  {
+   "case_idx": 8,
+   "tokens": [
+    "pampa",
+    "camarones",
+    "comision",
+    "evaluacion",
+    "ambiental",
+    "coordinadora"
+   ],
+   "docs_adjudicados": 652,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 9,
+   "tokens": [
+    "cosayachministerio",
+    "obras",
+    "publicas",
+    "direccion",
+    "general",
+    "aguas"
+   ],
+   "docs_adjudicados": 81,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.432,
+     "mejor_recall": 0.123,
+     "pureza": 0.118,
+     "fragmentos": 1,
+     "perdidos": 46
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.37,
+     "mejor_recall": 0.049,
+     "pureza": 0.06,
+     "fragmentos": 0,
+     "perdidos": 51
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.358,
+     "mejor_recall": 0.123,
+     "pureza": 0.127,
+     "fragmentos": 1,
+     "perdidos": 52
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.901,
+     "mejor_recall": 0.889,
+     "pureza": 0.022,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.963,
+     "mejor_recall": 0.21,
+     "pureza": 0.04,
+     "fragmentos": 2,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.407,
+     "mejor_recall": 0.173,
+     "pureza": 0.04,
+     "fragmentos": 1,
+     "perdidos": 48
+    }
+   }
+  },
+  {
+   "case_idx": 10,
+   "tokens": [
+    "extraccion",
+    "ilegal",
+    "pampa",
+    "caleta",
+    "chanavayita",
+    "iquiqueregion"
+   ],
+   "docs_adjudicados": 92,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.457,
+     "mejor_recall": 0.109,
+     "pureza": 0.059,
+     "fragmentos": 1,
+     "perdidos": 50
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.37,
+     "mejor_recall": 0.065,
+     "pureza": 0.75,
+     "fragmentos": 0,
+     "perdidos": 58
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.391,
+     "mejor_recall": 0.065,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 56
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.957,
+     "mejor_recall": 0.957,
+     "pureza": 0.026,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.989,
+     "mejor_recall": 0.25,
+     "pureza": 0.245,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.391,
+     "mejor_recall": 0.109,
+     "pureza": 0.263,
+     "fragmentos": 1,
+     "perdidos": 56
+    }
+   }
+  },
+  {
+   "case_idx": 11,
+   "tokens": [
+    "termoelectricashabitantes",
+    "canamo",
+    "chanavaya",
+    "chanavayitadirigentes",
+    "territoriales",
+    "bahia"
+   ],
+   "docs_adjudicados": 46,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.239,
+     "mejor_recall": 0.065,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 35
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.174,
+     "mejor_recall": 0.065,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 38
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.13,
+     "mejor_recall": 0.043,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 40
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.978,
+     "mejor_recall": 0.957,
+     "pureza": 0.013,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.978,
+     "mejor_recall": 0.5,
+     "pureza": 0.193,
+     "fragmentos": 3,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.391,
+     "mejor_recall": 0.152,
+     "pureza": 0.111,
+     "fragmentos": 2,
+     "perdidos": 28
+    }
+   }
+  },
+  {
+   "case_idx": 12,
+   "tokens": [
+    "pacifico",
+    "salar",
+    "llamara",
+    "almonteregiones",
+    "tarapaca",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 297,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.545,
+     "mejor_recall": 0.199,
+     "pureza": 0.347,
+     "fragmentos": 1,
+     "perdidos": 135
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.394,
+     "mejor_recall": 0.034,
+     "pureza": 0.143,
+     "fragmentos": 0,
+     "perdidos": 180
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.515,
+     "mejor_recall": 0.118,
+     "pureza": 0.7,
+     "fragmentos": 1,
+     "perdidos": 144
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.949,
+     "mejor_recall": 0.946,
+     "pureza": 0.084,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.943,
+     "mejor_recall": 0.175,
+     "pureza": 0.553,
+     "fragmentos": 4,
+     "perdidos": 17
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.556,
+     "mejor_recall": 0.125,
+     "pureza": 0.28,
+     "fragmentos": 1,
+     "perdidos": 132
+    }
+   }
+  },
+  {
+   "case_idx": 13,
+   "tokens": [
+    "termoelectricasjuntas",
+    "vecino",
+    "canamo",
+    "chanava",
+    "chanavayitacomite",
+    "medioambiente"
+   ],
+   "docs_adjudicados": 141,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.418,
+     "mejor_recall": 0.043,
+     "pureza": 0.037,
+     "fragmentos": 0,
+     "perdidos": 82
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.362,
+     "mejor_recall": 0.043,
+     "pureza": 0.037,
+     "fragmentos": 0,
+     "perdidos": 90
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.362,
+     "mejor_recall": 0.043,
+     "pureza": 0.24,
+     "fragmentos": 0,
+     "perdidos": 90
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.851,
+     "mejor_recall": 0.78,
+     "pureza": 0.033,
+     "fragmentos": 1,
+     "perdidos": 21
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.957,
+     "mejor_recall": 0.113,
+     "pureza": 0.044,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.383,
+     "mejor_recall": 0.064,
+     "pureza": 0.026,
+     "fragmentos": 0,
+     "perdidos": 87
+    }
+   }
+  },
+  {
+   "case_idx": 14,
+   "tokens": [
+    "sernageomin",
+    "seremi",
+    "obras",
+    "publicasseremi",
+    "agriculturadireccion",
+    "general"
+   ],
+   "docs_adjudicados": 50,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.6,
+     "mejor_recall": 0.12,
+     "pureza": 0.041,
+     "fragmentos": 1,
+     "perdidos": 20
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.54,
+     "mejor_recall": 0.1,
+     "pureza": 0.045,
+     "fragmentos": 1,
+     "perdidos": 23
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.54,
+     "mejor_recall": 0.1,
+     "pureza": 0.036,
+     "fragmentos": 1,
+     "perdidos": 23
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.9,
+     "mejor_recall": 0.9,
+     "pureza": 0.013,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.96,
+     "mejor_recall": 0.2,
+     "pureza": 0.038,
+     "fragmentos": 4,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.44,
+     "mejor_recall": 0.16,
+     "pureza": 0.023,
+     "fragmentos": 2,
+     "perdidos": 28
+    }
+   }
+  },
+  {
+   "case_idx": 15,
+   "tokens": [
+    "geiser",
+    "tatio",
+    "calamaregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 66,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.545,
+     "mejor_recall": 0.106,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.121,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 33
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.53,
+     "mejor_recall": 0.106,
+     "pureza": 0.053,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.909,
+     "mejor_recall": 0.848,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.97,
+     "mejor_recall": 0.258,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.667,
+     "mejor_recall": 0.258,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 22
+    }
+   }
+  },
+  {
+   "case_idx": 16,
+   "tokens": [
+    "sociedad",
+    "chilena",
+    "litiosqm",
+    "salarcomision",
+    "regional",
+    "medio"
+   ],
+   "docs_adjudicados": 150,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.473,
+     "mejor_recall": 0.073,
+     "pureza": 0.074,
+     "fragmentos": 0,
+     "perdidos": 79
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.413,
+     "mejor_recall": 0.06,
+     "pureza": 0.082,
+     "fragmentos": 0,
+     "perdidos": 88
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.427,
+     "mejor_recall": 0.06,
+     "pureza": 0.065,
+     "fragmentos": 0,
+     "perdidos": 86
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.887,
+     "mejor_recall": 0.867,
+     "pureza": 0.039,
+     "fragmentos": 1,
+     "perdidos": 17
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.967,
+     "mejor_recall": 0.113,
+     "pureza": 0.04,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.087,
+     "pureza": 0.038,
+     "fragmentos": 0,
+     "perdidos": 75
+    }
+   }
+  },
+  {
+   "case_idx": 17,
+   "tokens": [
+    "puerto",
+    "argamos",
+    "terminal",
+    "mejillones",
+    "municipalidad",
+    "mejillonesseremi"
+   ],
+   "docs_adjudicados": 153,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.405,
+     "mejor_recall": 0.092,
+     "pureza": 0.609,
+     "fragmentos": 0,
+     "perdidos": 91
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.405,
+     "mejor_recall": 0.092,
+     "pureza": 0.609,
+     "fragmentos": 0,
+     "perdidos": 91
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.333,
+     "mejor_recall": 0.085,
+     "pureza": 0.591,
+     "fragmentos": 0,
+     "perdidos": 102
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.908,
+     "mejor_recall": 0.895,
+     "pureza": 0.041,
+     "fragmentos": 1,
+     "perdidos": 14
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.967,
+     "mejor_recall": 0.216,
+     "pureza": 0.277,
+     "fragmentos": 3,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.569,
+     "mejor_recall": 0.124,
+     "pureza": 0.302,
+     "fragmentos": 2,
+     "perdidos": 66
+    }
+   }
+  },
+  {
+   "case_idx": 18,
+   "tokens": [
+    "mejillonesregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 61,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.525,
+     "mejor_recall": 0.115,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 29
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.492,
+     "mejor_recall": 0.131,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.508,
+     "mejor_recall": 0.115,
+     "pureza": 0.053,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.918,
+     "mejor_recall": 0.918,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.984,
+     "mejor_recall": 0.279,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.721,
+     "mejor_recall": 0.279,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 17
+    }
+   }
+  },
+  {
+   "case_idx": 19,
+   "tokens": [
+    "angamos",
+    "mejillonesregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 72,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.583,
+     "mejor_recall": 0.097,
+     "pureza": 0.043,
+     "fragmentos": 0,
+     "perdidos": 30
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.542,
+     "mejor_recall": 0.111,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 33
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.528,
+     "mejor_recall": 0.097,
+     "pureza": 0.053,
+     "fragmentos": 0,
+     "perdidos": 34
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.931,
+     "mejor_recall": 0.931,
+     "pureza": 0.02,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.986,
+     "mejor_recall": 0.236,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.708,
+     "mejor_recall": 0.236,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 21
+    }
+   }
+  },
+  {
+   "case_idx": 20,
+   "tokens": [
+    "cochrane",
+    "mejillonesregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 62,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.516,
+     "mejor_recall": 0.113,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.484,
+     "mejor_recall": 0.129,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 32
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.113,
+     "pureza": 0.053,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.919,
+     "mejor_recall": 0.919,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.984,
+     "mejor_recall": 0.274,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.726,
+     "mejor_recall": 0.274,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 17
+    }
+   }
+  },
+  {
+   "case_idx": 21,
+   "tokens": [
+    "termoelec",
+    "trica",
+    "andina",
+    "termoe",
+    "lectrica",
+    "hornitos"
+   ],
+   "docs_adjudicados": 419,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 22,
+   "tokens": [
+    "termoelec",
+    "trica",
+    "andina",
+    "termoe",
+    "lectrica",
+    "hornitos"
+   ],
+   "docs_adjudicados": 419,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 23,
+   "tokens": [
+    "tocopillaregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 61,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.525,
+     "mejor_recall": 0.115,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 29
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.492,
+     "mejor_recall": 0.131,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.508,
+     "mejor_recall": 0.115,
+     "pureza": 0.053,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.918,
+     "mejor_recall": 0.918,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.984,
+     "mejor_recall": 0.279,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.721,
+     "mejor_recall": 0.279,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 17
+    }
+   }
+  },
+  {
+   "case_idx": 24,
+   "tokens": [
+    "resolucion",
+    "solicita",
+    "sidenta",
+    "republica",
+    "norma",
+    "chanaral"
+   ],
+   "docs_adjudicados": 84,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.512,
+     "mejor_recall": 0.095,
+     "pureza": 0.049,
+     "fragmentos": 0,
+     "perdidos": 41
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.488,
+     "mejor_recall": 0.095,
+     "pureza": 0.049,
+     "fragmentos": 0,
+     "perdidos": 43
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.464,
+     "mejor_recall": 0.083,
+     "pureza": 0.053,
+     "fragmentos": 0,
+     "perdidos": 45
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.964,
+     "mejor_recall": 0.952,
+     "pureza": 0.024,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.94,
+     "mejor_recall": 0.107,
+     "pureza": 0.025,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.536,
+     "mejor_recall": 0.095,
+     "pureza": 0.057,
+     "fragmentos": 0,
+     "perdidos": 39
+    }
+   }
+  },
+  {
+   "case_idx": 25,
+   "tokens": [
+    "carmenregion",
+    "atacama"
+   ],
+   "docs_adjudicados": 181,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.497,
+     "mejor_recall": 0.293,
+     "pureza": 0.312,
+     "fragmentos": 1,
+     "perdidos": 91
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.32,
+     "mejor_recall": 0.033,
+     "pureza": 0.086,
+     "fragmentos": 0,
+     "perdidos": 123
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.481,
+     "mejor_recall": 0.166,
+     "pureza": 0.6,
+     "fragmentos": 2,
+     "perdidos": 94
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.956,
+     "mejor_recall": 0.95,
+     "pureza": 0.051,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.961,
+     "mejor_recall": 0.254,
+     "pureza": 0.258,
+     "fragmentos": 3,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.547,
+     "mejor_recall": 0.227,
+     "pureza": 0.311,
+     "fragmentos": 1,
+     "perdidos": 82
+    }
+   }
+  },
+  {
+   "case_idx": 26,
+   "tokens": [
+    "frontera",
+    "canadien",
+    "tenke",
+    "mining",
+    "comite",
+    "ecologico"
+   ],
+   "docs_adjudicados": 60,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.683,
+     "mejor_recall": 0.367,
+     "pureza": 0.136,
+     "fragmentos": 1,
+     "perdidos": 19
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.65,
+     "mejor_recall": 0.367,
+     "pureza": 0.136,
+     "fragmentos": 1,
+     "perdidos": 21
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.65,
+     "mejor_recall": 0.333,
+     "pureza": 0.153,
+     "fragmentos": 1,
+     "perdidos": 21
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.867,
+     "mejor_recall": 0.867,
+     "pureza": 0.016,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.967,
+     "mejor_recall": 0.183,
+     "pureza": 0.092,
+     "fragmentos": 4,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.533,
+     "mejor_recall": 0.15,
+     "pureza": 0.12,
+     "fragmentos": 2,
+     "perdidos": 28
+    }
+   }
+  },
+  {
+   "case_idx": 27,
+   "tokens": [
+    "mineriaseremi",
+    "mineriamunicipalidad",
+    "tierra",
+    "amarillacoordinadora",
+    "ambiental",
+    "tierr"
+   ],
+   "docs_adjudicados": 648,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 28,
+   "tokens": [
+    "lumina",
+    "cooper",
+    "chilegobierno",
+    "regionalcomision",
+    "regional",
+    "medio"
+   ],
+   "docs_adjudicados": 130,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.438,
+     "mejor_recall": 0.077,
+     "pureza": 0.068,
+     "fragmentos": 0,
+     "perdidos": 73
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.377,
+     "mejor_recall": 0.062,
+     "pureza": 0.073,
+     "fragmentos": 0,
+     "perdidos": 81
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.392,
+     "mejor_recall": 0.062,
+     "pureza": 0.058,
+     "fragmentos": 0,
+     "perdidos": 79
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.885,
+     "mejor_recall": 0.869,
+     "pureza": 0.034,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.962,
+     "mejor_recall": 0.1,
+     "pureza": 0.058,
+     "fragmentos": 3,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.454,
+     "mejor_recall": 0.069,
+     "pureza": 0.064,
+     "fragmentos": 0,
+     "perdidos": 71
+    }
+   }
+  },
+  {
+   "case_idx": 29,
+   "tokens": [
+    "tierra",
+    "amarilla",
+    "copiaporegion",
+    "atacama"
+   ],
+   "docs_adjudicados": 208,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.438,
+     "mejor_recall": 0.255,
+     "pureza": 0.312,
+     "fragmentos": 1,
+     "perdidos": 117
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.284,
+     "mejor_recall": 0.029,
+     "pureza": 0.086,
+     "fragmentos": 0,
+     "perdidos": 149
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.423,
+     "mejor_recall": 0.144,
+     "pureza": 0.6,
+     "fragmentos": 2,
+     "perdidos": 120
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.947,
+     "mejor_recall": 0.938,
+     "pureza": 0.058,
+     "fragmentos": 1,
+     "perdidos": 11
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.957,
+     "mejor_recall": 0.231,
+     "pureza": 0.27,
+     "fragmentos": 3,
+     "perdidos": 9
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.534,
+     "mejor_recall": 0.202,
+     "pureza": 0.318,
+     "fragmentos": 1,
+     "perdidos": 97
+    }
+   }
+  },
+  {
+   "case_idx": 30,
+   "tokens": [
+    "maricunga",
+    "perteneciente",
+    "goldcomision",
+    "regional",
+    "medio",
+    "ambiente"
+   ],
+   "docs_adjudicados": 184,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.44,
+     "mejor_recall": 0.06,
+     "pureza": 0.065,
+     "fragmentos": 0,
+     "perdidos": 103
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.364,
+     "mejor_recall": 0.043,
+     "pureza": 0.114,
+     "fragmentos": 0,
+     "perdidos": 117
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.386,
+     "mejor_recall": 0.049,
+     "pureza": 0.065,
+     "fragmentos": 0,
+     "perdidos": 113
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.908,
+     "mejor_recall": 0.891,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 17
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.924,
+     "mejor_recall": 0.098,
+     "pureza": 0.165,
+     "fragmentos": 0,
+     "perdidos": 14
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.424,
+     "mejor_recall": 0.065,
+     "pureza": 0.091,
+     "fragmentos": 0,
+     "perdidos": 106
+    }
+   }
+  },
+  {
+   "case_idx": 31,
+   "tokens": [
+    "candela",
+    "controlada",
+    "freeport",
+    "mcmoran",
+    "coopery",
+    "goldcomision"
+   ],
+   "docs_adjudicados": 0,
+   "documentado": false,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 32,
+   "tokens": [
+    "minero",
+    "morro",
+    "consiste",
+    "construccion",
+    "operacion",
+    "carmenregion"
+   ],
+   "docs_adjudicados": 194,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.588,
+     "mejor_recall": 0.119,
+     "pureza": 0.142,
+     "fragmentos": 1,
+     "perdidos": 80
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.521,
+     "mejor_recall": 0.119,
+     "pureza": 0.142,
+     "fragmentos": 1,
+     "perdidos": 93
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.546,
+     "mejor_recall": 0.088,
+     "pureza": 0.13,
+     "fragmentos": 0,
+     "perdidos": 88
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.876,
+     "mejor_recall": 0.866,
+     "pureza": 0.05,
+     "fragmentos": 1,
+     "perdidos": 24
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.938,
+     "mejor_recall": 0.119,
+     "pureza": 0.055,
+     "fragmentos": 1,
+     "perdidos": 12
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.521,
+     "mejor_recall": 0.108,
+     "pureza": 0.061,
+     "fragmentos": 1,
+     "perdidos": 93
+    }
+   }
+  },
+  {
+   "case_idx": 33,
+   "tokens": [
+    "huascoregion",
+    "atacamaa"
+   ],
+   "docs_adjudicados": 0,
+   "documentado": false,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 34,
+   "tokens": [
+    "menzo",
+    "funcionar",
+    "primera",
+    "unidad",
+    "desarr",
+    "huascoregion"
+   ],
+   "docs_adjudicados": 432,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 36,
+   "tokens": [
+    "punta",
+    "cachos",
+    "copiaporegion",
+    "atacama"
+   ],
+   "docs_adjudicados": 214,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.509,
+     "mejor_recall": 0.252,
+     "pureza": 0.318,
+     "fragmentos": 1,
+     "perdidos": 105
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.332,
+     "mejor_recall": 0.028,
+     "pureza": 0.086,
+     "fragmentos": 0,
+     "perdidos": 143
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.495,
+     "mejor_recall": 0.14,
+     "pureza": 0.6,
+     "fragmentos": 2,
+     "perdidos": 108
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.958,
+     "mejor_recall": 0.944,
+     "pureza": 0.06,
+     "fragmentos": 1,
+     "perdidos": 9
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.967,
+     "mejor_recall": 0.22,
+     "pureza": 0.264,
+     "fragmentos": 3,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.523,
+     "mejor_recall": 0.192,
+     "pureza": 0.311,
+     "fragmentos": 1,
+     "perdidos": 102
+    }
+   }
+  },
+  {
+   "case_idx": 38,
+   "tokens": [
+    "castilla",
+    "revocando",
+    "autorizacion",
+    "ambiental",
+    "puerto",
+    "illapel"
+   ],
+   "docs_adjudicados": 673,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 39,
+   "tokens": [
+    "pelambrescomision",
+    "regional",
+    "medio",
+    "ambiente",
+    "corema",
+    "comision"
+   ],
+   "docs_adjudicados": 157,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.478,
+     "mejor_recall": 0.076,
+     "pureza": 0.081,
+     "fragmentos": 0,
+     "perdidos": 82
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.42,
+     "mejor_recall": 0.07,
+     "pureza": 0.068,
+     "fragmentos": 0,
+     "perdidos": 91
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.433,
+     "mejor_recall": 0.064,
+     "pureza": 0.072,
+     "fragmentos": 0,
+     "perdidos": 89
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.911,
+     "mejor_recall": 0.885,
+     "pureza": 0.042,
+     "fragmentos": 1,
+     "perdidos": 14
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.949,
+     "mejor_recall": 0.108,
+     "pureza": 0.046,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.42,
+     "mejor_recall": 0.07,
+     "pureza": 0.078,
+     "fragmentos": 0,
+     "perdidos": 91
+    }
+   }
+  },
+  {
+   "case_idx": 40,
+   "tokens": [
+    "pelambres",
+    "perteneciente",
+    "grupo",
+    "luksiccomision",
+    "regional",
+    "medio"
+   ],
+   "docs_adjudicados": 198,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.525,
+     "mejor_recall": 0.146,
+     "pureza": 0.829,
+     "fragmentos": 1,
+     "perdidos": 94
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.475,
+     "mejor_recall": 0.146,
+     "pureza": 0.853,
+     "fragmentos": 1,
+     "perdidos": 104
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.475,
+     "mejor_recall": 0.101,
+     "pureza": 0.8,
+     "fragmentos": 1,
+     "perdidos": 104
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.899,
+     "mejor_recall": 0.884,
+     "pureza": 0.052,
+     "fragmentos": 1,
+     "perdidos": 20
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.96,
+     "mejor_recall": 0.217,
+     "pureza": 0.377,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.444,
+     "mejor_recall": 0.106,
+     "pureza": 0.362,
+     "fragmentos": 1,
+     "perdidos": 110
+    }
+   }
+  },
+  {
+   "case_idx": 41,
+   "tokens": [
+    "higueraregion",
+    "coquimbo"
+   ],
+   "docs_adjudicados": 24,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.625,
+     "mejor_recall": 0.417,
+     "pureza": 0.062,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.625,
+     "mejor_recall": 0.417,
+     "pureza": 0.062,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.583,
+     "mejor_recall": 0.417,
+     "pureza": 0.076,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.875,
+     "mejor_recall": 0.875,
+     "pureza": 0.006,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.875,
+     "mejor_recall": 0.167,
+     "pureza": 0.014,
+     "fragmentos": 3,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.333,
+     "mejor_recall": 0.083,
+     "pureza": 0.027,
+     "fragmentos": 0,
+     "perdidos": 16
+    }
+   }
+  },
+  {
+   "case_idx": 42,
+   "tokens": [
+    "punta",
+    "higueraregion",
+    "coquimbo"
+   ],
+   "docs_adjudicados": 58,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.603,
+     "mejor_recall": 0.19,
+     "pureza": 0.068,
+     "fragmentos": 1,
+     "perdidos": 23
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.19,
+     "pureza": 0.068,
+     "fragmentos": 1,
+     "perdidos": 29
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.586,
+     "mejor_recall": 0.19,
+     "pureza": 0.084,
+     "fragmentos": 1,
+     "perdidos": 24
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.931,
+     "mejor_recall": 0.897,
+     "pureza": 0.016,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.948,
+     "mejor_recall": 0.19,
+     "pureza": 0.038,
+     "fragmentos": 2,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.379,
+     "mejor_recall": 0.138,
+     "pureza": 0.033,
+     "fragmentos": 1,
+     "perdidos": 36
+    }
+   }
+  },
+  {
+   "case_idx": 43,
+   "tokens": [
+    "termica",
+    "barrancones",
+    "energy",
+    "comision",
+    "regional",
+    "medio"
+   ],
+   "docs_adjudicados": 163,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.503,
+     "mejor_recall": 0.074,
+     "pureza": 0.12,
+     "fragmentos": 0,
+     "perdidos": 81
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.448,
+     "mejor_recall": 0.061,
+     "pureza": 0.062,
+     "fragmentos": 0,
+     "perdidos": 90
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.46,
+     "mejor_recall": 0.074,
+     "pureza": 0.136,
+     "fragmentos": 0,
+     "perdidos": 88
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.908,
+     "mejor_recall": 0.883,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.951,
+     "mejor_recall": 0.11,
+     "pureza": 0.062,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.448,
+     "mejor_recall": 0.08,
+     "pureza": 0.054,
+     "fragmentos": 0,
+     "perdidos": 90
+    }
+   }
+  },
+  {
+   "case_idx": 44,
+   "tokens": [
+    "linea",
+    "verde",
+    "caleta",
+    "nosconfederacion",
+    "pescadores",
+    "artesanales"
+   ],
+   "docs_adjudicados": 293,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.553,
+     "mejor_recall": 0.174,
+     "pureza": 0.51,
+     "fragmentos": 1,
+     "perdidos": 131
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.522,
+     "mejor_recall": 0.147,
+     "pureza": 0.632,
+     "fragmentos": 1,
+     "perdidos": 140
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.529,
+     "mejor_recall": 0.167,
+     "pureza": 0.557,
+     "fragmentos": 1,
+     "perdidos": 138
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.956,
+     "mejor_recall": 0.952,
+     "pureza": 0.083,
+     "fragmentos": 1,
+     "perdidos": 13
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.908,
+     "mejor_recall": 0.553,
+     "pureza": 0.557,
+     "fragmentos": 1,
+     "perdidos": 27
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.747,
+     "mejor_recall": 0.526,
+     "pureza": 0.639,
+     "fragmentos": 1,
+     "perdidos": 74
+    }
+   }
+  },
+  {
+   "case_idx": 45,
+   "tokens": [
+    "farallones",
+    "embargo",
+    "presenta",
+    "carta",
+    "enviada",
+    "representante"
+   ],
+   "docs_adjudicados": 107,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.533,
+     "mejor_recall": 0.075,
+     "pureza": 0.047,
+     "fragmentos": 0,
+     "perdidos": 50
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.421,
+     "mejor_recall": 0.075,
+     "pureza": 0.049,
+     "fragmentos": 0,
+     "perdidos": 62
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.458,
+     "mejor_recall": 0.056,
+     "pureza": 0.053,
+     "fragmentos": 0,
+     "perdidos": 58
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.907,
+     "mejor_recall": 0.907,
+     "pureza": 0.029,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.888,
+     "mejor_recall": 0.121,
+     "pureza": 0.031,
+     "fragmentos": 2,
+     "perdidos": 12
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.439,
+     "mejor_recall": 0.093,
+     "pureza": 0.029,
+     "fragmentos": 0,
+     "perdidos": 60
+    }
+   }
+  },
+  {
+   "case_idx": 47,
+   "tokens": [
+    "sernageomin",
+    "direccion",
+    "ejecutiva",
+    "servicio",
+    "evalua",
+    "ambiental"
+   ],
+   "docs_adjudicados": 653,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 48,
+   "tokens": [
+    "carmen",
+    "andaco",
+    "andacolloregion",
+    "coquimbo"
+   ],
+   "docs_adjudicados": 32,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.531,
+     "mejor_recall": 0.312,
+     "pureza": 0.062,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.531,
+     "mejor_recall": 0.312,
+     "pureza": 0.062,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.312,
+     "pureza": 0.076,
+     "fragmentos": 1,
+     "perdidos": 16
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.906,
+     "mejor_recall": 0.906,
+     "pureza": 0.009,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.906,
+     "mejor_recall": 0.125,
+     "pureza": 0.025,
+     "fragmentos": 2,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.438,
+     "mejor_recall": 0.062,
+     "pureza": 0.025,
+     "fragmentos": 0,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 51,
+   "tokens": [
+    "ventanas",
+    "puchuncaviregion",
+    "valparaiso"
+   ],
+   "docs_adjudicados": 211,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.739,
+     "mejor_recall": 0.626,
+     "pureza": 0.892,
+     "fragmentos": 1,
+     "perdidos": 55
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.649,
+     "mejor_recall": 0.474,
+     "pureza": 0.909,
+     "fragmentos": 1,
+     "perdidos": 74
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.687,
+     "mejor_recall": 0.578,
+     "pureza": 0.884,
+     "fragmentos": 1,
+     "perdidos": 66
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.962,
+     "mejor_recall": 0.943,
+     "pureza": 0.059,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.976,
+     "mejor_recall": 0.701,
+     "pureza": 0.661,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.569,
+     "mejor_recall": 0.436,
+     "pureza": 0.63,
+     "fragmentos": 1,
+     "perdidos": 91
+    }
+   }
+  },
+  {
+   "case_idx": 52,
+   "tokens": [
+    "ventanas",
+    "puchuncaviregion",
+    "valparaiso"
+   ],
+   "docs_adjudicados": 211,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.739,
+     "mejor_recall": 0.626,
+     "pureza": 0.892,
+     "fragmentos": 1,
+     "perdidos": 55
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.649,
+     "mejor_recall": 0.474,
+     "pureza": 0.909,
+     "fragmentos": 1,
+     "perdidos": 74
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.687,
+     "mejor_recall": 0.578,
+     "pureza": 0.884,
+     "fragmentos": 1,
+     "perdidos": 66
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.962,
+     "mejor_recall": 0.943,
+     "pureza": 0.059,
+     "fragmentos": 1,
+     "perdidos": 8
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.976,
+     "mejor_recall": 0.701,
+     "pureza": 0.661,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.569,
+     "mejor_recall": 0.436,
+     "pureza": 0.63,
+     "fragmentos": 1,
+     "perdidos": 91
+    }
+   }
+  },
+  {
+   "case_idx": 53,
+   "tokens": [
+    "complejo",
+    "termoelectrico",
+    "venta",
+    "sistema",
+    "manejo",
+    "integral"
+   ],
+   "docs_adjudicados": 251,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.721,
+     "mejor_recall": 0.534,
+     "pureza": 0.905,
+     "fragmentos": 1,
+     "perdidos": 70
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.637,
+     "mejor_recall": 0.402,
+     "pureza": 0.918,
+     "fragmentos": 1,
+     "perdidos": 91
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.665,
+     "mejor_recall": 0.494,
+     "pureza": 0.899,
+     "fragmentos": 1,
+     "perdidos": 84
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.952,
+     "mejor_recall": 0.928,
+     "pureza": 0.07,
+     "fragmentos": 1,
+     "perdidos": 12
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.988,
+     "mejor_recall": 0.602,
+     "pureza": 0.674,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.594,
+     "mejor_recall": 0.378,
+     "pureza": 0.651,
+     "fragmentos": 1,
+     "perdidos": 102
+    }
+   }
+  },
+  {
+   "case_idx": 54,
+   "tokens": [
+    "puchuncaviregion",
+    "valparaiso"
+   ],
+   "docs_adjudicados": 23,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.087,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 18
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.13,
+     "mejor_recall": 0.043,
+     "pureza": 0.006,
+     "fragmentos": 0,
+     "perdidos": 20
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.174,
+     "mejor_recall": 0.087,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 19
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.957,
+     "mejor_recall": 0.957,
+     "pureza": 0.007,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.826,
+     "mejor_recall": 0.217,
+     "pureza": 0.019,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.043,
+     "pureza": 0.003,
+     "fragmentos": 0,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 55,
+   "tokens": [
+    "deposito",
+    "cenizas",
+    "nuevo",
+    "ademas",
+    "cuenta",
+    "respaldo"
+   ],
+   "docs_adjudicados": 137,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.431,
+     "mejor_recall": 0.124,
+     "pureza": 0.195,
+     "fragmentos": 1,
+     "perdidos": 78
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.358,
+     "mejor_recall": 0.044,
+     "pureza": 0.037,
+     "fragmentos": 0,
+     "perdidos": 88
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.387,
+     "mejor_recall": 0.044,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 84
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.934,
+     "mejor_recall": 0.934,
+     "pureza": 0.038,
+     "fragmentos": 1,
+     "perdidos": 9
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.934,
+     "mejor_recall": 0.285,
+     "pureza": 0.107,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.482,
+     "mejor_recall": 0.117,
+     "pureza": 0.113,
+     "fragmentos": 2,
+     "perdidos": 71
+    }
+   }
+  },
+  {
+   "case_idx": 57,
+   "tokens": [
+    "barrancas",
+    "antonioregion",
+    "valparaiso"
+   ],
+   "docs_adjudicados": 23,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.087,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 18
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.13,
+     "mejor_recall": 0.043,
+     "pureza": 0.006,
+     "fragmentos": 0,
+     "perdidos": 20
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.174,
+     "mejor_recall": 0.087,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 19
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.957,
+     "mejor_recall": 0.957,
+     "pureza": 0.007,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.826,
+     "mejor_recall": 0.217,
+     "pureza": 0.019,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.217,
+     "mejor_recall": 0.043,
+     "pureza": 0.003,
+     "fragmentos": 0,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 62,
+   "tokens": [
+    "inmobiliario",
+    "panul",
+    "consta",
+    "total",
+    "vivien",
+    "etapas"
+   ],
+   "docs_adjudicados": 41,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.537,
+     "mejor_recall": 0.341,
+     "pureza": 0.14,
+     "fragmentos": 1,
+     "perdidos": 19
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.463,
+     "mejor_recall": 0.293,
+     "pureza": 0.176,
+     "fragmentos": 1,
+     "perdidos": 22
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.537,
+     "mejor_recall": 0.341,
+     "pureza": 0.159,
+     "fragmentos": 1,
+     "perdidos": 19
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.976,
+     "mejor_recall": 0.976,
+     "pureza": 0.012,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.951,
+     "mejor_recall": 0.341,
+     "pureza": 0.048,
+     "fragmentos": 1,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.561,
+     "mejor_recall": 0.341,
+     "pureza": 0.058,
+     "fragmentos": 1,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 63,
+   "tokens": [
+    "guayacan",
+    "pertenece",
+    "coyanco",
+    "encuentra",
+    "maiporegion",
+    "metropolitana"
+   ],
+   "docs_adjudicados": 12,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.667,
+     "mejor_recall": 0.167,
+     "pureza": 0.286,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.667,
+     "mejor_recall": 0.083,
+     "pureza": 0.006,
+     "fragmentos": 0,
+     "perdidos": 4
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.583,
+     "mejor_recall": 0.167,
+     "pureza": 0.286,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "A2_solo_emb": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.917,
+     "pureza": 0.003,
+     "fragmentos": 1,
+     "perdidos": 0
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.917,
+     "mejor_recall": 0.417,
+     "pureza": 0.012,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.333,
+     "mejor_recall": 0.333,
+     "pureza": 0.012,
+     "fragmentos": 1,
+     "perdidos": 8
+    }
+   }
+  },
+  {
+   "case_idx": 64,
+   "tokens": [
+    "lajas",
+    "aguas",
+    "provenientes",
+    "descargas",
+    "centrales",
+    "constitucionregion"
+   ],
+   "docs_adjudicados": 87,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.368,
+     "mejor_recall": 0.103,
+     "pureza": 0.106,
+     "fragmentos": 1,
+     "perdidos": 55
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.287,
+     "mejor_recall": 0.034,
+     "pureza": 0.045,
+     "fragmentos": 0,
+     "perdidos": 62
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.322,
+     "mejor_recall": 0.103,
+     "pureza": 0.114,
+     "fragmentos": 1,
+     "perdidos": 59
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.92,
+     "mejor_recall": 0.908,
+     "pureza": 0.024,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.989,
+     "mejor_recall": 0.23,
+     "pureza": 0.055,
+     "fragmentos": 3,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.529,
+     "mejor_recall": 0.138,
+     "pureza": 0.035,
+     "fragmentos": 2,
+     "perdidos": 41
+    }
+   }
+  },
+  {
+   "case_idx": 65,
+   "tokens": [
+    "tenoregion",
+    "maule"
+   ],
+   "docs_adjudicados": 7,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.429,
+     "mejor_recall": 0.286,
+     "pureza": 0.25,
+     "fragmentos": 2,
+     "perdidos": 4
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.143,
+     "mejor_recall": 0.143,
+     "pureza": 0.333,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.429,
+     "mejor_recall": 0.286,
+     "pureza": 0.25,
+     "fragmentos": 2,
+     "perdidos": 4
+    },
+    "A2_solo_emb": {
+     "cobertura": 1.0,
+     "mejor_recall": 1.0,
+     "pureza": 0.002,
+     "fragmentos": 1,
+     "perdidos": 0
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.571,
+     "mejor_recall": 0.143,
+     "pureza": 0.014,
+     "fragmentos": 4,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.143,
+     "mejor_recall": 0.143,
+     "pureza": 0.059,
+     "fragmentos": 1,
+     "perdidos": 6
+    }
+   }
+  },
+  {
+   "case_idx": 66,
+   "tokens": [
+    "paneles",
+    "hecho",
+    "comuni",
+    "vuelve",
+    "manifestar",
+    "rechazo"
+   ],
+   "docs_adjudicados": 474,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 68,
+   "tokens": [
+    "celulosa",
+    "licancel",
+    "araucoregion",
+    "biobio"
+   ],
+   "docs_adjudicados": 40,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.4,
+     "mejor_recall": 0.1,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 24
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.325,
+     "mejor_recall": 0.075,
+     "pureza": 0.375,
+     "fragmentos": 0,
+     "perdidos": 27
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.4,
+     "mejor_recall": 0.075,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 24
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.825,
+     "mejor_recall": 0.775,
+     "pureza": 0.009,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.95,
+     "mejor_recall": 0.425,
+     "pureza": 0.04,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.55,
+     "mejor_recall": 0.375,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 69,
+   "tokens": [
+    "aguas",
+    "calientescomite",
+    "ambiental",
+    "trancas",
+    "valle",
+    "diguillin"
+   ],
+   "docs_adjudicados": 708,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 70,
+   "tokens": [
+    "aguas",
+    "calien",
+    "logro",
+    "recabar",
+    "obser",
+    "vaciones"
+   ],
+   "docs_adjudicados": 110,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.509,
+     "mejor_recall": 0.118,
+     "pureza": 0.13,
+     "fragmentos": 1,
+     "perdidos": 54
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.473,
+     "mejor_recall": 0.091,
+     "pureza": 0.147,
+     "fragmentos": 0,
+     "perdidos": 58
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.482,
+     "mejor_recall": 0.109,
+     "pureza": 0.136,
+     "fragmentos": 1,
+     "perdidos": 57
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.909,
+     "mejor_recall": 0.9,
+     "pureza": 0.03,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.936,
+     "mejor_recall": 0.145,
+     "pureza": 0.055,
+     "fragmentos": 3,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.473,
+     "mejor_recall": 0.136,
+     "pureza": 0.062,
+     "fragmentos": 1,
+     "perdidos": 58
+    }
+   }
+  },
+  {
+   "case_idx": 71,
+   "tokens": [
+    "coronelregion",
+    "biobio"
+   ],
+   "docs_adjudicados": 37,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.432,
+     "mejor_recall": 0.108,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 21
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.351,
+     "mejor_recall": 0.081,
+     "pureza": 0.375,
+     "fragmentos": 0,
+     "perdidos": 24
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.432,
+     "mejor_recall": 0.081,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 21
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.811,
+     "mejor_recall": 0.757,
+     "pureza": 0.008,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.946,
+     "mejor_recall": 0.432,
+     "pureza": 0.038,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.595,
+     "mejor_recall": 0.405,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 15
+    }
+   }
+  },
+  {
+   "case_idx": 73,
+   "tokens": [
+    "celulosa",
+    "nueva",
+    "aldea",
+    "coronelregion",
+    "biobio"
+   ],
+   "docs_adjudicados": 119,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.387,
+     "mejor_recall": 0.034,
+     "pureza": 0.047,
+     "fragmentos": 0,
+     "perdidos": 73
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.336,
+     "mejor_recall": 0.034,
+     "pureza": 0.06,
+     "fragmentos": 0,
+     "perdidos": 79
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.378,
+     "mejor_recall": 0.034,
+     "pureza": 0.051,
+     "fragmentos": 0,
+     "perdidos": 74
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.899,
+     "mejor_recall": 0.857,
+     "pureza": 0.03,
+     "fragmentos": 1,
+     "perdidos": 12
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.966,
+     "mejor_recall": 0.244,
+     "pureza": 0.069,
+     "fragmentos": 3,
+     "perdidos": 4
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.479,
+     "mejor_recall": 0.202,
+     "pureza": 0.069,
+     "fragmentos": 1,
+     "perdidos": 62
+    }
+   }
+  },
+  {
+   "case_idx": 74,
+   "tokens": [
+    "santa",
+    "barbararegion",
+    "biobio"
+   ],
+   "docs_adjudicados": 56,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.339,
+     "mejor_recall": 0.071,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 37
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.286,
+     "mejor_recall": 0.054,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 40
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.304,
+     "mejor_recall": 0.054,
+     "pureza": 0.6,
+     "fragmentos": 0,
+     "perdidos": 39
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.821,
+     "mejor_recall": 0.786,
+     "pureza": 0.013,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.946,
+     "mejor_recall": 0.304,
+     "pureza": 0.04,
+     "fragmentos": 2,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.5,
+     "mejor_recall": 0.286,
+     "pureza": 0.046,
+     "fragmentos": 1,
+     "perdidos": 28
+    }
+   }
+  },
+  {
+   "case_idx": 76,
+   "tokens": [
+    "puerto",
+    "coronel",
+    "siendo",
+    "ultimo",
+    "componente",
+    "altamente"
+   ],
+   "docs_adjudicados": 174,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.54,
+     "mejor_recall": 0.282,
+     "pureza": 0.563,
+     "fragmentos": 1,
+     "perdidos": 80
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.466,
+     "mejor_recall": 0.046,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 93
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.437,
+     "mejor_recall": 0.109,
+     "pureza": 0.5,
+     "fragmentos": 1,
+     "perdidos": 98
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.914,
+     "mejor_recall": 0.879,
+     "pureza": 0.046,
+     "fragmentos": 1,
+     "perdidos": 15
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.994,
+     "mejor_recall": 0.471,
+     "pureza": 0.224,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.511,
+     "mejor_recall": 0.207,
+     "pureza": 0.209,
+     "fragmentos": 2,
+     "perdidos": 85
+    }
+   }
+  },
+  {
+   "case_idx": 77,
+   "tokens": [
+    "explotacion",
+    "lavadero",
+    "colico",
+    "carahueregion",
+    "araucania"
+   ],
+   "docs_adjudicados": 61,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.475,
+     "mejor_recall": 0.197,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 32
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.377,
+     "mejor_recall": 0.098,
+     "pureza": 0.667,
+     "fragmentos": 0,
+     "perdidos": 38
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.41,
+     "mejor_recall": 0.098,
+     "pureza": 0.053,
+     "fragmentos": 0,
+     "perdidos": 36
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.934,
+     "mejor_recall": 0.934,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.951,
+     "mejor_recall": 0.18,
+     "pureza": 0.101,
+     "fragmentos": 3,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.459,
+     "mejor_recall": 0.148,
+     "pureza": 0.068,
+     "fragmentos": 1,
+     "perdidos": 33
+    }
+   }
+  },
+  {
+   "case_idx": 84,
+   "tokens": [
+    "pedro",
+    "vuelva",
+    "ingresar",
+    "sistema",
+    "evaluacion",
+    "impacto"
+   ],
+   "docs_adjudicados": 208,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.514,
+     "mejor_recall": 0.091,
+     "pureza": 0.19,
+     "fragmentos": 0,
+     "perdidos": 101
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.447,
+     "mejor_recall": 0.043,
+     "pureza": 0.9,
+     "fragmentos": 0,
+     "perdidos": 115
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.457,
+     "mejor_recall": 0.067,
+     "pureza": 0.159,
+     "fragmentos": 0,
+     "perdidos": 113
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.933,
+     "mejor_recall": 0.913,
+     "pureza": 0.057,
+     "fragmentos": 1,
+     "perdidos": 14
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.899,
+     "mejor_recall": 0.13,
+     "pureza": 0.093,
+     "fragmentos": 3,
+     "perdidos": 21
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.49,
+     "mejor_recall": 0.12,
+     "pureza": 0.104,
+     "fragmentos": 1,
+     "perdidos": 106
+    }
+   }
+  },
+  {
+   "case_idx": 85,
+   "tokens": [
+    "neltume",
+    "linea",
+    "transmision",
+    "mismo",
+    "director",
+    "subrogante"
+   ],
+   "docs_adjudicados": 83,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.506,
+     "mejor_recall": 0.108,
+     "pureza": 0.5,
+     "fragmentos": 1,
+     "perdidos": 41
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.506,
+     "mejor_recall": 0.084,
+     "pureza": 0.467,
+     "fragmentos": 0,
+     "perdidos": 41
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.482,
+     "mejor_recall": 0.108,
+     "pureza": 0.5,
+     "fragmentos": 1,
+     "perdidos": 43
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.88,
+     "mejor_recall": 0.88,
+     "pureza": 0.022,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.53,
+     "mejor_recall": 0.096,
+     "pureza": 0.019,
+     "fragmentos": 0,
+     "perdidos": 39
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.265,
+     "mejor_recall": 0.072,
+     "pureza": 0.017,
+     "fragmentos": 0,
+     "perdidos": 61
+    }
+   }
+  },
+  {
+   "case_idx": 86,
+   "tokens": [
+    "neltume",
+    "linea",
+    "transmision",
+    "mismo",
+    "director",
+    "subrogante"
+   ],
+   "docs_adjudicados": 83,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.506,
+     "mejor_recall": 0.108,
+     "pureza": 0.5,
+     "fragmentos": 1,
+     "perdidos": 41
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.506,
+     "mejor_recall": 0.084,
+     "pureza": 0.467,
+     "fragmentos": 0,
+     "perdidos": 41
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.482,
+     "mejor_recall": 0.108,
+     "pureza": 0.5,
+     "fragmentos": 1,
+     "perdidos": 43
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.88,
+     "mejor_recall": 0.88,
+     "pureza": 0.022,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.53,
+     "mejor_recall": 0.096,
+     "pureza": 0.019,
+     "fragmentos": 0,
+     "perdidos": 39
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.265,
+     "mejor_recall": 0.072,
+     "pureza": 0.017,
+     "fragmentos": 0,
+     "perdidos": 61
+    }
+   }
+  },
+  {
+   "case_idx": 88,
+   "tokens": [
+    "demandando",
+    "tarifa",
+    "preferen",
+    "forma",
+    "ancudregion",
+    "lagos"
+   ],
+   "docs_adjudicados": 67,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.537,
+     "mejor_recall": 0.045,
+     "pureza": 0.214,
+     "fragmentos": 0,
+     "perdidos": 31
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.433,
+     "mejor_recall": 0.045,
+     "pureza": 0.214,
+     "fragmentos": 0,
+     "perdidos": 38
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.403,
+     "mejor_recall": 0.045,
+     "pureza": 0.026,
+     "fragmentos": 0,
+     "perdidos": 40
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.896,
+     "mejor_recall": 0.881,
+     "pureza": 0.018,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.97,
+     "mejor_recall": 0.119,
+     "pureza": 0.019,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.567,
+     "mejor_recall": 0.104,
+     "pureza": 0.02,
+     "fragmentos": 1,
+     "perdidos": 29
+    }
+   }
+  },
+  {
+   "case_idx": 90,
+   "tokens": [
+    "puerto",
+    "aysen",
+    "indice",
+    "desarrollo",
+    "humano",
+    "comunal"
+   ],
+   "docs_adjudicados": 149,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.51,
+     "mejor_recall": 0.309,
+     "pureza": 0.902,
+     "fragmentos": 1,
+     "perdidos": 73
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.47,
+     "mejor_recall": 0.275,
+     "pureza": 0.891,
+     "fragmentos": 1,
+     "perdidos": 79
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.456,
+     "mejor_recall": 0.148,
+     "pureza": 0.957,
+     "fragmentos": 2,
+     "perdidos": 81
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.893,
+     "mejor_recall": 0.886,
+     "pureza": 0.039,
+     "fragmentos": 1,
+     "perdidos": 16
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.953,
+     "mejor_recall": 0.349,
+     "pureza": 0.124,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.436,
+     "mejor_recall": 0.275,
+     "pureza": 0.118,
+     "fragmentos": 1,
+     "perdidos": 84
+    }
+   }
+  },
+  {
+   "case_idx": 91,
+   "tokens": [
+    "iniciativa",
+    "plazaria",
+    "comprendida",
+    "comunas",
+    "cochrane",
+    "tortel"
+   ],
+   "docs_adjudicados": 13,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.231,
+     "mejor_recall": 0.154,
+     "pureza": 0.08,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.231,
+     "mejor_recall": 0.154,
+     "pureza": 0.087,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.231,
+     "mejor_recall": 0.154,
+     "pureza": 0.08,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A2_solo_emb": {
+     "cobertura": 1.0,
+     "mejor_recall": 1.0,
+     "pureza": 0.004,
+     "fragmentos": 1,
+     "perdidos": 0
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.846,
+     "mejor_recall": 0.154,
+     "pureza": 0.007,
+     "fragmentos": 4,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.692,
+     "mejor_recall": 0.154,
+     "pureza": 0.025,
+     "fragmentos": 3,
+     "perdidos": 4
+    }
+   }
+  },
+  {
+   "case_idx": 92,
+   "tokens": [
+    "rieco",
+    "verderegion",
+    "magallanes"
+   ],
+   "docs_adjudicados": 93,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.613,
+     "mejor_recall": 0.484,
+     "pureza": 0.45,
+     "fragmentos": 1,
+     "perdidos": 36
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.57,
+     "mejor_recall": 0.323,
+     "pureza": 0.441,
+     "fragmentos": 1,
+     "perdidos": 40
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.581,
+     "mejor_recall": 0.452,
+     "pureza": 0.477,
+     "fragmentos": 1,
+     "perdidos": 39
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.989,
+     "mejor_recall": 0.989,
+     "pureza": 0.027,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.882,
+     "pureza": 0.282,
+     "fragmentos": 2,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.892,
+     "mejor_recall": 0.871,
+     "pureza": 0.336,
+     "fragmentos": 1,
+     "perdidos": 10
+    }
+   }
+  },
+  {
+   "case_idx": 95,
+   "tokens": [
+    "salares",
+    "norte",
+    "granderegiones",
+    "arica",
+    "parinacota",
+    "tarapaca"
+   ],
+   "docs_adjudicados": 62,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.306,
+     "mejor_recall": 0.097,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 43
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.258,
+     "mejor_recall": 0.097,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 46
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.306,
+     "mejor_recall": 0.097,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 43
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.935,
+     "mejor_recall": 0.903,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.887,
+     "mejor_recall": 0.242,
+     "pureza": 0.138,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.484,
+     "mejor_recall": 0.177,
+     "pureza": 0.229,
+     "fragmentos": 1,
+     "perdidos": 32
+    }
+   }
+  },
+  {
+   "case_idx": 96,
+   "tokens": [
+    "higueraregion",
+    "coquimbo"
+   ],
+   "docs_adjudicados": 24,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.625,
+     "mejor_recall": 0.417,
+     "pureza": 0.062,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.625,
+     "mejor_recall": 0.417,
+     "pureza": 0.062,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.583,
+     "mejor_recall": 0.417,
+     "pureza": 0.076,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.875,
+     "mejor_recall": 0.875,
+     "pureza": 0.006,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.875,
+     "mejor_recall": 0.167,
+     "pureza": 0.014,
+     "fragmentos": 3,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.333,
+     "mejor_recall": 0.083,
+     "pureza": 0.027,
+     "fragmentos": 0,
+     "perdidos": 16
+    }
+   }
+  },
+  {
+   "case_idx": 98,
+   "tokens": [
+    "sernageomin",
+    "subsecretaria",
+    "pesca",
+    "acuiculturacorporacion",
+    "forestal",
+    "trafun"
+   ],
+   "docs_adjudicados": 46,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.413,
+     "mejor_recall": 0.196,
+     "pureza": 0.056,
+     "fragmentos": 1,
+     "perdidos": 27
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.391,
+     "mejor_recall": 0.196,
+     "pureza": 0.056,
+     "fragmentos": 1,
+     "perdidos": 28
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.348,
+     "mejor_recall": 0.174,
+     "pureza": 0.061,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.848,
+     "mejor_recall": 0.804,
+     "pureza": 0.011,
+     "fragmentos": 1,
+     "perdidos": 7
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.978,
+     "mejor_recall": 0.304,
+     "pureza": 0.118,
+     "fragmentos": 4,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.609,
+     "mejor_recall": 0.261,
+     "pureza": 0.19,
+     "fragmentos": 1,
+     "perdidos": 18
+    }
+   }
+  },
+  {
+   "case_idx": 99,
+   "tokens": [
+    "sernageomin",
+    "superintendencia",
+    "electricidad",
+    "combustibles",
+    "corporacion",
+    "localidad"
+   ],
+   "docs_adjudicados": 35,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.571,
+     "mejor_recall": 0.086,
+     "pureza": 0.02,
+     "fragmentos": 0,
+     "perdidos": 15
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.514,
+     "mejor_recall": 0.086,
+     "pureza": 0.027,
+     "fragmentos": 0,
+     "perdidos": 17
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.486,
+     "mejor_recall": 0.086,
+     "pureza": 0.022,
+     "fragmentos": 0,
+     "perdidos": 18
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.914,
+     "mejor_recall": 0.886,
+     "pureza": 0.009,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.943,
+     "mejor_recall": 0.171,
+     "pureza": 0.027,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.514,
+     "mejor_recall": 0.143,
+     "pureza": 0.034,
+     "fragmentos": 1,
+     "perdidos": 17
+    }
+   }
+  },
+  {
+   "case_idx": 100,
+   "tokens": [
+    "sernageomin",
+    "localidad",
+    "constitucionregion",
+    "maule"
+   ],
+   "docs_adjudicados": 15,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.533,
+     "mejor_recall": 0.133,
+     "pureza": 0.25,
+     "fragmentos": 3,
+     "perdidos": 7
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.4,
+     "mejor_recall": 0.133,
+     "pureza": 0.667,
+     "fragmentos": 2,
+     "perdidos": 9
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.533,
+     "mejor_recall": 0.133,
+     "pureza": 0.25,
+     "fragmentos": 3,
+     "perdidos": 7
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.933,
+     "mejor_recall": 0.933,
+     "pureza": 0.004,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.8,
+     "mejor_recall": 0.267,
+     "pureza": 0.018,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.467,
+     "mejor_recall": 0.267,
+     "pureza": 0.027,
+     "fragmentos": 1,
+     "perdidos": 8
+    }
+   }
+  },
+  {
+   "case_idx": 101,
+   "tokens": [
+    "mineriaservicio",
+    "geologia",
+    "sernageomin",
+    "derechos",
+    "juego",
+    "derecho"
+   ],
+   "docs_adjudicados": 59,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.288,
+     "mejor_recall": 0.051,
+     "pureza": 0.02,
+     "fragmentos": 0,
+     "perdidos": 42
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.22,
+     "mejor_recall": 0.051,
+     "pureza": 0.027,
+     "fragmentos": 0,
+     "perdidos": 46
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.254,
+     "mejor_recall": 0.051,
+     "pureza": 0.022,
+     "fragmentos": 0,
+     "perdidos": 44
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.898,
+     "mejor_recall": 0.898,
+     "pureza": 0.016,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.966,
+     "mejor_recall": 0.254,
+     "pureza": 0.221,
+     "fragmentos": 2,
+     "perdidos": 2
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.475,
+     "mejor_recall": 0.169,
+     "pureza": 0.029,
+     "fragmentos": 1,
+     "perdidos": 31
+    }
+   }
+  },
+  {
+   "case_idx": 103,
+   "tokens": [
+    "pingoscomite",
+    "defensa",
+    "grande",
+    "tulahuenjunta",
+    "vigilancia",
+    "quebrada"
+   ],
+   "docs_adjudicados": 60,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.383,
+     "mejor_recall": 0.067,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 37
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.333,
+     "mejor_recall": 0.067,
+     "pureza": 1.0,
+     "fragmentos": 0,
+     "perdidos": 40
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.3,
+     "mejor_recall": 0.05,
+     "pureza": 0.034,
+     "fragmentos": 0,
+     "perdidos": 42
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.933,
+     "mejor_recall": 0.917,
+     "pureza": 0.016,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.983,
+     "mejor_recall": 0.217,
+     "pureza": 0.031,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.45,
+     "mejor_recall": 0.2,
+     "pureza": 0.035,
+     "fragmentos": 1,
+     "perdidos": 33
+    }
+   }
+  },
+  {
+   "case_idx": 104,
+   "tokens": [
+    "pingos"
+   ],
+   "docs_adjudicados": 0,
+   "documentado": false,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 105,
+   "tokens": [
+    "andes",
+    "barnechea",
+    "colina",
+    "calle",
+    "larga",
+    "tiltil"
+   ],
+   "docs_adjudicados": 80,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.65,
+     "mejor_recall": 0.2,
+     "pureza": 0.099,
+     "fragmentos": 2,
+     "perdidos": 28
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.625,
+     "mejor_recall": 0.2,
+     "pureza": 0.099,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.6,
+     "mejor_recall": 0.175,
+     "pureza": 0.107,
+     "fragmentos": 2,
+     "perdidos": 32
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.925,
+     "mejor_recall": 0.925,
+     "pureza": 0.022,
+     "fragmentos": 1,
+     "perdidos": 6
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.175,
+     "pureza": 0.038,
+     "fragmentos": 4,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.65,
+     "mejor_recall": 0.15,
+     "pureza": 0.085,
+     "fragmentos": 3,
+     "perdidos": 28
+    }
+   }
+  },
+  {
+   "case_idx": 106,
+   "tokens": [
+    "termoelectricascoordinadora",
+    "tomecinacoordinadora",
+    "choreracoordinadora",
+    "intercomunalasociacio",
+    "penco",
+    "talcahuano"
+   ],
+   "docs_adjudicados": 19,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "A2_solo_emb": {
+     "cobertura": 0.842,
+     "mejor_recall": 0.842,
+     "pureza": 0.005,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.947,
+     "mejor_recall": 0.211,
+     "pureza": 0.029,
+     "fragmentos": 3,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.579,
+     "mejor_recall": 0.211,
+     "pureza": 0.051,
+     "fragmentos": 1,
+     "perdidos": 8
+    }
+   }
+  },
+  {
+   "case_idx": 107,
+   "tokens": [
+    "pucon",
+    "currarehueregion",
+    "araucania"
+   ],
+   "docs_adjudicados": 21,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.524,
+     "mejor_recall": 0.286,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.524,
+     "mejor_recall": 0.286,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.381,
+     "mejor_recall": 0.19,
+     "pureza": 0.571,
+     "fragmentos": 1,
+     "perdidos": 13
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.857,
+     "mejor_recall": 0.857,
+     "pureza": 0.005,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.143,
+     "pureza": 0.055,
+     "fragmentos": 4,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.429,
+     "mejor_recall": 0.095,
+     "pureza": 0.006,
+     "fragmentos": 0,
+     "perdidos": 12
+    }
+   }
+  },
+  {
+   "case_idx": 108,
+   "tokens": [
+    "curacautinregion",
+    "araucania"
+   ],
+   "docs_adjudicados": 21,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.524,
+     "mejor_recall": 0.286,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.524,
+     "mejor_recall": 0.286,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 10
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.381,
+     "mejor_recall": 0.19,
+     "pureza": 0.571,
+     "fragmentos": 1,
+     "perdidos": 13
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.857,
+     "mejor_recall": 0.857,
+     "pureza": 0.005,
+     "fragmentos": 1,
+     "perdidos": 3
+    },
+    "BERTopic_familias": {
+     "cobertura": 1.0,
+     "mejor_recall": 0.143,
+     "pureza": 0.055,
+     "fragmentos": 4,
+     "perdidos": 0
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.429,
+     "mejor_recall": 0.095,
+     "pureza": 0.006,
+     "fragmentos": 0,
+     "perdidos": 12
+    }
+   }
+  },
+  {
+   "case_idx": 109,
+   "tokens": [
+    "allipen",
+    "tolten",
+    "comunas",
+    "pitrufquen",
+    "freireregion",
+    "araucania"
+   ],
+   "docs_adjudicados": 30,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.533,
+     "mejor_recall": 0.2,
+     "pureza": 0.667,
+     "fragmentos": 2,
+     "perdidos": 14
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.367,
+     "mejor_recall": 0.2,
+     "pureza": 0.667,
+     "fragmentos": 1,
+     "perdidos": 19
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.433,
+     "mejor_recall": 0.167,
+     "pureza": 1.0,
+     "fragmentos": 2,
+     "perdidos": 17
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.867,
+     "mejor_recall": 0.867,
+     "pureza": 0.008,
+     "fragmentos": 1,
+     "perdidos": 4
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.967,
+     "mejor_recall": 0.3,
+     "pureza": 0.021,
+     "fragmentos": 5,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.567,
+     "mejor_recall": 0.267,
+     "pureza": 0.023,
+     "fragmentos": 2,
+     "perdidos": 13
+    }
+   }
+  },
+  {
+   "case_idx": 110,
+   "tokens": [
+    "unica",
+    "trabajadores",
+    "asociacion",
+    "empleados",
+    "cales",
+    "puerto"
+   ],
+   "docs_adjudicados": 118,
+   "documentado": true,
+   "flag_contaminado": true,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.559,
+     "mejor_recall": 0.161,
+     "pureza": 0.128,
+     "fragmentos": 1,
+     "perdidos": 52
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.517,
+     "mejor_recall": 0.136,
+     "pureza": 0.145,
+     "fragmentos": 1,
+     "perdidos": 57
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.508,
+     "mejor_recall": 0.161,
+     "pureza": 0.138,
+     "fragmentos": 1,
+     "perdidos": 58
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.898,
+     "mejor_recall": 0.881,
+     "pureza": 0.031,
+     "fragmentos": 1,
+     "perdidos": 12
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.992,
+     "mejor_recall": 0.254,
+     "pureza": 0.134,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.424,
+     "mejor_recall": 0.093,
+     "pureza": 0.075,
+     "fragmentos": 0,
+     "perdidos": 68
+    }
+   }
+  },
+  {
+   "case_idx": 111,
+   "tokens": [
+    "puerto",
+    "natales",
+    "generando",
+    "preocupacion",
+    "autoridades",
+    "locales"
+   ],
+   "docs_adjudicados": 98,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.449,
+     "mejor_recall": 0.071,
+     "pureza": 0.043,
+     "fragmentos": 0,
+     "perdidos": 54
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.408,
+     "mejor_recall": 0.071,
+     "pureza": 0.043,
+     "fragmentos": 0,
+     "perdidos": 58
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.367,
+     "mejor_recall": 0.061,
+     "pureza": 0.046,
+     "fragmentos": 0,
+     "perdidos": 62
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.867,
+     "mejor_recall": 0.837,
+     "pureza": 0.024,
+     "fragmentos": 1,
+     "perdidos": 13
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.99,
+     "mejor_recall": 0.122,
+     "pureza": 0.046,
+     "fragmentos": 1,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.367,
+     "mejor_recall": 0.082,
+     "pureza": 0.023,
+     "fragmentos": 0,
+     "perdidos": 62
+    }
+   }
+  },
+  {
+   "case_idx": 113,
+   "tokens": [
+    "termoelectricacomunidades",
+    "moluches",
+    "mulchenregion"
+   ],
+   "docs_adjudicados": 0,
+   "documentado": false,
+   "flag_contaminado": false,
+   "sistemas": {}
+  },
+  {
+   "case_idx": 115,
+   "tokens": [
+    "antofagastaregion",
+    "antofagasta"
+   ],
+   "docs_adjudicados": 61,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.525,
+     "mejor_recall": 0.115,
+     "pureza": 0.043,
+     "fragmentos": 1,
+     "perdidos": 29
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.492,
+     "mejor_recall": 0.131,
+     "pureza": 0.049,
+     "fragmentos": 1,
+     "perdidos": 31
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.508,
+     "mejor_recall": 0.115,
+     "pureza": 0.053,
+     "fragmentos": 1,
+     "perdidos": 30
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.918,
+     "mejor_recall": 0.918,
+     "pureza": 0.017,
+     "fragmentos": 1,
+     "perdidos": 5
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.984,
+     "mejor_recall": 0.279,
+     "pureza": 0.058,
+     "fragmentos": 2,
+     "perdidos": 1
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.721,
+     "mejor_recall": 0.279,
+     "pureza": 0.071,
+     "fragmentos": 1,
+     "perdidos": 17
+    }
+   }
+  },
+  {
+   "case_idx": 116,
+   "tokens": [
+    "mediterraneo",
+    "corporacion",
+    "puelo",
+    "patagonia",
+    "corte",
+    "apelaciones"
+   ],
+   "docs_adjudicados": 122,
+   "documentado": true,
+   "flag_contaminado": false,
+   "sistemas": {
+    "HEBRA_L2": {
+     "cobertura": 0.443,
+     "mejor_recall": 0.066,
+     "pureza": 0.047,
+     "fragmentos": 0,
+     "perdidos": 68
+    },
+    "A1_solo_ref": {
+     "cobertura": 0.336,
+     "mejor_recall": 0.066,
+     "pureza": 0.049,
+     "fragmentos": 0,
+     "perdidos": 81
+    },
+    "A4_sin_largos": {
+     "cobertura": 0.377,
+     "mejor_recall": 0.066,
+     "pureza": 0.07,
+     "fragmentos": 0,
+     "perdidos": 76
+    },
+    "A2_solo_emb": {
+     "cobertura": 0.893,
+     "mejor_recall": 0.861,
+     "pureza": 0.031,
+     "fragmentos": 1,
+     "perdidos": 13
+    },
+    "BERTopic_familias": {
+     "cobertura": 0.975,
+     "mejor_recall": 0.156,
+     "pureza": 0.045,
+     "fragmentos": 2,
+     "perdidos": 3
+    },
+    "OmegaEvolve_S": {
+     "cobertura": 0.385,
+     "mejor_recall": 0.115,
+     "pureza": 0.04,
+     "fragmentos": 1,
+     "perdidos": 75
+    }
+   }
+  },
+  {
+   "case_idx": 117,
+   "tokens": [
+    "lajaregion"
+   ],
+   "docs_adjudicados": 0,
+   "documentado": false,
+   "flag_contaminado": false,
+   "sistemas": {}
+  }
+ ]
+}

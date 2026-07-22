@@ -1,0 +1,33 @@
+{
+ "generated_utc": "2026-07-22T14:58:26.070505+00:00",
+ "design": "solo embeddings; KNN15 en ventana +-365d; w=s_emb",
+ "inputs_sha256": {
+  "corpus": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
+  "embeddings": "04ea88ee67b6aaa3c76ebf1f913d41e097c52c160491e025e721fca018d0a2a5",
+  "script": "72b61a91d5b2749d27a7a6ad4ea1238a603f16c46433c6c9c5cb31bcdce48e8e"
+ },
+ "grid": [
+  {
+   "tau": 0.6,
+   "edges": 41974,
+   "threads_ge3": 2,
+   "coverage_ge3_pct": 99.87,
+   "giant_share_pct": 99.33
+  },
+  {
+   "tau": 0.7,
+   "edges": 40012,
+   "threads_ge3": 2,
+   "coverage_ge3_pct": 98.98,
+   "giant_share_pct": 98.44
+  },
+  {
+   "tau": 0.8,
+   "edges": 29205,
+   "threads_ge3": 11,
+   "coverage_ge3_pct": 91.3,
+   "giant_share_pct": 89.88
+  }
+ ],
+ "chosen_tau": 0.8
+}

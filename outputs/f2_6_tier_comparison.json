@@ -1,0 +1,453 @@
+{
+ "generated_utc": "2026-07-22T14:28:20.370509+00:00",
+ "base": "f2b_idf_v2",
+ "tiers": {
+  "L1": {
+   "chosen_tau": 0.45,
+   "edges_total": 9981,
+   "long_edges": 1424,
+   "long_edges_dumped": 1424,
+   "threads_ge3": 178,
+   "coverage_ge3_pct": 49.74,
+   "giant_share_pct": 4.56,
+   "singletons": 1538,
+   "size_p50_ge3": 4.0,
+   "long_edge_share_top12": {
+    "H0000": {
+     "docs": 170,
+     "edges": 889,
+     "long": 173,
+     "pct_long": 19.5
+    },
+    "H0001": {
+     "docs": 162,
+     "edges": 1293,
+     "long": 202,
+     "pct_long": 15.6
+    },
+    "H0002": {
+     "docs": 148,
+     "edges": 3561,
+     "long": 328,
+     "pct_long": 9.2
+    },
+    "H0003": {
+     "docs": 100,
+     "edges": 870,
+     "long": 40,
+     "pct_long": 4.6
+    },
+    "H0004": {
+     "docs": 87,
+     "edges": 246,
+     "long": 64,
+     "pct_long": 26.0
+    },
+    "H0005": {
+     "docs": 85,
+     "edges": 283,
+     "long": 28,
+     "pct_long": 9.9
+    },
+    "H0006": {
+     "docs": 51,
+     "edges": 276,
+     "long": 46,
+     "pct_long": 16.7
+    },
+    "H0007": {
+     "docs": 35,
+     "edges": 100,
+     "long": 6,
+     "pct_long": 6.0
+    },
+    "H0008": {
+     "docs": 34,
+     "edges": 144,
+     "long": 36,
+     "pct_long": 25.0
+    },
+    "H0009": {
+     "docs": 28,
+     "edges": 68,
+     "long": 26,
+     "pct_long": 38.2
+    },
+    "H0010": {
+     "docs": 27,
+     "edges": 86,
+     "long": 18,
+     "pct_long": 20.9
+    },
+    "H0011": {
+     "docs": 25,
+     "edges": 183,
+     "long": 16,
+     "pct_long": 8.7
+    }
+   }
+  },
+  "L2": {
+   "chosen_tau": 0.45,
+   "edges_total": 9981,
+   "long_edges": 1424,
+   "long_edges_dumped": 1424,
+   "threads_ge3": 178,
+   "coverage_ge3_pct": 49.74,
+   "giant_share_pct": 4.56,
+   "singletons": 1538,
+   "size_p50_ge3": 4.0,
+   "long_edge_share_top12": {
+    "H0000": {
+     "docs": 170,
+     "edges": 889,
+     "long": 173,
+     "pct_long": 19.5
+    },
+    "H0001": {
+     "docs": 162,
+     "edges": 1293,
+     "long": 202,
+     "pct_long": 15.6
+    },
+    "H0002": {
+     "docs": 148,
+     "edges": 3561,
+     "long": 328,
+     "pct_long": 9.2
+    },
+    "H0003": {
+     "docs": 100,
+     "edges": 870,
+     "long": 40,
+     "pct_long": 4.6
+    },
+    "H0004": {
+     "docs": 87,
+     "edges": 246,
+     "long": 64,
+     "pct_long": 26.0
+    },
+    "H0005": {
+     "docs": 85,
+     "edges": 283,
+     "long": 28,
+     "pct_long": 9.9
+    },
+    "H0006": {
+     "docs": 51,
+     "edges": 276,
+     "long": 46,
+     "pct_long": 16.7
+    },
+    "H0007": {
+     "docs": 35,
+     "edges": 100,
+     "long": 6,
+     "pct_long": 6.0
+    },
+    "H0008": {
+     "docs": 34,
+     "edges": 144,
+     "long": 36,
+     "pct_long": 25.0
+    },
+    "H0009": {
+     "docs": 28,
+     "edges": 68,
+     "long": 26,
+     "pct_long": 38.2
+    },
+    "H0010": {
+     "docs": 27,
+     "edges": 86,
+     "long": 18,
+     "pct_long": 20.9
+    },
+    "H0011": {
+     "docs": 25,
+     "edges": 183,
+     "long": 16,
+     "pct_long": 8.7
+    }
+   }
+  },
+  "L3": {
+   "chosen_tau": 0.45,
+   "edges_total": 9069,
+   "long_edges": 512,
+   "long_edges_dumped": 512,
+   "threads_ge3": 176,
+   "coverage_ge3_pct": 48.21,
+   "giant_share_pct": 4.54,
+   "singletons": 1587,
+   "size_p50_ge3": 4.0,
+   "long_edge_share_top12": {
+    "H0000": {
+     "docs": 169,
+     "edges": 747,
+     "long": 31,
+     "pct_long": 4.1
+    },
+    "H0001": {
+     "docs": 154,
+     "edges": 1117,
+     "long": 29,
+     "pct_long": 2.6
+    },
+    "H0002": {
+     "docs": 146,
+     "edges": 3284,
+     "long": 51,
+     "pct_long": 1.6
+    },
+    "H0003": {
+     "docs": 98,
+     "edges": 848,
+     "long": 18,
+     "pct_long": 2.1
+    },
+    "H0004": {
+     "docs": 79,
+     "edges": 267,
+     "long": 14,
+     "pct_long": 5.2
+    },
+    "H0005": {
+     "docs": 52,
+     "edges": 119,
+     "long": 14,
+     "pct_long": 11.8
+    },
+    "H0006": {
+     "docs": 48,
+     "edges": 240,
+     "long": 13,
+     "pct_long": 5.4
+    },
+    "H0007": {
+     "docs": 35,
+     "edges": 100,
+     "long": 6,
+     "pct_long": 6.0
+    },
+    "H0008": {
+     "docs": 34,
+     "edges": 123,
+     "long": 15,
+     "pct_long": 12.2
+    },
+    "H0009": {
+     "docs": 31,
+     "edges": 82,
+     "long": 6,
+     "pct_long": 7.3
+    },
+    "H0010": {
+     "docs": 27,
+     "edges": 80,
+     "long": 12,
+     "pct_long": 15.0
+    },
+    "H0011": {
+     "docs": 25,
+     "edges": 179,
+     "long": 12,
+     "pct_long": 6.7
+    }
+   }
+  }
+ },
+ "L1_vs_L2": {
+  "docs_que_salen_de_hilos_ge3": 0,
+  "acuerdo_pares": {
+   "docs_common": 1853,
+   "pairs_a": 57175,
+   "pairs_b": 57175,
+   "pairs_shared": 57175,
+   "jaccard_pairs": 1.0
+  },
+  "splits_top12_L1": {
+   "H0000": {
+    "docs_l1": 170,
+    "n_destinos": 1,
+    "mejor_destino_docs": 170,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0001": {
+    "docs_l1": 162,
+    "n_destinos": 1,
+    "mejor_destino_docs": 162,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0002": {
+    "docs_l1": 148,
+    "n_destinos": 1,
+    "mejor_destino_docs": 148,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0003": {
+    "docs_l1": 100,
+    "n_destinos": 1,
+    "mejor_destino_docs": 100,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0004": {
+    "docs_l1": 87,
+    "n_destinos": 1,
+    "mejor_destino_docs": 87,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0005": {
+    "docs_l1": 85,
+    "n_destinos": 1,
+    "mejor_destino_docs": 85,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0006": {
+    "docs_l1": 51,
+    "n_destinos": 1,
+    "mejor_destino_docs": 51,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0007": {
+    "docs_l1": 35,
+    "n_destinos": 1,
+    "mejor_destino_docs": 35,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0008": {
+    "docs_l1": 34,
+    "n_destinos": 1,
+    "mejor_destino_docs": 34,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0009": {
+    "docs_l1": 28,
+    "n_destinos": 1,
+    "mejor_destino_docs": 28,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0010": {
+    "docs_l1": 27,
+    "n_destinos": 1,
+    "mejor_destino_docs": 27,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0011": {
+    "docs_l1": 25,
+    "n_destinos": 1,
+    "mejor_destino_docs": 25,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   }
+  }
+ },
+ "L1_vs_L3": {
+  "docs_que_salen_de_hilos_ge3": 57,
+  "acuerdo_pares": {
+   "docs_common": 1796,
+   "pairs_a": 54953,
+   "pairs_b": 52338,
+   "pairs_shared": 52338,
+   "jaccard_pairs": 0.9524
+  },
+  "splits_top12_L1": {
+   "H0000": {
+    "docs_l1": 170,
+    "n_destinos": 2,
+    "mejor_destino_docs": 169,
+    "jaccard_mejor": 0.994,
+    "docs_fuera_de_hilos": 1
+   },
+   "H0001": {
+    "docs_l1": 162,
+    "n_destinos": 3,
+    "mejor_destino_docs": 154,
+    "jaccard_mejor": 0.951,
+    "docs_fuera_de_hilos": 5
+   },
+   "H0002": {
+    "docs_l1": 148,
+    "n_destinos": 2,
+    "mejor_destino_docs": 146,
+    "jaccard_mejor": 0.986,
+    "docs_fuera_de_hilos": 2
+   },
+   "H0003": {
+    "docs_l1": 100,
+    "n_destinos": 2,
+    "mejor_destino_docs": 98,
+    "jaccard_mejor": 0.98,
+    "docs_fuera_de_hilos": 2
+   },
+   "H0004": {
+    "docs_l1": 87,
+    "n_destinos": 3,
+    "mejor_destino_docs": 52,
+    "jaccard_mejor": 0.598,
+    "docs_fuera_de_hilos": 4
+   },
+   "H0005": {
+    "docs_l1": 85,
+    "n_destinos": 3,
+    "mejor_destino_docs": 79,
+    "jaccard_mejor": 0.929,
+    "docs_fuera_de_hilos": 3
+   },
+   "H0006": {
+    "docs_l1": 51,
+    "n_destinos": 2,
+    "mejor_destino_docs": 48,
+    "jaccard_mejor": 0.941,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0007": {
+    "docs_l1": 35,
+    "n_destinos": 1,
+    "mejor_destino_docs": 35,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0008": {
+    "docs_l1": 34,
+    "n_destinos": 1,
+    "mejor_destino_docs": 34,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0009": {
+    "docs_l1": 28,
+    "n_destinos": 3,
+    "mejor_destino_docs": 16,
+    "jaccard_mejor": 0.571,
+    "docs_fuera_de_hilos": 2
+   },
+   "H0010": {
+    "docs_l1": 27,
+    "n_destinos": 1,
+    "mejor_destino_docs": 27,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   },
+   "H0011": {
+    "docs_l1": 25,
+    "n_destinos": 1,
+    "mejor_destino_docs": 25,
+    "jaccard_mejor": 1.0,
+    "docs_fuera_de_hilos": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,932 @@
+{
+ "schema_version": 1,
+ "generated_utc": "2026-07-22T14:54:31.791281+00:00",
+ "fuente": {
+  "nombre": "INDH Mapa de Conflictos Socioambientales en Chile 2015",
+  "url": "https://research.csiro.au/gestionrapel/wp-content/uploads/sites/79/2016/11/Mapa-de-conflictos-socioambientales-en-Chile-INDH-2015.pdf",
+  "pdf_sha256": "b2d21ff06e963c2b64e929ec0b64d5d6ea3b014dd2878aea4ff2ad54cfd9ddab",
+  "casos_declarados": 118
+ },
+ "metodo": "extraccion mecanica por bloques 'ANO DE INICIO'; filtro sector Energia|Mineria; sin seleccion manual",
+ "limitaciones": [
+  "corte temporal 2015; el corpus llega a 2026 (litio/H2 verde post-2015 subrepresentados)",
+  "definicion INDH de conflicto != definicion HEBRA de proceso",
+  "titulos aproximados por heuristica de extraccion PDF; adjudicar contra corpus antes de medir recuperacion",
+  "INDH no es verdad perfecta: cobertura y criterios propios"
+ ],
+ "bloques_detectados": 118,
+ "casos_energia_mineria": 91,
+ "flag_contaminado_desarrollo_n": 13,
+ "casos": [
+  {
+   "case_idx": 0,
+   "titulo_aprox": "",
+   "anio_inicio": "1992",
+   "localizacion": "ÓN Parque Nacional Lauca, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 1,
+   "titulo_aprox": "Parque Nacional Lauca, declara-do por la UNESCO como Reserva de la Biosfera y protegid",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Parque Nacional Lauca, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 2,
+   "titulo_aprox": "Minera Southern Copper CorporationCorporacion Nacional de Desarrollo In-digena (CONADI",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Reserva Nacional Las Vicuñas, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 3,
+   "titulo_aprox": "Minera Can Can, perteneciente a empre-sas COPECComision Regional de Medio Ambiente (CO",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Reserva Nacional Las Vicuñas, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 4,
+   "titulo_aprox": "MineriaCorporacion Nacional Forestal (CONAF)Comision Regional de Medio Ambiente (COREMA",
+   "anio_inicio": "",
+   "localizacion": "ÓN Monumento Salar de Surire, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 5,
+   "titulo_aprox": "Minera Nandu, auto-rizada en 1978 a extraer borax del salar sin limite alguno.",
+   "anio_inicio": "",
+   "localizacion": "ÓN Cerro Chuño, AricaRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 6,
+   "titulo_aprox": "",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Cerro Chuño, AricaRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 7,
+   "titulo_aprox": "Minera Hemisferio Sur S.C.M.Comision Regional de Medio Ambiente (COREMA)Junta de Vigil",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN 35 km al noroeste de Putre, PutreRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 8,
+   "titulo_aprox": "Minera Pampa Camarones S.A.Comision de Evaluacion Ambiental (CEA)Coordinadora Aymara d",
+   "anio_inicio": "2011",
+   "localizacion": "ÓN Pampa de Camarones, CamaronesRegión de Arica y Parinacota",
+   "region": "Región de Arica y Parinacota",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 9,
+   "titulo_aprox": "Minera CosayachMinisterio de Obras Publicas - Direccion General de Aguas (DGA)Senador",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN Pampa del Tamarugal, Pozo AlmonteRegión de Tarapacá",
+   "region": "Región de Tarapacá",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 10,
+   "titulo_aprox": "Extraccion ilegal de agua en pampa",
+   "anio_inicio": "2005",
+   "localizacion": "ÓN Caleta Chanavayita, IquiqueRegión de Tarapacá",
+   "region": "Región de Tarapacá",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 11,
+   "titulo_aprox": "TermoelectricasHabitantes de Canamo, Chanavaya y ChanavayitaDirigentes territoriales de Iq",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Bahía de Patache, IquiqueRegión de Tarapacá",
+   "region": "Región de Tarapacá",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 12,
+   "titulo_aprox": "Central Termoelectrica Pacifico",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Salar de Llamara, Pozo AlmonteRegiones de Tarapacá y Antofagasta",
+   "region": "",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 13,
+   "titulo_aprox": "TermoelectricasJuntas de Vecino de Canamo, Chanava-ya y ChanavayitaComite Medioambiente Ch",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Bahía de Patache, IquiqueRegión de Tarapacá",
+   "region": "Región de Tarapacá",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 14,
+   "titulo_aprox": "Mineria (SERNAGEOMIN)SEREMI de Obras PublicasSEREMI de AgriculturaDireccion General de",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Peine y Toconao, San Pedro de AtacamaRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 15,
+   "titulo_aprox": "",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Geiser del Tatio, CalamaRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 16,
+   "titulo_aprox": "Minera Sociedad Chilena del LitioSQM SalarComision Regional de Medio Ambiente (COREMA)",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Salar de Atacama, San Pedro de AtacamaRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 17,
+   "titulo_aprox": "Puerto Argamos, Terminal Mejillones, Municipalidad de MejillonesSEREMI de Salud, SEREM",
+   "anio_inicio": "1990",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Activo",
+   "sector": "Energía, Infraestructura hidráulica, Infraestructura portuaria, Infraestructura de transporte, Instalaciones fabriles",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 18,
+   "titulo_aprox": "",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 19,
+   "titulo_aprox": "Central termoelectrica Angamos",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 20,
+   "titulo_aprox": "Central termoelectrica Cochrane",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 21,
+   "titulo_aprox": "Central Termoelec-trica Andina (CTA) y la Central Termoe-lectrica Hornitos (CTH), tras",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 22,
+   "titulo_aprox": "Central Termoelec-trica Andina (CTA) y la Central Termoe-lectrica Hornitos (CTH), tras",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN MejillonesRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 23,
+   "titulo_aprox": "",
+   "anio_inicio": "",
+   "localizacion": "ÓN TocopillaRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Latente",
+   "sector": "Energía, Instalaciones fabriles",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 24,
+   "titulo_aprox": "Proyecto de Resolucion N° 125 que solicita a la Pre-sidenta de la Republica una norma qu",
+   "anio_inicio": "",
+   "localizacion": "ÓN Chañaral Región de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 25,
+   "titulo_aprox": "",
+   "anio_inicio": "1996",
+   "localizacion": "ÓN Alto del CarmenRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 26,
+   "titulo_aprox": "Minera Frontera de Oro, de la canadien-se Tenke Mining Corp.Comite Ecologico y Cultura",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Alto del CarmenRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 27,
+   "titulo_aprox": "MineriaSEREMI de MineriaMunicipalidad de Tierra AmarillaCoordinadora Ambiental de Tierr",
+   "anio_inicio": "1994",
+   "localizacion": "ÓN Paipote, CopiapóRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 28,
+   "titulo_aprox": "Minera Lumina Cooper ChileGobierno RegionalComision Regional de Medio Ambiente (COREMA",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Tierra AmarillaRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 29,
+   "titulo_aprox": "",
+   "anio_inicio": "2001",
+   "localizacion": "ÓN Tierra Amarilla y CopiapóRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 30,
+   "titulo_aprox": "Minera Maricunga, perteneciente a Kin-Ross GoldComision Regional de Medio Ambiente (CO",
+   "anio_inicio": "1994",
+   "localizacion": "ÓN Salar de Maricunga, CopiapóRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 31,
+   "titulo_aprox": "Minera Candela-ria, controlada por Freeport McMoran Coopery GoldComision Regional de M",
+   "anio_inicio": "1995",
+   "localizacion": "ÓN Tierra AmarillaRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 32,
+   "titulo_aprox": "Proyecto minero El Morro consiste en la construccion y operacion de una mina a tajo abie",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Alto del CarmenRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 33,
+   "titulo_aprox": "",
+   "anio_inicio": "1995",
+   "localizacion": "ÓN HuascoRegión de Atacamaa",
+   "region": "Región de Atacamaa",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 34,
+   "titulo_aprox": "Central (SIC). En 1995 co-menzo a funcionar la primera unidad de 152 MW. En 1996 desarr",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN HuascoRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 36,
+   "titulo_aprox": "",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Punta Cachos, CopiapóRegión de Atacama",
+   "region": "Región de Atacama",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 38,
+   "titulo_aprox": "Termoelectrica Castilla, revocando la autorizacion ambiental al Puerto y la Termoelectrica",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Illapel, Los Vilos y SalamancaRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 39,
+   "titulo_aprox": "Minera Los PelambresComision Regional de Medio Ambiente (COREMA) / Comision de Evaluac",
+   "anio_inicio": "2003",
+   "localizacion": "ÓN Caimanes, Los VilosRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 40,
+   "titulo_aprox": "Minera Los Pelambres, perteneciente al Grupo LuksicComision Regional de Medio Ambiente",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN IllapelRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Latente",
+   "sector": "Minería Infraestructura hidráulicaInfraestructura portuariaInfraestructura de transporte",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 41,
+   "titulo_aprox": "",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN La HigueraRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 42,
+   "titulo_aprox": "Central termoelectrica Punta",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN La HigueraRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 43,
+   "titulo_aprox": "Central Termica Barrancones S.A (Suez Energy)Comision Regional de Medio Ambiente (COREM",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Chungungo, La HigueraRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 44,
+   "titulo_aprox": "Linea Verde de Caleta Hor-nosConfederacion Nacional de Pescadores Artesanales de Chil",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN La HigueraRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 45,
+   "titulo_aprox": "Termoelectrica Farallones, sin embargo se presenta una carta enviada por el representante ",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Salamanca e IllapelRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 47,
+   "titulo_aprox": "Mineria (SERNAGEOMIN)Direccion Ejecutiva Servicio de Evalua-cion Ambiental (SEA)Habitan",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Tambillos, CoquimboRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 48,
+   "titulo_aprox": "Minera Carmen de Andaco",
+   "anio_inicio": "1995",
+   "localizacion": "ÓN AndacolloRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 51,
+   "titulo_aprox": "",
+   "anio_inicio": "",
+   "localizacion": "ÓN Ventanas, PuchuncavíRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 52,
+   "titulo_aprox": "",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Ventanas, PuchuncavíRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 53,
+   "titulo_aprox": "Complejo Termoelectrico Venta-nas de un sistema de manejo integral de sus RISES de combu",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN PuchuncavíRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 54,
+   "titulo_aprox": "",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN PuchuncavíRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 55,
+   "titulo_aprox": "Central y Deposito de Cenizas. Este nuevo proyecto, ademas, cuenta con el respaldo de C",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN PuchuncavíRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 57,
+   "titulo_aprox": "",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Barrancas, San AntonioRegión de Valparaíso",
+   "region": "Región de Valparaíso",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 62,
+   "titulo_aprox": "Proyecto Inmobiliario El Panul, que consta de un total de 1.302 vivien-das en 16 etapas",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN San José del MaipoRegión Metropolitana",
+   "region": "Región Metropolitana",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 63,
+   "titulo_aprox": "Central Hidroelectrica Guayacan pertenece a la Empresa Coyanco y se encuentra en la com",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN San José del MaipoRegión Metropolitana",
+   "region": "Región Metropolitana",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 64,
+   "titulo_aprox": "Central Las Lajas hara uso de las aguas provenientes de las descargas de las centrales",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN ConstituciónRegión del Maule",
+   "region": "Región del Maule",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 65,
+   "titulo_aprox": "",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN TenoRegión del Maule",
+   "region": "Región del Maule",
+   "estado_2015": "Latente",
+   "sector": "ForestalEnergía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 66,
+   "titulo_aprox": "Planta de Paneles MDP. Ante el hecho la comuni-dad vuelve a manifestar su rechazo a la",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Longaví y LinaresRegión del Maule",
+   "region": "Región del Maule",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 68,
+   "titulo_aprox": "Planta de celulosa Licancel",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN AraucoRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 69,
+   "titulo_aprox": "Central en Aguas CalientesComite Ambiental de Las Trancas",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Valle del río Diguillín, PintoRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 70,
+   "titulo_aprox": "Hidroelectrica en Aguas Calien-tes, que logro recabar mas de 800 obser-vaciones ciudadanas",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN CoronelRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 71,
+   "titulo_aprox": "",
+   "anio_inicio": "2006",
+   "localizacion": "ÓN CoronelRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 73,
+   "titulo_aprox": "Planta de celulosa Nueva Aldea",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN CoronelRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 74,
+   "titulo_aprox": "",
+   "anio_inicio": "2008",
+   "localizacion": "ÓN Santa BárbaraRegión del Biobío",
+   "region": "Región del Biobío",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 76,
+   "titulo_aprox": "Puerto Coronel, siendo este ultimo componente altamente contaminante por contener meta",
+   "anio_inicio": "2011",
+   "localizacion": "ÓN Melipeuco y Freire Región de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 77,
+   "titulo_aprox": "Explotacion lavadero de oro, se",
+   "anio_inicio": "2009",
+   "localizacion": "ÓN Río Colico, CarahueRegión de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 84,
+   "titulo_aprox": "Hidroelectrica San Pedro vuelva a ingresar al Sistema de Evaluacion de Impacto Ambiental (",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Los Lagos y PanguipulliRegión de Los Ríos",
+   "region": "Región de Los Ríos",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 85,
+   "titulo_aprox": "Central Neltume y la Linea de Transmision del mismo. El director subrogante del SEA, Ra",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Lago Neltume, PanguipulliRegión de Los Ríos",
+   "region": "Región de Los Ríos",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 86,
+   "titulo_aprox": "Central Neltume y la Linea de Transmision del mismo. El director subrogante del SEA, Ra",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Neltume y Pullinque, Panguipulli Región de Los Ríos",
+   "region": "Región de Los Ríos",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 88,
+   "titulo_aprox": "Planta Pu-reo, demandando una tarifa preferen-cial para la comuna, como una forma de c",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN AncudRegión de Los Lagos",
+   "region": "Región de Los Lagos",
+   "estado_2015": "Latente",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 90,
+   "titulo_aprox": "Puerto Aysen 7,84Indice de desarrollo humano comunal (PNUD 2003) Puerto Aysen 0,674 (M",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Puerto Chacabuco, Puerto AysénRegión de Aysén",
+   "region": "Región de Aysén",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 91,
+   "titulo_aprox": "Central (SIC). La iniciativa se em-plazaria en un area comprendida por las comunas de C",
+   "anio_inicio": "2005",
+   "localizacion": "ÓN Cochrane, Tortel y O’HigginsRegión de Aysén",
+   "region": "Región de Aysén",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 92,
+   "titulo_aprox": "",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Isla Rieco, Río VerdeRegión de Magallanes",
+   "region": "Región de Magallanes",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 95,
+   "titulo_aprox": "",
+   "anio_inicio": "",
+   "localizacion": "ÓN Salares del Norte GrandeRegiones de Arica y Parinacota, Tarapacá, Antofagasta y Atacama",
+   "region": "",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 96,
+   "titulo_aprox": "",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN La HigueraRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 98,
+   "titulo_aprox": "Mineria (SERNAGEOMIN)Subsecretaria de Pesca y AcuiculturaCorporacion Nacional Forestal",
+   "anio_inicio": "2007",
+   "localizacion": "ÓN Trafún, San PabloRegión de los Lagos",
+   "region": "Región de los Lagos",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 99,
+   "titulo_aprox": "Mineria (SERNAGEOMIN)Superintendencia de Electricidad y Combustibles (SEC)Corporacion N",
+   "anio_inicio": "2005",
+   "localizacion": "ÓN Localidad de Cancosa, PicaRegión de Tarapacá",
+   "region": "Región de Tarapacá",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 100,
+   "titulo_aprox": "Mineria (SERNAGEOMIN)",
+   "anio_inicio": "2010",
+   "localizacion": "ÓN Localidad de Putú, ConstituciónRegión del Maule",
+   "region": "Región del Maule",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 101,
+   "titulo_aprox": "MineriaServicio Nacional de Mineria y Geologia (SERNAGEOMIN)DERECHOS EN JUEGO• Derecho",
+   "anio_inicio": "2004",
+   "localizacion": "ÓN Localidad de Lleu Lleu, TirúaRegión del Bío Bío",
+   "region": "Región del Bío Bío",
+   "estado_2015": "Cerrado",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 103,
+   "titulo_aprox": "Minera Los PingosComite de Defensa del Rio Grande de TulahuenJunta de Vigilancia de lo",
+   "anio_inicio": "2001",
+   "localizacion": "ÓN Quebrada de Tulahuén, Monte PatriaRegión de Coquimbo",
+   "region": "Región de Coquimbo",
+   "estado_2015": "Latente",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 104,
+   "titulo_aprox": "Proyecto Los Pingos",
+   "anio_inicio": "2014",
+   "localizacion": "ÓN Nacional",
+   "region": "",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 105,
+   "titulo_aprox": "",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN Los Andes, Lo Barnechea, Colina, Calle Larga, TilTil, Llay Llay, Hijuelas, La Calera, La Cruz, Quillota, Quintero y P",
+   "region": "",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 106,
+   "titulo_aprox": "TermoelectricasCoordinadora TomecinaCoordinadora ChoreraCoordinadora IntercomunalAsociacio",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN Penco, Talcahuano y ToméRegión del Bío Bío",
+   "region": "Región del Bío Bío",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 107,
+   "titulo_aprox": "",
+   "anio_inicio": "2015",
+   "localizacion": "ÓN Pucón y CurrarehueRegión de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 108,
+   "titulo_aprox": "Central (SIC).",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN CuracautínRegión de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 109,
+   "titulo_aprox": "Central (SIC).",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN Ríos Allipen y Tolten, comunas de Pitrufquén y FreireRegión de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 110,
+   "titulo_aprox": "Central Unica de Trabajadores (CUT)Asociacion Nacional de Empleados Fis-cales (ANEF)Con",
+   "anio_inicio": "2015",
+   "localizacion": "ÓN Puerto NatalesRegión de Magallanes",
+   "region": "Región de Magallanes",
+   "estado_2015": "Activo",
+   "sector": "Minería",
+   "flag_contaminado_desarrollo": true
+  },
+  {
+   "case_idx": 111,
+   "titulo_aprox": "Puerto Natales, generando la preocupacion en autoridades locales, asi como de la co-mu",
+   "anio_inicio": "2014",
+   "localizacion": "ÓN Río Toltén, Freire Región de la Araucanía",
+   "region": "Región de la Araucanía",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 113,
+   "titulo_aprox": "TermoelectricaComunidades Moluches",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN MulchénRegión del Bío Bío",
+   "region": "Región del Bío Bío",
+   "estado_2015": "Cerrado",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 115,
+   "titulo_aprox": "",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN AntofagastaRegión de Antofagasta",
+   "region": "Región de Antofagasta",
+   "estado_2015": "Activo",
+   "sector": "Infraestrutura portuariaMinería",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 116,
+   "titulo_aprox": "Central Mediterraneo S.A.Corporacion Puelo Patagonia Corte de Apelaciones de Puerto Mon",
+   "anio_inicio": "2012",
+   "localizacion": "ÓN Sector La Junta, CochamóRegión de Los Lagos",
+   "region": "Región de Los Lagos",
+   "estado_2015": "Activo",
+   "sector": "Energía",
+   "flag_contaminado_desarrollo": false
+  },
+  {
+   "case_idx": 117,
+   "titulo_aprox": "",
+   "anio_inicio": "2013",
+   "localizacion": "ÓN LajaRegión del Bío Bío",
+   "region": "Región del Bío Bío",
+   "estado_2015": "Cerrado",
+   "sector": "EnergíaInfraestructura hidráulica",
+   "flag_contaminado_desarrollo": false
+  }
+ ]
+}

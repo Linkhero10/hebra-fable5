@@ -1,0 +1,659 @@
+{
+ "generated_utc": "2026-07-22T14:29:25.214969+00:00",
+ "seed": 20260722,
+ "definicion_muestra": "aristas largas (dias>365) con s_ref en [0.5,0.6): zona que L3 rechaza y L1/L2 aceptan; el conjunto L1-aceptado/L2-rechazado es vacio",
+ "strata_sizes": {
+  "366-730": 578,
+  "731-1095": 334
+ },
+ "edges": [
+  {
+   "pair_id": "LL000",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "5744",
+    "fecha": "2025-12-12",
+    "titulo": "Coeva aprueba proyecto de amoníaco verde a escala industrial por US$ 2.500 millones y queda listo para obtener su RCA",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "5747",
+    "fecha": "2024-02-28",
+    "titulo": "En Chile, entra a estudio ambiental el proyecto Volta, de producción de hidrógeno y amoníaco verde",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:volta",
+    "territorio:mejillones"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL001",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "3212",
+    "fecha": "2024-05-09",
+    "titulo": "Codelco Ventanas expuso sobre proceso de cierre de su Fundición en Congreso Internacional",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "7233",
+    "fecha": "2022-11-30",
+    "titulo": "Avanza proyecto que habilita cierre de la Fundición Ventanas tras aprobación en comisión del Senado",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:fundicion ventanas",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL002",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1639",
+    "fecha": "2021-10-05",
+    "titulo": "Dirigenta de comunidad changa en La Higuera: “Con esto de Piñera se acabó Dominga ”",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "17369",
+    "fecha": "2023-01-19",
+    "titulo": "Proyecto Dominga en Chile: ¿qué es y por qué el Gobierno rechazó llevarlo a cabo? revtli tdex | RESPUESTAS",
+    "snippet": "Proyecto Dominga en Chile: ¿qué es y por qué el Gobierno rechazó llevarlo a cabo? revtli tdex | RESPUESTAS"
+   },
+   "referentes_compartidos": [
+    "objeto:proyecto dominga",
+    "territorio:la higuera"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL003",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "3212",
+    "fecha": "2024-05-09",
+    "titulo": "Codelco Ventanas expuso sobre proceso de cierre de su Fundición en Congreso Internacional",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "6736",
+    "fecha": "2022-06-17",
+    "titulo": "Declaraciones y los impactos tras el anuncio del cierre de Fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:fundicion ventanas",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL004",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1625",
+    "fecha": "2020-03-04",
+    "titulo": "Andes Iron sorprende en alegatos por Dominga y se compromete a que habrá un solo puerto en La Higuera",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1638",
+    "fecha": "2021-04-21",
+    "titulo": "Pescadores de La Higuera se oponen a minera Dominga",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:andes iron",
+    "objeto:dominga",
+    "territorio:la higuera"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL005",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1078",
+    "fecha": "2025-09-24",
+    "titulo": "SQM anuncia reducción del 50% en uso de agua continental en el Salar de Atacama y consolida 17% del mercado global de litio",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1917",
+    "fecha": "2023-12-29",
+    "titulo": "Comunidades atacameñas denuncian que acuerdo Codelco-SQM se concretó a \"sus espaldas\"",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:salar futuro",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL006",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "2906",
+    "fecha": "2023-06-10",
+    "titulo": "Cierre de Fundación Ventanas de Codelco pone fin a una era marcada por problemas medioambientales",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "3262",
+    "fecha": "2024-07-25",
+    "titulo": "Sernageomin da visto bueno para que Codelco concrete cierre de fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL007",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1665",
+    "fecha": "2022-01-17",
+    "titulo": "Los escenarios que se abren para Andes Iron y su proyecto Dominga",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1666",
+    "fecha": "2023-01-18",
+    "titulo": "La decisión de Andes Iron tras el rechazo al proyecto Dominga",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:andes iron",
+    "objeto:dominga",
+    "territorio:la higuera"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL008",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "3229",
+    "fecha": "2023-11-04",
+    "titulo": "Tras 90 días concluyeron trabajos de detención total de Fundición Ventanas",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "6742",
+    "fecha": "2022-06-17",
+    "titulo": "Codelco aprueba avanzar al cierre de fundición Ventanas: Trabajadores anuncian paro nacional",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL009",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "3229",
+    "fecha": "2023-11-04",
+    "titulo": "Tras 90 días concluyeron trabajos de detención total de Fundición Ventanas",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "3259",
+    "fecha": "2022-08-09",
+    "titulo": "Gobierno ingresa con urgencia proyecto de Ley que busca el cierre de la Fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:fundicion ventanas",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL010",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1550",
+    "fecha": "2024-06-25",
+    "titulo": "Comunidad de Coyo presenta recurso de protección por acuerdo Codelco-SQM en Salar de Atacama: indican que consulta indígena no se ha generado",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1704",
+    "fecha": "2025-12-19",
+    "titulo": "Contraloría finaliza último trámite de acuerdo Codelco-SQM pero realiza observaciones y emite instrucciones",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:acuerdo codelco-sqm",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL011",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "6437",
+    "fecha": "2015-01-23",
+    "titulo": "Piden invalidar acuerdo de diaguitas con Pascua Lama",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "15187",
+    "fecha": "2013-10-18",
+    "titulo": "El proyecto minero de Pascual Lama afecta a los glaciares y al agua del Valle del Huasco, afirman diputados chilenos",
+    "snippet": "El proyecto minero de Pascual Lama afecta a los glaciares y al agua del Valle del Huasco, afirman diputados chilenos"
+   },
+   "referentes_compartidos": [
+    "objeto:pascua lama",
+    "territorio:valle del huasco"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL012",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "1550",
+    "fecha": "2024-06-25",
+    "titulo": "Comunidad de Coyo presenta recurso de protección por acuerdo Codelco-SQM en Salar de Atacama: indican que consulta indígena no se ha generado",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1905",
+    "fecha": "2025-12-19",
+    "titulo": "Codelco colaborará en auditoría de Contraloría a acuerdo con SQM y defiende elección de Morgan Stanley",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:acuerdo codelco-sqm",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL013",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "5471",
+    "fecha": "2025-12-12",
+    "titulo": "Aprueban en Antofagasta primer proyecto industrial de amoniaco verde en Chile: Así funcionará",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "5495",
+    "fecha": "2024-07-19",
+    "titulo": "Empresario que desarrolla proyecto de hidrógeno verde por US$2.500 millones en Mejillones alerta sobre costos sistémicos de la energía en Chile",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:volta",
+    "territorio:mejillones"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL014",
+   "estrato_dias": "366-730",
+   "doc_a": {
+    "id": "3197",
+    "fecha": "2022-06-20",
+    "titulo": "Proteger la salud de las personas: el principal objetivo del cierre de la fundición Ventanas de Codelco",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "7229",
+    "fecha": "2023-07-17",
+    "titulo": "Una mirada histórica de Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL015",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "22344",
+    "fecha": "2022-06-20",
+    "titulo": "Cierre de Ventanas: Boric sostiene reunión en La Moneda con presidente de Codelco y ministras del Medio Ambiente y Minería",
+    "snippet": "Cierre de Ventanas: Boric sostiene reunión en La Moneda con presidente de Codelco y ministras del Medio Ambiente y Minería"
+   },
+   "doc_b": {
+    "id": "7227",
+    "fecha": "2019-10-22",
+    "titulo": "¿Inminente cierre de fundición Ventanas?",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL016",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "6732",
+    "fecha": "2019-10-14",
+    "titulo": "Codelco analiza cierre de la Fundición Ventanas porque no sería “sustentable” económicamente",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "6739",
+    "fecha": "2022-06-23",
+    "titulo": "Codelco enfrenta primera huelga general en 11 años tras anuncio de cierre de Fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL017",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1709",
+    "fecha": "2022-04-25",
+    "titulo": "Los pingüinos del archipiélago de Humboldt, amenazados por la minera Dominga",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "15164",
+    "fecha": "2024-12-11",
+    "titulo": "Diputado PS: \"Si Dominga se aprueba, se muere el alma de este Gobierno\"",
+    "snippet": "Diputado PS: \"Si Dominga se aprueba, se muere el alma de este Gobierno\""
+   },
+   "referentes_compartidos": [
+    "objeto:dominga",
+    "territorio:archipielago de humboldt"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL018",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1114",
+    "fecha": "2012-02-18",
+    "titulo": "Las protestas de los 'indignados' de Aysén sacuden la vida política chilena",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "18998",
+    "fecha": "2014-06-03",
+    "titulo": "Comunidades envían cartas a Pacheco por desarrollo de HidroAysén",
+    "snippet": "Comunidades envían cartas a Pacheco por desarrollo de HidroAysén"
+   },
+   "referentes_compartidos": [
+    "objeto:hidroaysen",
+    "territorio:aysen"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL019",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "13690",
+    "fecha": "2023-05-22",
+    "titulo": "Expansión del Puerto de San Antonio pone en riesgo el estuario de la desembocadura del río Maipo",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "13821",
+    "fecha": "2025-10-12",
+    "titulo": "Puerto San Antonio, Chile: Organizaciones advierten sobre los impactos socioeconómicos y ambientales del proyecto de ampliación",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "objeto:puerto exterior"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL020",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1668",
+    "fecha": "2022-04-07",
+    "titulo": "Familias Délano y Garcés inician proceso para vender el proyecto Dominga a un consorcio chino",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "7179",
+    "fecha": "2024-12-10",
+    "titulo": "Primer Tribunal Ambiental determina que el Comité de Ministros debe volver a pronunciarse en relación al proyecto portuario minero Dominga",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:andes iron",
+    "objeto:dominga",
+    "territorio:la higuera"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL021",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "22311",
+    "fecha": "2022-06-20",
+    "titulo": "Organizaciones de trabajadores contratistas de Codelco expresan desacuerdo con cierre de Fundición Ventanas y llaman a la inversión en la planta",
+    "snippet": "Organizaciones de trabajadores contratistas de Codelco expresan desacuerdo con cierre de Fundición Ventanas y llaman a la inversión en la planta"
+   },
+   "doc_b": {
+    "id": "3262",
+    "fecha": "2024-07-25",
+    "titulo": "Sernageomin da visto bueno para que Codelco concrete cierre de fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL022",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "22360",
+    "fecha": "2022-06-19",
+    "titulo": "TRABAJADORES Y SUS FAMILIARES INICIAN PROTESTAS Y MARCHAS CONTRA EL CIERRE DE LA FUNDICIÓN VENTANAS",
+    "snippet": "TRABAJADORES Y SUS FAMILIARES INICIAN PROTESTAS Y MARCHAS CONTRA EL CIERRE DE LA FUNDICIÓN VENTANAS"
+   },
+   "doc_b": {
+    "id": "7227",
+    "fecha": "2019-10-22",
+    "titulo": "¿Inminente cierre de fundición Ventanas?",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL023",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1911",
+    "fecha": "2026-01-30",
+    "titulo": "S.E. el Presidente de la República, Gabriel Boric Font, se reúne con representantes de las comunidades del Consejo de Pueblos Atacameños",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1928",
+    "fecha": "2023-05-05",
+    "titulo": "Consejo de Pueblos Atacameños emplazan al gobierno por estrategia del Litio y anuncian creación de una \"ley territorial\"",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:consejo de pueblos atacamenos",
+    "objeto:estrategia nacional del litio",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL024",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "978",
+    "fecha": "2023-05-05",
+    "titulo": "Consejo de Pueblos Atacameños rechazó Estrategia Nacional del Litio",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1909",
+    "fecha": "2026-01-30",
+    "titulo": "Presidente Gabriel Boric se reúne con representantes del Consejo de Pueblos Atacameños",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:consejo de pueblos atacamenos",
+    "objeto:estrategia nacional del litio",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL025",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "3245",
+    "fecha": "2022-06-18",
+    "titulo": "Chile: CODELCO anuncia cierre de la \"Fundición Ventanas\"",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "3262",
+    "fecha": "2024-07-25",
+    "titulo": "Sernageomin da visto bueno para que Codelco concrete cierre de fundición Ventanas",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:codelco",
+    "objeto:fundicion ventanas",
+    "territorio:ventanas"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL026",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1911",
+    "fecha": "2026-01-30",
+    "titulo": "S.E. el Presidente de la República, Gabriel Boric Font, se reúne con representantes de las comunidades del Consejo de Pueblos Atacameños",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1954",
+    "fecha": "2023-06-30",
+    "titulo": "Presidente Boric llegará mañana a San Pedro de Atacama por Estrategia Nacional del Litio: Atacameños anunciaron que se restarán de reunión",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:consejo de pueblos atacamenos",
+    "objeto:estrategia nacional del litio",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL027",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1913",
+    "fecha": "2026-01-30",
+    "titulo": "Boric se reúne con pueblos atacameños por Estrategia del Litio",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1933",
+    "fecha": "2023-06-30",
+    "titulo": "Consejo de Pueblos Atacameños se resta de reunión con el Presidente Boric",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:consejo de pueblos atacamenos",
+    "objeto:estrategia nacional del litio",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL028",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "978",
+    "fecha": "2023-05-05",
+    "titulo": "Consejo de Pueblos Atacameños rechazó Estrategia Nacional del Litio",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "1910",
+    "fecha": "2026-01-30",
+    "titulo": "Presidente de la República se reúne con representantes del Consejo de Pueblos Atacameños",
+    "snippet": ""
+   },
+   "referentes_compartidos": [
+    "actor:consejo de pueblos atacamenos",
+    "objeto:estrategia nacional del litio",
+    "territorio:salar de atacama"
+   ],
+   "veredicto": ""
+  },
+  {
+   "pair_id": "LL029",
+   "estrato_dias": "731-1095",
+   "doc_a": {
+    "id": "1778",
+    "fecha": "2020-08-09",
+    "titulo": "Sacerdote realiza caminata de 100km para evitar la aprobación del proyecto Pascua Lama",
+    "snippet": ""
+   },
+   "doc_b": {
+    "id": "17003",
+    "fecha": "2018-01-20",
+    "titulo": "Diaguitas huascoaltinos llaman a no bajar la guardia ante cierre de Pascua Lama",
+    "snippet": "Diaguitas huascoaltinos llaman a no bajar la guardia ante cierre de Pascua Lama"
+   },
+   "referentes_compartidos": [
+    "objeto:pascua lama",
+    "territorio:valle del huasco"
+   ],
+   "veredicto": ""
+  }
+ ]
+}

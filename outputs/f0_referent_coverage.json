@@ -1,0 +1,383 @@
+{
+ "schema_version": 1,
+ "generated_utc": "2026-07-22T13:42:57.117239+00:00",
+ "corpus": "01_bases_de_datos\\03_refiltro_api_qwen_y_base_actual\\06_base_actual_fusionada_3742_incluidas.csv",
+ "corpus_sha256": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
+ "documents": 3742,
+ "valid_dates": 3725,
+ "coverage": {
+  "objeto_de_disputa": 2981,
+  "territorio": 3715,
+  "actores": 3735,
+  "docs_ge1_componente": 3741,
+  "docs_ge2_componentes": 3721,
+  "pct_ge1": 99.97,
+  "pct_ge2": 99.44,
+  "docs_solo_actores_genericos": 32
+ },
+ "n_components_histogram": {
+  "0": 1,
+  "1": 20,
+  "2": 752,
+  "3": 2969
+ },
+ "cardinality": {
+  "objetos_unicos": 1427,
+  "territorios_unicos": 813,
+  "actores_unicos": 4660
+ },
+ "top_objetos": [
+  {
+   "key": "dominga",
+   "docs": 124
+  },
+  {
+   "key": "fundicion ventanas",
+   "docs": 111
+  },
+  {
+   "key": "alto maipo",
+   "docs": 81
+  },
+  {
+   "key": "hidroaysen",
+   "docs": 58
+  },
+  {
+   "key": "estrategia nacional del litio",
+   "docs": 43
+  },
+  {
+   "key": "pascua lama",
+   "docs": 42
+  },
+  {
+   "key": "h2 magallanes",
+   "docs": 40
+  },
+  {
+   "key": "minera los pelambres",
+   "docs": 32
+  },
+  {
+   "key": "proyecto dominga",
+   "docs": 27
+  },
+  {
+   "key": "parque eolico chiloe",
+   "docs": 26
+  },
+  {
+   "key": "bocamina ii",
+   "docs": 25
+  },
+  {
+   "key": "proyecto hidroelectrico alto maipo",
+   "docs": 21
+  },
+  {
+   "key": "faro del sur",
+   "docs": 21
+  },
+  {
+   "key": "inna",
+   "docs": 21
+  },
+  {
+   "key": "volta",
+   "docs": 19
+  },
+  {
+   "key": "embalse punilla",
+   "docs": 18
+  },
+  {
+   "key": "los bronces integrado",
+   "docs": 16
+  },
+  {
+   "key": "acuerdo codelco-sqm",
+   "docs": 16
+  },
+  {
+   "key": "bocamina i",
+   "docs": 15
+  },
+  {
+   "key": "salar futuro",
+   "docs": 14
+  }
+ ],
+ "top_territorios": [
+  {
+   "key": "salar de atacama",
+   "docs": 313
+  },
+  {
+   "key": "coronel",
+   "docs": 172
+  },
+  {
+   "key": "ventanas",
+   "docs": 142
+  },
+  {
+   "key": "mejillones",
+   "docs": 103
+  },
+  {
+   "key": "la higuera",
+   "docs": 102
+  },
+  {
+   "key": "quintero",
+   "docs": 98
+  },
+  {
+   "key": "salar de maricunga",
+   "docs": 84
+  },
+  {
+   "key": "tocopilla",
+   "docs": 74
+  },
+  {
+   "key": "quintero-puchuncavi",
+   "docs": 67
+  },
+  {
+   "key": "cajon del maipo",
+   "docs": 67
+  },
+  {
+   "key": "puchuncavi",
+   "docs": 65
+  },
+  {
+   "key": "huasco",
+   "docs": 63
+  },
+  {
+   "key": "quintero y puchuncavi",
+   "docs": 58
+  },
+  {
+   "key": "san gregorio",
+   "docs": 35
+  },
+  {
+   "key": "region de magallanes",
+   "docs": 34
+  },
+  {
+   "key": "antofagasta",
+   "docs": 33
+  },
+  {
+   "key": "magallanes",
+   "docs": 33
+  },
+  {
+   "key": "bahia de quintero",
+   "docs": 32
+  },
+  {
+   "key": "region de antofagasta",
+   "docs": 31
+  },
+  {
+   "key": "caimanes",
+   "docs": 26
+  }
+ ],
+ "top_actores": [
+  {
+   "key": "superintendencia del medio ambiente (sma)",
+   "docs": 129
+  },
+  {
+   "key": "codelco",
+   "docs": 108
+  },
+  {
+   "key": "servicio de evaluacion ambiental (sea)",
+   "docs": 94
+  },
+  {
+   "key": "gobierno de chile",
+   "docs": 63
+  },
+  {
+   "key": "minera los pelambres",
+   "docs": 63
+  },
+  {
+   "key": "andes iron",
+   "docs": 51
+  },
+  {
+   "key": "comite de ministros",
+   "docs": 46
+  },
+  {
+   "key": "enap",
+   "docs": 44
+  },
+  {
+   "key": "consejo de pueblos atacamenos",
+   "docs": 39
+  },
+  {
+   "key": "aes gener",
+   "docs": 38
+  },
+  {
+   "key": "ministerio del medio ambiente",
+   "docs": 38
+  },
+  {
+   "key": "greenpeace",
+   "docs": 36
+  },
+  {
+   "key": "enel",
+   "docs": 35
+  },
+  {
+   "key": "albemarle",
+   "docs": 33
+  },
+  {
+   "key": "barrick gold",
+   "docs": 32
+  },
+  {
+   "key": "sqm",
+   "docs": 30
+  },
+  {
+   "key": "ministerio de energia",
+   "docs": 29
+  },
+  {
+   "key": "hidroaysen",
+   "docs": 29
+  },
+  {
+   "key": "estado de chile",
+   "docs": 28
+  },
+  {
+   "key": "aes andes",
+   "docs": 28
+  }
+ ],
+ "per_year": {
+  "2000": {
+   "docs": 1,
+   "docs_ge1_ref": 1
+  },
+  "2004": {
+   "docs": 1,
+   "docs_ge1_ref": 1
+  },
+  "2006": {
+   "docs": 1,
+   "docs_ge1_ref": 1
+  },
+  "2007": {
+   "docs": 1,
+   "docs_ge1_ref": 1
+  },
+  "2008": {
+   "docs": 3,
+   "docs_ge1_ref": 3
+  },
+  "2009": {
+   "docs": 9,
+   "docs_ge1_ref": 9
+  },
+  "2010": {
+   "docs": 13,
+   "docs_ge1_ref": 13
+  },
+  "2011": {
+   "docs": 40,
+   "docs_ge1_ref": 40
+  },
+  "2012": {
+   "docs": 33,
+   "docs_ge1_ref": 33
+  },
+  "2013": {
+   "docs": 43,
+   "docs_ge1_ref": 43
+  },
+  "2014": {
+   "docs": 67,
+   "docs_ge1_ref": 67
+  },
+  "2015": {
+   "docs": 82,
+   "docs_ge1_ref": 82
+  },
+  "2016": {
+   "docs": 73,
+   "docs_ge1_ref": 73
+  },
+  "2017": {
+   "docs": 92,
+   "docs_ge1_ref": 92
+  },
+  "2018": {
+   "docs": 178,
+   "docs_ge1_ref": 178
+  },
+  "2019": {
+   "docs": 204,
+   "docs_ge1_ref": 204
+  },
+  "2020": {
+   "docs": 211,
+   "docs_ge1_ref": 211
+  },
+  "2021": {
+   "docs": 239,
+   "docs_ge1_ref": 239
+  },
+  "2022": {
+   "docs": 405,
+   "docs_ge1_ref": 405
+  },
+  "2023": {
+   "docs": 401,
+   "docs_ge1_ref": 401
+  },
+  "2024": {
+   "docs": 599,
+   "docs_ge1_ref": 599
+  },
+  "2025": {
+   "docs": 919,
+   "docs_ge1_ref": 918
+  },
+  "2026": {
+   "docs": 110,
+   "docs_ge1_ref": 110
+  }
+ },
+ "worst_cases_sin_referente": [
+  {
+   "id": "1160",
+   "titulo": "El desafiante mapa de consultas indígenas, contratos y proyectos de litio en Chile",
+   "source_run": "old",
+   "conflict_type": "Minería Crítica / Consulta Indígena"
+  }
+ ],
+ "worst_cases_total": 1,
+ "gate_f0": {
+  "threshold_pct_ge1": 70.0,
+  "observed_pct_ge1": 99.97,
+  "pass": true
+ }
+}

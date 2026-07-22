@@ -1,0 +1,4 @@
+fad1e7fc172b1695942fd9f580b96c3363d31f6b3fde06d3db39666a9f291ed8  f4c_external_gold_SEALED.json
+sellado_utc: 2026-07-22T14:54:32.205948+00:00
+regla: este archivo se sello ANTES de cualquier interseccion con hilos HEBRA;
+los casos flag_contaminado_desarrollo=true se excluyen del conjunto confirmatorio.

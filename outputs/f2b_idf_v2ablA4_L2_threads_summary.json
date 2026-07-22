@@ -1,0 +1,1127 @@
+{
+ "schema_version": 1,
+ "variant": "f2b_idf_anchor_strength",
+ "generated_utc": "2026-07-22T14:58:05.586455+00:00",
+ "inputs": {
+  "corpus": "06_base_actual_fusionada_3742_incluidas.csv",
+  "corpus_sha256": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
+  "embeddings": "active_corpus_embeddings_3742.npz",
+  "embeddings_sha256": "04ea88ee67b6aaa3c76ebf1f913d41e097c52c160491e025e721fca018d0a2a5",
+  "referents": "f1v2_referents.csv",
+  "referents_sha256": "c6119d50155fde9e7ae223b0cfdb7585a8e972f3d0cce90cef5a423b72d6c3ba",
+  "script_sha256": "4b8d0248467be6b5d8e07b3493783536de0d428934e4737ca5a37b010f0cbc78"
+ },
+ "params": {
+  "ALPHA": 0.7,
+  "BETA": 0.3,
+  "W_REF": {
+   "objeto": 0.5,
+   "territorio": 0.3,
+   "actor": 0.2
+  },
+  "DELTA1": 365,
+  "DELTA2": 365,
+  "SREF_STRONG": 0.5,
+  "TAU_GRID": [
+   0.35,
+   0.45,
+   0.55
+  ],
+  "GIANT_MAX_SHARE": 0.3,
+  "MAX_REFERENT_DF": 400,
+  "LONG_TIER": "L2",
+  "L3_SREF": 0.6,
+  "USE_IDF": true
+ },
+ "dated_docs": 3725,
+ "candidate_pairs": 166959,
+ "scored_pairs": 51521,
+ "hub_referents_excluded": [],
+ "grid": [
+  {
+   "tau": 0.35,
+   "edges": 20558,
+   "long_edges": 0,
+   "threads_total": 918,
+   "threads_ge3": 94,
+   "docs_in_threads_ge3": 2797,
+   "coverage_ge3_pct": 75.09,
+   "giant_size": 2001,
+   "giant_share_pct": 53.72,
+   "singletons": 720,
+   "size_p50_ge3": 4.0,
+   "size_max": 2001,
+   "mean_families_crossed_ge3": 3.44,
+   "pct_threads_ge3_multifamily": 79.8,
+   "span_years_p50": 0.69
+  },
+  {
+   "tau": 0.45,
+   "edges": 8557,
+   "long_edges": 0,
+   "threads_total": 2036,
+   "threads_ge3": 190,
+   "docs_in_threads_ge3": 1711,
+   "coverage_ge3_pct": 45.93,
+   "giant_size": 138,
+   "giant_share_pct": 3.7,
+   "singletons": 1678,
+   "size_p50_ge3": 4.0,
+   "size_max": 138,
+   "mean_families_crossed_ge3": 2.35,
+   "pct_threads_ge3_multifamily": 65.8,
+   "span_years_p50": 0.67
+  },
+  {
+   "tau": 0.55,
+   "edges": 3969,
+   "long_edges": 0,
+   "threads_total": 2543,
+   "threads_ge3": 176,
+   "docs_in_threads_ge3": 1192,
+   "coverage_ge3_pct": 32.0,
+   "giant_size": 98,
+   "giant_share_pct": 2.63,
+   "singletons": 2201,
+   "size_p50_ge3": 4.0,
+   "size_max": 98,
+   "mean_families_crossed_ge3": 2.15,
+   "pct_threads_ge3_multifamily": 64.8,
+   "span_years_p50": 0.6
+  }
+ ],
+ "selection_rule": "menor tau con componente gigante <= 30%",
+ "chosen_tau": 0.45,
+ "gate_f2_giant": true,
+ "threads_ge3_profiles_top40": [
+  {
+   "thread_id": "H0000",
+   "docs": 138,
+   "desde": "2022-02-23",
+   "hasta": "2025-02-03",
+   "top_objeto": [
+    "fundicion ventanas",
+    "fundicion codelco ventanas",
+    "division ventanas"
+   ],
+   "top_territorio": [
+    "ventanas",
+    "quintero-puchuncavi",
+    "puchuncavi"
+   ],
+   "top_actores": [
+    "codelco",
+    "fundicion ventanas",
+    "federacion de trabajadores del cobre"
+   ],
+   "familias": [
+    "0",
+    "1",
+    "12",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "thread_id": "H0001",
+   "docs": 131,
+   "desde": "2021-04-21",
+   "hasta": "2025-12-03",
+   "top_objeto": [
+    "dominga",
+    "proyecto dominga",
+    "minera dominga"
+   ],
+   "top_territorio": [
+    "la higuera",
+    "reserva nacional pinguino de humboldt",
+    "archipielago de humboldt"
+   ],
+   "top_actores": [
+    "andes iron",
+    "comite de ministros",
+    "proyecto dominga"
+   ],
+   "familias": [
+    "-1",
+    "10",
+    "11",
+    "13",
+    "14",
+    "15",
+    "16",
+    "22",
+    "25",
+    "27",
+    "5",
+    "6",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "thread_id": "H0002",
+   "docs": 114,
+   "desde": "2023-04-20",
+   "hasta": "2026-02-03",
+   "top_objeto": [
+    "estrategia nacional del litio",
+    "acuerdo codelco-sqm",
+    "proyecto blanco"
+   ],
+   "top_territorio": [
+    "salar de atacama",
+    "salar de maricunga",
+    "region de antofagasta"
+   ],
+   "top_actores": [
+    "consejo de pueblos atacamenos",
+    "acuerdo codelco-sqm",
+    "ministerio de mineria"
+   ],
+   "familias": [
+    "-1",
+    "11",
+    "13",
+    "14",
+    "2",
+    "25",
+    "5"
+   ]
+  },
+  {
+   "thread_id": "H0003",
+   "docs": 88,
+   "desde": "2023-12-31",
+   "hasta": "2026-02-03",
+   "top_objeto": [
+    "h2 magallanes",
+    "hnh energy",
+    "parque eolico faro del sur"
+   ],
+   "top_territorio": [
+    "san gregorio",
+    "region de magallanes",
+    "region de magallanes y de la antartica chilena"
+   ],
+   "top_actores": [
+    "hnh energy",
+    "sistema de evaluacion de impacto ambiental",
+    "totalenergies h2"
+   ],
+   "familias": [
+    "-1",
+    "16",
+    "2",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0004",
+   "docs": 79,
+   "desde": "2014-07-30",
+   "hasta": "2023-07-11",
+   "top_objeto": [
+    "alto maipo",
+    "proyecto hidroelectrico alto maipo"
+   ],
+   "top_territorio": [
+    "cajon del maipo",
+    "rio maipo",
+    "san jose de maipo"
+   ],
+   "top_actores": [
+    "alto maipo",
+    "aes gener",
+    "proyecto hidroelectrico alto maipo"
+   ],
+   "familias": [
+    "-1",
+    "0",
+    "10",
+    "11",
+    "12",
+    "13",
+    "16",
+    "18",
+    "22",
+    "25",
+    "26",
+    "27",
+    "6",
+    "8"
+   ]
+  },
+  {
+   "thread_id": "H0005",
+   "docs": 50,
+   "desde": "2023-07-11",
+   "hasta": "2025-10-17",
+   "top_objeto": [
+    "salar futuro",
+    "salar de atacama",
+    "proyecto salar futuro"
+   ],
+   "top_territorio": [
+    "salar de atacama"
+   ],
+   "top_actores": [
+    "consejo de pueblos atacamenos",
+    "albemarle",
+    "codelco y sqm"
+   ],
+   "familias": [
+    "0",
+    "11",
+    "13",
+    "14",
+    "18",
+    "25",
+    "5"
+   ]
+  },
+  {
+   "thread_id": "H0006",
+   "docs": 38,
+   "desde": "2018-12-21",
+   "hasta": "2021-07-07",
+   "top_objeto": [
+    "central bocamina",
+    "bocamina i",
+    "bocamina"
+   ],
+   "top_territorio": [
+    "coronel",
+    "bocamina"
+   ],
+   "top_actores": [
+    "enel generacion chile",
+    "enel",
+    "enel generacion"
+   ],
+   "familias": [
+    "1",
+    "12",
+    "15",
+    "23",
+    "9"
+   ]
+  },
+  {
+   "thread_id": "H0007",
+   "docs": 25,
+   "desde": "2020-01-19",
+   "hasta": "2024-09-10",
+   "top_objeto": [
+    "minera los pelambres",
+    "proyecto de adaptacion operacional",
+    "proyecto de expansion de minera los pelambres (inco)"
+   ],
+   "top_territorio": [
+    "rio choapa",
+    "choapa viejo",
+    "salamanca"
+   ],
+   "top_actores": [
+    "minera los pelambres",
+    "comunidad de choapa viejo",
+    "comunidad del valle de camisa"
+   ],
+   "familias": [
+    "-1",
+    "11",
+    "13",
+    "15",
+    "22",
+    "8"
+   ]
+  },
+  {
+   "thread_id": "H0008",
+   "docs": 25,
+   "desde": "2024-12-20",
+   "hasta": "2026-01-26",
+   "top_objeto": [
+    "inna",
+    "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna)",
+    "inna - proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde"
+   ],
+   "top_territorio": [
+    "taltal",
+    "region de antofagasta",
+    "antofagasta"
+   ],
+   "top_actores": [
+    "aes andes",
+    "aes chile",
+    "servicio de evaluacion ambiental"
+   ],
+   "familias": [
+    "2",
+    "26",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0009",
+   "docs": 23,
+   "desde": "2010-07-13",
+   "hasta": "2013-05-31",
+   "top_objeto": [
+    "hidroaysen"
+   ],
+   "top_territorio": [
+    "aysen",
+    "patagonia",
+    "rio baker"
+   ],
+   "top_actores": [
+    "hidroaysen",
+    "patagonia sin represas",
+    "manifestantes"
+   ],
+   "familias": [
+    "-1",
+    "0",
+    "10",
+    "11",
+    "9"
+   ]
+  },
+  {
+   "thread_id": "H0010",
+   "docs": 22,
+   "desde": "2022-04-11",
+   "hasta": "2023-09-30",
+   "top_objeto": [
+    "bocamina ii",
+    "central bocamina ii",
+    "bocamina 2"
+   ],
+   "top_territorio": [
+    "coronel"
+   ],
+   "top_actores": [
+    "enel generacion",
+    "enel",
+    "municipalidad de coronel"
+   ],
+   "familias": [
+    "1"
+   ]
+  },
+  {
+   "thread_id": "H0011",
+   "docs": 22,
+   "desde": "2014-06-03",
+   "hasta": "2015-12-09",
+   "top_objeto": [
+    "hidroaysen"
+   ],
+   "top_territorio": [
+    "aysen",
+    "patagonia",
+    "region de aysen"
+   ],
+   "top_actores": [
+    "hidroaysen",
+    "endesa y colbun",
+    "comite de ministros"
+   ],
+   "familias": [
+    "-1",
+    "0",
+    "13",
+    "2",
+    "25",
+    "27"
+   ]
+  },
+  {
+   "thread_id": "H0012",
+   "docs": 22,
+   "desde": "2022-05-03",
+   "hasta": "2025-12-03",
+   "top_objeto": [
+    "bronces integrado",
+    "expansion de la mina los bronces",
+    "proyecto integrado de los bronces (lbip)"
+   ],
+   "top_territorio": [
+    "los bronces",
+    "cordillera de los andes",
+    "lo barnechea"
+   ],
+   "top_actores": [
+    "greenpeace",
+    "anglo american",
+    "greenpeace chile"
+   ],
+   "familias": [
+    "-1",
+    "1",
+    "10",
+    "25",
+    "7"
+   ]
+  },
+  {
+   "thread_id": "H0013",
+   "docs": 22,
+   "desde": "2024-02-22",
+   "hasta": "2025-12-15",
+   "top_objeto": [
+    "volta",
+    "volta-planta de hidrogeno y amoniaco verde",
+    "proyecto volta"
+   ],
+   "top_territorio": [
+    "mejillones"
+   ],
+   "top_actores": [
+    "mejillones ammonia energy",
+    "comision de evaluacion ambiental (coeva) de antofagasta",
+    "volta"
+   ],
+   "familias": [
+    "2",
+    "5",
+    "9"
+   ]
+  },
+  {
+   "thread_id": "H0014",
+   "docs": 20,
+   "desde": "2016-12-05",
+   "hasta": "2019-02-18",
+   "top_objeto": [
+    "dominga",
+    "minera dominga"
+   ],
+   "top_territorio": [
+    "la higuera",
+    "reserva nacional pinguino de humboldt",
+    "reserva nacional de pinguinos de humboldt"
+   ],
+   "top_actores": [
+    "andes iron",
+    "comite de ministros",
+    "proyecto dominga"
+   ],
+   "familias": [
+    "14",
+    "22",
+    "25",
+    "27",
+    "5",
+    "7"
+   ]
+  },
+  {
+   "thread_id": "H0015",
+   "docs": 20,
+   "desde": "2015-02-06",
+   "hasta": "2016-08-17",
+   "top_objeto": [
+    "tranque el mauro",
+    "tranque de relaves el mauro",
+    "minera los pelambres"
+   ],
+   "top_territorio": [
+    "caimanes",
+    "valle alto de salamanca",
+    "rio choapa"
+   ],
+   "top_actores": [
+    "minera los pelambres",
+    "comunidad de caimanes",
+    "comite de defensa de caimanes"
+   ],
+   "familias": [
+    "11",
+    "23",
+    "3",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "thread_id": "H0016",
+   "docs": 19,
+   "desde": "2023-01-04",
+   "hasta": "2026-01-27",
+   "top_objeto": [
+    "parque eolico chiloe",
+    "proyecto de parque eolico"
+   ],
+   "top_territorio": [
+    "mar brava",
+    "chiloe",
+    "ancud"
+   ],
+   "top_actores": [
+    "ecopower",
+    "superintendencia del medio ambiente",
+    "movimiento salvemos mar brava"
+   ],
+   "familias": [
+    "24"
+   ]
+  },
+  {
+   "thread_id": "H0017",
+   "docs": 18,
+   "desde": "2024-07-09",
+   "hasta": "2025-11-17",
+   "top_objeto": [
+    "kimal-lo aguirre",
+    "conexion kimal-lo aguirre",
+    "linea de transmision electrica hvdc kimal-lo aguirre"
+   ],
+   "top_territorio": [
+    "region de antofagasta",
+    "region metropolitana de santiago",
+    "santiago"
+   ],
+   "top_actores": [
+    "servicio de evaluacion ambiental",
+    "kimal-lo aguirre",
+    "conexion kimal-lo aguirre"
+   ],
+   "familias": [
+    "-1",
+    "24"
+   ]
+  },
+  {
+   "thread_id": "H0018",
+   "docs": 16,
+   "desde": "2013-04-10",
+   "hasta": "2015-11-27",
+   "top_objeto": [
+    "pascua lama"
+   ],
+   "top_territorio": [
+    "valle del huasco",
+    "pascua lama",
+    "alto del carmen"
+   ],
+   "top_actores": [
+    "barrick gold",
+    "comunidades diaguitas del valle del huasco",
+    "corte de apelaciones de copiapo"
+   ],
+   "familias": [
+    "0",
+    "10",
+    "13",
+    "14",
+    "5"
+   ]
+  },
+  {
+   "thread_id": "H0019",
+   "docs": 14,
+   "desde": "2023-06-30",
+   "hasta": "2025-12-03",
+   "top_objeto": [
+    "enap refineria aconcagua",
+    "refineria aconcagua",
+    "planta cogeneradora"
+   ],
+   "top_territorio": [
+    "concon",
+    "concon, quintero y puchuncavi",
+    "puchuncavi"
+   ],
+   "top_actores": [
+    "superintendencia del medio ambiente",
+    "enap refinerias s.a",
+    "enap refinerias"
+   ],
+   "familias": [
+    "0",
+    "12"
+   ]
+  },
+  {
+   "thread_id": "H0020",
+   "docs": 14,
+   "desde": "2022-08-04",
+   "hasta": "2022-12-07",
+   "top_objeto": [
+    "faro del sur"
+   ],
+   "top_territorio": [
+    "punta arenas",
+    "magallanes",
+    "region de magallanes y de la antartica chilena"
+   ],
+   "top_actores": [
+    "servicio de evaluacion ambiental",
+    "hif chile y enel green power",
+    "hif chile y enel green power chile"
+   ],
+   "familias": [
+    "2",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "thread_id": "H0021",
+   "docs": 13,
+   "desde": "2025-07-18",
+   "hasta": "2025-10-24",
+   "top_objeto": [
+    "parque eolico el rancho",
+    "parque eolico ovejera sur",
+    "proyecto eolico en la union"
+   ],
+   "top_territorio": [
+    "la union",
+    "region de los rios",
+    "paillaco y la union"
+   ],
+   "top_actores": [
+    "parque eolico ovejera sur",
+    "fotowatio renewable ventures",
+    "municipalidad de la union"
+   ],
+   "familias": [
+    "27",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0022",
+   "docs": 12,
+   "desde": "2023-02-24",
+   "hasta": "2024-07-27",
+   "top_objeto": [
+    "central hidroelectrica los lagos",
+    "proyecto hidroelectrico osorno",
+    "central hidroelectrica osorno"
+   ],
+   "top_territorio": [
+    "rio pilmaiquen",
+    "rio bueno",
+    "rio pilmaiken"
+   ],
+   "top_actores": [
+    "statkraft",
+    "comunidades mapuche",
+    "statkraft (central hidroelectrica los lagos)"
+   ],
+   "familias": [
+    "0",
+    "14",
+    "15",
+    "9"
+   ]
+  },
+  {
+   "thread_id": "H0023",
+   "docs": 11,
+   "desde": "2016-11-20",
+   "hasta": "2020-04-14",
+   "top_objeto": [
+    "embalse punilla",
+    "central hidroelectrica"
+   ],
+   "top_territorio": [
+    "san fabian de alico",
+    "san fabian",
+    "la punilla"
+   ],
+   "top_actores": [
+    "astaldi",
+    "ministerio de obras publicas",
+    "vecinos del sector de los sauces y san fabian"
+   ],
+   "familias": [
+    "0",
+    "13"
+   ]
+  },
+  {
+   "thread_id": "H0024",
+   "docs": 10,
+   "desde": "2023-05-25",
+   "hasta": "2024-04-15",
+   "top_objeto": [
+    "central termoelectrica norgener",
+    "central norgener",
+    "centrales norgener 1 y 2"
+   ],
+   "top_territorio": [
+    "tocopilla"
+   ],
+   "top_actores": [
+    "aes andes",
+    "central termoelectrica norgener",
+    "comision nacional de energia"
+   ],
+   "familias": [
+    "1"
+   ]
+  },
+  {
+   "thread_id": "H0025",
+   "docs": 10,
+   "desde": "2018-10-19",
+   "hasta": "2019-05-07",
+   "top_objeto": [
+    "central termoelectrica bocamina",
+    "central termoelectrica bocamina i y ii",
+    "vertedero de cenizas de bocamina 1"
+   ],
+   "top_territorio": [
+    "coronel"
+   ],
+   "top_actores": [
+    "municipalidad de coronel",
+    "enel",
+    "enel generacion chile s.a"
+   ],
+   "familias": [
+    "1",
+    "12"
+   ]
+  },
+  {
+   "thread_id": "H0026",
+   "docs": 10,
+   "desde": "2020-01-09",
+   "hasta": "2022-02-10",
+   "top_objeto": [
+    "pascua lama"
+   ],
+   "top_territorio": [
+    "pascua lama",
+    "valle del huasco",
+    "rio del estrecho"
+   ],
+   "top_actores": [
+    "barrick gold",
+    "asamblea por el agua del guasco alto",
+    "comunidad indigena diaguita patay co y otros"
+   ],
+   "familias": [
+    "10",
+    "13",
+    "14",
+    "2",
+    "5"
+   ]
+  },
+  {
+   "thread_id": "H0027",
+   "docs": 10,
+   "desde": "2024-05-07",
+   "hasta": "2024-07-21",
+   "top_objeto": [
+    "parque eolico talinay"
+   ],
+   "top_territorio": [
+    "ovalle",
+    "parque eolico talinay",
+    "talinay"
+   ],
+   "top_actores": [
+    "superintendencia del medio ambiente",
+    "superintendencia de medio ambiente",
+    "red de observadores de aves y vida silvestre de chile (roc)"
+   ],
+   "familias": [
+    "2",
+    "4"
+   ]
+  },
+  {
+   "thread_id": "H0028",
+   "docs": 9,
+   "desde": "2025-09-30",
+   "hasta": "2025-10-23",
+   "top_objeto": [
+    "eia modificaciones y mejoramiento del sistema de pozas de evaporacion solar en el salar de atacama"
+   ],
+   "top_territorio": [
+    "salar de atacama"
+   ],
+   "top_actores": [
+    "albemarle ltda",
+    "superintendencia del medio ambiente",
+    "superintendencia de medio ambiente"
+   ],
+   "familias": [
+    "14"
+   ]
+  },
+  {
+   "thread_id": "H0029",
+   "docs": 9,
+   "desde": "2025-01-27",
+   "hasta": "2025-10-10",
+   "top_objeto": [
+    "minera los pelambres",
+    "extension de vida util (evu) minera los pelambres"
+   ],
+   "top_territorio": [
+    "valle de camisas",
+    "cuncumen",
+    "los vilos"
+   ],
+   "top_actores": [
+    "minera los pelambres",
+    "regantes de cuncumen",
+    "gobernador regional cristobal julia, alcalde de los vilos christian gross, consejeros regionales, concejales"
+   ],
+   "familias": [
+    "13",
+    "22",
+    "25",
+    "5",
+    "8"
+   ]
+  },
+  {
+   "thread_id": "H0030",
+   "docs": 9,
+   "desde": "2025-06-17",
+   "hasta": "2025-06-25",
+   "top_objeto": [
+    "parque eolico coloane"
+   ],
+   "top_territorio": [
+    "chiloe",
+    "ancud",
+    "estacion biologica senda darwin"
+   ],
+   "top_actores": [
+    "parque eolico coloane",
+    "parque eolico coloane, servicio de evaluacion ambiental (sea)",
+    "fundacion senda darwin y el instituto de ecologia y biodiversidad (ieb)"
+   ],
+   "familias": [
+    "24",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0031",
+   "docs": 9,
+   "desde": "2023-10-06",
+   "hasta": "2024-07-25",
+   "top_objeto": [
+    "planta cabo negro",
+    "parque eolico faro del sur",
+    "planta de combustibles carbono neutral"
+   ],
+   "top_territorio": [
+    "cabo negro",
+    "punta arenas"
+   ],
+   "top_actores": [
+    "servicio de evaluacion ambiental",
+    "hif global",
+    "hif chile"
+   ],
+   "familias": [
+    "2",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0032",
+   "docs": 9,
+   "desde": "2022-10-13",
+   "hasta": "2025-06-07",
+   "top_objeto": [
+    "alto maipo"
+   ],
+   "top_territorio": [
+    "cajon del maipo",
+    "tunel las lajas"
+   ],
+   "top_actores": [
+    "alto maipo spa, comite de ministros, anglo american sur",
+    "no + rios de sacrificio, delight lab, ecosistemas, somos maipo, entre otras 60 organizaciones",
+    "comunidades vecinas opositoras al proyecto"
+   ],
+   "familias": [
+    "0",
+    "10",
+    "26"
+   ]
+  },
+  {
+   "thread_id": "H0033",
+   "docs": 9,
+   "desde": "2022-10-06",
+   "hasta": "2023-03-21",
+   "top_objeto": [
+    "refineria bio bio",
+    "refineria de hualpen",
+    "refineria de enap bio bio"
+   ],
+   "top_territorio": [
+    "hualpen"
+   ],
+   "top_actores": [
+    "enap",
+    "municipalidad de hualpen",
+    "alcalde de hualpen, miguel rivera"
+   ],
+   "familias": [
+    "12"
+   ]
+  },
+  {
+   "thread_id": "H0034",
+   "docs": 9,
+   "desde": "2025-04-24",
+   "hasta": "2025-12-29",
+   "top_objeto": [
+    "joint venture sqm-codelco para produccion de litio",
+    "alianza codelco-sqm para explotacion de litio",
+    "jv codelco-sqm"
+   ],
+   "top_territorio": [
+    "salar de atacama"
+   ],
+   "top_actores": [
+    "codelco y sqm",
+    "fiscalia nacional economica",
+    "sqm y codelco"
+   ],
+   "familias": [
+    "5"
+   ]
+  },
+  {
+   "thread_id": "H0035",
+   "docs": 8,
+   "desde": "2017-03-26",
+   "hasta": "2018-10-22",
+   "top_objeto": [
+    "pascua lama"
+   ],
+   "top_territorio": [
+    "valle del huasco",
+    "pascua lama",
+    "valle de huasco"
+   ],
+   "top_actores": [
+    "barrick gold",
+    "superintendencia del medio ambiente",
+    "junta de vigilancia del rio huasco y sus afluentes"
+   ],
+   "familias": [
+    "10",
+    "11",
+    "14",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "thread_id": "H0036",
+   "docs": 8,
+   "desde": "2024-06-14",
+   "hasta": "2025-11-30",
+   "top_objeto": [
+    "sistema de transmision zonal grupo 3 s/e itahue – s/e hualqui",
+    "itahue-hualqui",
+    "itahue–hualqui"
+   ],
+   "top_territorio": [
+    "region del maule",
+    "hualqui",
+    "s/e itahue – s/e hualqui"
+   ],
+   "top_actores": [
+    "mataquito transmisora de energia (mate)",
+    "sag, consejo de monumentos nacionales, subsecretaria de salud publica, uka chile",
+    "mataquito transmisora de energia"
+   ],
+   "familias": [
+    "-1",
+    "22",
+    "27"
+   ]
+  },
+  {
+   "thread_id": "H0037",
+   "docs": 8,
+   "desde": "2024-07-04",
+   "hasta": "2025-06-24",
+   "top_objeto": [
+    "extraccion de ulexita en salar de surire",
+    "mina quiborax",
+    "salar de surire"
+   ],
+   "top_territorio": [
+    "salar de surire"
+   ],
+   "top_actores": [
+    "consejo de defensa del estado",
+    "quiborax",
+    "quiborax s.a"
+   ],
+   "familias": [
+    "0",
+    "14",
+    "15",
+    "25",
+    "7"
+   ]
+  },
+  {
+   "thread_id": "H0038",
+   "docs": 8,
+   "desde": "2023-08-29",
+   "hasta": "2024-07-24",
+   "top_objeto": [
+    "fundicion hernan videla lira (paipote)",
+    "fundicion paipote",
+    "modernizacion fundicion hernan videla lira"
+   ],
+   "top_territorio": [
+    "paipote",
+    "copiapo"
+   ],
+   "top_actores": [
+    "enami",
+    "gustavo lagos (profesor uc)",
+    "fundicion hernan videla lira (paipote) de enami"
+   ],
+   "familias": [
+    "3"
+   ]
+  },
+  {
+   "thread_id": "H0039",
+   "docs": 8,
+   "desde": "2025-05-20",
+   "hasta": "2026-02-13",
+   "top_objeto": [
+    "salar de maricunga",
+    "proyecto de litio en salar de maricunga"
+   ],
+   "top_territorio": [
+    "salar de maricunga"
+   ],
+   "top_actores": [
+    "gobierno de chile",
+    "ministerio de mineria",
+    "codelco y rio tinto (salar de maricunga)"
+   ],
+   "familias": [
+    "-1",
+    "11",
+    "5"
+   ]
+  }
+ ]
+}

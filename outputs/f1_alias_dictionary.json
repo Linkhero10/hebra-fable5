@@ -1,0 +1,3438 @@
+{
+ "summary": {
+  "schema_version": 1,
+  "generated_utc": "2026-07-22T13:44:26.963475+00:00",
+  "corpus_sha256": "1caf340dfd44622df0998d7e94090a84c534587d1440d7002325f8e519e7ca2f",
+  "rules": [
+   "R1 norm",
+   "R2 articles",
+   "R3 name(acr)",
+   "R4 bare-acr",
+   "R5 punct"
+  ],
+  "documents": 3742,
+  "referent_rows": 14089,
+  "cardinality_before": {
+   "territorio": 812,
+   "actor": 4652,
+   "objeto": 1425
+  },
+  "cardinality_after": {
+   "territorio": 812,
+   "actor": 4525,
+   "objeto": 1399
+  },
+  "unambiguous_acronym_merges": 218,
+  "ambiguous_acronyms_kept_separate": 57,
+  "top_after": {
+   "territorio": [
+    {
+     "key": "salar de atacama",
+     "docs": 313
+    },
+    {
+     "key": "coronel",
+     "docs": 172
+    },
+    {
+     "key": "ventanas",
+     "docs": 142
+    },
+    {
+     "key": "mejillones",
+     "docs": 103
+    },
+    {
+     "key": "la higuera",
+     "docs": 102
+    },
+    {
+     "key": "quintero",
+     "docs": 98
+    },
+    {
+     "key": "salar de maricunga",
+     "docs": 84
+    },
+    {
+     "key": "tocopilla",
+     "docs": 74
+    },
+    {
+     "key": "quintero-puchuncavi",
+     "docs": 67
+    },
+    {
+     "key": "cajon del maipo",
+     "docs": 67
+    },
+    {
+     "key": "puchuncavi",
+     "docs": 65
+    },
+    {
+     "key": "huasco",
+     "docs": 63
+    },
+    {
+     "key": "quintero y puchuncavi",
+     "docs": 58
+    },
+    {
+     "key": "san gregorio",
+     "docs": 35
+    },
+    {
+     "key": "region de magallanes",
+     "docs": 34
+    }
+   ],
+   "actor": [
+    {
+     "key": "superintendencia del medio ambiente",
+     "docs": 154
+    },
+    {
+     "key": "codelco",
+     "docs": 109
+    },
+    {
+     "key": "servicio de evaluacion ambiental",
+     "docs": 102
+    },
+    {
+     "key": "consejo de pueblos atacamenos",
+     "docs": 68
+    },
+    {
+     "key": "minera los pelambres",
+     "docs": 67
+    },
+    {
+     "key": "gobierno de chile",
+     "docs": 63
+    },
+    {
+     "key": "minera dominga",
+     "docs": 53
+    },
+    {
+     "key": "comite de ministros",
+     "docs": 47
+    },
+    {
+     "key": "empresa nacional del petroleo",
+     "docs": 46
+    },
+    {
+     "key": "enel",
+     "docs": 42
+    },
+    {
+     "key": "superintendencia de medio ambiente",
+     "docs": 41
+    },
+    {
+     "key": "ministerio del medio ambiente",
+     "docs": 41
+    },
+    {
+     "key": "aes gener",
+     "docs": 38
+    },
+    {
+     "key": "greenpeace",
+     "docs": 36
+    },
+    {
+     "key": "compania minera nevada spa",
+     "docs": 35
+    }
+   ],
+   "objeto": [
+    {
+     "key": "dominga",
+     "docs": 124
+    },
+    {
+     "key": "fundicion ventanas",
+     "docs": 111
+    },
+    {
+     "key": "alto maipo",
+     "docs": 81
+    },
+    {
+     "key": "hidroaysen",
+     "docs": 58
+    },
+    {
+     "key": "estrategia nacional del litio",
+     "docs": 44
+    },
+    {
+     "key": "pascua lama",
+     "docs": 42
+    },
+    {
+     "key": "totalenergies h2",
+     "docs": 41
+    },
+    {
+     "key": "minera los pelambres",
+     "docs": 32
+    },
+    {
+     "key": "proyecto dominga",
+     "docs": 27
+    },
+    {
+     "key": "parque eolico chiloe",
+     "docs": 27
+    },
+    {
+     "key": "bocamina ii",
+     "docs": 25
+    },
+    {
+     "key": "proyecto hidroelectrico alto maipo",
+     "docs": 24
+    },
+    {
+     "key": "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde",
+     "docs": 23
+    },
+    {
+     "key": "faro del sur",
+     "docs": 21
+    },
+    {
+     "key": "volta",
+     "docs": 19
+    }
+   ]
+  }
+ },
+ "alias_map": {
+  "actor": {
+   "federacion de trabajadores del cobre (ftc)": "federacion de trabajadores del cobre",
+   "ftc": "federacion de trabajadores del cobre",
+   "patagonia sin represas (psr)": "patagonia sin represas",
+   "psr": "patagonia sin represas",
+   "banco interamericano de desarrollo (bid)": "banco interamericano de desarrollo",
+   "bid": "banco interamericano de desarrollo",
+   "coordinadora ciudadana rios del maipo (ccrm)": "coordinadora ciudadana rios del maipo",
+   "ccrm": "coordinadora ciudadana rios del maipo",
+   "aes gener y antofagasta minerals (amsa)": "aes gener y antofagasta minerals",
+   "amsa": "aes gener y antofagasta minerals",
+   "diputada nathalie castillo (pc)": "diputada nathalie castillo",
+   "pc": "diputada nathalie castillo",
+   "comunidad juanita vergara (pueblo chango)": "comunidad juanita vergara",
+   "pueblo chango": "comunidad juanita vergara",
+   "primer tribunal ambiental de antofagasta (1ta)": "primer tribunal ambiental de antofagasta",
+   "1ta": "primer tribunal ambiental de antofagasta",
+   "minera dominga (andes iron)": "minera dominga",
+   "andes iron": "minera dominga",
+   "compania minera nevada spa (barrick gold)": "compania minera nevada spa",
+   "barrick gold": "compania minera nevada spa",
+   "nelson venegas (ps)": "nelson venegas",
+   "ps": "nelson venegas",
+   "caitan / bhp (spence)": "caitan / bhp",
+   "spence": "caitan / bhp",
+   "bhp (pampa norte)": "bhp",
+   "pampa norte": "bhp",
+   "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio (apiidtt)": "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio",
+   "apiidtt": "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio",
+   "sociedad austral de transmision troncal s.a (saesa)": "sociedad austral de transmision troncal s.a",
+   "saesa": "sociedad austral de transmision troncal s.a",
+   "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur (duna viva)": "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur",
+   "duna viva": "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur",
+   "federacion de estudiantes de la universidad de chile (fech)": "federacion de estudiantes de la universidad de chile",
+   "fech": "federacion de estudiantes de la universidad de chile",
+   "mataquito transmisora de energia (mate)": "mataquito transmisora de energia",
+   "mate": "mataquito transmisora de energia",
+   "zona franca de iquique (zofri)": "zona franca de iquique",
+   "zofri": "zona franca de iquique",
+   "compania minera ojos del salado (lundin)": "compania minera ojos del salado",
+   "lundin": "compania minera ojos del salado",
+   "empresa de los ferrocarriles del estado (efe)": "empresa de los ferrocarriles del estado",
+   "efe": "empresa de los ferrocarriles del estado",
+   "comision chilena de energia nuclear (cchen)": "comision chilena de energia nuclear",
+   "cchen": "comision chilena de energia nuclear",
+   "compania minera del pacifico (cap)": "compania minera del pacifico",
+   "cap": "compania minera del pacifico",
+   "consejo de defensa de la patagonia (cdp)": "consejo de defensa de la patagonia",
+   "cdp": "consejo de defensa de la patagonia",
+   "endesa, colbun (hidroaysen), xstrata (energia austral)": "endesa, colbun (hidroaysen), xstrata",
+   "energia austral": "endesa, colbun (hidroaysen), xstrata",
+   "hidroaysen (endesa y colbun)": "hidroaysen",
+   "endesa y colbun": "hidroaysen",
+   "endesa (actual enel)": "endesa",
+   "actual enel": "endesa",
+   "empresa nacional del petroleo (enap)": "empresa nacional del petroleo",
+   "enap": "empresa nacional del petroleo",
+   "empresa portuaria de valparaiso (epv)": "empresa portuaria de valparaiso",
+   "epv": "empresa portuaria de valparaiso",
+   "terminal pacifico sur (tps)": "terminal pacifico sur",
+   "tps": "terminal pacifico sur",
+   "jocelyn varela (pro humedales), diputado felix gonzalez (pev)": "jocelyn varela (pro humedales), diputado felix gonzalez",
+   "pev": "jocelyn varela (pro humedales), diputado felix gonzalez",
+   "inmobiliaria las salinas (copec)": "inmobiliaria las salinas",
+   "copec": "inmobiliaria las salinas",
+   "agrupacion por la defensa y conservacion maule mataquito (adema)": "agrupacion por la defensa y conservacion maule mataquito",
+   "adema": "agrupacion por la defensa y conservacion maule mataquito",
+   "south american iron & steel corp limited (sais)": "south american iron & steel corp limited",
+   "sais": "south american iron & steel corp limited",
+   "consejo indigena de centro america (cica)": "consejo indigena de centro america",
+   "cica": "consejo indigena de centro america",
+   "alcaldesa de la higuera (uberlinda aquea)": "alcaldesa de la higuera",
+   "uberlinda aquea": "alcaldesa de la higuera",
+   "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural (pdi)": "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural",
+   "pdi": "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural",
+   "superintendencia de electricidad y combustibles (sec)": "superintendencia de electricidad y combustibles",
+   "sec": "superintendencia de electricidad y combustibles",
+   "fotowatio renewable ventures (frv)": "fotowatio renewable ventures",
+   "frv": "fotowatio renewable ventures",
+   "comite de defensa de los pueblos de elqui (codepue)": "comite de defensa de los pueblos de elqui",
+   "codepue": "comite de defensa de los pueblos de elqui",
+   "sociedad nacional de mineria (sonami)": "sociedad nacional de mineria",
+   "sonami": "sociedad nacional de mineria",
+   "puerto cruz grande / andes iron (dominga)": "puerto cruz grande / andes iron",
+   "dominga": "puerto cruz grande / andes iron",
+   "red de accion por los derechos ambientales (rada)": "red de accion por los derechos ambientales",
+   "rada": "red de accion por los derechos ambientales",
+   "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken (map)": "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken",
+   "map": "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken",
+   "compania general de electricidad (cge)": "compania general de electricidad",
+   "cge": "compania general de electricidad",
+   "asociacion de canalistas del laja (acl)": "asociacion de canalistas del laja",
+   "acl": "asociacion de canalistas del laja",
+   "colegio de arqueologas y arqueologos de chile (caarch)": "colegio de arqueologas y arqueologos de chile",
+   "caarch": "colegio de arqueologas y arqueologos de chile",
+   "municipalidad de coronel, trabajadores unidos contra el asbesto (tuca)": "municipalidad de coronel, trabajadores unidos contra el asbesto",
+   "tuca": "municipalidad de coronel, trabajadores unidos contra el asbesto",
+   "forest stewardship council (fsc)": "forest stewardship council",
+   "fsc": "forest stewardship council",
+   "sociedad punta de lobos (spl)": "sociedad punta de lobos",
+   "spl": "sociedad punta de lobos",
+   "resistencia socioambiental quilicura (rsq)": "resistencia socioambiental quilicura",
+   "rsq": "resistencia socioambiental quilicura",
+   "comite ambiental comunal (cac)": "comite ambiental comunal",
+   "cac": "comite ambiental comunal",
+   "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe (nuble libre)": "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe",
+   "nuble libre": "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe",
+   "compania minera del pacifico s.a (cap mineria)": "compania minera del pacifico s.a",
+   "cap mineria": "compania minera del pacifico s.a",
+   "barrick y antofagasta minerals (luksic)": "barrick y antofagasta minerals",
+   "luksic": "barrick y antofagasta minerals",
+   "colectivo en defensa del medio ambiente de atacama (codemaa)": "colectivo en defensa del medio ambiente de atacama",
+   "codemaa": "colectivo en defensa del medio ambiente de atacama",
+   "aclara resources (ree uno spa)": "aclara resources",
+   "ree uno spa": "aclara resources",
+   "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable (david r boyd)": "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable",
+   "david r boyd": "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable",
+   "consejo de pueblos atacamenos (18 comunidades)": "consejo de pueblos atacamenos",
+   "18 comunidades": "consejo de pueblos atacamenos",
+   "advanced mining technology center (amtc)": "advanced mining technology center",
+   "amtc": "advanced mining technology center",
+   "estrategia nacional del litio (ceol)": "estrategia nacional del litio",
+   "ceol": "estrategia nacional del litio",
+   "comunidad indigena quechua de ollague (ciqo)": "comunidad indigena quechua de ollague",
+   "ciqo": "comunidad indigena quechua de ollague",
+   "simco (grupo errazuriz)": "simco",
+   "grupo errazuriz": "simco",
+   "asociacion atacamena de regantes y agricultores de san pedro de atacama (araspa)": "asociacion atacamena de regantes y agricultores de san pedro de atacama",
+   "araspa": "asociacion atacamena de regantes y agricultores de san pedro de atacama",
+   "corporacion de fomento de la produccion (corfo)": "corporacion de fomento de la produccion",
+   "corfo": "corporacion de fomento de la produccion",
+   "codelco / proyecto blanco (lithium power)": "codelco / proyecto blanco",
+   "lithium power": "codelco / proyecto blanco",
+   "comunidad pai ote (colla)": "comunidad pai ote",
+   "colla": "comunidad pai ote",
+   "minera escondida ltda (mel)": "minera escondida ltda",
+   "mel": "minera escondida ltda",
+   "minera escondida (bhp)": "minera escondida",
+   "bhp": "minera escondida",
+   "explotacion de salmuera (litio)": "explotacion de salmuera",
+   "litio": "explotacion de salmuera",
+   "amphos 21 / fundacion terram (publica informe)": "amphos 21 / fundacion terram",
+   "publica informe": "amphos 21 / fundacion terram",
+   "instituto de politicas publicas de la universidad catolica del norte (ipp-ucn)": "instituto de politicas publicas de la universidad catolica del norte",
+   "ipp-ucn": "instituto de politicas publicas de la universidad catolica del norte",
+   "comunidad atacamena de socaire (cas)": "comunidad atacamena de socaire",
+   "cas": "comunidad atacamena de socaire",
+   "novaandino litio (codelco y sqm)": "novaandino litio",
+   "codelco y sqm": "novaandino litio",
+   "cristian tapia (diputado)": "cristian tapia",
+   "diputado": "cristian tapia",
+   "inversiones tlc spa (tianqui)": "inversiones tlc spa",
+   "tianqui": "inversiones tlc spa",
+   "fiscalia nacional economica (fne)": "fiscalia nacional economica",
+   "fne": "fiscalia nacional economica",
+   "sqm (soquimich)": "sqm",
+   "soquimich": "sqm",
+   "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo (lady sandon)": "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo",
+   "lady sandon": "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo",
+   "state administration for market regulation (samr)": "state administration for market regulation",
+   "samr": "state administration for market regulation",
+   "contraloria general de la republica (cgr)": "contraloria general de la republica",
+   "cgr": "contraloria general de la republica",
+   "sqm y codelco (acuerdo)": "sqm y codelco",
+   "acuerdo": "sqm y codelco",
+   "codelco y sqm (salar futuro)": "codelco y sqm",
+   "salar futuro": "codelco y sqm",
+   "minera escondida (bhp billiton)": "minera escondida",
+   "bhp billiton": "minera escondida",
+   "extraccion directa de litio (dle)": "extraccion directa de litio",
+   "dle": "extraccion directa de litio",
+   "estudio de impacto ambiental (eia)": "estudio de impacto ambiental",
+   "eia": "estudio de impacto ambiental",
+   "termoelectrica santa maria (colbun)": "termoelectrica santa maria",
+   "colbun": "termoelectrica santa maria",
+   "central las arcillas (engie)": "central las arcillas",
+   "engie": "central las arcillas",
+   "coordinador electrico nacional (cen)": "coordinador electrico nacional",
+   "cen": "coordinador electrico nacional",
+   "agrupacion de sindicatos del sector electrico chile (assech)": "agrupacion de sindicatos del sector electrico chile",
+   "assech": "agrupacion de sindicatos del sector electrico chile",
+   "union portuaria de chile (upch)": "union portuaria de chile",
+   "upch": "union portuaria de chile",
+   "enel (bocamina i y ii)": "enel",
+   "bocamina i y ii": "enel",
+   "enel (bocamina)": "enel",
+   "bocamina": "enel",
+   "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a (relaves)": "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a",
+   "relaves": "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a",
+   "consejo para la recuperacion ambiental y social (cras)": "consejo para la recuperacion ambiental y social",
+   "cras": "consejo para la recuperacion ambiental y social",
+   "central termoelectrica guacolda, planta de pellets de cmp, endesa (proyecto futuro)": "central termoelectrica guacolda, planta de pellets de cmp, endesa",
+   "proyecto futuro": "central termoelectrica guacolda, planta de pellets de cmp, endesa",
+   "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones (ctm)": "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones",
+   "ctm": "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones",
+   "alcalde de mejillones (sergio vega)": "alcalde de mejillones",
+   "sergio vega": "alcalde de mejillones",
+   "engie energia chile (eecl)": "engie energia chile",
+   "eecl": "engie energia chile",
+   "engie, termoelectrica infraestructura energetica mejillones (eim)": "engie, termoelectrica infraestructura energetica mejillones",
+   "eim": "engie, termoelectrica infraestructura energetica mejillones",
+   "aes andes / ventanas 2 / estado de reserva estrategica (ere)": "aes andes / ventanas 2 / estado de reserva estrategica",
+   "ere": "aes andes / ventanas 2 / estado de reserva estrategica",
+   "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente (aida)": "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente",
+   "aida": "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente",
+   "mujeres de zona de sacrificio quintero-puchuncavi en resistencia (muzosare)": "mujeres de zona de sacrificio quintero-puchuncavi en resistencia",
+   "muzosare": "mujeres de zona de sacrificio quintero-puchuncavi en resistencia",
+   "federacia3n nacional de pescadores artesanales (fenaspar)": "federacia3n nacional de pescadores artesanales",
+   "fenaspar": "federacia3n nacional de pescadores artesanales",
+   "natalia sanchez (concejala ptr)": "natalia sanchez",
+   "concejala ptr": "natalia sanchez",
+   "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache (daniel morales)": "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache",
+   "daniel morales": "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache",
+   "instituto milenio en socio-ecologia costera (secos)": "instituto milenio en socio-ecologia costera",
+   "secos": "instituto milenio en socio-ecologia costera",
+   "empresa nacional de energia (enex sa)": "empresa nacional de energia",
+   "enex sa": "empresa nacional de energia",
+   "asociacion de municipalidades de la region de antofagasta (amra)": "asociacion de municipalidades de la region de antofagasta",
+   "amra": "asociacion de municipalidades de la region de antofagasta",
+   "mae (proyecto volta)": "mae",
+   "proyecto volta": "mae",
+   "engie chile, central termoelectrica mejillones unidad 2 (ctm2)": "engie chile, central termoelectrica mejillones unidad 2",
+   "ctm2": "engie chile, central termoelectrica mejillones unidad 2",
+   "greenpeace manuel monardes rojas (concejal)": "greenpeace manuel monardes rojas",
+   "concejal": "greenpeace manuel monardes rojas",
+   "asociacion de industriales de mejillones (aim)": "asociacion de industriales de mejillones",
+   "aim": "asociacion de industriales de mejillones",
+   "plan regulador intercomunal del borde costero de la region de antofagasta (pribca)": "plan regulador intercomunal del borde costero de la region de antofagasta",
+   "pribca": "plan regulador intercomunal del borde costero de la region de antofagasta",
+   "pascua lama (barrick)": "pascua lama",
+   "barrick": "pascua lama",
+   "ong fiscalia del medio ambiente (fima)": "ong fiscalia del medio ambiente",
+   "fima": "ong fiscalia del medio ambiente",
+   "aes andes (ex aes gener)": "aes andes",
+   "ex aes gener": "aes andes",
+   "codelco (planta ventanas)": "codelco",
+   "planta ventanas": "codelco",
+   "complejo industrial ventanas, codelco (ex enami)": "complejo industrial ventanas, codelco",
+   "ex enami": "complejo industrial ventanas, codelco",
+   "ciclo (proyecto cigri), dipolcar (carabineros)": "ciclo (proyecto cigri), dipolcar",
+   "carabineros": "ciclo (proyecto cigri), dipolcar",
+   "universidad catolica de temuco (uct)": "universidad catolica de temuco",
+   "uct": "universidad catolica de temuco",
+   "cooperativa campesina intercomunal peumo (coopeumo)": "cooperativa campesina intercomunal peumo",
+   "coopeumo": "cooperativa campesina intercomunal peumo",
+   "asociacion chilena de energia solar (acesol)": "asociacion chilena de energia solar",
+   "acesol": "asociacion chilena de energia solar",
+   "comision de mineria y energia del senado, asociacion de generacion renovable (agr)": "comision de mineria y energia del senado, asociacion de generacion renovable",
+   "agr": "comision de mineria y energia del senado, asociacion de generacion renovable",
+   "pequenos medios de generacion distribuida (pmgd)": "pequenos medios de generacion distribuida",
+   "pmgd": "pequenos medios de generacion distribuida",
+   "asociacion chilena de energias renovables y almacenamiento (acera)": "asociacion chilena de energias renovables y almacenamiento",
+   "acera": "asociacion chilena de energias renovables y almacenamiento",
+   "parque eolico vientos del lago (opde chile spa)": "parque eolico vientos del lago",
+   "opde chile spa": "parque eolico vientos del lago",
+   "eolica los lagos spa (elecnor)": "eolica los lagos spa",
+   "elecnor": "eolica los lagos spa",
+   "fundacion parque eolico chiloe (reclamante)": "fundacion parque eolico chiloe",
+   "reclamante": "fundacion parque eolico chiloe",
+   "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche (lnm)": "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche",
+   "lnm": "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche",
+   "victor ancalaf (ex cam)": "victor ancalaf",
+   "ex cam": "victor ancalaf",
+   "observaciones ciudadanas (generico)": "observaciones ciudadanas",
+   "generico": "observaciones ciudadanas",
+   "highly innovative fuels (hif)": "highly innovative fuels",
+   "hif": "highly innovative fuels",
+   "centro de ciencia del clima y la resiliencia (cr2)": "centro de ciencia del clima y la resiliencia",
+   "cr2": "centro de ciencia del clima y la resiliencia",
+   "totalenergies (tec h2 mag spa)": "totalenergies",
+   "tec h2 mag spa": "totalenergies",
+   "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia (sochias)": "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia",
+   "sochias": "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia",
+   "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo (sernatur)": "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo",
+   "sernatur": "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo",
+   "totalenergies h2 (h2 magallanes)": "totalenergies h2",
+   "h2 magallanes": "totalenergies h2",
+   "aes andes (inna)": "aes andes",
+   "inna": "aes andes",
+   "mae (compania)": "mae",
+   "compania": "mae",
+   "asociacion chilena de hidrogeno (h2 chile)": "asociacion chilena de hidrogeno",
+   "h2 chile": "asociacion chilena de hidrogeno",
+   "consejo de monumentos nacionales (cmn)": "consejo de monumentos nacionales",
+   "cmn": "consejo de monumentos nacionales",
+   "hif chile y enel green power chile (egp)": "hif chile y enel green power chile",
+   "egp": "hif chile y enel green power chile",
+   "vecino de san gregorio (campos)": "vecino de san gregorio",
+   "campos": "vecino de san gregorio",
+   "planta de hidrogeno verde de hnh (asoex chile 10)": "planta de hidrogeno verde de hnh",
+   "asoex chile 10": "planta de hidrogeno verde de hnh",
+   "asociacion de ganaderos de magallanes (asogama)": "asociacion de ganaderos de magallanes",
+   "asogama": "asociacion de ganaderos de magallanes",
+   "proyecto rucalhue, rucalhue energia, china international water and electric corporation (cwe)": "proyecto rucalhue, rucalhue energia, china international water and electric corporation",
+   "cwe": "proyecto rucalhue, rucalhue energia, china international water and electric corporation",
+   "eolica monte redondo s.a (engie energia)": "eolica monte redondo s.a",
+   "engie energia": "eolica monte redondo s.a",
+   "hidroelectrica laja 1 de eolica monte redondo (engie chile)": "hidroelectrica laja 1 de eolica monte redondo",
+   "engie chile": "hidroelectrica laja 1 de eolica monte redondo",
+   "engie (gdf suez)": "engie",
+   "gdf suez": "engie",
+   "comunidad de aguas el manzano (car)": "comunidad de aguas el manzano",
+   "car": "comunidad de aguas el manzano",
+   "centinela spence sierra gorda (faenas mineras)": "centinela spence sierra gorda",
+   "faenas mineras": "centinela spence sierra gorda",
+   "mineras estado de chile (sernageomin)": "mineras estado de chile",
+   "sernageomin": "mineras estado de chile",
+   "gustavo lagos (profesor uc)": "gustavo lagos",
+   "profesor uc": "gustavo lagos",
+   "fundicion chagres (anglo american)": "fundicion chagres",
+   "anglo american": "fundicion chagres",
+   "universidad catolica del norte (ucn)": "universidad catolica del norte",
+   "ucn": "universidad catolica del norte",
+   "empresa nacional de mineria (enami)": "empresa nacional de mineria",
+   "enami": "empresa nacional de mineria",
+   "vecinos de los andes, agrupacion ecologista de aconcagua (aes)": "vecinos de los andes, agrupacion ecologista de aconcagua",
+   "aes": "vecinos de los andes, agrupacion ecologista de aconcagua",
+   "minera los pelambres (grupo luksic)": "minera los pelambres",
+   "grupo luksic": "minera los pelambres",
+   "minera los pelambres (antofagasta plc)": "minera los pelambres",
+   "antofagasta plc": "minera los pelambres",
+   "minera los pelambres (mlp)": "minera los pelambres",
+   "mlp": "minera los pelambres",
+   "centro de estudios del cobre y la mineria (cesco)": "centro de estudios del cobre y la mineria",
+   "cesco": "centro de estudios del cobre y la mineria",
+   "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile (fenapo)": "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile",
+   "fenapo": "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile",
+   "transmisora del pacifico s.a (transelec)": "transmisora del pacifico s.a",
+   "transelec": "transmisora del pacifico s.a",
+   "vecinos de el molle, alcalde de vicuna (rafael vera)": "vecinos de el molle, alcalde de vicuna",
+   "rafael vera": "vecinos de el molle, alcalde de vicuna",
+   "interconexion electrica (isa)": "interconexion electrica",
+   "isa": "interconexion electrica",
+   "comunidades mapuche de curacautin (lof radalco)": "comunidades mapuche de curacautin",
+   "lof radalco": "comunidades mapuche de curacautin",
+   "geotermica del norte (gdn)": "geotermica del norte",
+   "gdn": "geotermica del norte",
+   "comision regional del medio ambiente (corema)": "comision regional del medio ambiente",
+   "corema": "comision regional del medio ambiente",
+   "minera candelaria, rafael prohens (ex intendente)": "minera candelaria, rafael prohens",
+   "ex intendente": "minera candelaria, rafael prohens",
+   "rodrigo mundaca (modatima)": "rodrigo mundaca",
+   "modatima": "rodrigo mundaca"
+  },
+  "objeto": {
+   "proyecto de adaptacion operacional (pao)": "proyecto de adaptacion operacional",
+   "pao": "proyecto de adaptacion operacional",
+   "proyecto monturaqui (mtq)": "proyecto monturaqui",
+   "mtq": "proyecto monturaqui",
+   "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna)": "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde",
+   "inna": "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde",
+   "programa para la recuperacion ambiental y social (pras)": "programa para la recuperacion ambiental y social",
+   "pras": "programa para la recuperacion ambiental y social",
+   "waste to energy (wte)": "waste to energy",
+   "wte": "waste to energy",
+   "parque eolico ckhuri (ex ckani)": "parque eolico ckhuri",
+   "ex ckani": "parque eolico ckhuri",
+   "disposicion transitoria de residuos (puntra el roble)": "disposicion transitoria de residuos",
+   "puntra el roble": "disposicion transitoria de residuos",
+   "muelle granelero, puerto de coronel (muelle 3)": "muelle granelero, puerto de coronel",
+   "muelle 3": "muelle granelero, puerto de coronel",
+   "puerto exterior (ppe)": "puerto exterior",
+   "ppe": "puerto exterior",
+   "zona de extension de apoyo logistico (zeal)": "zona de extension de apoyo logistico",
+   "zeal": "zona de extension de apoyo logistico",
+   "ley de humedales urbanos (ley 21202)": "ley de humedales urbanos",
+   "ley 21202": "ley de humedales urbanos",
+   "central hidroelectrica neltume (chn)": "central hidroelectrica neltume",
+   "chn": "central hidroelectrica neltume",
+   "autopista orbital sur (aos)": "autopista orbital sur",
+   "aos": "autopista orbital sur",
+   "fundicion hernan videla lira (paipote)": "fundicion hernan videla lira",
+   "paipote": "fundicion hernan videla lira",
+   "deposito de relaves filtrados (drf)": "deposito de relaves filtrados",
+   "drf": "deposito de relaves filtrados",
+   "complejo termico de mejillones (ctm)": "complejo termico de mejillones",
+   "ctm": "complejo termico de mejillones",
+   "central termoelectrica energia minera (ctem)": "central termoelectrica energia minera",
+   "ctem": "central termoelectrica energia minera",
+   "contrato especial de operacion para la exploracion, explotacion y beneficio de litio (ceol)": "contrato especial de operacion para la exploracion, explotacion y beneficio de litio",
+   "ceol": "contrato especial de operacion para la exploracion, explotacion y beneficio de litio",
+   "proyecto de transicion hacia la extraccion directa de litio (ted)": "proyecto de transicion hacia la extraccion directa de litio",
+   "ted": "proyecto de transicion hacia la extraccion directa de litio",
+   "programa de cumplimiento refundido (pdcr)": "programa de cumplimiento refundido",
+   "pdcr": "programa de cumplimiento refundido",
+   "ajustes operacionales area mina (faena zaldivar)": "ajustes operacionales area mina",
+   "faena zaldivar": "ajustes operacionales area mina",
+   "planta de extraccion directa de litio (dle)": "planta de extraccion directa de litio",
+   "dle": "planta de extraccion directa de litio",
+   "red de salares protegidos (rsp)": "red de salares protegidos",
+   "rsp": "red de salares protegidos",
+   "guacolda (termoelectricas)": "guacolda",
+   "termoelectricas": "guacolda",
+   "central termoelectrica bocamina (en cierre)": "central termoelectrica bocamina",
+   "en cierre": "central termoelectrica bocamina",
+   "infraestructura energetica mejillones (eim)": "infraestructura energetica mejillones",
+   "eim": "infraestructura energetica mejillones",
+   "planta desalinizadora (rechazada)": "planta desalinizadora",
+   "rechazada": "planta desalinizadora",
+   "central termoelectrica mejillones unidad 2 (ctm2)": "central termoelectrica mejillones unidad 2",
+   "ctm2": "central termoelectrica mejillones unidad 2",
+   "proyecto dominga, proyecto inna (energetico)": "proyecto dominga, proyecto inna",
+   "energetico": "proyecto dominga, proyecto inna",
+   "planta desaladora (no especificada)": "planta desaladora",
+   "no especificada": "planta desaladora",
+   "parque fotovoltaico el charco (i y iv)": "parque fotovoltaico el charco",
+   "i y iv": "parque fotovoltaico el charco",
+   "pequenos medios de generacion distribuida (pmgd)": "pequenos medios de generacion distribuida",
+   "pmgd": "pequenos medios de generacion distribuida",
+   "parques eolicos cardonal, los cerrillos y manantiales (optimizacion)": "parques eolicos cardonal, los cerrillos y manantiales",
+   "optimizacion": "parques eolicos cardonal, los cerrillos y manantiales",
+   "gente grande (teg)": "gente grande",
+   "teg": "gente grande",
+   "haru oni (experimental)": "haru oni",
+   "experimental": "haru oni",
+   "totalenergies h2 (h2 magallanes)": "totalenergies h2",
+   "h2 magallanes": "totalenergies h2",
+   "h2 magallanes (total eren)": "h2 magallanes",
+   "total eren": "h2 magallanes",
+   "central nuble de pasada (hidronuble)": "central nuble de pasada",
+   "hidronuble": "central nuble de pasada",
+   "proyecto hidroelectrico alto maipo (pham)": "proyecto hidroelectrico alto maipo",
+   "pham": "proyecto hidroelectrico alto maipo",
+   "tranque de relaves el torito (ampliacion)": "tranque de relaves el torito",
+   "ampliacion": "tranque de relaves el torito",
+   "planta de tratamiento de gases de cola (fhvl)": "planta de tratamiento de gases de cola",
+   "fhvl": "planta de tratamiento de gases de cola",
+   "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo (futuro)": "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo",
+   "futuro": "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo",
+   "planta desaladora de minera los pelambres (proyecto inco)": "planta desaladora de minera los pelambres",
+   "proyecto inco": "planta desaladora de minera los pelambres",
+   "proyecto integrado de los bronces (lbip)": "proyecto integrado de los bronces",
+   "lbip": "proyecto integrado de los bronces",
+   "termas de tolhuaca (ex tolhuaca)": "termas de tolhuaca",
+   "ex tolhuaca": "termas de tolhuaca",
+   "geotermica del norte (gdn)": "geotermica del norte",
+   "gdn": "geotermica del norte"
+  },
+  "territorio": {
+   "aguas calientes iii (piedras rojas)": "aguas calientes iii",
+   "piedras rojas": "aguas calientes iii"
+  }
+ },
+ "merge_log": [
+  {
+   "tipo": "actor",
+   "acronym": "sma",
+   "expansions": {
+    "superintendencia del medio ambiente": 129,
+    "superintendencia de medio ambiente": 26,
+    "astaldi, ministerio de obras publicas (mop), superintendencia de medio ambiente": 1,
+    "superintendencia del medioambiente": 1,
+    "sqm salar y superintendencia del medio ambiente": 1,
+    "sqm, superintendencia de medio ambiente": 1,
+    "enel, superintendencia de medio ambiente": 1,
+    "oxiquim, superintendencia del medio ambiente": 4,
+    "codelco (fundicion ventanas), empresas industriales, empresas mineras, superintendencia de medioambiente": 1,
+    "codelco division ventanas, gener, enap, superintendencia de medio ambiente": 1,
+    "aes andes, superintendencia del medio ambiente": 1,
+    "industrias en quintero-puchuncavi, servicio de evaluacion ambiental (sea), superintendencia del medio ambiente": 1,
+    "ecopower s.a.c. y superintendencia de medio ambiente": 1,
+    "alto maipo, superintendencia de medio ambiente": 1,
+    "proyecto hidroelectrico alto maipo, superintendencia de medio ambiente": 1,
+    "proyecto hidroelectrico alto maipo, servicio de evaluacion ambiental (sea), superintendencia de medio ambiente": 1,
+    "alto maipo s.a., superintendencia de medioambiente": 1,
+    "subsecretaria del medio ambiente, superintendencia del medio ambiente": 1,
+    "gobierno regional, empresas coopersol y terracon ltda., cge, superintendencia del medio ambiente": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cde",
+   "expansions": {
+    "consejo de defensa del estado": 20,
+    "comunidad indigena atacamena de peine y consejo de defensa del estado": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "sea",
+   "expansions": {
+    "minera salar blanco y servicio de evaluacion ambiental": 1,
+    "servicio de evaluacion ambiental": 94,
+    "sociedad alto maipo y servicio de evaluacion ambiental": 1,
+    "comite de ministros": 1,
+    "sistema de evaluacion ambiental": 6,
+    "minera san cayetano, servicio de evaluacion ambiental": 1,
+    "aes andes, servicio de evaluacion ambiental": 1,
+    "hnh energy, gobierno de gabriel boric, servicio de evaluacion ambiental": 1,
+    "simco, minera salar blanco, codelco, servicio de evaluacion ambiental": 1,
+    "compania minera zaldivar / servicio de evaluacion ambiental": 1,
+    "proyecto alba servicio de evaluacion ambiental": 1,
+    "aes gener, servicio de evaluacion ambiental": 1,
+    "central termoelectrica angamos de aes gener, servicio de evaluacion ambiental": 1,
+    "central termoelectrica angamos (aes gener), servicio de evaluacion ambiental": 1,
+    "parque eolico loncalhue, servicio de evaluacion ambiental": 1,
+    "parque eolico viento sur / servicio de evaluacion ambiental": 2,
+    "parque eolico malleco, servicio de evaluacion ambiental": 1,
+    "parque eolico los coihues, hy2wind spa, comision de evaluacion ambiental de nuble, servicio de evaluacion ambiental": 1,
+    "parque eolico coloane, servicio de evaluacion ambiental": 2,
+    "parque eolico san andres, servicio de evaluacion ambiental": 1,
+    "sistema de evaluacion de impacto ambiental": 3,
+    "proyecto inna (aes andes), servicio de evaluacion ambiental": 1,
+    "servicio de evaluacion medio ambiental": 1,
+    "autoridad ambiental": 1,
+    "proyectos de hidrogeno verde, servicio de evaluacion ambiental": 1,
+    "gato hydro chile spa, proyecto central hidroelectrica de pasada el gato, servicio de evaluacion ambiental": 1,
+    "google, servicio de evaluacion ambiental": 1,
+    "minera los pelambres y servicio de evaluacion ambiental": 1,
+    "servicio de evaluacion ambiental de chile": 1,
+    "proyecto minero arqueros, servicio de evaluacion ambiental": 1,
+    "director ejecutivo del servicio de evaluacion ambiental": 1,
+    "proyecto nueva linea 2x220 nueva alto melipilla – nueva casablanca – la polvora – agua santa y servicio de evaluacion ambiental": 1,
+    "linea de transmision kimal-lo aguirre, servicio de evaluacion ambiental": 1,
+    "barrick gold corporation, servicio de evaluacia3n ambiental": 1,
+    "linea de transmision electrica cardones-polpaico servicio de evaluacion ambiental": 1,
+    "adobera spa, servicio de evaluacion ambiental": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "federacion de trabajadores del cobre",
+   "aliases": [
+    "federacion de trabajadores del cobre (ftc)",
+    "ftc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 12
+  },
+  {
+   "tipo": "actor",
+   "acronym": "indh",
+   "expansions": {
+    "instituto nacional de derechos humanos": 8,
+    "mujeres de zona de sacrificio quintero puchuncavi, instituto nacional de derechos humanos": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cne",
+   "expansions": {
+    "comision nacional de energia": 13,
+    "central termica tocopilla comision nacional de energia": 1,
+    "central bocamina comision nacional de energia": 1,
+    "aes andes, coordinador electrico nacional": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "patagonia sin represas",
+   "aliases": [
+    "patagonia sin represas (psr)",
+    "psr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "banco interamericano de desarrollo",
+   "aliases": [
+    "banco interamericano de desarrollo (bid)",
+    "bid"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "coordinadora ciudadana rios del maipo",
+   "aliases": [
+    "coordinadora ciudadana rios del maipo (ccrm)",
+    "ccrm"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "aes gener y antofagasta minerals",
+   "aliases": [
+    "aes gener y antofagasta minerals (amsa)",
+    "amsa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "aes andes",
+   "expansions": {
+    "aguas andinas, aes gener": 1,
+    "gobierno chileno, aes gener": 1,
+    "industrias del carbon y otras contaminantes": 1,
+    "complejo termoelectrico ventanas": 1,
+    "alto maipo": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "mop",
+   "expansions": {
+    "ministerio de obras publicas": 10,
+    "sociedad concesionaria aguas de punilla s.a (scap) y ministerio de obras publicas": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "diputada nathalie castillo",
+   "aliases": [
+    "diputada nathalie castillo (pc)",
+    "pc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cmp",
+   "expansions": {
+    "compania minera del pacifico": 3,
+    "guacolda energia, compania minera del pacifico": 2
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "modema",
+   "expansions": {
+    "movimiento en defensa del medioambiente de la higuera": 1,
+    "movimiento en defensa del medio ambiente de la higuera": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad juanita vergara",
+   "aliases": [
+    "comunidad juanita vergara (pueblo chango)",
+    "pueblo chango"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "primer tribunal ambiental de antofagasta",
+   "aliases": [
+    "primer tribunal ambiental de antofagasta (1ta)",
+    "1ta"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera dominga",
+   "aliases": [
+    "minera dominga (andes iron)",
+    "andes iron"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "corte suprema",
+   "expansions": {
+    "ministro jean pierre matus": 1,
+    "comunidades de puchuncavi-quintero, estado de chile": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "compania minera nevada spa",
+   "aliases": [
+    "compania minera nevada spa (barrick gold)",
+    "barrick gold"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "nelson venegas",
+   "aliases": [
+    "nelson venegas (ps)",
+    "ps"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cpa",
+   "expansions": {
+    "consejo de pueblos atacamenos": 28,
+    "comunidades colla de pai ote, consejo de pueblos atacamenos": 1,
+    "comunidades de peine, camar y consejo de pueblos atacamenos": 1,
+    "comunidad de peine, consejo de pueblos atacamenos": 2,
+    "consejo de defensa del estado (cde), comunidad de peine, consejo de pueblos atacamenos": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "caitan / bhp",
+   "aliases": [
+    "caitan / bhp (spence)",
+    "spence"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "bhp",
+   "aliases": [
+    "bhp (pampa norte)",
+    "pampa norte"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio",
+   "aliases": [
+    "asamblea de los pueblos indigenas del istmo en defensa de la tierra y el territorio (apiidtt)",
+    "apiidtt"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "edf",
+   "expansions": {
+    "empresa electrica de francia": 1,
+    "estudios de franjas": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "ieb",
+   "expansions": {
+    "fundacion senda darwin y el instituto de ecologia y biodiversidad": 2,
+    "fundacion senda darwin, instituto de ecologia y biodiversidad": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "eso",
+   "expansions": {
+    "observatorio europeo austral": 2,
+    "observatorio espacial europeo": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "sociedad austral de transmision troncal s.a",
+   "aliases": [
+    "sociedad austral de transmision troncal s.a (saesa)",
+    "saesa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur",
+   "aliases": [
+    "comite pro defensa del patrimonio historico y cultural de vina del mar, fundacion yarur (duna viva)",
+    "duna viva"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "federacion de estudiantes de la universidad de chile",
+   "aliases": [
+    "federacion de estudiantes de la universidad de chile (fech)",
+    "fech"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mataquito transmisora de energia",
+   "aliases": [
+    "mataquito transmisora de energia (mate)",
+    "mate"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 3
+  },
+  {
+   "tipo": "actor",
+   "acronym": "epsa",
+   "expansions": {
+    "empresa portuaria de san antonio": 2,
+    "empresa portuaria san antonio": 3,
+    "empresa puerto de san antonio": 1,
+    "sociedad concesionaria ruta de la fruta (sacyr), empresa portuaria san antonio": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "coeva",
+   "expansions": {
+    "comision de evaluacion ambiental de la region de antofagasta": 2,
+    "comision de evaluacion": 1,
+    "comision de evaluacion ambiental": 1,
+    "comision de evaluacion ambiental de magallanes": 1,
+    "comision de evaluacion ambiental de antofagasta": 1,
+    "central hidroelectrica los aromos, comision de evaluacion ambiental de la araucania": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "zona franca de iquique",
+   "aliases": [
+    "zona franca de iquique (zofri)",
+    "zofri"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "compania minera ojos del salado",
+   "aliases": [
+    "compania minera ojos del salado (lundin)",
+    "lundin"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "sqm",
+   "expansions": {
+    "fundo esperanza (propiedad indigena) y sociedad quimica y minera de chile s.a": 1,
+    "sociedad quimica y minera de chile": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "empresa de los ferrocarriles del estado",
+   "aliases": [
+    "empresa de los ferrocarriles del estado (efe)",
+    "efe"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comision chilena de energia nuclear",
+   "aliases": [
+    "comision chilena de energia nuclear (cchen)",
+    "cchen"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "compania minera del pacifico",
+   "aliases": [
+    "compania minera del pacifico (cap)",
+    "cap"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 3
+  },
+  {
+   "tipo": "actor",
+   "canonical": "consejo de defensa de la patagonia",
+   "aliases": [
+    "consejo de defensa de la patagonia (cdp)",
+    "cdp"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "endesa, colbun (hidroaysen), xstrata",
+   "aliases": [
+    "endesa, colbun (hidroaysen), xstrata (energia austral)",
+    "energia austral"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "dga",
+   "expansions": {
+    "aguas del valle s.a., junta de vigilancia del rio grande y limari y sus afluentes, comunidad de aguas embalse la paloma, direccion general de aguas": 1,
+    "direccion general de aguas": 7,
+    "albemarle, sqm, direccion general de aguas": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "hidroaysen",
+   "aliases": [
+    "hidroaysen (endesa y colbun)",
+    "endesa y colbun"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "endesa",
+   "aliases": [
+    "endesa (actual enel)",
+    "actual enel"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "empresa nacional del petroleo",
+   "aliases": [
+    "empresa nacional del petroleo (enap)",
+    "enap"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "acronym": "siss",
+   "expansions": {
+    "aguas andinas, superintendencia de servicios sanitarios": 1,
+    "aguas antofagasta, superintendencia de servicios sanitarios": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "empresa portuaria de valparaiso",
+   "aliases": [
+    "empresa portuaria de valparaiso (epv)",
+    "epv"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "terminal pacifico sur",
+   "aliases": [
+    "terminal pacifico sur (tps)",
+    "tps"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "ati",
+   "expansions": {
+    "puerto de antofagasta": 1,
+    "antofagasta terminal internacional": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "roc",
+   "expansions": {
+    "red de observadores de aves y vida silvestre": 2,
+    "red de observadores de aves y vida silvestre de chile": 5
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "jocelyn varela (pro humedales), diputado felix gonzalez",
+   "aliases": [
+    "jocelyn varela (pro humedales), diputado felix gonzalez (pev)",
+    "pev"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "inmobiliaria las salinas",
+   "aliases": [
+    "inmobiliaria las salinas (copec)",
+    "copec"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "agrupacion por la defensa y conservacion maule mataquito",
+   "aliases": [
+    "agrupacion por la defensa y conservacion maule mataquito (adema)",
+    "adema"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "south american iron & steel corp limited",
+   "aliases": [
+    "south american iron & steel corp limited (sais)",
+    "sais"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "consejo indigena de centro america",
+   "aliases": [
+    "consejo indigena de centro america (cica)",
+    "cica"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "alcaldesa de la higuera",
+   "aliases": [
+    "alcaldesa de la higuera (uberlinda aquea)",
+    "uberlinda aquea"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "conaf",
+   "expansions": {
+    "corporacion nacional forestal": 1,
+    "china international water and electric corporation (cwe), rucalhue energia spa, estado de chile, ministro nicolas grau, corporacion nacional forestal": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural",
+   "aliases": [
+    "brigada investigadora de delitos contra el medio ambiente y patrimonio cultural (pdi)",
+    "pdi"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "superintendencia de electricidad y combustibles",
+   "aliases": [
+    "superintendencia de electricidad y combustibles (sec)",
+    "sec"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 3
+  },
+  {
+   "tipo": "actor",
+   "canonical": "fotowatio renewable ventures",
+   "aliases": [
+    "fotowatio renewable ventures (frv)",
+    "frv"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comite de defensa de los pueblos de elqui",
+   "aliases": [
+    "comite de defensa de los pueblos de elqui (codepue)",
+    "codepue"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "sociedad nacional de mineria",
+   "aliases": [
+    "sociedad nacional de mineria (sonami)",
+    "sonami"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "puerto cruz grande / andes iron",
+   "aliases": [
+    "puerto cruz grande / andes iron (dominga)",
+    "dominga"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "red de accion por los derechos ambientales",
+   "aliases": [
+    "red de accion por los derechos ambientales (rada)",
+    "rada"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "aes gener",
+   "expansions": {
+    "alto maipo spa": 1,
+    "termoelectrica norgener": 1,
+    "alto maipo": 2,
+    "proyecto hidroelectrico alto maipo": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken",
+   "aliases": [
+    "comunidades mapuche williche y movimiento mapuche autonomo del pilmaiken (map)",
+    "map"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "compania general de electricidad",
+   "aliases": [
+    "compania general de electricidad (cge)",
+    "cge"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion de canalistas del laja",
+   "aliases": [
+    "asociacion de canalistas del laja (acl)",
+    "acl"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "colegio de arqueologas y arqueologos de chile",
+   "aliases": [
+    "colegio de arqueologas y arqueologos de chile (caarch)",
+    "caarch"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "municipalidad de coronel, trabajadores unidos contra el asbesto",
+   "aliases": [
+    "municipalidad de coronel, trabajadores unidos contra el asbesto (tuca)",
+    "tuca"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "forest stewardship council",
+   "aliases": [
+    "forest stewardship council (fsc)",
+    "fsc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "sociedad punta de lobos",
+   "aliases": [
+    "sociedad punta de lobos (spl)",
+    "spl"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "mma",
+   "expansions": {
+    "ministerio del medio ambiente": 3,
+    "ministerio de medio ambiente": 2,
+    "aes gener, puerto ventanas, ministerio de medio ambiente": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "resistencia socioambiental quilicura",
+   "aliases": [
+    "resistencia socioambiental quilicura (rsq)",
+    "rsq"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comite ambiental comunal",
+   "aliases": [
+    "comite ambiental comunal (cac)",
+    "cac"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe",
+   "aliases": [
+    "patricia rubio (ppd) ricardo frez (defensa ambiental) cesar uribe (nuble libre)",
+    "nuble libre"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "codelco",
+   "expansions": {
+    "gobierno, empresa estatal": 1,
+    "proyecto de litio en salar de maricunga": 1,
+    "fundicion ventanas": 10,
+    "fundicia3n ventanas": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "tucas",
+   "expansions": {
+    "trabajadores unidos contra el asbesto": 1,
+    "municipalidad de coronel, organizaciones de coronel, comunidad cercana, trabajadores unidos contra el asbesto": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "compania minera del pacifico s.a",
+   "aliases": [
+    "compania minera del pacifico s.a (cap mineria)",
+    "cap mineria"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "barrick y antofagasta minerals",
+   "aliases": [
+    "barrick y antofagasta minerals (luksic)",
+    "luksic"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "colectivo en defensa del medio ambiente de atacama",
+   "aliases": [
+    "colectivo en defensa del medio ambiente de atacama (codemaa)",
+    "codemaa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "aclara resources",
+   "aliases": [
+    "aclara resources (ree uno spa)",
+    "ree uno spa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "seia",
+   "expansions": {
+    "sistema de evaluacion de impacto ambiental": 24,
+    "servicio de evaluacion ambiental": 1,
+    "servicio de evaluacion de impacto ambiental": 3,
+    "iem (infraestructura energetica mejillones) sistema de evaluacion de impacto ambiental": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable",
+   "aliases": [
+    "relator especial sobre la cuestion de las obligaciones de derechos humanos relacionadas con el disfrute de un medio saludable (david r boyd)",
+    "david r boyd"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "consejo de pueblos atacamenos",
+   "aliases": [
+    "consejo de pueblos atacamenos (18 comunidades)",
+    "18 comunidades"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "advanced mining technology center",
+   "aliases": [
+    "advanced mining technology center (amtc)",
+    "amtc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "estrategia nacional del litio",
+   "aliases": [
+    "estrategia nacional del litio (ceol)",
+    "ceol"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad indigena quechua de ollague",
+   "aliases": [
+    "comunidad indigena quechua de ollague (ciqo)",
+    "ciqo"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "simco",
+   "aliases": [
+    "simco (grupo errazuriz)",
+    "grupo errazuriz"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion atacamena de regantes y agricultores de san pedro de atacama",
+   "aliases": [
+    "asociacion atacamena de regantes y agricultores de san pedro de atacama (araspa)",
+    "araspa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "corporacion de fomento de la produccion",
+   "aliases": [
+    "corporacion de fomento de la produccion (corfo)",
+    "corfo"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "codelco / proyecto blanco",
+   "aliases": [
+    "codelco / proyecto blanco (lithium power)",
+    "lithium power"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "olca",
+   "expansions": {
+    "observatorio latinoamericano de conflictos ambientales": 1,
+    "mesa social de totoral, observatorio latinoamericano de conflictos ambientales": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad pai ote",
+   "aliases": [
+    "comunidad pai ote (colla)",
+    "colla"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "implicito",
+   "expansions": {
+    "comunidades locales y organizaciones socioambientales": 1,
+    "empresas": 1,
+    "gobierno de chile, centrales termoelectricas": 1,
+    "comunidades afectadas": 1,
+    "contaminacion, autoridad sanitaria": 1,
+    "panel ciudadano h2 magallanes, ong nobeles australes": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera escondida ltda",
+   "aliases": [
+    "minera escondida ltda (mel)",
+    "mel"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 3
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera escondida",
+   "aliases": [
+    "minera escondida (bhp)",
+    "bhp"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 10
+  },
+  {
+   "tipo": "actor",
+   "canonical": "explotacion de salmuera",
+   "aliases": [
+    "explotacion de salmuera (litio)",
+    "litio"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "amphos 21 / fundacion terram",
+   "aliases": [
+    "amphos 21 / fundacion terram (publica informe)",
+    "publica informe"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "instituto de politicas publicas de la universidad catolica del norte",
+   "aliases": [
+    "instituto de politicas publicas de la universidad catolica del norte (ipp-ucn)",
+    "ipp-ucn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad atacamena de socaire",
+   "aliases": [
+    "comunidad atacamena de socaire (cas)",
+    "cas"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "novaandino litio",
+   "aliases": [
+    "novaandino litio (codelco y sqm)",
+    "codelco y sqm"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "cristian tapia",
+   "aliases": [
+    "cristian tapia (diputado)",
+    "diputado"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "china",
+   "expansions": {
+    "comunidades indigenas, corfo, samr": 1,
+    "state administration for market regulation": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "inversiones tlc spa",
+   "aliases": [
+    "inversiones tlc spa (tianqui)",
+    "tianqui"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cmf",
+   "expansions": {
+    "comision para el mercado financiero": 2,
+    "acuerdo codelco-sqm / comision para el mercado financiero": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "fiscalia nacional economica",
+   "aliases": [
+    "fiscalia nacional economica (fne)",
+    "fne"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "sqm",
+   "aliases": [
+    "sqm (soquimich)",
+    "soquimich"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo",
+   "aliases": [
+    "contraloria general de la republica, diputados (bianchi, musante, soto, tapia, ulloa), comunidad indigena atacamena de checar (camilo lagos), comunidad atacamena de coyo (lady sandon)",
+    "lady sandon"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "state administration for market regulation",
+   "aliases": [
+    "state administration for market regulation (samr)",
+    "samr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "contraloria general de la republica",
+   "aliases": [
+    "contraloria general de la republica (cgr)",
+    "cgr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "sqm y codelco",
+   "aliases": [
+    "sqm y codelco (acuerdo)",
+    "acuerdo"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "codelco y sqm",
+   "aliases": [
+    "codelco y sqm (salar futuro)",
+    "salar futuro"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera escondida",
+   "aliases": [
+    "minera escondida (bhp billiton)",
+    "bhp billiton"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "no especificada",
+   "expansions": {
+    "empresa minera": 1,
+    "empresa responsable del derrame": 1,
+    "empresa europea": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "extraccion directa de litio",
+   "aliases": [
+    "extraccion directa de litio (dle)",
+    "dle"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "estudio de impacto ambiental",
+   "aliases": [
+    "estudio de impacto ambiental (eia)",
+    "eia"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "ctl",
+   "expansions": {
+    "clean tech lithium": 1,
+    "cleantech lithium": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "crea",
+   "expansions": {
+    "centre for research on energy and clean air": 1,
+    "centro de investigacion sobre energia y aire limpio": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "termoelectrica santa maria",
+   "aliases": [
+    "termoelectrica santa maria (colbun)",
+    "colbun"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "ex endesa",
+   "expansions": {
+    "enel": 2,
+    "enel chile": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "central las arcillas",
+   "aliases": [
+    "central las arcillas (engie)",
+    "engie"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "endesa",
+   "expansions": {
+    "central termoelectrica bocamina": 1,
+    "enel": 1,
+    "central ralco": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "bocamina ii",
+   "expansions": {
+    "endesa chile": 1,
+    "endesa": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "coordinador electrico nacional",
+   "aliases": [
+    "coordinador electrico nacional (cen)",
+    "cen"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "agrupacion de sindicatos del sector electrico chile",
+   "aliases": [
+    "agrupacion de sindicatos del sector electrico chile (assech)",
+    "assech"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "union portuaria de chile",
+   "aliases": [
+    "union portuaria de chile (upch)",
+    "upch"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "enel",
+   "expansions": {
+    "termoelectrica bocamina i": 1,
+    "termoelectrica bocamina": 1,
+    "central termoelectrica bocamina i": 1,
+    "complejo termoelectrico bocamina 1 y 2": 1,
+    "endesa": 2
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "enel",
+   "aliases": [
+    "enel (bocamina i y ii)",
+    "bocamina i y ii"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "enel",
+   "aliases": [
+    "enel (bocamina)",
+    "bocamina"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a",
+   "aliases": [
+    "plan nacional de descarbonizacion, guacolda (termoelectricas), compania minera del pacifico s.a (relaves)",
+    "relaves"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "consejo para la recuperacion ambiental y social",
+   "aliases": [
+    "consejo para la recuperacion ambiental y social (cras)",
+    "cras"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "central termoelectrica guacolda, planta de pellets de cmp, endesa",
+   "aliases": [
+    "central termoelectrica guacolda, planta de pellets de cmp, endesa (proyecto futuro)",
+    "proyecto futuro"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones",
+   "aliases": [
+    "central termoelectrica andina (cta), central termoelectrica hornitos (cth), complejo termico de mejillones (ctm)",
+    "ctm"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "alcalde de mejillones",
+   "aliases": [
+    "alcalde de mejillones (sergio vega)",
+    "sergio vega"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "engie energia chile",
+   "aliases": [
+    "engie energia chile (eecl)",
+    "eecl"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "engie, termoelectrica infraestructura energetica mejillones",
+   "aliases": [
+    "engie, termoelectrica infraestructura energetica mejillones (eim)",
+    "eim"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "aes andes / ventanas 2 / estado de reserva estrategica",
+   "aliases": [
+    "aes andes / ventanas 2 / estado de reserva estrategica (ere)",
+    "ere"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente",
+   "aliases": [
+    "mujeres de zona de sacrificio en resistencia (muzosare), greenpeace andino, asociacion interamericana para la defensa del ambiente (aida)",
+    "aida"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mujeres de zona de sacrificio quintero-puchuncavi en resistencia",
+   "aliases": [
+    "mujeres de zona de sacrificio quintero-puchuncavi en resistencia (muzosare)",
+    "muzosare"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "federacia3n nacional de pescadores artesanales",
+   "aliases": [
+    "federacia3n nacional de pescadores artesanales (fenaspar)",
+    "fenaspar"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "natalia sanchez",
+   "aliases": [
+    "natalia sanchez (concejala ptr)",
+    "concejala ptr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache",
+   "aliases": [
+    "comunidad de limache, alcaldesa de olmue (valeria melipillan), alcalde de limache (daniel morales)",
+    "daniel morales"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "instituto milenio en socio-ecologia costera",
+   "aliases": [
+    "instituto milenio en socio-ecologia costera (secos)",
+    "secos"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "empresa nacional de energia",
+   "aliases": [
+    "empresa nacional de energia (enex sa)",
+    "enex sa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion de municipalidades de la region de antofagasta",
+   "aliases": [
+    "asociacion de municipalidades de la region de antofagasta (amra)",
+    "amra"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mae",
+   "aliases": [
+    "mae (proyecto volta)",
+    "proyecto volta"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "engie chile, central termoelectrica mejillones unidad 2",
+   "aliases": [
+    "engie chile, central termoelectrica mejillones unidad 2 (ctm2)",
+    "ctm2"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "greenpeace manuel monardes rojas",
+   "aliases": [
+    "greenpeace manuel monardes rojas (concejal)",
+    "concejal"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "grupo angelini",
+   "expansions": {
+    "copec": 2,
+    "celulosa arauco": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion de industriales de mejillones",
+   "aliases": [
+    "asociacion de industriales de mejillones (aim)",
+    "aim"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "plan regulador intercomunal del borde costero de la region de antofagasta",
+   "aliases": [
+    "plan regulador intercomunal del borde costero de la region de antofagasta (pribca)",
+    "pribca"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "mae",
+   "expansions": {
+    "mejillones ammonia energy": 7,
+    "proyecto volta": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "pascua lama",
+   "aliases": [
+    "pascua lama (barrick)",
+    "barrick"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "ong fiscalia del medio ambiente",
+   "aliases": [
+    "ong fiscalia del medio ambiente (fima)",
+    "fima"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "aes andes",
+   "aliases": [
+    "aes andes (ex aes gener)",
+    "ex aes gener"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "codelco",
+   "aliases": [
+    "codelco (planta ventanas)",
+    "planta ventanas"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "complejo industrial ventanas, codelco",
+   "aliases": [
+    "complejo industrial ventanas, codelco (ex enami)",
+    "ex enami"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "ciclo (proyecto cigri), dipolcar",
+   "aliases": [
+    "ciclo (proyecto cigri), dipolcar (carabineros)",
+    "carabineros"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "universidad catolica de temuco",
+   "aliases": [
+    "universidad catolica de temuco (uct)",
+    "uct"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "cooperativa campesina intercomunal peumo",
+   "aliases": [
+    "cooperativa campesina intercomunal peumo (coopeumo)",
+    "coopeumo"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion chilena de energia solar",
+   "aliases": [
+    "asociacion chilena de energia solar (acesol)",
+    "acesol"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comision de mineria y energia del senado, asociacion de generacion renovable",
+   "aliases": [
+    "comision de mineria y energia del senado, asociacion de generacion renovable (agr)",
+    "agr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "pequenos medios de generacion distribuida",
+   "aliases": [
+    "pequenos medios de generacion distribuida (pmgd)",
+    "pmgd"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion chilena de energias renovables y almacenamiento",
+   "aliases": [
+    "asociacion chilena de energias renovables y almacenamiento (acera)",
+    "acera"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "parque eolico vientos del lago",
+   "aliases": [
+    "parque eolico vientos del lago (opde chile spa)",
+    "opde chile spa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "eolica los lagos spa",
+   "aliases": [
+    "eolica los lagos spa (elecnor)",
+    "elecnor"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cecpan",
+   "expansions": {
+    "comunidad chilota centro de estudio y conservacion del patrimonio natural": 1,
+    "colectivo intervencion ciudadana ancud (compas), comite nacional pro defensa de la fauna y flora (codeff), centro de estudios y conservacion del patrimonio natural": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "fundacion parque eolico chiloe",
+   "aliases": [
+    "fundacion parque eolico chiloe (reclamante)",
+    "reclamante"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche",
+   "aliases": [
+    "comunidades mapuche de collipulli, red de accion por los derechos ambientales (rada), liberacion nacional mapuche (lnm)",
+    "lnm"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "victor ancalaf",
+   "aliases": [
+    "victor ancalaf (ex cam)",
+    "ex cam"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "observaciones ciudadanas",
+   "aliases": [
+    "observaciones ciudadanas (generico)",
+    "generico"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "highly innovative fuels",
+   "aliases": [
+    "highly innovative fuels (hif)",
+    "hif"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "centro de ciencia del clima y la resiliencia",
+   "aliases": [
+    "centro de ciencia del clima y la resiliencia (cr2)",
+    "cr2"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "totalenergies",
+   "aliases": [
+    "totalenergies (tec h2 mag spa)",
+    "tec h2 mag spa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia",
+   "aliases": [
+    "seremi de medio ambiente de antofagasta, sociedad chilena de astronomia (sochias)",
+    "sochias"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "eva",
+   "expansions": {
+    "energia verde austral": 1,
+    "energaa verde austral": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo",
+   "aliases": [
+    "servicio agricola y ganadero (sag), corporacion nacional forestal (conaf), servicio nacional de turismo (sernatur)",
+    "sernatur"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "totalenergies h2",
+   "aliases": [
+    "totalenergies h2 (h2 magallanes)",
+    "h2 magallanes"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "fcab",
+   "expansions": {
+    "ferrocarril de antofagasta a bolivia": 1,
+    "ferrocarril de antofagasta": 5
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "aes andes",
+   "aliases": [
+    "aes andes (inna)",
+    "inna"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mae",
+   "aliases": [
+    "mae (compania)",
+    "compania"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion chilena de hidrogeno",
+   "aliases": [
+    "asociacion chilena de hidrogeno (h2 chile)",
+    "h2 chile"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "cip",
+   "expansions": {
+    "hnh energy / copenhagen infrastructure partners": 1,
+    "presidente gabriel boric, ministerio de energia, hif, total eren, hnh, andes mining & energy (ame), enel green power, enap, siemens, porsche, copenhagen infrastructure partners": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "consejo de monumentos nacionales",
+   "aliases": [
+    "consejo de monumentos nacionales (cmn)",
+    "cmn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "hif chile y enel green power chile",
+   "aliases": [
+    "hif chile y enel green power chile (egp)",
+    "egp"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "vecino de san gregorio",
+   "aliases": [
+    "vecino de san gregorio (campos)",
+    "campos"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "planta de hidrogeno verde de hnh",
+   "aliases": [
+    "planta de hidrogeno verde de hnh (asoex chile 10)",
+    "asoex chile 10"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "asociacion de ganaderos de magallanes",
+   "aliases": [
+    "asociacion de ganaderos de magallanes (asogama)",
+    "asogama"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "hoy enel",
+   "expansions": {
+    "endesa": 1,
+    "central ralco, endesa": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "proyecto rucalhue, rucalhue energia, china international water and electric corporation",
+   "aliases": [
+    "proyecto rucalhue, rucalhue energia, china international water and electric corporation (cwe)",
+    "cwe"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "eolica monte redondo s.a",
+   "aliases": [
+    "eolica monte redondo s.a (engie energia)",
+    "engie energia"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "hidroelectrica laja 1 de eolica monte redondo",
+   "aliases": [
+    "hidroelectrica laja 1 de eolica monte redondo (engie chile)",
+    "engie chile"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "acronym": "energia llaima",
+   "expansions": {
+    "inversiones san carlos spa": 1,
+    "central de pasada de empresa frontera": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "engie",
+   "aliases": [
+    "engie (gdf suez)",
+    "gdf suez"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidad de aguas el manzano",
+   "aliases": [
+    "comunidad de aguas el manzano (car)",
+    "car"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "acronym": "pham",
+   "expansions": {
+    "aguas andinas, proyecto hidroelectrico alto maipo": 1,
+    "proyecto hidroelectrico alto maipo": 2
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "acronym": "concejala",
+   "expansions": {
+    "coordinadora no alto maipo, red no alto maipo, maite birke": 1,
+    "red no alto maipo, coordinadora ciudadana no alto maipo, red metropolitana no alto maipo, maite birke": 1,
+    "coordinadora ciudadana no alto maipo, red metropolitana no alto maipo, maite birke": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "actor",
+   "canonical": "centinela spence sierra gorda",
+   "aliases": [
+    "centinela spence sierra gorda (faenas mineras)",
+    "faenas mineras"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "mineras estado de chile",
+   "aliases": [
+    "mineras estado de chile (sernageomin)",
+    "sernageomin"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "gustavo lagos",
+   "aliases": [
+    "gustavo lagos (profesor uc)",
+    "profesor uc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "fundicion chagres",
+   "aliases": [
+    "fundicion chagres (anglo american)",
+    "anglo american"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "universidad catolica del norte",
+   "aliases": [
+    "universidad catolica del norte (ucn)",
+    "ucn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "empresa nacional de mineria",
+   "aliases": [
+    "empresa nacional de mineria (enami)",
+    "enami"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "vecinos de los andes, agrupacion ecologista de aconcagua",
+   "aliases": [
+    "vecinos de los andes, agrupacion ecologista de aconcagua (aes)",
+    "aes"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera los pelambres",
+   "aliases": [
+    "minera los pelambres (grupo luksic)",
+    "grupo luksic"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera los pelambres",
+   "aliases": [
+    "minera los pelambres (antofagasta plc)",
+    "antofagasta plc"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera los pelambres",
+   "aliases": [
+    "minera los pelambres (mlp)",
+    "mlp"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "centro de estudios del cobre y la mineria",
+   "aliases": [
+    "centro de estudios del cobre y la mineria (cesco)",
+    "cesco"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile",
+   "aliases": [
+    "coordinadora por la defensa del rio loa y la madre tierra, federacion nacional de pobladores de chile (fenapo)",
+    "fenapo"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "transmisora del pacifico s.a",
+   "aliases": [
+    "transmisora del pacifico s.a (transelec)",
+    "transelec"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "vecinos de el molle, alcalde de vicuna",
+   "aliases": [
+    "vecinos de el molle, alcalde de vicuna (rafael vera)",
+    "rafael vera"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "interconexion electrica",
+   "aliases": [
+    "interconexion electrica (isa)",
+    "isa"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comunidades mapuche de curacautin",
+   "aliases": [
+    "comunidades mapuche de curacautin (lof radalco)",
+    "lof radalco"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "geotermica del norte",
+   "aliases": [
+    "geotermica del norte (gdn)",
+    "gdn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "actor",
+   "canonical": "comision regional del medio ambiente",
+   "aliases": [
+    "comision regional del medio ambiente (corema)",
+    "corema"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "minera candelaria, rafael prohens",
+   "aliases": [
+    "minera candelaria, rafael prohens (ex intendente)",
+    "ex intendente"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "actor",
+   "canonical": "rodrigo mundaca",
+   "aliases": [
+    "rodrigo mundaca (modatima)",
+    "modatima"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto de adaptacion operacional",
+   "aliases": [
+    "proyecto de adaptacion operacional (pao)",
+    "pao"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto monturaqui",
+   "aliases": [
+    "proyecto monturaqui (mtq)",
+    "mtq"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde",
+   "aliases": [
+    "proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna)",
+    "inna"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "iem",
+   "expansions": {
+    "infraestructura energetica mejillones": 2,
+    "central termoelectrica infraestructura energetica mejillones": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "programa para la recuperacion ambiental y social",
+   "aliases": [
+    "programa para la recuperacion ambiental y social (pras)",
+    "pras"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "waste to energy",
+   "aliases": [
+    "waste to energy (wte)",
+    "wte"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "parque eolico ckhuri",
+   "aliases": [
+    "parque eolico ckhuri (ex ckani)",
+    "ex ckani"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "ppda",
+   "expansions": {
+    "plan de prevencion y descontaminacion atmosferica": 3,
+    "plan de prevencion y descontaminacion atmosferica de quintero, concon y puchuncavi": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "disposicion transitoria de residuos",
+   "aliases": [
+    "disposicion transitoria de residuos (puntra el roble)",
+    "puntra el roble"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "enl",
+   "expansions": {
+    "estrategia nacional del litio y salares": 1,
+    "estrategia nacional del litio": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "argentina",
+   "expansions": {
+    "interconexion internacional de interes privado los condores (chile) – rio diamantes": 1,
+    "interconeccion internacional de interes privado los condores (chile) – rio diamantes": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "muelle granelero, puerto de coronel",
+   "aliases": [
+    "muelle granelero, puerto de coronel (muelle 3)",
+    "muelle 3"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "puerto exterior",
+   "aliases": [
+    "puerto exterior (ppe)",
+    "ppe"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "zona de extension de apoyo logistico",
+   "aliases": [
+    "zona de extension de apoyo logistico (zeal)",
+    "zeal"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "ati",
+   "expansions": {
+    "puerto de antofagasta": 1,
+    "antofagasta terminal internacional": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "ley de humedales urbanos",
+   "aliases": [
+    "ley de humedales urbanos (ley 21202)",
+    "ley 21202"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "central hidroelectrica neltume",
+   "aliases": [
+    "central hidroelectrica neltume (chn)",
+    "chn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "autopista orbital sur",
+   "aliases": [
+    "autopista orbital sur (aos)",
+    "aos"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "fundicion hernan videla lira",
+   "aliases": [
+    "fundicion hernan videla lira (paipote)",
+    "paipote"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 7
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "deposito de relaves filtrados",
+   "aliases": [
+    "deposito de relaves filtrados (drf)",
+    "drf"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "complejo termico de mejillones",
+   "aliases": [
+    "complejo termico de mejillones (ctm)",
+    "ctm"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 4
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "tsj",
+   "expansions": {
+    "plan para la transicion socioecologica justa": 1,
+    "plan transicion socioecologica justa": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "central termoelectrica energia minera",
+   "aliases": [
+    "central termoelectrica energia minera (ctem)",
+    "ctem"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "contrato especial de operacion para la exploracion, explotacion y beneficio de litio",
+   "aliases": [
+    "contrato especial de operacion para la exploracion, explotacion y beneficio de litio (ceol)",
+    "ceol"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto de transicion hacia la extraccion directa de litio",
+   "aliases": [
+    "proyecto de transicion hacia la extraccion directa de litio (ted)",
+    "ted"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "programa de cumplimiento refundido",
+   "aliases": [
+    "programa de cumplimiento refundido (pdcr)",
+    "pdcr"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "ajustes operacionales area mina",
+   "aliases": [
+    "ajustes operacionales area mina (faena zaldivar)",
+    "faena zaldivar"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "planta de extraccion directa de litio",
+   "aliases": [
+    "planta de extraccion directa de litio (dle)",
+    "dle"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "red de salares protegidos",
+   "aliases": [
+    "red de salares protegidos (rsp)",
+    "rsp"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "guacolda",
+   "aliases": [
+    "guacolda (termoelectricas)",
+    "termoelectricas"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "central termoelectrica bocamina",
+   "aliases": [
+    "central termoelectrica bocamina (en cierre)",
+    "en cierre"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "infraestructura energetica mejillones",
+   "aliases": [
+    "infraestructura energetica mejillones (eim)",
+    "eim"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "cigri",
+   "expansions": {
+    "centro integral de residuos industriales": 1,
+    "centro integral de gestion de residuos industriales": 4
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "planta desalinizadora",
+   "aliases": [
+    "planta desalinizadora (rechazada)",
+    "rechazada"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "central termoelectrica mejillones unidad 2",
+   "aliases": [
+    "central termoelectrica mejillones unidad 2 (ctm2)",
+    "ctm2"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto dominga, proyecto inna",
+   "aliases": [
+    "proyecto dominga, proyecto inna (energetico)",
+    "energetico"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "planta desaladora",
+   "aliases": [
+    "planta desaladora (no especificada)",
+    "no especificada"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "parque fotovoltaico el charco",
+   "aliases": [
+    "parque fotovoltaico el charco (i y iv)",
+    "i y iv"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "pequenos medios de generacion distribuida",
+   "aliases": [
+    "pequenos medios de generacion distribuida (pmgd)",
+    "pmgd"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "parques eolicos cardonal, los cerrillos y manantiales",
+   "aliases": [
+    "parques eolicos cardonal, los cerrillos y manantiales (optimizacion)",
+    "optimizacion"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "eva",
+   "expansions": {
+    "energia verde austral": 4,
+    "energaa verde austral": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "gente grande",
+   "aliases": [
+    "gente grande (teg)",
+    "teg"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "haru oni",
+   "aliases": [
+    "haru oni (experimental)",
+    "experimental"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "totalenergies h2",
+   "aliases": [
+    "totalenergies h2 (h2 magallanes)",
+    "h2 magallanes"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "h2 magallanes",
+   "aliases": [
+    "h2 magallanes (total eren)",
+    "total eren"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "central nuble de pasada",
+   "aliases": [
+    "central nuble de pasada (hidronuble)",
+    "hidronuble"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto hidroelectrico alto maipo",
+   "aliases": [
+    "proyecto hidroelectrico alto maipo (pham)",
+    "pham"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 3
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "tranque de relaves el torito",
+   "aliases": [
+    "tranque de relaves el torito (ampliacion)",
+    "ampliacion"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "planta de tratamiento de gases de cola",
+   "aliases": [
+    "planta de tratamiento de gases de cola (fhvl)",
+    "fhvl"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo",
+   "aliases": [
+    "fundicion hernan videla lira (actual), proyecto de modernizacion/reemplazo (futuro)",
+    "futuro"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "planta desaladora de minera los pelambres",
+   "aliases": [
+    "planta desaladora de minera los pelambres (proyecto inco)",
+    "proyecto inco"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "acronym": "inco",
+   "expansions": {
+    "proyecto de infraestructura complementaria": 1,
+    "proyecto de expansion de minera los pelambres": 1
+   },
+   "rule": "R3-ambiguous-no-merge"
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "proyecto integrado de los bronces",
+   "aliases": [
+    "proyecto integrado de los bronces (lbip)",
+    "lbip"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "termas de tolhuaca",
+   "aliases": [
+    "termas de tolhuaca (ex tolhuaca)",
+    "ex tolhuaca"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 1
+  },
+  {
+   "tipo": "objeto",
+   "canonical": "geotermica del norte",
+   "aliases": [
+    "geotermica del norte (gdn)",
+    "gdn"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  },
+  {
+   "tipo": "territorio",
+   "canonical": "aguas calientes iii",
+   "aliases": [
+    "aguas calientes iii (piedras rojas)",
+    "piedras rojas"
+   ],
+   "rule": "R3/R4",
+   "evidence_docs": 2
+  }
+ ]
+}
