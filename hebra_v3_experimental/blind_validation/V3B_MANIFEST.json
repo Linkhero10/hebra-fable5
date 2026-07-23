@@ -1,0 +1,43 @@
+{
+  "generated_utc": "2026-07-23T16:15:16.903201+00:00",
+  "seed": 20260781,
+  "n_items": 52,
+  "estratificacion": {
+    "H0001": {
+      "n_docs": 162,
+      "n_edges_inducidas": 1293,
+      "n_intra_disponibles": 1271,
+      "n_intra_muestreadas": 8,
+      "n_inter_disponibles": 22,
+      "n_inter_muestreadas": 8,
+      "n_abstencion_disponibles": 0,
+      "n_abstencion_muestreadas": 0
+    },
+    "H0002": {
+      "n_docs": 148,
+      "n_edges_inducidas": 3561,
+      "n_intra_disponibles": 3471,
+      "n_intra_muestreadas": 8,
+      "n_inter_disponibles": 86,
+      "n_inter_muestreadas": 8,
+      "n_abstencion_disponibles": 4,
+      "n_abstencion_muestreadas": 4
+    },
+    "H0004": {
+      "n_docs": 87,
+      "n_edges_inducidas": 246,
+      "n_intra_disponibles": 189,
+      "n_intra_muestreadas": 8,
+      "n_inter_disponibles": 57,
+      "n_inter_muestreadas": 8,
+      "n_abstencion_disponibles": 0,
+      "n_abstencion_muestreadas": 0
+    }
+  },
+  "files": {
+    "V3B_BLIND_REVIEW_SHEET.json": "42eeff28ad545c170e083eeb25ab7398e5b1443c00805151696c8e402323bb90",
+    "V3B_BLIND_KEY_DO_NOT_OPEN.json": "f3c2926929aa0f809a799e3d1d09c85883d294ef9e7eca1dbfee6ec2303676ce",
+    "PROMPT_V3B_ADJUDICACION_2026_07_23.md": "5d225d72cc02471e824e913b302b8d1dae8c48409ea77006b6e98ae70dc29999"
+  },
+  "nota_abstencion": "H0001 (Dominga) y H0004 (Bocamina) tienen cobertura 100% en la asignacion v3 (cero documentos abstenidos): no aportan pares al estrato 'abstencion' por construccion, no por omision. Solo H0002 (Fundicion Ventanas) tiene documentos abstenidos (4 de 148) y por lo tanto es la unica fuente de ese estrato."
+}

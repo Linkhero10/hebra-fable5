@@ -1,0 +1,476 @@
+{
+ "protocolo": {
+  "integracion": "1) adjudicadores externos (>=2 IA) completan la hoja sin la clave; 2) se congelan veredictos con hash; 3) solo entonces se cruza con la clave; 4) intra/inter/abstencion por hilo decide fragmentacion_falsa/sobreagregacion/abstencion correcta o incorrecta; 5) desacuerdos van a arbitraje, igual que en H0000."
+ },
+ "seed": 20260781,
+ "clave": {
+  "V3B000": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "15141",
+   "b": "15146",
+   "w": 0.4783,
+   "subhilo_a": "minera dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B001": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1559",
+   "b": "1591",
+   "w": 0.4554,
+   "subhilo_a": "proyecto dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B002": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1611",
+   "b": "1629",
+   "w": 0.4717,
+   "subhilo_a": "minera dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B003": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1638",
+   "b": "15138",
+   "w": 0.4562,
+   "subhilo_a": "dominga",
+   "subhilo_b": "minera dominga"
+  },
+  "V3B004": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1640",
+   "b": "1680",
+   "w": 0.4576,
+   "subhilo_a": "proyecto dominga",
+   "subhilo_b": "proyecto minero-portuario dominga"
+  },
+  "V3B005": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1680",
+   "b": "15141",
+   "w": 0.4696,
+   "subhilo_a": "proyecto minero-portuario dominga",
+   "subhilo_b": "minera dominga"
+  },
+  "V3B006": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "1695",
+   "b": "15156",
+   "w": 0.4787,
+   "subhilo_a": "proyecto minero dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B007": {
+   "macrohilo": "H0001",
+   "estrato": "inter_subhilo",
+   "a": "19043",
+   "b": "19052",
+   "w": 0.4886,
+   "subhilo_a": "proyecto dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B008": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "15126",
+   "b": "15127",
+   "w": 0.5348,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B009": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1554",
+   "b": "19050",
+   "w": 0.4921,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B010": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1563",
+   "b": "1685",
+   "w": 0.5142,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B011": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1586",
+   "b": "19044",
+   "w": 0.5024,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B012": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1649",
+   "b": "1700",
+   "w": 0.5496,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B013": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1677",
+   "b": "1689",
+   "w": 0.5827,
+   "subhilo_a": "proyecto dominga",
+   "subhilo_b": "proyecto dominga"
+  },
+  "V3B014": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "1686",
+   "b": "19044",
+   "w": 0.474,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B015": {
+   "macrohilo": "H0001",
+   "estrato": "intra_subhilo",
+   "a": "8775",
+   "b": "15166",
+   "w": 0.5414,
+   "subhilo_a": "dominga",
+   "subhilo_b": "dominga"
+  },
+  "V3B016": {
+   "macrohilo": "H0002",
+   "estrato": "abstencion",
+   "a": "2938",
+   "b": "6719",
+   "w": 0.4861,
+   "subhilo_a": "SIN_PROYECTO_INSTALACION_IDENTIFICADO",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B017": {
+   "macrohilo": "H0002",
+   "estrato": "abstencion",
+   "a": "3134",
+   "b": "6832",
+   "w": 0.4974,
+   "subhilo_a": "SIN_PROYECTO_INSTALACION_IDENTIFICADO",
+   "subhilo_b": "SIN_PROYECTO_INSTALACION_IDENTIFICADO"
+  },
+  "V3B018": {
+   "macrohilo": "H0002",
+   "estrato": "abstencion",
+   "a": "3212",
+   "b": "3237",
+   "w": 0.4945,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "SIN_PROYECTO_INSTALACION_IDENTIFICADO"
+  },
+  "V3B019": {
+   "macrohilo": "H0002",
+   "estrato": "abstencion",
+   "a": "6830",
+   "b": "6832",
+   "w": 0.4726,
+   "subhilo_a": "division ventanas",
+   "subhilo_b": "SIN_PROYECTO_INSTALACION_IDENTIFICADO"
+  },
+  "V3B020": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "22334",
+   "b": "3260",
+   "w": 0.4592,
+   "subhilo_a": "division ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B021": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "22334",
+   "b": "3275",
+   "w": 0.4645,
+   "subhilo_a": "division ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B022": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "22334",
+   "b": "6736",
+   "w": 0.4609,
+   "subhilo_a": "division ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B023": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "22334",
+   "b": "7237",
+   "w": 0.4508,
+   "subhilo_a": "division ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B024": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "22344",
+   "b": "3249",
+   "w": 0.4948,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion codelco ventanas"
+  },
+  "V3B025": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "3219",
+   "b": "6722",
+   "w": 0.5001,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion codelco ventanas"
+  },
+  "V3B026": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "3242",
+   "b": "3280",
+   "w": 0.477,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "cierre fundicion ventanas"
+  },
+  "V3B027": {
+   "macrohilo": "H0002",
+   "estrato": "inter_subhilo",
+   "a": "616",
+   "b": "3249",
+   "w": 0.4861,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion codelco ventanas"
+  },
+  "V3B028": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "22339",
+   "b": "3247",
+   "w": 0.4685,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B029": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3199",
+   "b": "6735",
+   "w": 0.6397,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B030": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3210",
+   "b": "3255",
+   "w": 0.5075,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B031": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3219",
+   "b": "3282",
+   "w": 0.5598,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B032": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3230",
+   "b": "3283",
+   "w": 0.5457,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B033": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3236",
+   "b": "3274",
+   "w": 0.5169,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B034": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3247",
+   "b": "3257",
+   "w": 0.578,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B035": {
+   "macrohilo": "H0002",
+   "estrato": "intra_subhilo",
+   "a": "3259",
+   "b": "3266",
+   "w": 0.5372,
+   "subhilo_a": "fundicion ventanas",
+   "subhilo_b": "fundicion ventanas"
+  },
+  "V3B036": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "22369",
+   "b": "2851",
+   "w": 0.4719,
+   "subhilo_a": "bocamina 1",
+   "subhilo_b": "bocamina"
+  },
+  "V3B037": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "22437",
+   "b": "2717",
+   "w": 0.4575,
+   "subhilo_a": "vertedero de cenizas de enel",
+   "subhilo_b": "centrales bocamina i y ii"
+  },
+  "V3B038": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "2265",
+   "b": "2740",
+   "w": 0.4893,
+   "subhilo_a": "central termoelectrica bocamina 1",
+   "subhilo_b": "bocamina i y ii"
+  },
+  "V3B039": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "2494",
+   "b": "2519",
+   "w": 0.5053,
+   "subhilo_a": "centrales bocamina 1 y 2",
+   "subhilo_b": "bocamina i"
+  },
+  "V3B040": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "2519",
+   "b": "2825",
+   "w": 0.4873,
+   "subhilo_a": "bocamina i",
+   "subhilo_b": "bocamina"
+  },
+  "V3B041": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "2731",
+   "b": "2835",
+   "w": 0.4839,
+   "subhilo_a": "bocamina i",
+   "subhilo_b": "bocamina i y ii"
+  },
+  "V3B042": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "925",
+   "b": "2833",
+   "w": 0.4751,
+   "subhilo_a": "bocamina ii",
+   "subhilo_b": "central termoelectrica bocamina"
+  },
+  "V3B043": {
+   "macrohilo": "H0004",
+   "estrato": "inter_subhilo",
+   "a": "949",
+   "b": "2641",
+   "w": 0.456,
+   "subhilo_a": "vertedero de cenizas de bocamina 1",
+   "subhilo_b": "vertedero de cenizas de enel"
+  },
+  "V3B044": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "11695",
+   "b": "2494",
+   "w": 0.6657,
+   "subhilo_a": "centrales bocamina 1 y 2",
+   "subhilo_b": "centrales bocamina 1 y 2"
+  },
+  "V3B045": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "22364",
+   "b": "2741",
+   "w": 0.6328,
+   "subhilo_a": "bocamina i",
+   "subhilo_b": "bocamina i"
+  },
+  "V3B046": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "22364",
+   "b": "2758",
+   "w": 0.6278,
+   "subhilo_a": "bocamina i",
+   "subhilo_b": "bocamina i"
+  },
+  "V3B047": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "22366",
+   "b": "2501",
+   "w": 0.55,
+   "subhilo_a": "central bocamina",
+   "subhilo_b": "central bocamina"
+  },
+  "V3B048": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "2508",
+   "b": "2710",
+   "w": 0.6176,
+   "subhilo_a": "central bocamina",
+   "subhilo_b": "central bocamina"
+  },
+  "V3B049": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "2508",
+   "b": "2736",
+   "w": 0.7221,
+   "subhilo_a": "central bocamina",
+   "subhilo_b": "central bocamina"
+  },
+  "V3B050": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "2623",
+   "b": "2738",
+   "w": 0.6337,
+   "subhilo_a": "central termoelectrica bocamina",
+   "subhilo_b": "central termoelectrica bocamina"
+  },
+  "V3B051": {
+   "macrohilo": "H0004",
+   "estrato": "intra_subhilo",
+   "a": "2700",
+   "b": "2758",
+   "w": 0.6048,
+   "subhilo_a": "bocamina i",
+   "subhilo_b": "bocamina i"
+  }
+ }
+}
