@@ -1,0 +1,919 @@
+﻿doc_id,macrohilo_id,objeto_original,subhilo_primario,regla_aplicada,abstuvo,subhilo_secundario,subhilo_secundario_evidencia,multiasignado
+15120,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15123,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15126,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15127,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15130,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15131,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15132,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15137,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15138,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15141,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15142,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15143,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15146,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15148,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15151,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15152,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15154,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15156,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15157,H0001,proyecto minero-portuario dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15158,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15164,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15166,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15169,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15172,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1554,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1557,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1559,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1563,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1565,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1570,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1572,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1586,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1588,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1590,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1591,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1594,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1597,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1602,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1604,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1605,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1610,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1611,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1612,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1613,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1614,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1615,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1620,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1625,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1626,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1628,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1629,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1631,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1634,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1637,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1638,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1639,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1640,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1647,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1649,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1652,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1658,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1662,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1663,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1664,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1665,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1666,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1668,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1670,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1672,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1675,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1676,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1677,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1679,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16790,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16792,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16793,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16794,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16796,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16797,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16798,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1680,H0001,proyecto minero-portuario dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16800,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16801,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16802,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16803,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16804,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16807,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16808,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16812,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16813,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1682,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1683,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1684,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1685,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1686,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1687,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1688,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1689,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1692,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1694,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1695,H0001,proyecto minero dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1696,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1697,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1699,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1700,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1701,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1709,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1710,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1713,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1715,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1716,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1717,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1718,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1719,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1721,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17268,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1727,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17275,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17279,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17282,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1729,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1730,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1731,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1734,H0001,minera dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1735,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17369,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1737,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1738,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1740,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1741,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1743,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1745,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17588,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18323,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18334,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19043,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19044,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19050,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19052,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+23164,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+23170,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+23173,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5870,H0001,proyecto dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6829,H0001,proyecto minero-portuario dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6833,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7137,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7165,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7166,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7170,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7172,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7179,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7181,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7185,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7186,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7189,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7190,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7197,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7205,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7212,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7215,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7216,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8775,H0001,dominga,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+10008,H0002,division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+10049,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+10169,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18429,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19502,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22266,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22309,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22311,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22315,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22318,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22319,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22320,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22321,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22328,H0002,planta ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22334,H0002,division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22337,H0002,division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22339,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22341,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22344,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22346,H0002,cierre de fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22348,H0002,cierre de fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22353,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22356,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22359,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22360,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2246,H0002,termoelectrica ventanas ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2250,H0002,termoelectrica ventanas ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2259,H0002,termoelectrica ventanas ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2906,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2932,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2938,H0002,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2951,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2953,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2957,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2966,H0002,fundicion de cobre de ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2976,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3081,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3134,H0002,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3193,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3194,H0002,division codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3195,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3197,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3199,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3203,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3207,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3210,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3211,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3212,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3213,H0002,cierre fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3214,H0002,fundicion codelco division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3216,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3218,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3219,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3221,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3223,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3224,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3225,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3227,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3229,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3230,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3231,H0002,cierre fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3232,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3233,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3234,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3235,H0002,fundicion codelco division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3236,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3237,H0002,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3239,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3240,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3241,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3242,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3243,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3244,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3245,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3246,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3247,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3248,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3249,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3250,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3252,H0002,fundicion de ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3253,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3254,H0002,fundicion de ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3255,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3256,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3257,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3258,H0002,ex fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3259,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3260,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3262,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3263,H0002,cese de operaciones de la fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3265,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3266,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3268,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3271,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3272,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3273,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3274,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3275,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3277,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3278,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3279,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3280,H0002,cierre fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3281,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3282,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3283,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3284,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3435,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3465,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+565,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+588,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+592,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+597,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+603,H0002,reconversion de la fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+607,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+616,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+639,H0002,terminal multiproposito oxiquim,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6715,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6719,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6720,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6721,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6722,H0002,fundicion codelco ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6723,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6724,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6725,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6727,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6732,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6735,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6736,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6737,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6738,H0002,cierre fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6739,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6740,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6742,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6743,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6746,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6749,H0002,cierre fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6830,H0002,division ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6832,H0002,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7224,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7227,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7229,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7232,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7233,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7234,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7235,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7236,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7237,H0002,fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7238,H0002,proyecto de cierre definitivo fundicion ventanas,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16036,H0003,proyecto hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16077,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16188,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+20282,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+391,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4106,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4253,H0003,proyecto integral para la produccion y exportacion de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4280,H0003,planta de combustibles carbono neutral cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4310,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4341,H0003,proyecto de amoniaco verde hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4420,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5020,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5056,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5083,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5091,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5266,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5267,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5269,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5270,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5271,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5272,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5273,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5274,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5275,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5276,H0003,"hnh energy, total energies h2",SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5277,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5278,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5279,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5281,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5284,H0003,planta hif global,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5288,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5289,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5294,H0003,gente grande (teg),SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5333,H0003,proyecto integral para la produccion y exportacion de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5337,H0003,proyecto integral para la produccion y exportacion de amoniaco verde – hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5354,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5359,H0003,megaproyectos de amoniaco verde en magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5364,H0003,planta de e-combustibles cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5368,H0003,parque ea3lico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5370,H0003,megaproyectos de amoniaco verde en magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5376,H0003,planta de combustibles carbono neutral cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5385,H0003,planta de combustibles carbono neutral cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5387,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5393,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5397,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5416,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5421,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5484,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5511,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5513,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5548,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5549,H0003,proyecto integral para la produccion y exportacion de amoniaco verde – hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5555,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5559,H0003,proyecto de amoniaco verde hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5564,H0003,megaproyecto de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5565,H0003,proyecto integral para la produccion y exportacion de amoniaco verde - hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5567,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5570,H0003,proyecto integral para la produccion y exportacion de amoniaco verde – hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5572,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5590,H0003,proyecto integral para la produccion y exportacion de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5632,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5633,H0003,proyecto integral para la produccion y exportacion de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5641,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5645,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5646,H0003,proyecto de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5647,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5648,H0003,megaproyecto de produccion y exportacion de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5664,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5672,H0003,megaproyecto de amoniaco verde de hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5677,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5678,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5679,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5684,H0003,proyecto de amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5686,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5690,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5691,H0003,hif global parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5692,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5694,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5698,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5699,H0003,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5700,H0003,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5701,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5702,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5707,H0003,planta cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5708,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5710,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5711,H0003,cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5712,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5714,H0003,planta cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5716,H0003,planta cabo negro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5718,H0003,planta de combustibles carbono neutral,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5720,H0003,parque eolico faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5742,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5743,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5848,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5881,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5882,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5887,H0003,h2 magallanes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5895,H0003,proyecto integral para la produccion y exportacion de amoniaco verde–hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+906,H0003,hnh energy,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11687,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11695,H0004,centrales bocamina 1 y 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11706,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11715,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19161,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22364,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22366,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22369,H0004,bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22403,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22437,H0004,vertedero de cenizas de enel,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2263,H0004,bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2265,H0004,central termoelectrica bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2304,H0004,bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2434,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2484,H0004,cierre bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2494,H0004,centrales bocamina 1 y 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2495,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2501,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2503,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2508,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2509,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2519,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2623,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2624,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2626,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2641,H0004,vertedero de cenizas de enel,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2692,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2694,H0004,complejo bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2699,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2700,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2701,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2703,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2704,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2705,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2706,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2709,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2710,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2711,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2713,H0004,bocamina 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2715,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2717,H0004,centrales bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2719,H0004,bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2720,H0004,centrales termoelectricas bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2724,H0004,bocamina 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2725,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2726,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2728,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2731,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2733,H0004,bocamina 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2736,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2737,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2738,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2739,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2740,H0004,bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2741,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2742,H0004,central termoelectrica bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2743,H0004,central termoelectrica bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2744,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2745,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2749,H0004,bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2753,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2756,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2758,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2825,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2830,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2832,H0004,central bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2833,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2835,H0004,bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2838,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2844,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2847,H0004,central termoelectrica bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2851,H0004,bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3318,H0004,central termoelectrica coronel,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3330,H0004,bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5155,H0004,bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+872,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+902,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+903,H0004,central termoelectrica bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+915,H0004,vertedero de cenizas de bocamina,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+925,H0004,bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+949,H0004,vertedero de cenizas de bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+950,H0004,bocamina 1,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+951,H0004,central bocamina ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+952,H0004,central termoelectrica bocamina i,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+961,H0004,central termoelectrica santa maria,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+962,H0004,termoelectrica bocamina 2,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+968,H0004,central termoelectrica bocamina i y ii,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11348,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11354,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11355,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11358,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1163,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1171,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1184,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1194,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1196,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1204,H0005,central hidroelectrica alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1208,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1215,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1217,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1222,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1226,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1227,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1234,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1235,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1240,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1243,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1245,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1248,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1249,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1251,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1255,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1256,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1257,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1258,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17450,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17627,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17634,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19021,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6386,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6397,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6398,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6401,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6402,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6404,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6408,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6409,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6413,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6415,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6418,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6419,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6420,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6421,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6423,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6426,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6427,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6428,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6430,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6431,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6432,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6434,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6435,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6438,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6439,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6440,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6441,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6442,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6443,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6445,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6446,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6447,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6452,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6453,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6455,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6456,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6458,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6462,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6463,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6464,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6465,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6466,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6467,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6468,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6469,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6470,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6471,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8119,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8132,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9069,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9070,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9071,H0005,proyecto hidroelectrico alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9072,H0005,alto maipo,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1110,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1111,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1114,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1115,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1116,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1118,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1119,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1121,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1123,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1124,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1126,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1127,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11290,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11299,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11302,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11303,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11304,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11306,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1131,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11310,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11312,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11316,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11318,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11326,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11328,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11330,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11331,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11336,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11340,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1137,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1138,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1150,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1154,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1156,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17649,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18993,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18998,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19000,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19002,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19005,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19011,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19012,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19017,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19019,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5361,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8167,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9031,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9033,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9050,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9062,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+9066,H0006,hidroaysen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15228,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15274,H0007,proyecto de adaptacion operacional,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15281,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1876,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1891,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1922,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1944,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1958,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1960,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1963,H0007,extension de vida util (evu) minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1965,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2019,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2023,H0007,proyecto de adaptacion operacional,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2043,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2049,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2097,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2108,H0007,planta desaladora minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2110,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2111,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2121,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7048,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7052,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7054,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7067,H0007,operacion minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7069,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7071,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7073,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7076,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7077,H0007,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7078,H0007,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7080,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7083,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7102,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7120,H0007,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7142,H0007,proyecto de expansion de minera los pelambres (inco),SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15175,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15176,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15177,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15179,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15185,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15187,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15188,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15191,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15193,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15195,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15196,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17003,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17376,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1770,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1772,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1778,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1779,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1781,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1783,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1793,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1804,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1807,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1810,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1813,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1821,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1825,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19035,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3418,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6003,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6437,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6449,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6450,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6460,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7260,H0008,pascua lama,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1543,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1544,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1545,H0009,proyecto punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1547,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22183,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22187,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22194,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22199,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22210,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22214,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22216,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22217,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22219,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22221,H0009,embalse la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22223,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22224,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22225,H0009,embalse la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22226,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22227,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22230,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22231,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22232,H0009,central hidroelectrica,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22234,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22235,H0009,embalse la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22237,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22240,H0009,embalse nueva la punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22244,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+22246,H0009,embalse punilla,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11834,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11838,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11842,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11851,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11855,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11858,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11860,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15288,H0010,relave el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15303,H0010,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18814,H0010,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19211,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19212,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2064,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2070,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2084,H0010,relave el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2085,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2092,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7095,H0010,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7103,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7104,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7111,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7114,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7116,H0010,minera los pelambres,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7118,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7130,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7132,H0010,tranque el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7141,H0010,tranque de relaves el mauro,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+16324,H0011,proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna),SIN_SUBHILO_ESPECIFICO,,True,,[],False
+17227,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19968,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+23163,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4724,H0011,proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde (inna),SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5018,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5019,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5180,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5315,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5322,H0011,inna - proyecto integrado de infraestructura energetica para la generacion de hidrogeno y amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5323,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5328,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5434,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5444,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5445,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5452,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5455,H0011,proyecto de hidrogeno verde de aes andes,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5466,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5472,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5476,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5477,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5486,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5519,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5557,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5591,H0011,inna,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15341,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19126,H0012,parque solar cordillera,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2184,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2188,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2190,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2193,H0012,bronces integral,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2207,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2245,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+6004,H0012,expansion de la mina los bronces,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7145,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7146,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7147,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7148,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7149,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7153,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7159,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7168,H0012,bronces integrados,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7169,H0012,bronces integrados,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7171,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7174,H0012,proyecto de expansion de la mina los bronces,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7175,H0012,proyecto integrado de los bronces (lbip),SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8668,H0012,expansion de la mina los bronces,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8986,H0012,bronces integrado,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3344,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3348,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3406,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5265,H0013,volta-planta de hidrogeno y amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5340,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5447,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5462,H0013,volta-planta de hidrogeno y amoniaco verde,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5471,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5480,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5488,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5495,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5629,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5631,H0013,proyecto volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5640,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5650,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5657,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5663,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5666,H0013,proyecto volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5673,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5744,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5747,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5748,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5749,H0013,volta,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+15996,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3942,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3962,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4018,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4020,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4225,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4237,H0014,proyecto de parque eolico,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4322,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4323,H0014,proyecto de parque eolico,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4325,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4396,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4552,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4553,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4555,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4556,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4559,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4560,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4562,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4568,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4578,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4582,H0014,parque eolico chiloe,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4083,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+4450,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5058,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5325,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5514,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5518,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5526,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5674,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5704,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5705,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5706,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5709,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5713,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5719,H0015,"faro del sur, hidrogeno verde bahia quintero, hyex",SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5721,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5725,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5727,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5729,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5730,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5855,H0015,faro del sur,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3984,H0016,pomacita,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7563,H0016,linea de transmision electrica hvdc kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7569,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7571,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7573,H0016,linea de transmision electrica hvdc kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7605,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7608,H0016,conexion kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7615,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7616,H0016,linea de transmision electrica hvdc kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7617,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7619,H0016,conexion kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7620,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7623,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7631,H0016,conexion kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7634,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7636,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7637,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+7638,H0016,kimal-lo aguirre,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11949,H0017,refineria bio bio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11951,H0017,fundo ramuntcho,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11968,H0017,refineria de enap en hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11969,H0017,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11970,H0017,refineria de enap hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11976,H0017,refineria de enap en hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11977,H0017,refineria bio bio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11978,H0017,refineria bio bio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11980,H0017,planta de enap en hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11988,H0017,refineria de hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11990,H0017,refineria de enap bio bio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+12014,H0017,chimenea de enap,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+12036,H0017,central termoelectrica enap hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19244,H0017,refineria biobio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19248,H0017,refineria enap en hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19263,H0017,refineria de hualpen,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11868,H0018,planta cogeneradora,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11890,H0018,refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11894,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11899,H0018,refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11900,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11908,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+11931,H0018,refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19224,H0018,refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19225,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19227,H0018,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+19232,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3061,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+3067,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+470,H0018,refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+633,H0018,enap refineria aconcagua,SIN_SUBHILO_ESPECIFICO,,True,,[],False

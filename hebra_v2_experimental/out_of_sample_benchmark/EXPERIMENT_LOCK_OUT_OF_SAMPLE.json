@@ -1,0 +1,12 @@
+{
+  "experimento": "hebra_v2_out_of_sample_benchmark",
+  "hebra_v2_experimental_congelado": true,
+  "reglas_nuevas_anadidas_al_diccionario": false,
+  "hilos_evaluados": 18,
+  "criterio_seleccion": ">=15 documentos, excluyendo H0000",
+  "cobertura_observada": "0% en 18/18 hilos (ver OUT_OF_SAMPLE_BENCHMARK_REPORT.md)",
+  "ftd_benchmark_ejecutado": false,
+  "ftd_benchmark_gold_ciego_ejecutado": false,
+  "superioridad_hebra_declarada": false,
+  "superioridad_ftd_declarada": false
+}

@@ -1,0 +1,15 @@
+{
+  "generated_by": "out_of_sample_benchmark/build_manifest_lock.py",
+  "hebra_v2_frozen_verificado": true,
+  "files": {
+    "OUT_OF_SAMPLE_BENCHMARK_REPORT.md": "ce4af4e68b74bfb355e0e44a1a5458a7062dbd8306f4081f811bbb7c0e03e7d9",
+    "FTD_HEBRA_COMMON_BENCHMARK_SPEC.md": "f2ebf9d56d972ab2696895bb80109898d9421756f84aa024570514a3f81f9932",
+    "README.md": "dfa1cfb3806da8fe63254219956befa0c49446334ae4f5b3a41e0091b85ac0ab",
+    "src/prepare_thread_inputs.py": "5f1935d2c62bf548a1f9e3ba23d124584fb1d9d97ad4b775cb1280142ca019ca",
+    "src/run_benchmark.py": "4414a1fc1970a70d99c1205f6a779921ea6479e7f58577a4b02994b423a089dc",
+    "src/compare_with_ftd_skeleton.py": "f34fd077d7ade78314156479cb346c3102e9712f5f61221952fa2dd352ae5935",
+    "artifacts/out_of_sample_summary.json": "a4511fc4095b7965b4bb7a7762f27b0ee7cfd42911c0cf43586e203380f93ff1",
+    "artifacts/out_of_sample_node_assignment.csv": "76e9716e21b7ddea2101c09e7f6ffc2992ab4696aaa699b943debe00c63494ff"
+  },
+  "faltantes": []
+}

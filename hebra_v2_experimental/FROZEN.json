@@ -1,0 +1,11 @@
+{
+  "frozen_utc": "2026-07-23T00:00:00+00:00",
+  "frozen_by": "instruccion explicita del usuario: 'Congela HEBRA v2 experimental tal como esta. No agregues mas reglas usando H0000.'",
+  "git_commit_at_freeze": "7fa8d37",
+  "archivos_congelados": {
+    "src/subthread_dictionary.py": "5154dc06fc7c61259c1340f547e7ddbc2a3624d5280c747a3535563895f65737",
+    "src/build_hierarchy.py": "2fcc14e0576d66ec939b431c219460935ae544f8b7d2a74ffcff3319dd1c723f"
+  },
+  "regla": "Ningun script posterior (incluido el benchmark fuera de muestra) puede modificar estos dos archivos ni anadir patrones nuevos al diccionario de canonizacion. Cualquier codigo nuevo para hilos fuera de muestra debe IMPORTAR estas funciones sin tocarlas y limitarse a adaptar datos de entrada (nodes/edges) al mismo esquema que ya esperan.",
+  "verificacion": "Ver fable5/hebra_v2_experimental/src/verify_frozen.py -- se debe ejecutar (e importar) antes de cualquier corrida fuera de muestra; falla con AssertionError si algun hash no coincide."
+}
