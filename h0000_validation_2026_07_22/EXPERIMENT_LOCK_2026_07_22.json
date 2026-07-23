@@ -1,0 +1,64 @@
+{
+  "experimento": "H0000_validacion_multi_ia_e_integracion_clave_sellada",
+  "generated_utc": "2026-07-23T00:10:00+00:00",
+  "hoja_ciega_no_modificada": true,
+  "clave_sellada_no_modificada": true,
+  "respuestas_originales_gpt_claude_gemini_no_modificadas": true,
+  "gemini_usado_como_voto_valido": false,
+  "v1_diagnostics_intacto": true,
+  "v1_check_detalle": {
+    "H0000_01_SUBGRAPH_CANONICAL.csv": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_02_NODE_METRICS.csv": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_03_EDGE_METRICS.csv": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_04_TOPOLOGY_REPORT.md": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_05_PARTITION_COMPARISON.csv": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_06_STABILITY_REPORT.md": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_07_PRUNING_DIAGNOSTICS.csv": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_08_BLIND_REVIEW_SHEET.json": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_09_BLIND_KEY_DO_NOT_OPEN.json": {
+      "existe": true,
+      "coincide": true
+    },
+    "H0000_11_EXPERIMENT_LOCK.json": {
+      "existe": true,
+      "coincide": true
+    },
+    "h0000_diagnostics.py": {
+      "existe": true,
+      "coincide": true
+    },
+    "verify_preservation.py": {
+      "existe": true,
+      "coincide": true
+    }
+  },
+  "ganador_algoritmo_comunidad_declarado": false,
+  "arquitectura_v2_declarada_ganadora": false,
+  "superioridad_sobre_ftd_declarada": false,
+  "arbitraje_fase3_es_juez_independiente": false,
+  "nota_arbitraje": "El arbitro de Fase 3 es Claude Sonnet 5, el mismo modelo que genero una de las dos adjudicaciones en disputa. Ver advertencia completa en H0000_FINAL_EMPIRICAL_REPORT_2026_07_22.md."
+}

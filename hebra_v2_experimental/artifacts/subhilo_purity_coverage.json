@@ -1,0 +1,97 @@
+{
+  "macrohilo_id": "H0000",
+  "seed": 1,
+  "shuffle_input_test": false,
+  "n_subhilos_distintos": 9,
+  "distribucion_subhilos": {
+    "SIN_SUBHILO_ESPECIFICO": 58,
+    "acuerdo_codelco_sqm": 45,
+    "atacama_extraccion_generica": 20,
+    "salar_futuro": 20,
+    "proyecto_maricunga_salar_blanco": 17,
+    "consulta_ceol_agua_amarga": 4,
+    "cumplimiento_ambiental_atacama": 3,
+    "consulta_ceol_laguna_verde": 2,
+    "consulta_ceol_hilaricos": 1
+  },
+  "n_documentos_multiasignados": 0,
+  "n_puentes_totales": 23,
+  "n_puentes_que_cruzan_subhilos": 3,
+  "purity_coverage": {
+    "cobertura_documentos_con_subhilo": 0.6588,
+    "n_docs_total": 170,
+    "n_docs_con_subhilo": 112,
+    "n_pares_muestra_ciega_104": 104,
+    "n_pares_evaluables_ambos_con_subhilo": 40,
+    "n_pares_mismo_subhilo": 31,
+    "pureza_estricta_subhilo": 0.9355,
+    "n_pares_distinto_subhilo": 9,
+    "retencion_amplia_entre_subhilos_distintos": 1.0,
+    "nota": "pureza_estricta_subhilo = de los pares de la muestra ciega que comparten subhilo primario, que fraccion fue juzgada mismo_proceso_especifico. retencion_amplia_entre_subhilos_distintos = de los pares que caen en subhilos DISTINTOS, que fraccion sigue siendo al menos mismo_macroproceso (no debe caer por debajo de la tasa amplia global de H0000, ~0.97, o la particion en subhilos estaria destruyendo continuidad amplia real)."
+  },
+  "verificacion_v1_intacto": {
+    "todos_los_archivos_v1_intactos": true,
+    "detalle": {
+      "H0000_01_SUBGRAPH_CANONICAL.csv": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "f2283c890d043637c9f45abddab8bed22faf85a9eb0c72350543721191c2fab4"
+      },
+      "H0000_02_NODE_METRICS.csv": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "6f3209031ffe2d6317184cf1ca7c63c250e7c471fa6fe1ef95f636b2fafd24fb"
+      },
+      "H0000_03_EDGE_METRICS.csv": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "f2283c890d043637c9f45abddab8bed22faf85a9eb0c72350543721191c2fab4"
+      },
+      "H0000_04_TOPOLOGY_REPORT.md": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "623528118262811257e9352d5cee9226e83fbf9ca5582f706e9c80071e2d5839"
+      },
+      "H0000_05_PARTITION_COMPARISON.csv": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "83d1498baadfc7116bccfa2b540ca7c947eee4a779fd38da483811a4502ee1e7"
+      },
+      "H0000_06_STABILITY_REPORT.md": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "326032e26cc8afc5ca2bb1814f37ee7e96a4fe501f96a9d27cd99a3df1550b23"
+      },
+      "H0000_07_PRUNING_DIAGNOSTICS.csv": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "a8abf6e8764388313e8edf1bb48c285ca3ece176a17d34254e0f11336c8e815d"
+      },
+      "H0000_08_BLIND_REVIEW_SHEET.json": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "8b33e4a7a84b1ffa79df23d28a321bff001215ee7b1365b2c79ba201e2254ba9"
+      },
+      "H0000_09_BLIND_KEY_DO_NOT_OPEN.json": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "016907f8f1ba85ca14eeb692074df1891c6c1ff3c2d53a6aececd67ffc2ac79b"
+      },
+      "H0000_11_EXPERIMENT_LOCK.json": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "7090ba6eb8b4e21d24718ac22e44e59bad41858248f23c79658ee7f267694364"
+      },
+      "h0000_diagnostics.py": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "d6bc9eeda1860872afd763d14ef751a6f5bc1d87e032ec3114505779244c2bd7"
+      },
+      "verify_preservation.py": {
+        "existe": true,
+        "coincide": true,
+        "sha256_actual": "0f0f26c67e7704f83a9971703bb0556700d0153e8a22f956fdb8269b25db3948"
+      }
+    }
+  }
+}

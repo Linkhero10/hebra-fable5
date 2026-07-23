@@ -1,0 +1,171 @@
+﻿doc_id,macrohilo_id,objeto_original,subhilo_primario,regla_aplicada,abstuvo,subhilo_secundario,subhilo_secundario_evidencia,multiasignado
+1005,H0000,explotacion de litio en el salar de atacama (acuerdo codelco-sqm),acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+105,H0000,acuerdo de asociacion para explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1064,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1065,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1078,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1088,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1108,H0000,extraccion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1130,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1149,H0000,ceol en laguna verde,consulta_ceol_laguna_verde,ceol.*laguna verde|laguna verde.*ceol,False,,[],False
+1152,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1153,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1157,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1159,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1161,H0000,ceol en sector hilaricos,consulta_ceol_hilaricos,ceol.*hilaricos|hilaricos.*ceol,False,,[],False
+1162,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1169,H0000,eramet (ceol en salar de agua amarga),consulta_ceol_agua_amarga,ceol.*agua amarga|agua amarga.*ceol|eramet,False,,[],False
+1173,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1176,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1177,H0000,ceol salar de agua amarga,consulta_ceol_agua_amarga,ceol.*agua amarga|agua amarga.*ceol|eramet,False,,[],False
+1205,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1211,H0000,produccion de sales maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1218,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1225,H0000,litio en maricunga y otros salares de atacama,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1229,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1232,H0000,ceol en laguna verde,consulta_ceol_laguna_verde,ceol.*laguna verde|laguna verde.*ceol,False,,[],False
+1233,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1237,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1242,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1244,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1250,H0000,extraccion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1259,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1260,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1275,H0000,proyecto salar blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1277,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1279,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1281,H0000,proyecto salar blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1284,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1339,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+1386,H0000,acuerdo sqm-codelco,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1461,H0000,proyectos de albemarle y sqm en el salar de atacama,cumplimiento_ambiental_atacama,programa de cumplimiento|planta cloruro de litio|proyectos de albemarle,False,,[],False
+1462,H0000,extraccion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1463,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1470,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1471,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1481,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+150,H0000,proyecto salar futuro,salar_futuro,salar futuro,False,,[],False
+1503,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1509,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1515,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1535,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1536,H0000,acuerdo sqm-codelco para extraccion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1550,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1551,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1568,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1569,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1571,H0000,acuerdo codelco-sqm para explotacion del salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1573,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1576,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1580,H0000,acuerdo codelco-sqm para la explotacion del litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1618,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1653,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1656,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1661,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1669,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1671,H0000,explotacion de litio en salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1678,H0000,acuerdo sqm-codelco,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1690,H0000,alianza sqm-codelco en salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1691,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+16980,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1704,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1725,H0000,proyecto salar futuro,salar_futuro,salar futuro,False,,[],False
+1726,H0000,programa de cumplimiento refundido,cumplimiento_ambiental_atacama,programa de cumplimiento|planta cloruro de litio|proyectos de albemarle,False,,[],False
+1732,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1761,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1773,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1774,H0000,salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1789,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18021,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+18028,H0000,salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1840,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1843,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1846,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1852,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1859,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1860,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1861,H0000,novandino litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1862,H0000,asociacion codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1868,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1870,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1871,H0000,alianza codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1872,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1874,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+188,H0000,planta cloruro de litio,cumplimiento_ambiental_atacama,programa de cumplimiento|planta cloruro de litio|proyectos de albemarle,False,,[],False
+1881,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1885,H0000,alianza codelco-sqm para extraccion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1887,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1888,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1889,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1890,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1892,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1893,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1895,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1899,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1900,H0000,acuerdo codelco-sqm para explotacion de litio en el salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1902,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1903,H0000,acuerdo codelco-sqm para explotar el salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1904,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1905,H0000,acuerdo codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1906,H0000,acuerdo sqm-codelco,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1909,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1910,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1911,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1912,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1913,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1915,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1917,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1919,H0000,extraccion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1920,H0000,proyecto salar futuro (mencionado en el contexto del acuerdo),salar_futuro,salar futuro,False,,[],False
+1921,H0000,acuerdo codelco y sqm para extraccion de litio en el salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1923,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1925,H0000,acuerdo societario para la produccion conjunta de litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1926,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+1928,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1930,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1932,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1933,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1934,H0000,proyecto salar futuro,salar_futuro,salar futuro,False,,[],False
+1936,H0000,explotacion de litio (acuerdo codelco-sqm),acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1937,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1938,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1941,H0000,acuerdo codelco-sqm para explotacion del salar de atacama,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1943,H0000,extension de explotacion de carbonato de litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1945,H0000,explotacion de litio en salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1946,H0000,salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+1949,H0000,proyecto salar futuro,salar_futuro,salar futuro,False,,[],False
+1951,H0000,acuerdo codelco-sqm para explotacion de litio,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+1954,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1970,H0000,proyecto salar futuro,salar_futuro,salar futuro,False,,[],False
+1972,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1986,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+1988,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2018,H0000,explotacion de litio en el salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+2041,H0000,proyecto salar de maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+2094,H0000,estrategia nacional del litio / ceol salar de agua amarga,consulta_ceol_agua_amarga,ceol.*agua amarga|agua amarga.*ceol|eramet,False,,[],False
+2120,H0000,,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2163,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2199,H0000,eramet ceol salar de agua amarga,consulta_ceol_agua_amarga,ceol.*agua amarga|agua amarga.*ceol|eramet,False,,[],False
+2206,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2209,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2210,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+2211,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+271,H0000,proyecto salar de maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+2848,H0000,salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+301,H0000,explotacion de litio en salar de maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+305,H0000,proyecto blanco,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+306,H0000,explotacion de litio en salar de maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+39,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+41,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+5763,H0000,explotacion de litio en salar de maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+6380,H0000,salar futuro,salar_futuro,salar futuro,False,,[],False
+6384,H0000,acuerdo para la produccion del litio entre el gobierno y sqm,acuerdo_codelco_sqm,acuerdo.*produccion del litio entre el gobierno y sqm,False,,[],False
+6416,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+73,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+8095,H0000,produccion de sales maricunga,proyecto_maricunga_salar_blanco,proyecto blanco|salar blanco|maricunga,False,,[],False
+84,H0000,explotacion de litio en salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+8538,H0000,salar de atacama,atacama_extraccion_generica,explotacion de litio en (el )?salar de atacama|extraccion de litio en (el )?salar de atacama|explotacion de litio en salar de atacama|^salar de atacama$,False,,[],False
+9084,H0000,alianza codelco-sqm,acuerdo_codelco_sqm,"codelco.{0,15}sqm|sqm.{0,15}codelco|novandino|soquimich.{0,15}codelco",False,,[],False
+970,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+978,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False
+983,H0000,estrategia nacional del litio,SIN_SUBHILO_ESPECIFICO,,True,,[],False

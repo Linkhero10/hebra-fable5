@@ -1,0 +1,10 @@
+{
+  "arquitectura": "hebra_v2_experimental (macrohilo/subhilo)",
+  "v1_no_modificado": true,
+  "seed": 1,
+  "determinista": true,
+  "algoritmos_de_comunidad_usados_para_asignar_subhilo": false,
+  "diccionario_canonizacion": "subthread_dictionary.py (reglas de subcadena, no ML)",
+  "ganador_empirico_declarado": false,
+  "reemplaza_v1": false
+}

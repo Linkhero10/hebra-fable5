@@ -1,0 +1,2672 @@
+[
+  {
+    "estrato_o_grupo": "TOTAL_104",
+    "N": 104,
+    "positivo_estricto_gpt": {
+      "k": 61,
+      "n": 104,
+      "pct": 0.5865,
+      "ic95": [
+        0.4905,
+        0.6765
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 56,
+      "n": 104,
+      "pct": 0.5385,
+      "ic95": [
+        0.443,
+        0.6312
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 49,
+      "n": 104,
+      "pct": 0.4712,
+      "ic95": [
+        0.378,
+        0.5664
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 68,
+      "n": 104,
+      "pct": 0.6538,
+      "ic95": [
+        0.5584,
+        0.7383
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 104,
+      "n": 104,
+      "pct": 1.0,
+      "ic95": [
+        0.9644,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 98,
+      "n": 104,
+      "pct": 0.9423,
+      "ic95": [
+        0.8798,
+        0.9733
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 98,
+      "n": 104,
+      "pct": 0.9423,
+      "ic95": [
+        0.8798,
+        0.9733
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 104,
+      "n": 104,
+      "pct": 1.0,
+      "ic95": [
+        0.9644,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 81,
+      "n": 104,
+      "pct": 0.7788,
+      "ic95": [
+        0.69,
+        0.8479
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 104,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0356
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 6,
+      "n": 104,
+      "pct": 0.0577,
+      "ic95": [
+        0.0267,
+        0.1202
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 104,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0356
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 17,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 2,
+      "mismo_macroproceso vs relacionado_tematicamente": 4
+    }
+  },
+  {
+    "estrato_o_grupo": "estrato=inter",
+    "N": 40,
+    "positivo_estricto_gpt": {
+      "k": 21,
+      "n": 40,
+      "pct": 0.525,
+      "ic95": [
+        0.375,
+        0.6706
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 12,
+      "n": 40,
+      "pct": 0.3,
+      "ic95": [
+        0.1807,
+        0.4543
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 12,
+      "n": 40,
+      "pct": 0.3,
+      "ic95": [
+        0.1807,
+        0.4543
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 21,
+      "n": 40,
+      "pct": 0.525,
+      "ic95": [
+        0.375,
+        0.6706
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 40,
+      "n": 40,
+      "pct": 1.0,
+      "ic95": [
+        0.9124,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 36,
+      "n": 40,
+      "pct": 0.9,
+      "ic95": [
+        0.7695,
+        0.9604
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 36,
+      "n": 40,
+      "pct": 0.9,
+      "ic95": [
+        0.7695,
+        0.9604
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 40,
+      "n": 40,
+      "pct": 1.0,
+      "ic95": [
+        0.9124,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 29,
+      "n": 40,
+      "pct": 0.725,
+      "ic95": [
+        0.5716,
+        0.8389
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 40,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0876
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 4,
+      "n": 40,
+      "pct": 0.1,
+      "ic95": [
+        0.0396,
+        0.2305
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 40,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0876
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 7,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 2,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "estrato=intra",
+    "N": 40,
+    "positivo_estricto_gpt": {
+      "k": 22,
+      "n": 40,
+      "pct": 0.55,
+      "ic95": [
+        0.3983,
+        0.6929
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 23,
+      "n": 40,
+      "pct": 0.575,
+      "ic95": [
+        0.4219,
+        0.7149
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 19,
+      "n": 40,
+      "pct": 0.475,
+      "ic95": [
+        0.3294,
+        0.625
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 26,
+      "n": 40,
+      "pct": 0.65,
+      "ic95": [
+        0.4951,
+        0.7787
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 40,
+      "n": 40,
+      "pct": 1.0,
+      "ic95": [
+        0.9124,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 38,
+      "n": 40,
+      "pct": 0.95,
+      "ic95": [
+        0.835,
+        0.9862
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 38,
+      "n": 40,
+      "pct": 0.95,
+      "ic95": [
+        0.835,
+        0.9862
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 40,
+      "n": 40,
+      "pct": 1.0,
+      "ic95": [
+        0.9124,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 31,
+      "n": 40,
+      "pct": 0.775,
+      "ic95": [
+        0.625,
+        0.8768
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 40,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0876
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 2,
+      "n": 40,
+      "pct": 0.05,
+      "ic95": [
+        0.0138,
+        0.165
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 40,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0876
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 7,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "estrato=largo",
+    "N": 4,
+    "positivo_estricto_gpt": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "distribucion_desacuerdos": {}
+  },
+  {
+    "estrato_o_grupo": "estrato=puente",
+    "N": 20,
+    "positivo_estricto_gpt": {
+      "k": 16,
+      "n": 20,
+      "pct": 0.8,
+      "ic95": [
+        0.584,
+        0.9193
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 16,
+      "n": 20,
+      "pct": 0.8,
+      "ic95": [
+        0.584,
+        0.9193
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 17,
+      "n": 20,
+      "pct": 0.85,
+      "ic95": [
+        0.6396,
+        0.9476
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 3
+    }
+  },
+  {
+    "estrato_o_grupo": "detalle=infomap",
+    "N": 21,
+    "positivo_estricto_gpt": {
+      "k": 13,
+      "n": 21,
+      "pct": 0.619,
+      "ic95": [
+        0.4088,
+        0.7925
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 13,
+      "n": 21,
+      "pct": 0.619,
+      "ic95": [
+        0.4088,
+        0.7925
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 12,
+      "n": 21,
+      "pct": 0.5714,
+      "ic95": [
+        0.3655,
+        0.7553
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 14,
+      "n": 21,
+      "pct": 0.6667,
+      "ic95": [
+        0.4537,
+        0.8281
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 21,
+      "n": 21,
+      "pct": 1.0,
+      "ic95": [
+        0.8454,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 20,
+      "n": 21,
+      "pct": 0.9524,
+      "ic95": [
+        0.7733,
+        0.9915
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 20,
+      "n": 21,
+      "pct": 0.9524,
+      "ic95": [
+        0.7733,
+        0.9915
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 21,
+      "n": 21,
+      "pct": 1.0,
+      "ic95": [
+        0.8454,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 19,
+      "n": 21,
+      "pct": 0.9048,
+      "ic95": [
+        0.7109,
+        0.9735
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 21,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1546
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 1,
+      "n": 21,
+      "pct": 0.0476,
+      "ic95": [
+        0.0085,
+        0.2267
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 21,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1546
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs mismo_proceso_especifico": 1
+    }
+  },
+  {
+    "estrato_o_grupo": "detalle=largo_bajo_embed",
+    "N": 4,
+    "positivo_estricto_gpt": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 2,
+      "n": 4,
+      "pct": 0.5,
+      "ic95": [
+        0.15,
+        0.85
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 4,
+      "n": 4,
+      "pct": 1.0,
+      "ic95": [
+        0.5101,
+        1.0
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 4,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.4899
+      ]
+    },
+    "distribucion_desacuerdos": {}
+  },
+  {
+    "estrato_o_grupo": "detalle=leiden_cpm",
+    "N": 25,
+    "positivo_estricto_gpt": {
+      "k": 14,
+      "n": 25,
+      "pct": 0.56,
+      "ic95": [
+        0.3707,
+        0.7333
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 7,
+      "n": 25,
+      "pct": 0.28,
+      "ic95": [
+        0.1428,
+        0.4758
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 7,
+      "n": 25,
+      "pct": 0.28,
+      "ic95": [
+        0.1428,
+        0.4758
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 14,
+      "n": 25,
+      "pct": 0.56,
+      "ic95": [
+        0.3707,
+        0.7333
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 25,
+      "n": 25,
+      "pct": 1.0,
+      "ic95": [
+        0.8668,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 22,
+      "n": 25,
+      "pct": 0.88,
+      "ic95": [
+        0.7004,
+        0.9583
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 22,
+      "n": 25,
+      "pct": 0.88,
+      "ic95": [
+        0.7004,
+        0.9583
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 25,
+      "n": 25,
+      "pct": 1.0,
+      "ic95": [
+        0.8668,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 16,
+      "n": 25,
+      "pct": 0.64,
+      "ic95": [
+        0.4452,
+        0.7975
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 25,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1332
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 25,
+      "pct": 0.12,
+      "ic95": [
+        0.0417,
+        0.2996
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 25,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1332
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 6,
+      "mismo_macroproceso vs relacionado_tematicamente": 2,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1
+    }
+  },
+  {
+    "estrato_o_grupo": "detalle=leiden_mod",
+    "N": 14,
+    "positivo_estricto_gpt": {
+      "k": 5,
+      "n": 14,
+      "pct": 0.3571,
+      "ic95": [
+        0.1634,
+        0.6124
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 4,
+      "n": 14,
+      "pct": 0.2857,
+      "ic95": [
+        0.1172,
+        0.5465
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 3,
+      "n": 14,
+      "pct": 0.2143,
+      "ic95": [
+        0.0757,
+        0.4759
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 6,
+      "n": 14,
+      "pct": 0.4286,
+      "ic95": [
+        0.2138,
+        0.6741
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 14,
+      "n": 14,
+      "pct": 1.0,
+      "ic95": [
+        0.7847,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 13,
+      "n": 14,
+      "pct": 0.9286,
+      "ic95": [
+        0.6853,
+        0.9873
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 13,
+      "n": 14,
+      "pct": 0.9286,
+      "ic95": [
+        0.6853,
+        0.9873
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 14,
+      "n": 14,
+      "pct": 1.0,
+      "ic95": [
+        0.7847,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 10,
+      "n": 14,
+      "pct": 0.7143,
+      "ic95": [
+        0.4535,
+        0.8828
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 14,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.2153
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 1,
+      "n": 14,
+      "pct": 0.0714,
+      "ic95": [
+        0.0127,
+        0.3147
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 14,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.2153
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 3,
+      "mismo_macroproceso vs relacionado_tematicamente": 1
+    }
+  },
+  {
+    "estrato_o_grupo": "detalle=louvain",
+    "N": 20,
+    "positivo_estricto_gpt": {
+      "k": 11,
+      "n": 20,
+      "pct": 0.55,
+      "ic95": [
+        0.3421,
+        0.7418
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 11,
+      "n": 20,
+      "pct": 0.55,
+      "ic95": [
+        0.3421,
+        0.7418
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 9,
+      "n": 20,
+      "pct": 0.45,
+      "ic95": [
+        0.2582,
+        0.6579
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 13,
+      "n": 20,
+      "pct": 0.65,
+      "ic95": [
+        0.4329,
+        0.8188
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 15,
+      "n": 20,
+      "pct": 0.75,
+      "ic95": [
+        0.5313,
+        0.8881
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 1,
+      "n": 20,
+      "pct": 0.05,
+      "ic95": [
+        0.0089,
+        0.2361
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 4,
+      "mismo_macroproceso vs relacionado_tematicamente": 1
+    }
+  },
+  {
+    "estrato_o_grupo": "detalle=puente",
+    "N": 20,
+    "positivo_estricto_gpt": {
+      "k": 16,
+      "n": 20,
+      "pct": 0.8,
+      "ic95": [
+        0.584,
+        0.9193
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 16,
+      "n": 20,
+      "pct": 0.8,
+      "ic95": [
+        0.584,
+        0.9193
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 19,
+      "n": 20,
+      "pct": 0.95,
+      "ic95": [
+        0.7639,
+        0.9911
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 20,
+      "n": 20,
+      "pct": 1.0,
+      "ic95": [
+        0.8389,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 17,
+      "n": 20,
+      "pct": 0.85,
+      "ic95": [
+        0.6396,
+        0.9476
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 20,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.1611
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 3
+    }
+  },
+  {
+    "estrato_o_grupo": "sin_arista_directa_transitivo",
+    "N": 35,
+    "positivo_estricto_gpt": {
+      "k": 18,
+      "n": 35,
+      "pct": 0.5143,
+      "ic95": [
+        0.3557,
+        0.6701
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 11,
+      "n": 35,
+      "pct": 0.3143,
+      "ic95": [
+        0.1855,
+        0.4798
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 11,
+      "n": 35,
+      "pct": 0.3143,
+      "ic95": [
+        0.1855,
+        0.4798
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 18,
+      "n": 35,
+      "pct": 0.5143,
+      "ic95": [
+        0.3557,
+        0.6701
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 35,
+      "n": 35,
+      "pct": 1.0,
+      "ic95": [
+        0.9011,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 31,
+      "n": 35,
+      "pct": 0.8857,
+      "ic95": [
+        0.7405,
+        0.9546
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 31,
+      "n": 35,
+      "pct": 0.8857,
+      "ic95": [
+        0.7405,
+        0.9546
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 35,
+      "n": 35,
+      "pct": 1.0,
+      "ic95": [
+        0.9011,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 26,
+      "n": 35,
+      "pct": 0.7429,
+      "ic95": [
+        0.5793,
+        0.8584
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 35,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0989
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 4,
+      "n": 35,
+      "pct": 0.1143,
+      "ic95": [
+        0.0454,
+        0.2595
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 35,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0989
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 5,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 2,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "arista_directa",
+    "N": 69,
+    "positivo_estricto_gpt": {
+      "k": 43,
+      "n": 69,
+      "pct": 0.6232,
+      "ic95": [
+        0.5052,
+        0.7282
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 45,
+      "n": 69,
+      "pct": 0.6522,
+      "ic95": [
+        0.5345,
+        0.7538
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 38,
+      "n": 69,
+      "pct": 0.5507,
+      "ic95": [
+        0.4338,
+        0.6623
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 50,
+      "n": 69,
+      "pct": 0.7246,
+      "ic95": [
+        0.6095,
+        0.8161
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 69,
+      "n": 69,
+      "pct": 1.0,
+      "ic95": [
+        0.9473,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 67,
+      "n": 69,
+      "pct": 0.971,
+      "ic95": [
+        0.9003,
+        0.992
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 67,
+      "n": 69,
+      "pct": 0.971,
+      "ic95": [
+        0.9003,
+        0.992
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 69,
+      "n": 69,
+      "pct": 1.0,
+      "ic95": [
+        0.9473,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 55,
+      "n": 69,
+      "pct": 0.7971,
+      "ic95": [
+        0.6878,
+        0.8751
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 69,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0527
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 2,
+      "n": 69,
+      "pct": 0.029,
+      "ic95": [
+        0.008,
+        0.0997
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 69,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0527
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 12,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "arista_no_es_puente",
+    "N": 45,
+    "positivo_estricto_gpt": {
+      "k": 24,
+      "n": 45,
+      "pct": 0.5333,
+      "ic95": [
+        0.3908,
+        0.6707
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 22,
+      "n": 45,
+      "pct": 0.4889,
+      "ic95": [
+        0.3496,
+        0.63
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 19,
+      "n": 45,
+      "pct": 0.4222,
+      "ic95": [
+        0.2897,
+        0.567
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 27,
+      "n": 45,
+      "pct": 0.6,
+      "ic95": [
+        0.4545,
+        0.7298
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 45,
+      "n": 45,
+      "pct": 1.0,
+      "ic95": [
+        0.9213,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 43,
+      "n": 45,
+      "pct": 0.9556,
+      "ic95": [
+        0.8517,
+        0.9877
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 43,
+      "n": 45,
+      "pct": 0.9556,
+      "ic95": [
+        0.8517,
+        0.9877
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 45,
+      "n": 45,
+      "pct": 1.0,
+      "ic95": [
+        0.9213,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 35,
+      "n": 45,
+      "pct": 0.7778,
+      "ic95": [
+        0.6373,
+        0.8746
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 45,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0787
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 2,
+      "n": 45,
+      "pct": 0.0444,
+      "ic95": [
+        0.0123,
+        0.1483
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 45,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0787
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 8,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "arista_es_puente_estructural",
+    "N": 24,
+    "positivo_estricto_gpt": {
+      "k": 19,
+      "n": 24,
+      "pct": 0.7917,
+      "ic95": [
+        0.5953,
+        0.9076
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 23,
+      "n": 24,
+      "pct": 0.9583,
+      "ic95": [
+        0.7976,
+        0.9926
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 19,
+      "n": 24,
+      "pct": 0.7917,
+      "ic95": [
+        0.5953,
+        0.9076
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 23,
+      "n": 24,
+      "pct": 0.9583,
+      "ic95": [
+        0.7976,
+        0.9926
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 24,
+      "n": 24,
+      "pct": 1.0,
+      "ic95": [
+        0.862,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 24,
+      "n": 24,
+      "pct": 1.0,
+      "ic95": [
+        0.862,
+        1.0
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 24,
+      "n": 24,
+      "pct": 1.0,
+      "ic95": [
+        0.862,
+        1.0
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 24,
+      "n": 24,
+      "pct": 1.0,
+      "ic95": [
+        0.862,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 20,
+      "n": 24,
+      "pct": 0.8333,
+      "ic95": [
+        0.6415,
+        0.9332
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 24,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.138
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 0,
+      "n": 24,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.138
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 24,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.138
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 4
+    }
+  },
+  {
+    "estrato_o_grupo": "louvain:inter",
+    "N": 42,
+    "positivo_estricto_gpt": {
+      "k": 22,
+      "n": 42,
+      "pct": 0.5238,
+      "ic95": [
+        0.3772,
+        0.6664
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 15,
+      "n": 42,
+      "pct": 0.3571,
+      "ic95": [
+        0.2299,
+        0.5083
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 15,
+      "n": 42,
+      "pct": 0.3571,
+      "ic95": [
+        0.2299,
+        0.5083
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 22,
+      "n": 42,
+      "pct": 0.5238,
+      "ic95": [
+        0.3772,
+        0.6664
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 42,
+      "n": 42,
+      "pct": 1.0,
+      "ic95": [
+        0.9162,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 39,
+      "n": 42,
+      "pct": 0.9286,
+      "ic95": [
+        0.8099,
+        0.9754
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 39,
+      "n": 42,
+      "pct": 0.9286,
+      "ic95": [
+        0.8099,
+        0.9754
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 42,
+      "n": 42,
+      "pct": 1.0,
+      "ic95": [
+        0.9162,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 33,
+      "n": 42,
+      "pct": 0.7857,
+      "ic95": [
+        0.6406,
+        0.8829
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 42,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0838
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 42,
+      "pct": 0.0714,
+      "ic95": [
+        0.0246,
+        0.1901
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 42,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0838
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 6,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "louvain:intra",
+    "N": 62,
+    "positivo_estricto_gpt": {
+      "k": 39,
+      "n": 62,
+      "pct": 0.629,
+      "ic95": [
+        0.5046,
+        0.7384
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 41,
+      "n": 62,
+      "pct": 0.6613,
+      "ic95": [
+        0.5372,
+        0.7666
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 34,
+      "n": 62,
+      "pct": 0.5484,
+      "ic95": [
+        0.4253,
+        0.6658
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 46,
+      "n": 62,
+      "pct": 0.7419,
+      "ic95": [
+        0.6212,
+        0.8345
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 62,
+      "n": 62,
+      "pct": 1.0,
+      "ic95": [
+        0.9417,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 59,
+      "n": 62,
+      "pct": 0.9516,
+      "ic95": [
+        0.8671,
+        0.9834
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 59,
+      "n": 62,
+      "pct": 0.9516,
+      "ic95": [
+        0.8671,
+        0.9834
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 62,
+      "n": 62,
+      "pct": 1.0,
+      "ic95": [
+        0.9417,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 48,
+      "n": 62,
+      "pct": 0.7742,
+      "ic95": [
+        0.6559,
+        0.8604
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 62,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0583
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 62,
+      "pct": 0.0484,
+      "ic95": [
+        0.0166,
+        0.1329
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 62,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0583
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 11,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "leiden_cpm:inter",
+    "N": 54,
+    "positivo_estricto_gpt": {
+      "k": 29,
+      "n": 54,
+      "pct": 0.537,
+      "ic95": [
+        0.4061,
+        0.6631
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 23,
+      "n": 54,
+      "pct": 0.4259,
+      "ic95": [
+        0.3033,
+        0.5584
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 20,
+      "n": 54,
+      "pct": 0.3704,
+      "ic95": [
+        0.2542,
+        0.5037
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 32,
+      "n": 54,
+      "pct": 0.5926,
+      "ic95": [
+        0.4597,
+        0.7132
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 54,
+      "n": 54,
+      "pct": 1.0,
+      "ic95": [
+        0.9336,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 50,
+      "n": 54,
+      "pct": 0.9259,
+      "ic95": [
+        0.8245,
+        0.9708
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 50,
+      "n": 54,
+      "pct": 0.9259,
+      "ic95": [
+        0.8245,
+        0.9708
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 54,
+      "n": 54,
+      "pct": 1.0,
+      "ic95": [
+        0.9336,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 40,
+      "n": 54,
+      "pct": 0.7407,
+      "ic95": [
+        0.6107,
+        0.8388
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 54,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0664
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 4,
+      "n": 54,
+      "pct": 0.0741,
+      "ic95": [
+        0.0292,
+        0.1755
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 54,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0664
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 10,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 2,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "leiden_cpm:intra",
+    "N": 50,
+    "positivo_estricto_gpt": {
+      "k": 32,
+      "n": 50,
+      "pct": 0.64,
+      "ic95": [
+        0.5014,
+        0.7586
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 33,
+      "n": 50,
+      "pct": 0.66,
+      "ic95": [
+        0.5215,
+        0.7756
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 29,
+      "n": 50,
+      "pct": 0.58,
+      "ic95": [
+        0.4423,
+        0.7063
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 36,
+      "n": 50,
+      "pct": 0.72,
+      "ic95": [
+        0.5833,
+        0.8253
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 50,
+      "n": 50,
+      "pct": 1.0,
+      "ic95": [
+        0.9286,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 48,
+      "n": 50,
+      "pct": 0.96,
+      "ic95": [
+        0.8654,
+        0.989
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 48,
+      "n": 50,
+      "pct": 0.96,
+      "ic95": [
+        0.8654,
+        0.989
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 50,
+      "n": 50,
+      "pct": 1.0,
+      "ic95": [
+        0.9286,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 41,
+      "n": 50,
+      "pct": 0.82,
+      "ic95": [
+        0.692,
+        0.9023
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 50,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0714
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 2,
+      "n": 50,
+      "pct": 0.04,
+      "ic95": [
+        0.011,
+        0.1346
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 50,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0714
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 7,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "leiden_mod:inter",
+    "N": 42,
+    "positivo_estricto_gpt": {
+      "k": 22,
+      "n": 42,
+      "pct": 0.5238,
+      "ic95": [
+        0.3772,
+        0.6664
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 15,
+      "n": 42,
+      "pct": 0.3571,
+      "ic95": [
+        0.2299,
+        0.5083
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 15,
+      "n": 42,
+      "pct": 0.3571,
+      "ic95": [
+        0.2299,
+        0.5083
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 22,
+      "n": 42,
+      "pct": 0.5238,
+      "ic95": [
+        0.3772,
+        0.6664
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 42,
+      "n": 42,
+      "pct": 1.0,
+      "ic95": [
+        0.9162,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 39,
+      "n": 42,
+      "pct": 0.9286,
+      "ic95": [
+        0.8099,
+        0.9754
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 39,
+      "n": 42,
+      "pct": 0.9286,
+      "ic95": [
+        0.8099,
+        0.9754
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 42,
+      "n": 42,
+      "pct": 1.0,
+      "ic95": [
+        0.9162,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 33,
+      "n": 42,
+      "pct": 0.7857,
+      "ic95": [
+        0.6406,
+        0.8829
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 42,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0838
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 42,
+      "pct": 0.0714,
+      "ic95": [
+        0.0246,
+        0.1901
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 42,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0838
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 6,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "leiden_mod:intra",
+    "N": 62,
+    "positivo_estricto_gpt": {
+      "k": 39,
+      "n": 62,
+      "pct": 0.629,
+      "ic95": [
+        0.5046,
+        0.7384
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 41,
+      "n": 62,
+      "pct": 0.6613,
+      "ic95": [
+        0.5372,
+        0.7666
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 34,
+      "n": 62,
+      "pct": 0.5484,
+      "ic95": [
+        0.4253,
+        0.6658
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 46,
+      "n": 62,
+      "pct": 0.7419,
+      "ic95": [
+        0.6212,
+        0.8345
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 62,
+      "n": 62,
+      "pct": 1.0,
+      "ic95": [
+        0.9417,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 59,
+      "n": 62,
+      "pct": 0.9516,
+      "ic95": [
+        0.8671,
+        0.9834
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 59,
+      "n": 62,
+      "pct": 0.9516,
+      "ic95": [
+        0.8671,
+        0.9834
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 62,
+      "n": 62,
+      "pct": 1.0,
+      "ic95": [
+        0.9417,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 48,
+      "n": 62,
+      "pct": 0.7742,
+      "ic95": [
+        0.6559,
+        0.8604
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 62,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0583
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 62,
+      "pct": 0.0484,
+      "ic95": [
+        0.0166,
+        0.1329
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 62,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0583
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 11,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "infomap:inter",
+    "N": 45,
+    "positivo_estricto_gpt": {
+      "k": 25,
+      "n": 45,
+      "pct": 0.5556,
+      "ic95": [
+        0.4118,
+        0.6906
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 18,
+      "n": 45,
+      "pct": 0.4,
+      "ic95": [
+        0.2702,
+        0.5455
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 18,
+      "n": 45,
+      "pct": 0.4,
+      "ic95": [
+        0.2702,
+        0.5455
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 25,
+      "n": 45,
+      "pct": 0.5556,
+      "ic95": [
+        0.4118,
+        0.6906
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 45,
+      "n": 45,
+      "pct": 1.0,
+      "ic95": [
+        0.9213,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 42,
+      "n": 45,
+      "pct": 0.9333,
+      "ic95": [
+        0.8214,
+        0.9771
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 42,
+      "n": 45,
+      "pct": 0.9333,
+      "ic95": [
+        0.8214,
+        0.9771
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 45,
+      "n": 45,
+      "pct": 1.0,
+      "ic95": [
+        0.9213,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 36,
+      "n": 45,
+      "pct": 0.8,
+      "ic95": [
+        0.6618,
+        0.891
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 45,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0787
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 45,
+      "pct": 0.0667,
+      "ic95": [
+        0.0229,
+        0.1786
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 45,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0787
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 6,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  },
+  {
+    "estrato_o_grupo": "infomap:intra",
+    "N": 59,
+    "positivo_estricto_gpt": {
+      "k": 36,
+      "n": 59,
+      "pct": 0.6102,
+      "ic95": [
+        0.4827,
+        0.7242
+      ]
+    },
+    "positivo_estricto_claude": {
+      "k": 38,
+      "n": 59,
+      "pct": 0.6441,
+      "ic95": [
+        0.5166,
+        0.754
+      ]
+    },
+    "positivo_estricto_consenso_ambos": {
+      "k": 31,
+      "n": 59,
+      "pct": 0.5254,
+      "ic95": [
+        0.4004,
+        0.6473
+      ]
+    },
+    "positivo_estricto_union_alguno": {
+      "k": 43,
+      "n": 59,
+      "pct": 0.7288,
+      "ic95": [
+        0.604,
+        0.8256
+      ]
+    },
+    "positivo_amplio_gpt": {
+      "k": 59,
+      "n": 59,
+      "pct": 1.0,
+      "ic95": [
+        0.9389,
+        1.0
+      ]
+    },
+    "positivo_amplio_claude": {
+      "k": 56,
+      "n": 59,
+      "pct": 0.9492,
+      "ic95": [
+        0.8608,
+        0.9826
+      ]
+    },
+    "positivo_amplio_consenso_ambos": {
+      "k": 56,
+      "n": 59,
+      "pct": 0.9492,
+      "ic95": [
+        0.8608,
+        0.9826
+      ]
+    },
+    "positivo_amplio_union_alguno": {
+      "k": 59,
+      "n": 59,
+      "pct": 1.0,
+      "ic95": [
+        0.9389,
+        1.0
+      ]
+    },
+    "acuerdo_gpt_claude": {
+      "k": 45,
+      "n": 59,
+      "pct": 0.7627,
+      "ic95": [
+        0.6402,
+        0.8531
+      ]
+    },
+    "solo_tematico_o_peor_gpt": {
+      "k": 0,
+      "n": 59,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0611
+      ]
+    },
+    "solo_tematico_o_peor_claude": {
+      "k": 3,
+      "n": 59,
+      "pct": 0.0508,
+      "ic95": [
+        0.0174,
+        0.1392
+      ]
+    },
+    "solo_tematico_o_peor_consenso_ambos": {
+      "k": 0,
+      "n": 59,
+      "pct": 0.0,
+      "ic95": [
+        0.0,
+        0.0611
+      ]
+    },
+    "distribucion_desacuerdos": {
+      "mismo_macroproceso vs mismo_proceso_especifico": 11,
+      "mismo_proceso_especifico vs relacionado_tematicamente": 1,
+      "mismo_macroproceso vs relacionado_tematicamente": 2
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "generated_utc": "2026-07-23T00:10:00+00:00",
+  "carpeta": "fable5/h0000_validation_2026_07_22",
+  "descripcion": "Fases 1-4 de la validacion empirica de H0000: auditoria, estratos, arbitraje de desacuerdos, diagnostico estructural.",
+  "files": {
+    "H0000_VALIDATION_INTEGRATED_2026_07_22.json": "f4dc002280a92be20c9a07d41ec133671261c525f0e487f0141472f750d16a73",
+    "H0000_VALIDATION_BY_STRATUM_2026_07_22.csv": "f34b37d1ea0b5df71180e4f8c5d97d113a8f332d44bf1b6f535c9f3f71dbc9d3",
+    "H0000_DISAGREEMENTS_ADJUDICATED_2026_07_22.json": "6665e259946848922bc628460fdcb9ce9c79f0d981d811f9ebf4b4b08d4253e7",
+    "H0000_FINAL_EMPIRICAL_REPORT_2026_07_22.md": "7d1aa2f1c4e28814e3ebbee2f4ba95a866ab8015472899741e344c5a421a102e",
+    "HEBRA_HIERARCHICAL_DESIGN_2026_07_22.md": "cf77af859387f546c9e0064b913ce3e650937f3c56ec4a404d9ff6c656664ea4",
+    "_confusion_matrix_gpt_claude.csv": "24434613a38706fd90ba02c183949465d1261171d4c57be7ca71ceb23d73d8a9",
+    "_disagreements_raw.csv": "27fef2ac7e97bedf8e0506d4e8bfdb824a29c5fb046c60d2b962a188e628202e",
+    "_intermediate_merged_cases.csv": "a635e373a6ae89162d9bea3d2763f9e7f5dce86a698c855b077bc4946ba13a4a",
+    "_stratum_stats_full.json": "3b896af648adeb5a94bbd45fdb470aa9ed01e0f6f8300d320accc2601d03849b",
+    "_fase4_structural_evidence.json": "83486aad84291585dcb34df88fdbae1028d5479656c4942ff2c89863b1d688b1",
+    "fase1_2_integrate.py": "0a731451ea643552ad3ef9a14cd1bd1e5b9064d01b9fa44dfe40798fcdf14bbc",
+    "fase2_stratum.py": "d7df29de87d5acbb7ad8e4925f0f6be36b38020f25a155ea5d2db431a3b95071",
+    "fase3_adjudicate_disagreements.py": "582498a832314978facd4b34db13c20f864ed95ced8b9190c91950b2761cd4e9",
+    "fase4_structural_diagnosis.py": "9b111b1d4df928489f6858d92a77736a42cc955b917e98e04e9070c3546df0ad"
+  },
+  "faltantes": []
+}

@@ -1,0 +1,14 @@
+{
+  "generated_by": "hebra_v2_experimental/src/build_hierarchy.py",
+  "seed": 1,
+  "files": {
+    "node_subhilo_assignment.csv": "fb3388dde901a60bce63f323b02f9dfc3a362f80307551491e5ef19b5043e38a",
+    "bridge_crossings.csv": "28f3aaf932eaab29469b6da3e82e6a2ccaec2ac5201519450864f7ad9985a930",
+    "subhilo_purity_coverage.json": "75ef52f3d1a197dcf1d58faf2e6fd9db6d71d35b20a4b7552110a482ca0b015e"
+  },
+  "v1_inputs_read_only": {
+    "H0000_02_NODE_METRICS.csv": "6f3209031ffe2d6317184cf1ca7c63c250e7c471fa6fe1ef95f636b2fafd24fb",
+    "H0000_03_EDGE_METRICS.csv": "f2283c890d043637c9f45abddab8bed22faf85a9eb0c72350543721191c2fab4",
+    "H0000_10_MANIFEST.json": "51fabb1d546a0bba9140fff59667406a2c31ebcdd9a55341669da36f85ac9077"
+  }
+}
