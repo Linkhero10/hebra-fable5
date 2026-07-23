@@ -1,0 +1,482 @@
+{
+  "reviewer_model": "GPT-5 Codex",
+  "evidence_class": "independent_ai_adjudication",
+  "human_gold": false,
+  "source_files_used": [
+    "hebra-fable5/hebra_v3_experimental/blind_validation/V3B_BLIND_REVIEW_SHEET.json",
+    "hebra-fable5/hebra_v3_experimental/blind_validation/PROMPT_V3B_ADJUDICACION_2026_07_23.md"
+  ],
+  "excluded_files_not_opened": [
+    "hebra-fable5/hebra_v3_experimental/blind_validation/V3B_BLIND_KEY_DO_NOT_OPEN.json"
+  ],
+  "cases": [
+    {
+      "case_id": "V3B000",
+      "doc_a_item_id": "15141",
+      "doc_b_item_id": "15146",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos tratan el proyecto minero-portuario Dominga de Andes Iron en La Higuera; uno aborda el rechazo del Comite de Ministros y el otro un posible cambio de duenos del mismo proyecto."
+    },
+    {
+      "case_id": "V3B001",
+      "doc_a_item_id": "1559",
+      "doc_b_item_id": "1591",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos identifican Proyecto Dominga en La Higuera y se refieren a su rechazo/impugnacion ante instancias politico-judiciales."
+    },
+    {
+      "case_id": "V3B002",
+      "doc_a_item_id": "1611",
+      "doc_b_item_id": "1629",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos tienen como eje Minera/Proyecto Dominga; uno narra protestas contra la aprobacion y el otro la aprobacion ambiental del mismo proyecto."
+    },
+    {
+      "case_id": "V3B003",
+      "doc_a_item_id": "1638",
+      "doc_b_item_id": "15138",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los textos identifican a Dominga en La Higuera; el primero registra oposicion de pescadores y el segundo una oferta de agua para cerrar una conciliacion sobre el mismo proyecto."
+    },
+    {
+      "case_id": "V3B004",
+      "doc_a_item_id": "1640",
+      "doc_b_item_id": "1680",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos se centran en el rechazo del Comite de Ministros al Proyecto/Minera Dominga y sus efectos en La Higuera."
+    },
+    {
+      "case_id": "V3B005",
+      "doc_a_item_id": "1680",
+      "doc_b_item_id": "15141",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos articulos describen el rechazo administrativo del mismo proyecto minero-portuario Dominga por el Comite de Ministros."
+    },
+    {
+      "case_id": "V3B006",
+      "doc_a_item_id": "1695",
+      "doc_b_item_id": "15156",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "El acto ciudadano contra Proyecto Minero Dominga y la audiencia del caso Dominga ante el Tribunal Ambiental pertenecen al mismo proyecto especifico."
+    },
+    {
+      "case_id": "V3B007",
+      "doc_a_item_id": "19043",
+      "doc_b_item_id": "19052",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos, incluso con titulos casi identicos, tratan la competencia del Comite de Ministros sobre Proyecto Dominga."
+    },
+    {
+      "case_id": "V3B008",
+      "doc_a_item_id": "15126",
+      "doc_b_item_id": "15127",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos discuten posturas comunitarias en La Higuera frente al mismo Proyecto Dominga."
+    },
+    {
+      "case_id": "V3B009",
+      "doc_a_item_id": "1554",
+      "doc_b_item_id": "19050",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos se refieren a avances judiciales o permisologicos de Dominga en La Higuera, no a proyectos distintos."
+    },
+    {
+      "case_id": "V3B010",
+      "doc_a_item_id": "1563",
+      "doc_b_item_id": "1685",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos tratan el mismo caso Dominga tras el rechazo ministerial y su continuacion ante tribunales o la Corte Suprema."
+    },
+    {
+      "case_id": "V3B011",
+      "doc_a_item_id": "1586",
+      "doc_b_item_id": "19044",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos identifican Proyecto Dominga y la controversia politico-ambiental sobre su aprobacion o rechazo."
+    },
+    {
+      "case_id": "V3B012",
+      "doc_a_item_id": "1649",
+      "doc_b_item_id": "1700",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los documentos se refieren a la division local y movilizacion ambiental por el mismo Proyecto Dominga en La Higuera."
+    },
+    {
+      "case_id": "V3B013",
+      "doc_a_item_id": "1677",
+      "doc_b_item_id": "1689",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos nombran Dominga y La Higuera; uno aborda la tramitacion de permisos de Andes Iron y el otro una declaracion publica contra el mismo proyecto."
+    },
+    {
+      "case_id": "V3B014",
+      "doc_a_item_id": "1686",
+      "doc_b_item_id": "19044",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los recursos ante la Suprema y la continuidad de la pelea por Dominga remiten al mismo proceso judicial-administrativo del proyecto."
+    },
+    {
+      "case_id": "V3B015",
+      "doc_a_item_id": "8775",
+      "doc_b_item_id": "15166",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Aunque un titulo es generico, el texto identifica Dominga, Andes Iron, La Higuera y Humboldt; el otro trata impactos de Dominga sobre especies en el mismo proyecto."
+    },
+    {
+      "case_id": "V3B016",
+      "doc_a_item_id": "2938",
+      "doc_b_item_id": "6719",
+      "nivel_a": "relacionado_tematicamente",
+      "nivel_b_v3": "abstencion_correcta",
+      "confidence": "media",
+      "justification": "El primer texto analiza la zona de sacrificio Quintero-Puchuncavi sin atribuirla a una instalacion concreta; el segundo discute la fundicion Ventanas dentro de esa problematica territorial."
+    },
+    {
+      "case_id": "V3B017",
+      "doc_a_item_id": "3134",
+      "doc_b_item_id": "6832",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "abstencion_correcta",
+      "confidence": "media",
+      "justification": "Ambos tratan la crisis Quintero-Puchuncavi/Ventanas, pero el primero cubre episodios territoriales de contaminacion y el segundo declaraciones de Codelco como una de varias empresas del polo industrial."
+    },
+    {
+      "case_id": "V3B018",
+      "doc_a_item_id": "3212",
+      "doc_b_item_id": "3237",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos informan exposiciones de Codelco Ventanas sobre el proceso de cierre de su Fundicion, con mencion a la refineria como desafio asociado."
+    },
+    {
+      "case_id": "V3B019",
+      "doc_a_item_id": "6830",
+      "doc_b_item_id": "6832",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Ambos se ubican en la crisis de Ventanas/Quintero-Puchuncavi, pero uno trata una suspension voluntaria de faenas por un episodio de SO2 y el otro una clase/declaracion general del presidente de Codelco."
+    },
+    {
+      "case_id": "V3B020",
+      "doc_a_item_id": "22334",
+      "doc_b_item_id": "3260",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos tratan el cierre de la Fundicion Ventanas de Codelco, desde el anuncio presidencial hasta la autorizacion de Sernageomin."
+    },
+    {
+      "case_id": "V3B021",
+      "doc_a_item_id": "22334",
+      "doc_b_item_id": "3275",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos cubren el anuncio/aprobacion del cierre progresivo de la Fundicion Ventanas y sus efectos laborales."
+    },
+    {
+      "case_id": "V3B022",
+      "doc_a_item_id": "22334",
+      "doc_b_item_id": "6736",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos remiten al anuncio de cierre de Fundicion Ventanas y a sus impactos/reacciones inmediatas."
+    },
+    {
+      "case_id": "V3B023",
+      "doc_a_item_id": "22334",
+      "doc_b_item_id": "7237",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "El anuncio de cierre de Division/Fundicion Ventanas y la ley publicada para viabilizarlo son etapas del mismo proceso especifico."
+    },
+    {
+      "case_id": "V3B024",
+      "doc_a_item_id": "22344",
+      "doc_b_item_id": "3249",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos abordan la misma Fundicion Codelco Ventanas: el proyecto de ley para su cierre y la retomada de operaciones mientras se prepara el cese."
+    },
+    {
+      "case_id": "V3B025",
+      "doc_a_item_id": "3219",
+      "doc_b_item_id": "6722",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los textos se centran en los intentos y efectos del cierre de la misma Fundicion Ventanas en Quintero-Puchuncavi."
+    },
+    {
+      "case_id": "V3B026",
+      "doc_a_item_id": "3242",
+      "doc_b_item_id": "3280",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos tratan el proyecto de ley que habilita el cierre de la Fundicion Ventanas."
+    },
+    {
+      "case_id": "V3B027",
+      "doc_a_item_id": "616",
+      "doc_b_item_id": "3249",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "El paro de trabajadores por el cierre de Fundicion Ventanas y la posterior reanudacion de operaciones forman parte del mismo proceso de cierre y negociacion."
+    },
+    {
+      "case_id": "V3B028",
+      "doc_a_item_id": "22339",
+      "doc_b_item_id": "3247",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos reconstruyen o valoran el cierre de Codelco/Fundicion Ventanas como un mismo proceso historico."
+    },
+    {
+      "case_id": "V3B029",
+      "doc_a_item_id": "3199",
+      "doc_b_item_id": "6735",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "El cierre tras 58 anos y la fiscalizacion del cumplimiento de etapas refieren al mismo cierre de Fundicion Ventanas."
+    },
+    {
+      "case_id": "V3B030",
+      "doc_a_item_id": "3210",
+      "doc_b_item_id": "3255",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "La declaracion sobre el cierre definitivo y la convocatoria de trabajadores para impedir el cierre progresivo tratan la misma Fundicion Ventanas."
+    },
+    {
+      "case_id": "V3B031",
+      "doc_a_item_id": "3219",
+      "doc_b_item_id": "3282",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los intentos de cierre y el proyecto que busca reconvertir la Fundicion Ventanas manteniendo la refineria pertenecen al mismo proceso especifico."
+    },
+    {
+      "case_id": "V3B032",
+      "doc_a_item_id": "3230",
+      "doc_b_item_id": "3283",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "La reapertura transitoria y el despacho legal que habilita el cierre son etapas del mismo proceso de clausura de Fundicion Ventanas."
+    },
+    {
+      "case_id": "V3B033",
+      "doc_a_item_id": "3236",
+      "doc_b_item_id": "3274",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "La Ley 21.546 que viabiliza el cierre y la valoracion social del cierre de Fundicion Ventanas remiten al mismo proceso."
+    },
+    {
+      "case_id": "V3B034",
+      "doc_a_item_id": "3247",
+      "doc_b_item_id": "3257",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos explican el cierre de la Fundicion Ventanas de Codelco y sus razones operacionales y socioambientales."
+    },
+    {
+      "case_id": "V3B035",
+      "doc_a_item_id": "3259",
+      "doc_b_item_id": "3266",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "El ingreso urgente del proyecto de ley y la decision del directorio de Codelco de cerrar progresivamente la Fundicion Ventanas son fases del mismo proceso."
+    },
+    {
+      "case_id": "V3B036",
+      "doc_a_item_id": "22369",
+      "doc_b_item_id": "2851",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Ambos mencionan Bocamina/Enel en Coronel, pero uno trata denuncia de asbesto en Bocamina I y el otro un recurso por protestas y bloqueo de accesos a la planta."
+    },
+    {
+      "case_id": "V3B037",
+      "doc_a_item_id": "22437",
+      "doc_b_item_id": "2717",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "El primer texto se concentra en el vertedero de cenizas y pasivos locales; el segundo en el retiro de Bocamina I y II dentro del plan de salida del carbon de Enel."
+    },
+    {
+      "case_id": "V3B038",
+      "doc_a_item_id": "2265",
+      "doc_b_item_id": "2740",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Doc_a trata el cese efectivo de Bocamina I; doc_b el plan conjunto de cierre de Bocamina I y Bocamina II, por lo que comparten complejo pero no el mismo proceso especifico."
+    },
+    {
+      "case_id": "V3B039",
+      "doc_a_item_id": "2494",
+      "doc_b_item_id": "2519",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Un texto cubre la salida regional de las dos centrales a carbon de Enel en Coronel; el otro focaliza el cierre de Bocamina I."
+    },
+    {
+      "case_id": "V3B040",
+      "doc_a_item_id": "2519",
+      "doc_b_item_id": "2825",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Doc_a describe el cierre definitivo de Bocamina I; doc_b es una pieza amplia sobre la recta final del carbon y la historia de Bocamina I/II en la estrategia de Enel."
+    },
+    {
+      "case_id": "V3B041",
+      "doc_a_item_id": "2731",
+      "doc_b_item_id": "2835",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "El documento historico del conflicto de Bocamina I/I-II y el anuncio de cierre anticipado de dos termoelctricas comparten macroproceso, pero no el mismo expediente puntual."
+    },
+    {
+      "case_id": "V3B042",
+      "doc_a_item_id": "925",
+      "doc_b_item_id": "2833",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "media",
+      "justification": "Ambos textos se ubican en el cierre definitivo de la central Bocamina/Bocamina II y los compromisos territoriales asociados a esa desconexion final."
+    },
+    {
+      "case_id": "V3B043",
+      "doc_a_item_id": "949",
+      "doc_b_item_id": "2641",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Los dos documentos tratan el vertedero de cenizas de Enel/Bocamina en Coronel: denuncia por incumplimiento/RCA y reapertura ordenada por la Corte."
+    },
+    {
+      "case_id": "V3B044",
+      "doc_a_item_id": "11695",
+      "doc_b_item_id": "2494",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Doc_a trata el recurso por impactos del vertedero de cenizas de Bocamina I y II; doc_b cubre el cierre de las centrales a carbon y sus consecuencias generales."
+    },
+    {
+      "case_id": "V3B045",
+      "doc_a_item_id": "22364",
+      "doc_b_item_id": "2741",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos tratan el cierre anticipado de Bocamina I, aunque el segundo lo presenta como una fecha anunciada por Navarro y no confirmada por Enel."
+    },
+    {
+      "case_id": "V3B046",
+      "doc_a_item_id": "22364",
+      "doc_b_item_id": "2758",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "media",
+      "justification": "Los dos documentos parten del cierre/desconexion de Bocamina I y discuten los pendientes territoriales, sanitarios y de residuos que deja esa unidad."
+    },
+    {
+      "case_id": "V3B047",
+      "doc_a_item_id": "22366",
+      "doc_b_item_id": "2501",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "La demanda laboral por retiro de asbesto en Bocamina y el retiro de las unidades a carbon de Bocamina pertenecen al mismo complejo, pero son controversias especificas distintas."
+    },
+    {
+      "case_id": "V3B048",
+      "doc_a_item_id": "2508",
+      "doc_b_item_id": "2710",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos textos identifican el mismo vertedero de cenizas de Central Bocamina/Enel en Coronel y discuten su cierre, transformacion o retiro de cenizas."
+    },
+    {
+      "case_id": "V3B049",
+      "doc_a_item_id": "2508",
+      "doc_b_item_id": "2736",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "Doc_a se centra en el vertedero de cenizas y su revegetacion; doc_b en el cese total de las centrales Bocamina I y II anunciado por Enel."
+    },
+    {
+      "case_id": "V3B050",
+      "doc_a_item_id": "2623",
+      "doc_b_item_id": "2738",
+      "nivel_a": "mismo_macroproceso",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "El cierre municipal del vertedero de cenizas y la causa penal por contaminacion atribuida a ejecutivos de Bocamina comparten complejo y pasivos, pero son expedientes distintos."
+    },
+    {
+      "case_id": "V3B051",
+      "doc_a_item_id": "2700",
+      "doc_b_item_id": "2758",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos tratan el cierre definitivo de Bocamina I en Coronel y el legado sanitario/residual directamente asociado a esa unidad."
+    }
+  ]
+}
