@@ -1,0 +1,26 @@
+{
+  "generated_by": "hebra_v3_experimental/build_manifest_lock.py",
+  "v2_congelado_intacto": true,
+  "v2_verificacion_detalle": {
+    "src/subthread_dictionary.py": {
+      "coincide": true,
+      "sha256_actual": "5154dc06fc7c61259c1340f547e7ddbc2a3624d5280c747a3535563895f65737"
+    },
+    "src/build_hierarchy.py": {
+      "coincide": true,
+      "sha256_actual": "2fcc14e0576d66ec939b431c219460935ae544f8b7d2a74ffcff3319dd1c723f"
+    }
+  },
+  "files": {
+    "GENERAL_EXTRACTOR_DESIGN_2026_07_23.md": "53172a49ebe57539b3ebff330e5c711462bc35612a7bf0fc0bc6b5edccb9040f",
+    "OUT_OF_SAMPLE_VALIDATION_V3_2026_07_23.md": "1a2da8abe1474143ee6bcfbf4972f22b4332bacf1d51f27ece74ab0ad43173c8",
+    "README.md": "abad70752fb1206e9eb5575224185f3fb868d19242c0ad18078b59b200edb072",
+    "src/general_extractor.py": "47e3d17668ecf0b204669f86266abeeee7beafeae7b7bd7f7e3fe660f134f908",
+    "src/build_general_subthreads.py": "3583fb1a12edaf40f70d41c5a79ddab2a62b9f0e148e995b8346744aa79e80b0",
+    "src/run_v3_validation.py": "6d1fb87c3295a18b0bc969f298bbd670b73693428f83f9fa349a2af3b4f766de",
+    "tests/test_v3.py": "14072841fca931fb822c3919eaf229ae9a6307d41814b3ab7a6425f8d6c5722c",
+    "artifacts/v3_validation_summary.json": "a67f9a1d63cdd0470ad5dff62390a78873de16e68713b35c2018bbf32722d754",
+    "artifacts/v3_node_assignment_all_threads.csv": "0d46a3bf0429b6ed1aba2c99f9266ed5f36f1c5b2892b3066f3c617588c63e30"
+  },
+  "faltantes": []
+}
