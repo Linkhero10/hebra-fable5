@@ -1,0 +1,371 @@
+{
+  "reviewer_model": "claude-sonnet-5",
+  "evidence_class": "independent_ai_adjudication",
+  "human_gold": false,
+  "cases": [
+    {
+      "case_id": "V3B000",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos tratan del mismo proyecto Dominga de Andes Iron: A cubre el rechazo del Comité de Ministros de enero 2023 y recapitula la historia judicial 2013-2023; B, aunque centrado en la venta a inversionistas chinos, recapitula el mismo historial (COEVA 2017, Comité de Ministros, Tribunal Ambiental, Corte Suprema) del mismo proyecto."
+    },
+    {
+      "case_id": "V3B001",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A relata el rechazo unánime de enero 2025 del Comité de Ministros a Dominga; B relata recursos de casación de organizaciones de La Higuera ante la Corte Suprema para frenar la reversión de ese mismo rechazo. Es el mismo litigio administrativo-judicial de Dominga en curso."
+    },
+    {
+      "case_id": "V3B002",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A describe protestas del 14/8/2021 contra la aprobación de Dominga por la Comisión de Evaluación Ambiental; B es la noticia original de esa misma aprobación del 11/8/2021 (11 votos a favor, 1 en contra) que motivó las protestas de A."
+    },
+    {
+      "case_id": "V3B003",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A es una declaración de pescadores de La Higuera (abril 2021) sobre el estado judicial de Dominga tras el fallo del Tribunal Ambiental; B (enero 2022) cubre la audiencia de conciliación en la Corte Suprema del mismo caso Dominga, con las mismas partes (Andes Iron, comunidad de La Higuera)."
+    },
+    {
+      "case_id": "V3B004",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A cubre el rechazo del Comité de Ministros a Dominga del 18/1/2023 y reacciones locales; B (30/6/2023) es el informe del SEA que formaliza y respalda esa misma decisión de rechazo, y menciona el mismo plazo de 30 días de Andes Iron para recurrir."
+    },
+    {
+      "case_id": "V3B005",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Mismo par que V3B004 en orden inverso: A es el informe del SEA (30/6/2023) que respalda el rechazo del Comité de Ministros a Dominga, y B es la noticia original de ese rechazo (18/1/2023). Mismo proceso administrativo específico."
+    },
+    {
+      "case_id": "V3B006",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (marzo 2019) convoca a un acto ciudadano previo a alegatos en la Corte Suprema por el caso Dominga; B (octubre 2019) informa la fecha de audiencia fijada por el Primer Tribunal Ambiental en el mismo litigio de Dominga tras el fallo de la Corte Suprema. Aunque A menciona también el proyecto Cruz Grande de CAP, el foco narrativo es la saga judicial de Dominga."
+    },
+    {
+      "case_id": "V3B007",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A y B son el mismo artículo (mismo titular, mismo cuerpo textual casi idéntico) sobre la declaración del MMA de septiembre de 2025 respecto a la competencia del Comité de Ministros en el caso Dominga, republicado con fechas de captura distintas (22/9 y 3/12/2025)."
+    },
+    {
+      "case_id": "V3B008",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (9/1/2025) cubre la controversia previa a la votación del Comité de Ministros que rechazó Dominga; B (18/2/2025) cubre la resolución del Tribunal Ambiental que exige una nueva votación de ese mismo Comité sobre Dominga. Ambos son parte del mismo proceso administrativo-judicial en curso."
+    },
+    {
+      "case_id": "V3B009",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (14/8/2025) relata que el Tribunal Constitucional declaró inadmisible un recurso de organizaciones opositoras a Dominga; B (17/5/2025) relata que Andes Iron comenzó a tramitar más de 700 permisos para Dominga. Ambos son episodios del mismo litigio/proceso administrativo de Dominga en 2025."
+    },
+    {
+      "case_id": "V3B010",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (9/1/2025) cubre el tercer rechazo del Comité de Ministros a Dominga por sentencia del Primer Tribunal Ambiental; B (27/5/2025) cubre recursos para inhabilitar al ministro Matus en la Corte Suprema, en el marco de las casaciones contra la sentencia de ese mismo Tribunal Ambiental sobre Dominga."
+    },
+    {
+      "case_id": "V3B011",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (8/1/2025) es sobre la alcaldesa de La Higuera antes de la votación del Comité de Ministros sobre Dominga; B (17/9/2025) es sobre el fallo de la Corte Suprema que declaró inadmisible el recurso de casación contra la sentencia que favoreció a Dominga. Mismo litigio de Dominga en distintas etapas del mismo año."
+    },
+    {
+      "case_id": "V3B012",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (1/12/2017) describe a la comunidad de La Higuera dividida tras la reclamación de Andes Iron contra el rechazo del Consejo de Ministros a Dominga; B (25/8/2017) convoca a celebrar ese mismo rechazo del Comité de Ministros. Mismo episodio específico de 2017 en el proceso Dominga."
+    },
+    {
+      "case_id": "V3B013",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (20/5/2025) cubre la tramitación de permisos de Dominga y la contienda de competencia en el Tribunal Constitucional; B (22/12/2024) es una declaración pública contra el fallo del Primer Tribunal Ambiental que revocó el rechazo de Dominga. Ambos forman parte de la misma secuencia judicial-administrativa de Dominga 2024-2025."
+    },
+    {
+      "case_id": "V3B014",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (27/12/2024) relata la presentación de recursos de casación ante la Corte Suprema para revertir el fallo del Primer Tribunal Ambiental sobre Dominga; B (17/9/2025) relata el resultado de ese mismo litigio (recurso declarado inadmisible). Mismo proceso judicial específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B015",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (18/1/2023) cubre la celebración ambientalista del rechazo de Dominga por el Comité de Ministros; B (21/7/2022) cubre el informe técnico de Conaf, uno de los antecedentes que alimentó la evaluación previa a esa misma votación del Comité de Ministros. Mismo proceso administrativo de evaluación de Dominga."
+    },
+    {
+      "case_id": "V3B016",
+      "nivel_a": "relacionado_tematicamente",
+      "nivel_b_v3": "abstencion_correcta",
+      "confidence": "media",
+      "justification": "A es un estudio académico general (IMFD/Plataforma Telar) sobre consecuencias sociales y ambientales de la industria en la zona Quintero-Puchuncaví, sin identificar un proyecto o instalación específica como objeto. B es una columna de opinión centrada específicamente en el cierre de la Fundición Ventanas de Codelco dentro del marco de las 'zonas de sacrificio'. Comparten sector y ubicación general, pero A no permite anclar un proceso o instalación concreta, por lo que un sistema que se abstuviera de asignarle a A un proyecto específico actuaría correctamente."
+    },
+    {
+      "case_id": "V3B017",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "media",
+      "justification": "A (26/5/2022) trata del cumplimiento del fallo de la Corte Suprema de 2019 sobre la crisis de contaminación en Quintero-Puchuncaví-Ventanas y episodios recientes de intoxicación. B (9/6/2022) es la respuesta de Codelco (Máximo Pacheco) a la misma crisis reciente, mencionando explícitamente 'la situación en Ventanas'. Ambos abordan la misma crisis socioambiental en curso en la misma zona y periodo."
+    },
+    {
+      "case_id": "V3B018",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "Ambos documentos cubren exposiciones del mismo gerente de Codelco Ventanas (Claudio Flores) sobre el mismo proceso de cierre de la Fundición Ventanas, en dos congresos distintos de 2024 (mayo y octubre), con el mismo Plan Maestro y las mismas claves de cierre citadas."
+    },
+    {
+      "case_id": "V3B019",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (8/6/2022) informa la suspensión voluntaria de faenas en Ventanas tras el episodio de contaminación del 6 de junio de 2022; B (9/6/2022) es la respuesta del presidente de Codelco sobre esa misma situación en Ventanas al día siguiente. Mismo episodio de crisis específico."
+    },
+    {
+      "case_id": "V3B020",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (18/6/2022) es el anuncio del cierre de la fundición de División Ventanas por parte de Boric/Codelco; B (18/5/2023) es la autorización de Sernageomin que concreta el cierre temporal de esa misma fundición. Mismo proceso específico de cierre de la Fundición Ventanas en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B021",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A y B cubren el mismo hecho puntual: la sesión extraordinaria del directorio de Codelco del 17/6/2022 que aprobó el cierre de la Fundición Ventanas y el anuncio de Boric, con las mismas citas textuales del comunicado de Codelco."
+    },
+    {
+      "case_id": "V3B022",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A y B cubren el mismo anuncio del 17/6/2022 del directorio de Codelco sobre el cierre de la Fundición Ventanas y las reacciones sindicales inmediatas (incluida la misma declaración de la dirigenta que llamó 'traidor' a Pacheco)."
+    },
+    {
+      "case_id": "V3B023",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (18/6/2022) es el anuncio del cierre de Ventanas; B (20/4/2023) es la publicación en el Diario Oficial de la ley que viabiliza ese mismo cierre. Mismo proceso específico de cierre de la Fundición Ventanas en dos hitos consecutivos."
+    },
+    {
+      "case_id": "V3B024",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (20/6/2022) cubre la reunión de Boric con Codelco y las ministras sobre el proyecto de ley de cierre de Ventanas, en medio del paro de trabajadores; B (2/7/2022) informa la reanudación de operaciones de la misma fundición tras el paro, y menciona explícitamente que se sigue avanzando en 'el proceso de cese de la fundición comprometido' con los trabajadores. Ambos son parte de la misma crisis y negociación en curso de junio-julio de 2022."
+    },
+    {
+      "case_id": "V3B025",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (25/6/2022) es un reportaje histórico sobre los múltiples intentos de cierre de Ventanas, centrado en 'el último capítulo' de junio de 2022; B (22/6/2022) cubre el paro nacional y las divisiones en la comunidad de Quintero-Puchuncaví generadas por ese mismo anuncio de cierre. Mismo proceso específico."
+    },
+    {
+      "case_id": "V3B026",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (18/10/2022) informa la aprobación en la Cámara del proyecto de ley que permite el cierre de Ventanas; B (19/8/2022) informa el inicio de la tramitación de ese mismo proyecto de ley en la Comisión de Minería. Mismo procedimiento legislativo específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B027",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (22/6/2022) cubre el paro nacional de Codelco por el anuncio de cierre de Ventanas; B (2/7/2022) informa la reanudación de la fundición y que el paro, que se extendió hasta el 23 de junio, terminó tras un acuerdo. Ambos documentos narran la misma huelga y su desenlace en el marco del cierre de Ventanas."
+    },
+    {
+      "case_id": "V3B028",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (23/6/2022) narra la historia de los episodios de intoxicación que llevaron al anuncio de cierre de Ventanas; B (21/5/2023) cubre la concreción de ese mismo cierre, casi un año después. Mismo proceso específico de cierre de la Fundición Ventanas."
+    },
+    {
+      "case_id": "V3B029",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/5/2023) cubre la ceremonia de cierre definitivo de la Fundición Ventanas; B (25/9/2023) cubre la fiscalización del Seremi de Minería sobre el cumplimiento de las etapas de ese mismo proceso de cierre. Mismo proceso específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B030",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/5/2023) es la declaración de Fundación Terram celebrando el cierre definitivo de Ventanas; B (18/6/2022) es el llamado a paralización de los trabajadores para evitar ese mismo cierre, un año antes. Mismo proceso específico visto desde ambos extremos temporales."
+    },
+    {
+      "case_id": "V3B031",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (25/6/2022) narra la historia de los intentos de cierre de Ventanas, centrada en el capítulo de 2022; B (10/8/2022) informa el ingreso al Congreso del proyecto de ley de reconversión que viabiliza ese mismo cierre. Mismo proceso administrativo-legislativo específico."
+    },
+    {
+      "case_id": "V3B032",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (3/7/2022) informa la reapertura temporal de Ventanas a la espera de su clausura definitiva anunciada semanas antes; B (7/3/2023) informa que la Cámara despachó a ley el proyecto que habilita ese mismo cierre definitivo. Mismo proceso específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B033",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (20/4/2023) es la publicación de la Ley Nº 21.546 que viabiliza el cierre de Ventanas; B (19/6/2022) recoge la valoración de organizaciones sociales al anuncio original de ese mismo cierre. Mismo proceso administrativo-legislativo específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B034",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (21/5/2023) cubre el cierre definitivo de Ventanas próximo a concretarse el 31 de mayo; B (22/6/2022) es un explicativo sobre qué hace la fundición y por qué se acordó su cierre, publicado justo tras el anuncio original. Mismo proceso específico de cierre de Ventanas."
+    },
+    {
+      "case_id": "V3B035",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (9/8/2022) informa el ingreso con urgencia del proyecto de ley que posibilita el cierre de Ventanas; B (17/6/2022) es la noticia original de la decisión del directorio de Codelco de cerrar la fundición, hito que originó ese proyecto de ley. Mismo proceso específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B036",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "media",
+      "justification": "Ambos documentos tratan de la misma instalación y controversia territorial reconocible: el conflicto socioambiental de larga data entre Enel y la comunidad de Coronel por la central Bocamina. A (14/10/2019) trata de una denuncia por asbesto en Bocamina 1; B (19/2/2020) trata de protestas de manifestantes frente a la misma planta pocos meses después, en el marco del mismo conflicto continuo comunidad-empresa."
+    },
+    {
+      "case_id": "V3B037",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (29/5/2020) cubre la petición de cierre anticipado del vertedero de cenizas de Enel, a raíz del anuncio de cierre de Bocamina 1 y 2; B (27/5/2020) es la noticia original de ese mismo anuncio de adelanto de cierre de ambas centrales, dos días antes. Mismo proceso específico."
+    },
+    {
+      "case_id": "V3B038",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/12/2020) cubre el cese efectivo de operaciones de Bocamina 1; B (28/5/2020) es el anuncio original de ese mismo cierre anticipado, siete meses antes. Mismo proceso específico de cierre de Bocamina 1 en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B039",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/5/2020) analiza el impacto regional del anuncio de cierre de Bocamina 1 y 2 en la matriz eléctrica del Biobío; B (31/12/2020) cubre el cierre efectivo de Bocamina 1. Ambos giran en torno al mismo proceso específico de cierre de las centrales Bocamina."
+    },
+    {
+      "case_id": "V3B040",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/12/2020) cubre el cierre efectivo de Bocamina 1; B (18/12/2020) es un reportaje sobre la historia de la central y su cierre, publicado días antes del hito. Mismo proceso específico de cierre de Bocamina 1."
+    },
+    {
+      "case_id": "V3B041",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (28/12/2020) cubre un documento del senador Navarro presentado a días del cierre de Bocamina 1; B (29/5/2020) es la noticia original del anuncio de cierre anticipado de ambas centrales. Mismo proceso específico de cierre de Bocamina en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B042",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (21/4/2022) cubre la desconexión de Bocamina 2; B (29/9/2022) cubre el acuerdo entre Enel y el municipio de Coronel firmado en el contexto del 'cierre definitivo' de esa misma central, el 30 de septiembre. Mismo proceso específico de cierre de Bocamina 2."
+    },
+    {
+      "case_id": "V3B043",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (13/12/2018) cubre la denuncia de organizaciones ante la SMA por incumplimiento de la RCA del vertedero de cenizas de Bocamina; B (7/5/2019) cubre el fallo de la Corte de Apelaciones sobre la reapertura de ese mismo vertedero tras la clausura municipal. Mismo litigio administrativo específico en etapas consecutivas."
+    },
+    {
+      "case_id": "V3B044",
+      "nivel_a": "relacionado_tematicamente",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "A es el fallo de la Corte de Apelaciones (septiembre 2021) que ordena a la SMA fiscalizar anualmente los impactos del vertedero de cenizas de Bocamina en la salud de la población, un litigio específico. B (mayo 2020) es una nota general sobre el impacto regional del anuncio de cierre de Bocamina 1 y 2 en la matriz eléctrica, que solo menciona de paso 'procesos judiciales' distintos (relocalizaciones). Comparten instalación y comuna, pero no un procedimiento específico común; el nombre compartido 'Bocamina/Coronel/Enel' hace plausible que un sistema automático los agrupara erróneamente."
+    },
+    {
+      "case_id": "V3B045",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (29/12/2020) cubre la petición de dirigentes de Coronel al intendente para ser garante del cierre de Bocamina 1; B (1/5/2019) cubre declaraciones del senador Navarro sobre una fecha de cierre de esa misma central, un año y medio antes. Ambos documentos siguen la misma negociación/controversia sobre el cierre de Bocamina 1 a lo largo del tiempo."
+    },
+    {
+      "case_id": "V3B046",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (29/12/2020) cubre la petición de garantías sobre el cierre de Bocamina 1 (temas pendientes: niños con metales pesados, viviendas, trabajadores); B (6/1/2021), pocos días después, cubre la preocupación de la comunidad por el legado tóxico (vertedero de cenizas) que deja esa misma central tras su cierre. Mismo proceso específico y continuo."
+    },
+    {
+      "case_id": "V3B047",
+      "nivel_a": "relacionado_tematicamente",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "A (21/12/2018) es una demanda laboral de trabajadores que retiraron asbesto de Bocamina entre 2014 y 2015, contra la contratista Akeron, Enel y la Mutual de Seguridad. B (27/5/2020) es el anuncio corporativo del cierre anticipado de Bocamina 1 y 2. Comparten la instalación y la empresa, pero son procedimientos completamente distintos (litigio laboral por exposición a asbesto vs. decisión regulatoria de cierre) separados por más de un año, sin conexión textual entre ambos episodios; el nombre compartido 'Bocamina/Enel' hace plausible una sobreagregación automática."
+    },
+    {
+      "case_id": "V3B048",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (7/7/2021) describe el plan de Enel de revegetar el vertedero de cenizas de Bocamina como bosque nativo; B (10/5/2024) cubre una querella de una agrupación ambientalista que exige desmantelar y remover las cenizas de ese mismo vertedero, cuestionando la solución propuesta en A. Mismo proceso/controversia específica sobre el destino del vertedero de cenizas de Bocamina."
+    },
+    {
+      "case_id": "V3B049",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (7/7/2021) describe el plan de revegetación del vertedero de cenizas de Bocamina, condicionado a la desconexión de la unidad 2 en mayo de 2022; B (28/5/2020) es el anuncio original de ese cierre de Bocamina 1 y 2. Mismo proceso específico de cierre y remediación de Bocamina."
+    },
+    {
+      "case_id": "V3B050",
+      "nivel_a": "relacionado_tematicamente",
+      "nivel_b_v3": "sobreagregacion",
+      "confidence": "media",
+      "justification": "A (26/4/2019) cubre la clausura municipal del vertedero de cenizas de Bocamina por incumplimiento de la RCA. B (19/10/2018) cubre la suspensión condicional del procedimiento penal contra tres ejecutivos de Bocamina por contaminación del mar (vertimiento de contaminantes al agua), un litigio distinto y anterior. Comparten la instalación y la comuna, pero son procedimientos jurídicos específicos diferentes (administrativo-municipal sobre cenizas vs. penal sobre descargas marinas); la coincidencia de 'Bocamina/Coronel/contaminación' hace plausible una sobreagregación automática."
+    },
+    {
+      "case_id": "V3B051",
+      "nivel_a": "mismo_proceso_especifico",
+      "nivel_b_v3": "asignacion_correcta",
+      "confidence": "alta",
+      "justification": "A (31/12/2020) cubre la desconexión definitiva de Bocamina 1 por el Ministro de Energía; B (6/1/2021), días después, cubre la preocupación de la comunidad de Coronel por el legado tóxico (vertedero de cenizas) que deja esa misma central tras su cierre. Mismo proceso específico y continuo de cierre de Bocamina 1."
+    }
+  ]
+}
