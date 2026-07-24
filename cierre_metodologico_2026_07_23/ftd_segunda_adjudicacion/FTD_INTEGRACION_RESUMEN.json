@@ -1,0 +1,35 @@
+{
+  "segunda_adjudicacion_sha256": "eac01445b239417386bce8f52d486bd31ff1609b1e1ecc966a3a073a8647a73f",
+  "n": 60,
+  "acuerdo_bruto": 0.75,
+  "cohen_kappa_escala_ftd4": 0.4767,
+  "distribucion_v1_gpt": {
+    "mismo_proceso": 36,
+    "relacionado": 22,
+    "no_relacionado": 2
+  },
+  "distribucion_v2_claude": {
+    "mismo_proceso": 46,
+    "relacionado": 10,
+    "indeterminado": 2,
+    "no_relacionado": 2
+  },
+  "distribucion_v2_fina5": {
+    "mismo_proceso_especifico": 33,
+    "mismo_macroproceso": 23,
+    "evidencia_insuficiente": 2,
+    "no_relacionados": 2
+  },
+  "acuerdo_por_estrato": {
+    "abstention": 0.85,
+    "boundary": 0.5,
+    "internal": 0.9
+  },
+  "sobreabstencion_v1": 15,
+  "sobreabstencion_v2": 18,
+  "n_desacuerdos": 15,
+  "clasificacion_desacuerdos": {
+    "diferencia_macroproceso_vs_proceso_especifico": 13,
+    "evidencia_realmente_insuficiente": 2
+  }
+}
