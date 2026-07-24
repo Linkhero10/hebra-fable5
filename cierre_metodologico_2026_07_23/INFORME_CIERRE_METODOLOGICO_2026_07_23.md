@@ -74,13 +74,23 @@ Cada afirmación de este informe está marcada con uno de estos cinco estados:
 | Archivo | `comparativa/FTD_segunda_adjudicacion_2026_07_23/FTD_SEGUNDA_ADJUDICACION_CLAUDE_2026_07_23.json` |
 | SHA-256 | `eac01445b239417386bce8f52d486bd31ff1609b1e1ecc966a3a073a8647a73f` |
 | Fecha | 2026-07-23 |
-| Adjudicador | Subagente Claude de contexto frío (S1) |
+| Adjudicador | Subagente Claude de contexto frío (S1) — **no** "segundo evaluador experto independiente" (§2.1.b) |
 | Insumo único | `FTD_BLIND_SHEET_STRIPPED_60.csv`, sha256 `4bce6ce2…f7f3e18` |
 | Casos | 60 (`PAIR-0001`…`PAIR-0060`), sin duplicados ni omisiones |
 
 **[EV]** El hash se calculó **antes** de abrir la clave sellada; la clave se abrió solo en la Fase 3.
 
 **[EV] Declaración de aislamiento de S1:** informa no haber abierto ningún archivo distinto de la hoja despojada; sus únicas operaciones sobre el proyecto fueron un `ls` del directorio de adjudicación, el cálculo del SHA-256 del CSV y lecturas del propio CSV.
+
+### 2.1.b Denominación correcta de esta adjudicación
+
+**[DT]** Esta adjudicación debe llamarse **"segunda adjudicación ciega por un subagente aislado de Claude"**, y no "segundo evaluador experto independiente". Tres razones:
+
+1. La separación de contexto entre agente principal y subagente es una **propiedad del sistema que se asume**, no que se demuestre desde dentro (ya declarado como `[DT]` en §1.1).
+2. Sigue siendo acuerdo **IA–IA**, no validación humana. Ningún κ de este informe es un acuerdo inter-humano.
+3. Adjudicador 1 (GPT-5.6 Thinking) y adjudicador 2 (Claude) son modelos distintos, lo que sí aporta variación real de evaluador — pero no equivale a independencia de dos expertos humanos.
+
+**[REC]** Toda cifra de acuerdo de este informe debe reportarse con esa etiqueta explícita.
 
 ### 2.2 Distribuciones
 
@@ -154,19 +164,30 @@ Cada afirmación de este informe está marcada con uno de estos cinco estados:
 
 **[CD]** Concentración por par de trayectorias: **(T0002, T0115) concentra 6 de los 15 desacuerdos** — es decir, la frontera entre "Quintero-Puchuncaví/crisis de contaminación" y "Fundición Ventanas". Le sigue (T0001, T0115) con 2. Ningún otro par supera 1.
 
-**[CD] Clasificación** (regla determinista aplicada, ver script):
+### 3.4.1 CORRECCIÓN — la primera clasificación era circular
 
-| Causa | n |
-|---|---:|
-| Diferencia macroproceso vs. proceso específico | **13** |
-| Evidencia realmente insuficiente | 2 |
-| Ambigüedad textual pura | 0 |
-| Error probable de un adjudicador | 0 |
-| Insuficiencia del codebook (otra) | 0 |
+**La versión inicial de este informe afirmaba que "13 de 15 desacuerdos son de escala y ninguno es error de adjudicador". Esa afirmación era inválida y se retira.**
 
-**[INF]** **13 de 15 desacuerdos son un problema de escala, no de lectura.** Ninguno se clasifica como error probable de un adjudicador. Esto refuerza, desde el lado de FTD, la misma conclusión que la reconstrucción de HEBRA: el codebook de 4 categorías de FTD no tiene dónde poner "mismo macroproceso, distinto proceso específico", y esa carencia genera el 87 % de sus desacuerdos.
+**[EV] El defecto.** La regla de clasificación era:
 
-**[EV]** S1 declaró espontáneamente esta misma tensión: en la familia Quintero-Puchuncaví-Concón trató la contaminación de la bahía como una sola controversia en la escala de 4 y reservó la distinción de escala para la escala fina — lo que explica sus 46 `mismo_proceso` y sus 24 banderas de granularidad.
+```python
+if r.problema_granularidad:
+    return "diferencia_macroproceso_vs_proceso_especifico"
+```
+
+`problema_granularidad` es una **bandera que el propio adjudicador 2 se auto-asignó**. La cadena era: (1) Claude adjudica el par como macroproceso; (2) Claude marca la bandera; (3) el script usa la bandera para concluir que el desacuerdo con GPT es de granularidad; (4) el informe lo presentaba como clasificación determinista de la causa.
+
+**[INF] Consecuencias del defecto:**
+- La clasificación no era una determinación independiente de la causa, sino **una reexpresión estructurada del juicio de un adjudicador**. Estaba mal etiquetada como `[CD]`; en el mejor de los casos era `[INF]`.
+- La afirmación "ninguno es error de adjudicador" era un **artefacto del orden de las reglas**: la bandera de granularidad cortocircuitaba antes de que cualquier caso pudiera clasificarse como error. Por construcción, la categoría "error de adjudicador" **no podía salir nunca**.
+
+**[REC] Corrección aplicada:** los 15 desacuerdos se sometieron a un **arbitraje ciego por un tercer adjudicador** (subagente de contexto frío, S2), que recibió los textos y las dos etiquetas en disputa **anonimizadas y con el orden aleatorizado por fila** (8 casos con v1 como "X", 7 con v2 como "X"), y **sin** las banderas ni las justificaciones de ninguno de los dos. Resultado en §3.4.2.
+
+### 3.4.2 Arbitraje ciego de los 15 desacuerdos
+
+*(Pendiente — se completa con el resultado de S2.)*
+
+**[EV] Lo que sí se sostiene sin arbitraje:** S1 declaró espontáneamente la tensión de escala en su informe final —en la familia Quintero-Puchuncaví-Concón trató la contaminación de la bahía como una sola controversia en la escala de 4 y reservó la distinción para la escala fina—, y **23 de sus 46 `mismo_proceso` bajan a `mismo_macroproceso`** en la escala fina. Eso es evidencia directa de que **el codebook de 4 categorías de FTD no puede expresar la distinción**, con independencia de cuál sea la causa de cada desacuerdo concreto. Esa conclusión no depende de la clasificación retirada.
 
 ---
 
@@ -219,7 +240,9 @@ El defecto de raíz es que el Nivel B fusiona dos preguntas distintas bajo un so
 | H0002 Ventanas | 4.352 | 86 | **1,98 %** |
 | H0004 Bocamina | 3.453 | 57 | **1,65 %** |
 
-**[INF]** Los pares cross-subhilo conectados por arista son, por construcción, los **semánticamente más similares** — es decir, precisamente los más propensos a ser el mismo proceso. La cifra "24/24 fragmentación" describe el 0,4–2 % más favorable del universo. Es una **cota superior condicionada**, no la tasa de fragmentación de HEBRA v3. Publicarla sin esta salvedad sería un error grave.
+**[INF]** Los pares cross-subhilo conectados por arista son, por construcción, los **semánticamente más similares** — es decir, precisamente los más propensos a ser el mismo proceso. La cifra "24/24 fragmentación" describe el 0,4–2 % más favorable del universo.
+
+**[DT] Precisión sobre el estatus de esa cifra.** No debe llamarse "cota superior" sin más: eso sugiere un límite demostrado. Es una **tasa condicionada a una submuestra de alta similitud**. Que sea además una cota superior de la tasa poblacional requiere asumir que P(mismo proceso | similitud) es monótona creciente —plausible, pero es un supuesto, no un teorema—. La formulación admisible es: *entre los pares cross-subhilo más similares, la fragmentación es de 24/24 (Claude) y 18/24 (GPT); la tasa poblacional no está estimada.*
 
 ### 4.5 Abstención: el problema es la unidad, y el arreglo es pequeño
 
@@ -261,6 +284,21 @@ El defecto de raíz es que el Nivel B fusiona dos preguntas distintas bajo un so
 | **Cierre** | Acto firme que agota el objeto del proceso | El expediente | Resolución final sin recurso pendiente | Siguen apareciendo episodios que invocan el mismo expediente | Ventanas "cerró" el 31 may 2023, pero siguieron episodios de fiscalización del cierre | **Si tras el acto siguen apareciendo episodios que invocan el mismo expediente, no hubo cierre sino cambio de fase** |
 | **Abstención** | El sistema declara que un documento no permite anclar un proceso específico | **El documento** (nunca el par) | — | — | Documentos `2938`, `3134`, `3237`, `6832` en H0002 | La abstención es correcta si **dos lectores independientes que leen solo ese documento no pueden nombrar el mismo objeto** |
 
+### 5.1.b CORRECCIÓN — "proceso específico" no puede reducirse al expediente
+
+**[DT]** La definición de §5.1 ata "proceso específico" a un **objeto administrativo-jurídico rastreable** (un expediente, una RCA, un contrato). Esa definición es operativa pero **sociológicamente insuficiente**: un conflicto social puede conservar su identidad aunque cambie el expediente, se abran varias causas judiciales en paralelo, se sustituyan los instrumentos administrativos o se transforme el objeto de la demanda. Aplicada sin corrección, fragmentaría artificialmente una controversia prolongada en tantas unidades como expedientes genere.
+
+**[DT] Corrección: el nivel intermedio requiere dos tipos de identidad, no uno.**
+
+| Tipo | Definición | Criterio de unión | Ejemplo donde diverge del otro tipo |
+|---|---|---|---|
+| **Identidad institucional** (expediente) | Continuidad de un mismo objeto administrativo-jurídico | Mismo expediente, RCA, contrato o causa | El vertedero de cenizas de Bocamina y el cierre de la unidad I son **expedientes distintos** |
+| **Identidad contenciosa** (conflicto social) | Continuidad de una misma disputa entre las mismas partes sobre el mismo bien en disputa, aunque cambie el vehículo institucional | Persisten actores, territorio y objeto de la demanda; los actores tratan los episodios como una misma lucha | Ambos son **el mismo conflicto** entre la comunidad de Coronel y Enel por el pasivo ambiental |
+
+**[INF]** Estos dos tipos **no coinciden**, y esa no-coincidencia explica buena parte de los desacuerdos observados: Dominga tiene una identidad contenciosa clara y una identidad institucional fragmentada en múltiples causas (Comité de Ministros, Tribunal Ambiental, Corte Suprema, Tribunal Constitucional); Bocamina tiene una identidad contenciosa unificada (comunidad vs. Enel) y al menos cinco identidades institucionales.
+
+**[REC]** Un modelo que solo represente una de las dos fallará sistemáticamente en la otra dirección. La regla falsable de §5.1 ("si el desenlace de A modifica el estado jurídico de B") es un criterio de **identidad institucional**; falta su equivalente para la identidad contenciosa. Propuesta provisional: *hay identidad contenciosa si los mismos actores invocan el episodio anterior como parte de su propia lucha, aunque el vehículo institucional sea otro.*
+
 ### 5.2 Aplicación a los seis casos
 
 **[CD]** Cómo particiona cada sistema los mismos documentos:
@@ -284,7 +322,7 @@ El defecto de raíz es que el Nivel B fusiona dos preguntas distintas bajo un so
 | Ventanas | 139 | 16 | 5 | **0,141** | 0,209 |
 | Bocamina | 81 | 23 | 1 | **0,000** | 0,000 |
 
-**[INF]** Las dos particiones son esencialmente **independientes**. Matices obligatorios: el ARI penaliza fuertemente la discrepancia de granularidad, así que un ARI≈0 refleja sobre todo desacuerdo de **escala**; y el 0,000 de Bocamina es **degenerado** (FTD tiene una sola clase, de modo que la información mutua es cero por definición, no por desacuerdo de contenido). El caso informativo es **Dominga**: NMI = 0,11 con ambos sistemas fragmentando el mismo proceso por líneas diferentes.
+**[INF]** Las dos particiones muestran **muy bajo acuerdo plano**. **[DT] No debe decirse que son "independientes"**: un ARI cercano a cero significa ausencia de acuerdo por encima del azar *bajo esta representación de particiones*, no independencia estadística entre los sistemas ni entre las señales que usan. Matices obligatorios: el ARI penaliza fuertemente la discrepancia de granularidad, de modo que un ARI≈0 refleja sobre todo desacuerdo de **escala**; y el 0,000 de Bocamina es **degenerado** (FTD tiene una sola clase, así que la información mutua es cero por definición, no por desacuerdo de contenido). El caso informativo es **Dominga**: NMI = 0,11 con ambos sistemas fragmentando el mismo proceso por líneas diferentes.
 
 ---
 
@@ -298,10 +336,10 @@ El defecto de raíz es que el Nivel B fusiona dos preguntas distintas bajo un so
 6. **[CD]** Las particiones de HEBRA y FTD sobre los mismos documentos son mutuamente casi independientes (ARI 0,00–0,14).
 7. **[EV]** Los tres hashes declarados por FTD (muestra ciega, clave, primera adjudicación) se verificaron y coinciden. La copia publicada en GitHub difiere solo en fines de línea.
 8. **[INF]** El agente principal está contaminado para adjudicar FTD y no puede actuar como segundo adjudicador (§1.1).
-9. **[CD]** FTD ya tiene control inter-evaluador: κ = 0,477 sobre 60 pares, acuerdo bruto 75 %. Es **superior** al de la validación de HEBRA v3 (κ = 0,246 en Nivel A sobre 52 pares) — el codebook de 4 categorías de FTD produce más acuerdo, aunque a costa de no distinguir escala (§3.4).
-10. **[CD]** La sobreabstención de FTD queda **replicada** por un segundo adjudicador independiente y empeora: 75 % (v1) → 90 % (v2). Deja de depender de un solo evaluador.
-11. **[CD]** 13 de los 15 desacuerdos de FTD son de escala (macroproceso vs. proceso específico); ninguno se clasifica como error de un adjudicador.
-12. **[EV]** `PAIR-0004` de la muestra ciega de FTD tiene **ambos textos vacíos** y aun así recibió veredicto en la primera adjudicación.
+9. **[CD]** FTD ya tiene control inter-evaluador: κ = 0,477 sobre 60 pares, acuerdo bruto 75 %. **[DT] No es comparable con el κ = 0,246 de HEBRA v3**: distinto codebook, distinto número de categorías, distinta muestra, distintos adjudicadores y 1.000 vs. 6.000 caracteres de material. La formulación admisible es "FTD obtuvo κ = 0,477 en su instrumento y HEBRA κ = 0,246 en el suyo", no que uno tenga mayor confiabilidad que el otro.
+10. **[CD]** La sobreabstención de FTD queda **replicada** por un segundo adjudicador aislado y empeora: 75 % (v1) → 90 % (v2). **[DT] Con dos supuestos declarados**: que un juicio por pares implique que la abstención del documento individual fue incorrecta, y que 1.000 caracteres basten. Por coherencia con el argumento que este mismo informe hace para HEBRA (§4.5), **la abstención de FTD también debería evaluarse por documento**. Es una señal replicada de posible sobreabstención, no una medición cerrada.
+11. **[RETIRADA]** La afirmación "13 de los 15 desacuerdos son de escala y ninguno es error de adjudicador" **se retira por circular** (§3.4.1). Lo que sí se sostiene es que el codebook de 4 categorías de FTD no puede expresar la distinción macroproceso/proceso específico: 23 de los 46 `mismo_proceso` del adjudicador 2 bajan a `mismo_macroproceso` en la escala fina.
+12. **[EV]** `PAIR-0004` de la muestra ciega de FTD tiene **ambos cuerpos de texto vacíos** (0 caracteres), aunque **sus dos titulares sí existen y son sustantivos** ("Comunidades mapuche-williche impugnan recomendación del SEA…" / "Comunidades mapuche anuncian acciones judiciales tras aprobación del Parque Eólico Ovejera Sur en La Unión"). **[INF]** El fallo de control de calidad no es que se emitiera un veredicto —era adjudicable desde los titulares— sino que **el instrumento no distingue una adjudicación con texto completo de una hecha solo con titular**.
 13. **[CD]** En ambos sistemas, el acuerdo inter-adjudicador colapsa en el **mismo lugar**: la frontera entre unidades (FTD `boundary` 50 %; HEBRA Bocamina 37,5 % en Nivel A).
 
 ## 7. Decisiones provisionales
@@ -321,9 +359,11 @@ El defecto de raíz es que el Nivel B fusiona dos preguntas distintas bajo un so
 - **[INF] Decisivo:** que dos sistemas se equivoquen en direcciones opuestas **no implica** que combinarlos recupere la unidad correcta. Es igualmente compatible con que **ninguno de los dos tenga la unidad de análisis adecuada**, que es lo que sugiere la aplicación de la ontología de §5.2.
 - **[EV]** El propio dossier de FTD (§15.4) fija la condición correcta —evaluación en un holdout que ninguno usó para ajustar, superando a ambos por separado— y esa evaluación **no existe**.
 
-- **[CD] Nuevo, tras la Fase 3:** el acuerdo inter-adjudicador de **ambos** sistemas colapsa en el mismo punto estructural —la frontera entre unidades (FTD `boundary` 50 %; HEBRA Bocamina 37,5 %)— y en ambos el desacuerdo se clasifica mayoritariamente como problema de **escala**, no de lectura. **[INF]** Esto es un hallazgo convergente sobre la *dificultad del objeto*, no sobre la complementariedad de los sistemas: ambos tropiezan con la misma distinción no resuelta (macroproceso vs. proceso específico), lo que sugiere que **combinarlos heredaría el problema en vez de cancelarlo**.
+- **[CD] Nuevo, tras la Fase 3:** el acuerdo inter-adjudicador de **ambos** sistemas colapsa en el mismo punto estructural: la frontera entre unidades (FTD `boundary` 50 %; HEBRA Bocamina 37,5 %). **[INF]** Es un hallazgo convergente sobre la *dificultad del objeto*: ambos tropiezan con la misma distinción no resuelta entre macroproceso y proceso específico.
 
-**Conclusión [INF]:** la complementariedad es hoy una **hipótesis con evidencia mixta**, no un hecho. Afirmarla en una publicación sería injustificado con los artefactos actuales. La evidencia acumulada apunta más bien a que ambos sistemas comparten una misma carencia ontológica —ninguno representa explícitamente el nivel intermedio— y que esa carencia, no la elección entre ellos, es lo que habría que resolver.
+**Conclusión [INF]:** la complementariedad es hoy una **hipótesis con evidencia mixta**, no un hecho. Afirmarla en una publicación sería injustificado con los artefactos actuales.
+
+**[DT] Precisión sobre lo que NO se puede concluir.** Una versión anterior de este informe sostuvo que "combinarlos heredaría el problema en vez de cancelarlo". **Eso va más allá de la evidencia y se retira como afirmación.** Es una hipótesis plausible, no una consecuencia de los resultados: una arquitectura jerárquica que representara explícitamente macroproceso, proceso específico y episodio podría, en principio, resolver precisamente la distinción con la que ambos tropiezan. Determinarlo exige el experimento de combinación en holdout que el propio dossier de FTD (§15.4) especifica y que no existe. Lo que sí se sostiene: **ambos sistemas comparten una carencia ontológica —ninguno representa el nivel intermedio— y esa carencia, no la elección entre ellos, es el problema a resolver.**
 
 ## 9. Problemas que aún requieren revisión de GPT
 
@@ -363,3 +403,26 @@ Ninguno de estos se ejecuta en este informe. Se listan con su justificación emp
 | C5 | Suprimir `source_id`/`target_id` de toda hoja ciega futura | §1.3 — vector de fuga vía `assignments.csv` publicado |
 | C6 | Aplicar la regla falsable de continuidad (§5.1) a T0092 antes de describirla como trayectoria de 14 años | §5.2 — T0092 mezcla dos complejos y un 13 % ajeno |
 | C7 | Igualar la longitud de texto de las hojas ciegas de ambos sistemas (1.000 vs 6.000 caracteres) antes de comparar calidad de adjudicación | §1.3 — la comparación actual está confundida por el material |
+| C8 | Evaluar la abstención de FTD **por documento**, no por pares, igual que se propone para HEBRA | §6.10 — inconsistencia interna del informe detectada en revisión externa |
+| C9 | Marcar en el instrumento de FTD qué pares se adjudicaron con texto completo y cuáles solo con titular | §6.12 — `PAIR-0004` era adjudicable, pero el instrumento no lo distingue |
+| C10 | Incorporar la distinción identidad institucional / identidad contenciosa a la ontología | §5.1.b — la definición actual fragmentaría artificialmente conflictos prolongados |
+
+---
+
+## 11. Registro de correcciones tras revisión externa (2026-07-24)
+
+Una revisión externa independiente (GPT) examinó el commit `6dc2474` y señaló sobreafirmaciones. Se aceptaron y aplicaron las siguientes correcciones. **Se registran en lugar de editarse en silencio** para que la trazabilidad del proceso quede visible.
+
+| # | Afirmación original | Estado | Corrección aplicada |
+|---|---|---|---|
+| R1 | "13 de 15 desacuerdos son de escala; ninguno es error de adjudicador" | **RETIRADA** | Era circular: usaba la auto-bandera del propio adjudicador 2 como si fuera clasificación independiente, y el orden de las reglas impedía por construcción que saliera "error de adjudicador". Se sometieron los 15 a arbitraje ciego por un tercer adjudicador (§3.4.1–3.4.2) |
+| R2 | "FTD tiene mejor confiabilidad inter-evaluador que HEBRA" (κ 0,477 > 0,246) | **RETIRADA** | Kappas no comparables: distinto codebook, categorías, muestra, adjudicadores y material (1.000 vs 6.000 caracteres) |
+| R3 | "Las particiones son esencialmente independientes" | **REFORMULADA** | ARI≈0 indica ausencia de acuerdo sobre el azar bajo esa representación, no independencia estadística. Ahora: "muy bajo acuerdo plano, en parte por diferencias extremas de granularidad" |
+| R4 | "Combinarlos heredaría el problema en vez de cancelarlo" | **RETIRADA** | Hipótesis, no consecuencia de los resultados. Requiere el experimento de combinación en holdout |
+| R5 | "Cota superior condicionada" (fragmentación de HEBRA) | **REFORMULADA** | Es una tasa condicionada a alta similitud; que además sea cota superior exige asumir monotonía de P(mismo proceso \| similitud) |
+| R6 | Sobreabstención de FTD = 90 % | **CONDICIONADA** | Señal replicada, no medición cerrada: depende de que un juicio por pares implique abstención documental incorrecta y de que 1.000 caracteres basten. Debe evaluarse por documento (C8) |
+| R7 | `PAIR-0004` no podía adjudicarse | **CORREGIDA** | Los cuerpos están vacíos pero **los titulares existen y son sustantivos**; era adjudicable desde titulares. El fallo real es que el instrumento no distingue ambos casos |
+| R8 | "Segunda adjudicación independiente" | **RENOMBRADA** | "Segunda adjudicación ciega por un subagente aislado de Claude"; sigue siendo acuerdo IA–IA (§2.1.b) |
+| R9 | Ontología: "proceso específico" = expediente | **AMPLIADA** | Se añade la distinción identidad institucional / identidad contenciosa (§5.1.b) |
+
+**[INF] Qué sobrevive intacto a la revisión externa:** la contaminación del agente principal y su detección; el vector de fuga por identificadores documentales; el sellado con hash previo al desciegue; κ = 0,477 y acuerdo bruto 75 % como cifras de este instrumento; la caída del acuerdo a 50 % en `boundary`; la señal replicada de sobreabstención; el fallo estructural del Nivel B de HEBRA y su reconstrucción como diagnóstico; el muestreo condicionado del estrato `inter_subhilo`; y que la complementariedad no está demostrada.
